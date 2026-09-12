@@ -1,0 +1,3 @@
+# Gli .xlsx sono binari: niente diff testuale, niente conversione di fine riga
+*.xlsx binary
+*.pdf  binary

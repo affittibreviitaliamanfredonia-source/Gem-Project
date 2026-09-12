@@ -1,0 +1,16 @@
+# File temporanei Office / LibreOffice
+~$*
+.~lock.*#
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Archivi locali non versionati
+/allegati/privati/
