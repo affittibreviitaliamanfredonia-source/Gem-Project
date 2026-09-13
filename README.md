@@ -3,7 +3,7 @@
 > **Questo file riflette sempre e solo lo stato più aggiornato del progetto.**
 > Non contiene storico: ogni cambiamento sostituisce il valore precedente.
 > Lo storico delle decisioni vive in [`05-log-decisioni/`](05-log-decisioni/), quello
-> dei movimenti economici in [`04-pagamenti/movimenti-economici.xlsx`](04-pagamenti/movimenti-economici.xlsx).
+> dei movimenti economici nel [registro su Google Fogli](04-pagamenti/movimenti-economici.md).
 
 ---
 
@@ -22,6 +22,7 @@
 | Numero ospiti | **36** (dato corrente, soggetto a variazione) |
 | Sistemazione | **Camere singole** |
 | Stato complessivo | 🟡 **Trattativa in corso — nessun contratto scritto** |
+| Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti e documenti di lavoro |
 
 ---
 
@@ -34,6 +35,7 @@
 | 03 · Logistica | [`03-logistica/`](03-logistica/) | 🟡 In definizione | Censire immobili e raccogliere preventivi entro il 30/11/2026 |
 | 04 · Pagamenti | [`04-pagamenti/`](04-pagamenti/) | 🔴 Nessun movimento | Attendere firma per emettere fattura tranche 80% |
 | 05 · Log decisioni | [`05-log-decisioni/`](05-log-decisioni/) | 🟢 Attivo | — |
+| 06 · Accordo tra soci | [`06-accordo-soci/`](06-accordo-soci/) | 🟡 Bozze da rivedere | I soci leggono, correggono, firmano |
 
 Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 
@@ -144,8 +146,9 @@ gantt
 ├── 01-trattativa/               Condizioni economiche, domande aperte, comunicazioni
 ├── 02-contratto/                Termini contrattuali, inquadramento fiscale, checklist documenti
 ├── 03-logistica/                Alloggi, elenco ospiti, transfert e mobility
-├── 04-pagamenti/                Piano 80/20, ripartizione soci, movimenti-economici.xlsx
+├── 04-pagamenti/                Piano 80/20, ripartizione soci, link al registro su Google Fogli
 ├── 05-log-decisioni/            Storico cronologico e immutabile delle decisioni
+├── 06-accordo-soci/             Scrittura privata e documento di progetto tra i soci
 ├── templates/                   Modelli per nuove voci di log e comunicazioni
 └── allegati/                    Documenti ricevuti (PDF, scansioni, contratti firmati)
 ```
@@ -156,7 +159,7 @@ gantt
 
 1. **Ogni fase si aggiorna in modo indipendente** — modifica solo i file della cartella interessata.
 2. **Ogni decisione presa** genera un nuovo file in `05-log-decisioni/` (mai modificare i log passati).
-3. **Ogni movimento di denaro** va registrato a mano in `04-pagamenti/movimenti-economici.xlsx`.
+3. **Ogni movimento di denaro** va registrato a mano nel [registro su Google Fogli](04-pagamenti/movimenti-economici.md).
 4. **Al termine di ogni modifica**, aggiorna le tabelle di stato di questo README (sezioni 2, 3, 4).
 5. Commit con messaggio esplicito: `docs(03-logistica): conferma 36 camere singole`.
 

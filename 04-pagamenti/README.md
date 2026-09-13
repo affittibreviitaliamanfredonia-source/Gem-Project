@@ -4,18 +4,16 @@
 
 | File | Contenuto |
 |---|---|
-| [`movimenti-economici.xlsx`](movimenti-economici.xlsx) | **Registro di tutti i movimenti** — incassi, costi, saldo progressivo |
+| [`movimenti-economici.md`](movimenti-economici.md) | **Registro di tutti i movimenti** — vive su **Google Fogli**; qui il link e la guida |
 | [`04-01-piano-pagamenti-80-20.md`](04-01-piano-pagamenti-80-20.md) | Struttura delle due tranche e condizioni |
 | [`04-02-ripartizione-soci.md`](04-02-ripartizione-soci.md) | Calcolo del margine e ripartizione 50/50 |
 
-## Il file Excel
+## Il registro su Google Fogli
 
-`movimenti-economici.xlsx` è la **fonte unica** dei numeri del progetto.
-Si aggiorna **manualmente**, un movimento per riga, in ordine cronologico.
-Nessuna automazione: le formule interne (saldo progressivo, totali, ripartizione) si
-ricalcolano da sole, ma le righe si inseriscono a mano.
-
-Istruzioni d'uso complete nel foglio **`Istruzioni`** del file stesso.
+Il registro dei movimenti è un **Google Foglio** condiviso tra i soci — link e guida in
+[`movimenti-economici.md`](movimenti-economici.md). È la **fonte unica** dei numeri del progetto.
+Si aggiorna **a mano**, un movimento per riga, dal telefono o dal computer; saldo progressivo,
+totali e ripartizione 50/50 si ricalcolano da soli.
 
 ## Quadro economico atteso (36 ospiti)
 

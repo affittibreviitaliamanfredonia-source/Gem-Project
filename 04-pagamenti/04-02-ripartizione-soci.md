@@ -32,8 +32,8 @@ concordati **prima** che arrivi il primo incasso, non dopo.
 
 ## Prospetto — si aggiorna dal file Excel
 
-Il calcolo vive nel foglio **`Riepilogo`** di
-[`movimenti-economici.xlsx`](movimenti-economici.xlsx), che si aggiorna da solo
+Il calcolo vive nel foglio **`Riepilogo`** del registro su Google Fogli
+([`movimenti-economici.md`](movimenti-economici.md)), che si aggiorna da solo
 mano a mano che si inseriscono i movimenti. Questa tabella è solo una fotografia
 da riportare a mano quando serve.
 
@@ -53,5 +53,5 @@ da riportare a mano quando serve.
 |---|---|---|---|---|
 | — | — | — | — | Nessuna distribuzione |
 
-> Ogni distribuzione va registrata **anche** come riga nel file Excel, con tipo movimento
+> Ogni distribuzione va registrata **anche** come riga nel registro, con tipo movimento
 > `distribuzione`, così il saldo progressivo resta allineato alla cassa reale.

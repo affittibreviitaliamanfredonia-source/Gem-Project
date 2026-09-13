@@ -67,8 +67,8 @@ circa **15.840 €**. È un ordine di grandezza che può azzerare il margine.
 | 2 | 20 % | 14.400 € | Partenza + controllo documentale | — | — | — |
 
 > Gli importi si ricalcolano sul numero **effettivo** di ospiti al momento dell'emissione.
-> Ogni fattura emessa e ogni incasso vanno registrati in
-> [`../04-pagamenti/movimenti-economici.xlsx`](../04-pagamenti/movimenti-economici.xlsx).
+> Ogni fattura emessa e ogni incasso vanno registrati nel registro su Google Fogli
+> ([`../04-pagamenti/movimenti-economici.md`](../04-pagamenti/movimenti-economici.md)).
 
 ## Da chiarire col commercialista
 

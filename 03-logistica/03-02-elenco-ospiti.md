@@ -58,7 +58,7 @@ Stato: 🔴 dati mancanti · 🟡 dati parziali · 🟢 confermato · ✅ soggio
 ## Variazioni
 
 Ogni scostamento dai 36 va registrato qui, perché **cambia direttamente il corrispettivo**
-e va riportato in [`../04-pagamenti/movimenti-economici.xlsx`](../04-pagamenti/movimenti-economici.xlsx).
+e va riportato nel registro movimenti ([`../04-pagamenti/movimenti-economici.md`](../04-pagamenti/movimenti-economici.md)).
 
 | Data | Tipo | Ospite | Effetto sul corrispettivo | Nota |
 |---|---|---|---|---|

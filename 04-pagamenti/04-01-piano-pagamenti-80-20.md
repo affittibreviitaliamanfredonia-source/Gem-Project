@@ -59,5 +59,5 @@ servizio è già stato interamente erogato e i costi già sostenuti.
 
 ## Tracciamento
 
-Ogni fattura emessa e ogni incasso vanno registrati come riga in
-[`movimenti-economici.xlsx`](movimenti-economici.xlsx), foglio `Movimenti`.
+Ogni fattura emessa e ogni incasso vanno registrati come riga nel foglio `Movimenti` del
+registro su Google Fogli — link in [`movimenti-economici.md`](movimenti-economici.md).

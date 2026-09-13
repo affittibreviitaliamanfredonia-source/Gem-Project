@@ -20,3 +20,4 @@ Modello: [`../templates/template-decisione.md`](../templates/template-decisione.
 | 2026-09-12 | Struttura della repository e impostazione del tracciamento | [`2026-09-12-struttura-repository.md`](2026-09-12-struttura-repository.md) |
 | 2026-09-12 | Nessun impegno vincolante prima della firma del contratto | [`2026-09-12-nessun-impegno-prima-della-firma.md`](2026-09-12-nessun-impegno-prima-della-firma.md) |
 | 2026-09-13 | Data di arrivo 01/03/2027 e ruoli tra i soci | [`2026-09-13-data-arrivo-e-ruoli.md`](2026-09-13-data-arrivo-e-ruoli.md) |
+| 2026-09-13 | Registro movimenti spostato su Google Fogli | [`2026-09-13-registro-su-google-fogli.md`](2026-09-13-registro-su-google-fogli.md) |
