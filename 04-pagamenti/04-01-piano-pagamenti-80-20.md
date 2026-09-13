@@ -14,7 +14,7 @@
 
 | Voce | Stato |
 |---|---|
-| Evento scatenante | Arrivo — **data da confermare** ⚠️ |
+| Evento scatenante | Arrivo — **01/03/2027** (impostata, da confermare con la capofila) |
 | Termine di pagamento | `DA DEFINIRE` (proposta: 30 gg data fattura) 🔴 |
 | Fattura emessa il | — |
 | Numero fattura | — |
@@ -35,7 +35,7 @@
 
 | Voce | Stato |
 |---|---|
-| Evento scatenante | Partenza — **data da confermare** ⚠️ |
+| Evento scatenante | Partenza — **30/05/2027** (derivata: 90 notti) |
 | Condizione | Controllo documentale — **elenco non concordato** 🔴 |
 | Termine di consegna documenti | `DA DEFINIRE` 🔴 |
 | Termine di contestazione capofila | `DA DEFINIRE` 🔴 |

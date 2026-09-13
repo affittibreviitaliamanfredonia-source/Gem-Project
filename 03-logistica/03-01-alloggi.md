@@ -6,7 +6,7 @@
 |---|---|
 | Numero camere | **36** |
 | Tipologia | **Camera singola** — una per ospite, nessuna condivisione |
-| Durata | **90 giorni** |
+| Durata | **90 notti** — dal 01/03/2027 al 30/05/2027 |
 | Notti totali | 36 × 90 = **3.240 notti** |
 
 > La camera singola è un vincolo contrattuale, non una preferenza: incide direttamente
@@ -35,7 +35,7 @@ Stato: 🔴 da contattare · 🟡 preventivo richiesto · 🟢 preventivo ricevu
 
 ## Punti da verificare con ogni struttura
 
-- [ ] Disponibilità di **36 singole contemporanee** per 90 giorni consecutivi
+- [ ] Disponibilità di **36 singole contemporanee** dal 01/03 al 30/05/2027 (90 notti)
 - [ ] Cosa è **incluso**: utenze, pulizie, cambio biancheria, wi-fi, colazione
 - [ ] **Condizioni di cancellazione** e penali per riduzione del numero di camere
 - [ ] **Caparra** richiesta e sua recuperabilità

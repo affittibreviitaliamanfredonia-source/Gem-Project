@@ -1,6 +1,6 @@
 # Domande aperte verso la capofila
 
-**Tutte e tre sono bloccanti: nessun impegno operativo o economico va assunto prima di avere
+**Tutte sono bloccanti: nessun impegno operativo o economico va assunto prima di avere
 risposta scritta.**
 
 Stato aggiornato al: 2026-09-12
@@ -92,6 +92,26 @@ Se la capofila chiede di partire "in fiducia", la richiesta va messa a verbale i
 
 ---
 
+## Q5 · Età degli ospiti 🔴
+
+**Stato:** ❓ Aperta · **Inviata il:** `DA COMPILARE` · **Risposta il:** —
+
+### Cosa chiedere
+
+1. Età minima e massima dei partecipanti alla data di arrivo (01/03/2027).
+2. Se sono previsti **minorenni**: quanti, e chi esercita la responsabilità genitoriale
+   durante il soggiorno.
+3. Chi raccoglie i **consensi** dei genitori (privacy, sanitario, regolamento della casa).
+
+### Perché è bloccante
+
+- "Post-diploma" in Spagna può significare **17 anni**. Un solo minorenne cambia:
+  consensi da raccogliere, responsabilità di vigilanza, validità della firma sul
+  regolamento della casa, copertura assicurativa.
+- Va saputo **prima** di scrivere il contratto, non dopo.
+
+---
+
 ## Riepilogo
 
 | # | Questione | Priorità | Stato | Impatto se non risolta |
@@ -99,6 +119,7 @@ Se la capofila chiede di partire "in fiducia", la richiesta va messa a verbale i
 | Q1 | Identità giuridica | 🔴 Alta | ❓ Aperta | Reverse charge non applicabile · contratto inopponibile |
 | Q2 | Contratto scritto | 🔴 Alta | ❓ Aperta | 72.000 € esposti senza titolo |
 | Q3 | Penali e forza maggiore | 🔴 Alta | ❓ Aperta | Rischio volume interamente a carico parte italiana |
+| Q5 | Età degli ospiti | 🔴 Alta | ❓ Aperta | Consensi, responsabilità e assicurazione impostati male |
 
 **Quando una domanda riceve risposta:** aggiorna lo stato qui, allega l'evidenza in
 `../allegati/`, registra la comunicazione in [`01-03-storico-comunicazioni.md`](01-03-storico-comunicazioni.md)

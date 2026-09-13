@@ -22,10 +22,12 @@ essere fatturata in reverse charge ex art. 7-ter. Vedi
 
 | Campo | Valore |
 |---|---|
-| Soggetto che fattura | `DA COMPILARE` (ragione sociale / P.IVA emittente) ⚠️ |
-| **Firmatario** | **L'utente** — unico soggetto con potere di firma sul progetto |
-| Socio | `DA COMPILARE` (nome/ruolo del secondo socio) |
-| Ripartizione margine | **50 % firmatario / 50 % socio** |
+| Soci | **Gianluca Iaconeta** e **Luigi Zerulo** |
+| **Firmatario** | **L'utente** — unico soggetto con potere di firma verso la capofila. *Nome da confermare tra i due soci.* ⚠️ |
+| **Soggetto che fattura** | **L'utente** (stessa persona del firmatario). Ragione sociale / P.IVA emittente: `DA COMPILARE` ⚠️ |
+| Conto di incasso | Deve essere intestato al soggetto che fattura. `DA APRIRE / DA INDICARE` ⚠️ |
+| Ripartizione margine | **50 % / 50 %** tra i due soci |
+| Accordo tra soci | Scrittura privata — **da redigere** (vedi [`../04-pagamenti/04-02-ripartizione-soci.md`](../04-pagamenti/04-02-ripartizione-soci.md)) 🔴 |
 
 **Nota sulla ripartizione:** il 50/50 è sul **margine residuo**, cioè su
 `ricavi incassati − costi variabili sostenuti`, non sul fatturato lordo.
@@ -37,8 +39,9 @@ Definizione operativa in [`../04-pagamenti/04-02-ripartizione-soci.md`](../04-pa
 |---|---|
 | Chi sono | Ragazzi spagnoli post-diploma |
 | Numero corrente | **36** |
-| Durata soggiorno | 90 giorni |
+| Durata soggiorno | 90 notti — arrivo **01/03/2027**, partenza **30/05/2027** |
 | Sistemazione | Camera singola per ciascuno |
+| Età | `DA CONFERMARE` ⚠️ — possibili minorenni (vedi Q5) |
 | Rapporto contrattuale | **Nessuno diretto** — il contratto è B2B con la capofila |
 
 **Implicazione:** gli ospiti non sono clienti. Non pagano, non firmano, non hanno titolo a

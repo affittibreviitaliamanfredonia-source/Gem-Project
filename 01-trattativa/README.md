@@ -13,5 +13,6 @@
 - [ ] Risposta scritta a Q1 (identità giuridica)
 - [ ] Risposta scritta a Q2 (contratto scritto)
 - [ ] Risposta scritta a Q3 (penali e forza maggiore)
+- [ ] Risposta scritta a Q5 (età degli ospiti, eventuali minorenni)
 - [ ] Conferma scritta del numero definitivo di ospiti
-- [ ] Conferma scritta delle date di arrivo e partenza
+- [ ] Conferma scritta delle date: arrivo 01/03/2027, partenza 30/05/2027

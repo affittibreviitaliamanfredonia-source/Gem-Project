@@ -19,7 +19,7 @@ Se la capofila chiede di anticipare, la richiesta va messa a verbale in
 
 ## Cosa manca per chiudere questa fase
 
-- [ ] Date definitive di arrivo e partenza
+- [x] Data di arrivo impostata: **01/03/2027** → partenza **30/05/2027** (90 notti) — *da confermare con la capofila*
 - [ ] Numero definitivo di ospiti confermato per iscritto
 - [ ] Preventivi alloggio ottenuti (almeno 2 strutture a confronto)
 - [ ] Preventivi transfert ottenuti
