@@ -13,10 +13,29 @@ Non riguardano la capofila: sono interni.
 | PDF | Generato da |
 |---|---|
 | [`pdf/GEM-documento-di-progetto-v0.1.pdf`](pdf/GEM-documento-di-progetto-v0.1.pdf) | `documento-di-progetto.md` |
-| [`pdf/GEM-scrittura-privata-soci-v0.1.pdf`](pdf/GEM-scrittura-privata-soci-v0.1.pdf) | `scrittura-privata.md` |
+| [`pdf/GEM-scrittura-privata-soci-v0.1.pdf`](pdf/GEM-scrittura-privata-soci-v0.1.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
+| [`pdf/GEM-scrittura-privata-soci-v0.1-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.1-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
 
 I PDF sono **copie di lettura** con marcatura "Bozza v0.1": si rigenerano dal Markdown a ogni
 versione. Le correzioni si fanno nei file `.md`, non nel PDF.
+
+## Il commentario
+
+Ogni articolo della scrittura privata è seguito da un blocco **💬 Commentario** che lo spiega
+in parole semplici: cosa dice, perché c'è, cosa succede se manca.
+
+Regole che lo tengono allineato al contratto:
+
+1. **Il commento vive dentro l'articolo**, nello stesso file, subito dopo il testo. Non esiste
+   un file separato: se un articolo viene tolto o rinominato, il suo commento lo segue.
+2. **Non fa parte dell'accordo.** La versione da firmare lo esclude automaticamente.
+3. Quando si modifica un articolo, si rilegge il suo commento: se non corrisponde più, si corregge
+   nello stesso commit.
+4. Il generatore dei PDF **segnala** gli articoli rimasti senza commento.
+
+L'esempio numerico dell'art. 7.3 è anche un foglio Google con i numeri modificabili:
+**[GEM — Esempio art. 7](https://docs.google.com/spreadsheets/d/1rcSlygd33kjZxFmh8jQCCw9iLrsOHHEYOq34sJZtUcw/edit)**
+(per averlo dentro il registro principale: tasto destro sulla scheda → *Copia in → Foglio esistente*).
 
 ## Percorso
 

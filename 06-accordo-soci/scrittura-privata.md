@@ -6,6 +6,10 @@
 > legale né fiscale.** Prima della firma va letta dal commercialista, in particolare
 > l'**art. 7**. I campi `____` vanno compilati; i punti marcati **[DA DECIDERE]** richiedono
 > una scelta dei soci.
+>
+> I blocchi **💬 Commentario** spiegano ogni articolo in parole semplici. Non fanno parte
+> dell'accordo e vengono tolti dalla versione da firmare. Vivono dentro l'articolo che
+> spiegano: se un articolo viene tolto o rinominato, il suo commento lo segue.
 
 ---
 
@@ -54,6 +58,9 @@ gli impegni che seguono anche per governare le fasi non ancora definite.
 Tutto ciò premesso, i Soci convengono quanto segue. Le premesse e l'Allegato A sono parte
 integrante dell'accordo.
 
+> 💬 **Commentario.** Le premesse dicono *perché* firmate e *in che situazione*. Non sono decorazione: l'ultima riga le rende parte dell'accordo, quindi se un giorno si discute su cosa intendevate, si parte da qui. La tabella d) fotografa cosa era ancora aperto il giorno della firma — così nessuno potrà dire "non lo sapevo".
+
+
 ---
 
 ## Art. 1 — Oggetto e durata
@@ -64,6 +71,9 @@ integrante dell'accordo.
    finale del margine.
 2. L'accordo riguarda **esclusivamente** il progetto GEM. Non costituisce società tra i Soci
    né si estende ad altre attività di ciascuno.
+
+> 💬 **Commentario.** Delimita il perimetro: solo GEM, dalla firma fino all'ultimo euro incassato o perso. Il comma 2 è importante: **non state costituendo una società**. Siete due persone che regolano un affare specifico. Questo evita adempimenti pesanti, ma significa anche che verso l'esterno esiste solo il Socio Firmatario.
+
 
 ## Art. 2 — Ruoli
 
@@ -81,6 +91,9 @@ integrante dell'accordo.
 4. La distribuzione dei compiti operativi è quella dell'Allegato A e può essere modificata
    d'accordo tra i Soci con semplice scambio di email.
 
+> 💬 **Commentario.** Chi fa cosa. Gianluca firma, fattura e tiene il conto: verso la capofila esiste solo lui. Luigi ha gli stessi diritti *tra voi* (decisioni, metà del margine) ma non compare verso terzi. Il comma 3 è la tutela di Luigi: Gianluca non può cambiare prezzo, numero di ospiti o penali con la capofila senza il suo sì scritto — altrimenti chi firma potrebbe decidere da solo il destino dei soldi di entrambi.
+
+
 ## Art. 3 — Nessun impegno prima della firma con la Capofila
 
 1. Fino alla firma del contratto con la Capofila, nessuno dei Soci assume, in nome proprio o
@@ -89,6 +102,9 @@ integrante dell'accordo.
 2. Sono consentite richieste di preventivo, verifiche di disponibilità e opzioni gratuite.
 3. Chi viola il comma 1 risponde **da solo** dei costi che ne derivano, salvo che l'altro
    Socio abbia acconsentito per iscritto.
+
+> 💬 **Commentario.** La regola più importante nella fase attuale. I costi degli immobili si impegnano *prima* dell'incasso e in gran parte non si recuperano: se uno di voi versa caparre e poi la capofila sparisce, la perdita è secca. Il comma 3 dice chi paga in quel caso: **chi ha corso il rischio da solo**. Preventivi e opzioni gratuite restano liberi.
+
 
 ## Art. 4 — Conto dedicato e trasparenza
 
@@ -103,6 +119,9 @@ integrante dell'accordo.
 4. Il Socio Firmatario **non preleva** dal conto se non a titolo di *Distribuzione* ai sensi
    dell'art. 6 o di *rimborso* ai sensi dell'art. 5, entrambi registrati.
 
+> 💬 **Commentario.** Un conto solo, usato solo per GEM, intestato a chi fattura. Luigi lo vede in lettura (o riceve l'estratto ogni mese). Il comma 3 lega tutto al registro condiviso: **un movimento che non è nel registro non conta** — è la regola che rende i conti verificabili da entrambi senza doversi fidare a parole. Il comma 4 vieta prelievi "informali".
+
+
 ## Art. 5 — Anticipazione dei costi e piano di cassa
 
 1. I costi che maturano **prima** dell'incasso della tranche dell'80 % (caparre agli
@@ -115,6 +134,9 @@ integrante dell'accordo.
    comunque **prima di qualsiasi distribuzione** di margine.
 4. Prima della firma con la Capofila i Soci redigono insieme un **piano di cassa**: quali
    costi maturano in quali date, con quali fondi si coprono. Il piano è allegato al registro.
+
+> 💬 **Commentario.** Le caparre agli immobili maturano prima che arrivi l'80 %: qualcuno deve anticipare. L'articolo decide chi (**[DA DECIDERE]**), e stabilisce che chi anticipa è *creditore del progetto*, non dell'altro socio, e viene rimborsato **prima** di qualsiasi divisione del margine. Il piano di cassa (comma 4) serve a sapere in anticipo quanti soldi servono e quando.
+
 
 ## Art. 6 — Margine e ripartizione 50/50
 
@@ -146,6 +168,9 @@ integrante dell'accordo.
 6. Ogni distribuzione avviene con bonifico dal conto dedicato, in pari importo ai due Soci
    nello stesso giorno, ed è registrata come *Distribuzione*.
 
+> 💬 **Commentario.** Definisce la parola "margine", che altrimenti ognuno interpreta a modo suo. L'elenco dei costi al comma 2 è **chiuso**: se una spesa non è in elenco, non riduce il margine. La lettera g) merita attenzione: se il commercialista dice che l'IVA è dovuta (rischio 7-quater) e il prezzo resta "netto" per la capofila, quell'IVA la pagate voi ed è un costo del progetto. Il comma 5 regola *quando* si divide: un acconto prudente dopo l'80 %, il saldo dopo il 20 %. La riserva per imprevisti evita di distribuire soldi che poi servono.
+
+
 ## Art. 7 — Modalità con cui il Socio Operativo riceve la propria quota
 
 1. Poiché fattura alla Capofila il solo Socio Firmatario, il trasferimento del 50 % del margine
@@ -161,6 +186,22 @@ integrante dell'accordo.
    **sostanzialmente paritario**.
 4. Fino alla definizione di questo articolo **non si effettuano distribuzioni**, salvo il
    rimborso degli anticipi di cui all'art. 5.
+
+> 💬 **Commentario.** Alla capofila fattura solo Gianluca: i 72.000 € sono ricavi suoi per il fisco. Girare metà del margine a Luigi con un semplice bonifico crea un problema a entrambi — Gianluca paga le tasse su tutto, Luigi riceve soldi senza un documento che li giustifichi. Serve un **titolo**: una fattura di Luigi, un contratto di associazione in partecipazione, o altro. Quale, lo dice il commercialista, perché ogni strada costa tasse diverse.
+>
+> Il comma 3 protegge il 50/50 *reale*. Esempio con numeri ipotetici, margine 30.000 €, 15.000 € a testa sulla carta:
+>
+> | | Socio Firmatario | Socio Operativo |
+> |---|---|---|
+> | Quota lorda | 15.000 € | 15.000 € |
+> | Tasse sulla propria quota (ipotesi 26,7 %) | −4.005 € | −4.005 € |
+> | Oneri *aggiuntivi* dovuti alla modalità scelta | 0 € | −1.800 € |
+> | **Netto senza correttivo** | **10.995 €** | **9.195 €** |
+> | Correttivo: quota lorda spostata | −1.228 € | +1.228 € |
+> | **Netto con correttivo** | **10.095 €** | **10.095 €** |
+>
+> Il correttivo compensa **solo** gli oneri causati dalla modalità (i 1.800 €), non le tasse personali di ciascuno, che restano affare di ciascuno. Il calcolo è nel foglio Google "GEM — Esempio art. 7": cambiando i numeri in blu si vede l'effetto. Il comma 4 blocca i prelievi finché la strada non è scelta: sistemare *dopo* un bonifico già fatto è il modo classico per creare il problema.
+
 
 ## Art. 8 — Decisioni
 
@@ -180,6 +221,9 @@ integrante dell'accordo.
    economica** del progetto.
 4. Ogni decisione rilevante è annotata nel **log delle decisioni** della repository.
 
+> 💬 **Commentario.** Elenca le decisioni che **nessuno dei due può prendere da solo**: contratto con la capofila, immobili, spese sopra soglia, cause legali, cambi nel numero di ospiti, modifiche a questo accordo. Tutto il resto lo decide chi è responsabile dell'area. Il comma 3 dice cosa fare se non siete d'accordo: prima ci si parla; se non basta, non si agisce; se non agire fa danno, vince la scelta che **rischia meno soldi**. Il comma 4 collega ogni decisione al log nella repository.
+
+
 ## Art. 9 — Spese
 
 1. **Soglia** singola spesa: `________ €` **[DA DECIDERE — proposta: 500 €]**.
@@ -188,6 +232,9 @@ integrante dell'accordo.
 3. Sopra la soglia, consenso di entrambi prima dell'impegno.
 4. Spese **fuori dal piano di cassa** e sopra la soglia richiedono, oltre al consenso, la
    verifica che la riserva dell'art. 6.5 resti integra.
+
+> 💬 **Commentario.** Fissa la cifra sopra la quale una spesa richiede il sì di entrambi (**[DA DECIDERE]**, proposta 500 €). Sotto, chi gestisce l'area decide e registra entro 3 giorni. Il comma 4 aggiunge un freno: una spesa grande e non prevista dal piano di cassa non deve mangiarsi la riserva per imprevisti.
+
 
 ## Art. 10 — Mancato incasso e rischi
 
@@ -201,6 +248,9 @@ integrante dell'accordo.
 4. Se il numero di ospiti si riduce o il progetto viene annullato, i costi già sostenuti e non
    recuperabili sono Costi di progetto, salvo l'art. 3.3.
 5. Ciascun Socio risponde **da solo** dei danni causati da sua colpa grave o dolo.
+
+> 💬 **Commentario.** Cosa succede se la capofila non paga: la perdita è **al 50/50**, come il guadagno. Le spese per recuperare il credito sono costi di progetto e si decidono insieme. Il comma 3 dice quando il 20 % si considera *definitivamente* perso — serve per chiudere i conti e fare il saldo (art. 6.5) invece di aspettare all'infinito. Il comma 5 esclude dal 50/50 i danni causati da colpa grave o dolo di uno dei due.
+
 
 ## Art. 11 — Impedimento, recesso, inadempimento
 
@@ -218,6 +268,9 @@ integrante dell'accordo.
 4. In caso di **decesso** di un Socio, gli eredi hanno diritto alla quota di margine maturata
    secondo il criterio del comma 2.
 
+> 💬 **Commentario.** Le cose spiacevoli che vanno scritte prima. **Prima della firma con la capofila** ci si può ritirare: rimborso degli anticipi e basta. **Dopo**, no, salvo impedimento grave — e in quel caso la quota si riduce in proporzione al lavoro non svolto. Il comma 3 gestisce il socio che non fa la sua parte: l'altro può sostituirlo e i costi vanno a carico di chi non ha adempiuto. Il comma 4 tutela gli eredi.
+
+
 ## Art. 12 — Riservatezza e non concorrenza [DA DECIDERE se includere]
 
 1. I Soci mantengono riservate condizioni, controparti e numeri del progetto verso terzi
@@ -225,6 +278,9 @@ integrante dell'accordo.
 2. Per **12 mesi** dalla chiusura contabile, nessun Socio contatta la Capofila per progetti
    analoghi **senza offrire all'altro Socio la partecipazione alle stesse condizioni** del
    presente accordo.
+
+> 💬 **Commentario.** Facoltativo (**[DA DECIDERE]**). Riservatezza su numeri e controparti, e un patto di 12 mesi: se la capofila ripropone un progetto simile a uno solo di voi, l'altro ha diritto di partecipare alle stesse condizioni. Serve a evitare che il contatto costruito insieme venga usato da uno solo. Se vi fidate senza, si toglie — ma va deciso, non dimenticato.
+
 
 ## Art. 13 — Comunicazioni
 
@@ -234,6 +290,9 @@ integrante dell'accordo.
 2. Una comunicazione verbale o telefonica ha effetto solo se **confermata** con uno dei mezzi
    del comma 1 entro 48 ore.
 
+> 💬 **Commentario.** Stabilisce quali comunicazioni "contano": email agli indirizzi indicati, o annotazioni nella repository. Una telefonata vale solo se confermata per iscritto entro 48 ore. È la regola che evita il "ma io te l'avevo detto".
+
+
 ## Art. 14 — Allegati
 
 - **Allegato A** — Documento di progetto ([`documento-di-progetto.md`](documento-di-progetto.md))
@@ -241,12 +300,18 @@ integrante dell'accordo.
   [`../04-pagamenti/movimenti-economici.md`](../04-pagamenti/movimenti-economici.md))
 - **Allegato C** — Piano di cassa (art. 5.4), da redigere prima della firma con la Capofila
 
+> 💬 **Commentario.** Elenca i documenti che fanno parte dell'accordo. L'Allegato A è il documento di progetto (cosa fate); il B è il registro dei movimenti (i soldi); il C è il piano di cassa, ancora da scrivere. Firmando la scrittura, firmate anche gli allegati.
+
+
 ## Art. 15 — Legge applicabile e controversie
 
 1. Il presente accordo è regolato dalla **legge italiana**.
 2. Per ogni controversia i Soci tentano prima una **conciliazione** diretta, poi con l'aiuto
    di un terzo di comune fiducia, entro 60 giorni. In mancanza, è competente il **Foro di
    `____________`**.
+
+> 💬 **Commentario.** Legge italiana e, prima di qualunque causa, l'obbligo di provare a mettersi d'accordo — da soli, poi con una persona di fiducia comune, entro 60 giorni. Il foro (**da compilare**) conta solo se tutto il resto fallisce.
+
 
 ## Art. 16 — Disposizioni finali
 
@@ -274,3 +339,7 @@ artt. 3.3, 6, 7, 10, 11 e 12.
 |---|---|
 | **Gianluca Iaconeta** | ______________________________ |
 | **Luigi Zerulo** | ______________________________ |
+
+> 💬 **Commentario.** Clausole di chiusura: modifiche solo scritte e firmate da entrambi; se una clausola è invalida le altre restano; due originali. L'ultimo comma spiega come dare **data certa** al documento — PEC o firma digitale — utile se un giorno servisse dimostrare *quando* avete firmato.
+
+
