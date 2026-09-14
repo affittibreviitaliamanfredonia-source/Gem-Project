@@ -57,10 +57,6 @@ Risponde alla domanda *"questo movimento a cosa si riferisce?"*, così tra sei m
 | Costo legato a una sola persona | Codice dell'ospite | `Ospite 07 — rientro anticipato` |
 | Distribuzione | Quale socio | `Socio 1 — acconto` |
 
-> Nel foglio caricato il 14/09 l'intestazione della cella **E1** riporta ancora la dicitura
-> precedente ("Ospite / Tranche di riferimento"): va sostituita a mano con **Riferimento**.
-> È solo un'etichetta, nessuna formula dipende da quel testo.
-
 ### I tre tipi di movimento
 
 | Tipo | Significato | Effetto sul saldo | Effetto sul margine |
