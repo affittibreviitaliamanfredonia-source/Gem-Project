@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| 📊 **Foglio** | <https://docs.google.com/spreadsheets/d/1NK8XqN61flVP_gRfApMRkShamvskfX8Hi4MyQqA9jsA/edit> |
+| 📊 **Foglio** | <https://docs.google.com/spreadsheets/d/1wyF1UJlqBcketwvZFwduXyAL3FsJajz-aPqYKOPWxIU/edit> |
 | 📁 Cartella Drive | <https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR> |
 | Proprietario | Account Google del firmatario |
 | Accesso | Da condividere con il secondo socio in **modifica** |
@@ -54,6 +54,9 @@
 | **Distribuzione** | Prelievo di un socio sulla sua quota | − | **nessuno** — non è un costo |
 
 ## Parametri: cosa toccare e cosa no
+
+> I colori qui sotto sono quelli del **tema chiaro**. Con il tema scuro (es. iPad di notte)
+> Google li adatta e "nero" diventa bianco: fa fede il foglio *Istruzioni*, non la tonalità.
 
 - **Blu** = inserito a mano, si può cambiare (ospiti, prezzo, quote).
 - **Giallo** = manca ancora. Oggi: le tre **stime di costo per ospite** (alloggio, transfert, mobility). Finché sono vuote, il *margine atteso* nel Riepilogo è pari al ricavo lordo, cioè **sovrastimato per costruzione**.
