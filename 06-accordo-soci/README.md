@@ -23,7 +23,7 @@ Non riguardano la capofila: sono interni.
 
 | # | Decisione | Dove nel testo |
 |---|---|---|
-| 1 | Quale dei due è il **Socio Firmatario** | Premesse, art. 2 |
+| 1 | ~~Quale dei due è il **Socio Firmatario**~~ → **Gianluca Iaconeta** (deciso il 14/09) | Art. 2 |
 | 2 | **Soglia** oltre la quale una spesa richiede il consenso di entrambi | Art. 9 |
 | 3 | **Meccanismo fiscale** con cui il secondo socio riceve il 50 % | Art. 7 — col commercialista |
 | 4 | Se dare un **acconto** dopo l'incasso dell'80 % e in che misura | Art. 6 |

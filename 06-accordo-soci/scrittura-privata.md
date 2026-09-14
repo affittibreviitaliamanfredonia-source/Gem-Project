@@ -55,12 +55,12 @@ integrante dell'accordo.
 
 ## Art. 2 — Ruoli
 
-1. **Socio Firmatario** è `____________________` **[DA DECIDERE quale dei due]**. Egli:
+1. **Socio Firmatario** è **Gianluca Iaconeta**. Egli:
    - firma il contratto con la Capofila e ogni sua modifica;
    - emette le fatture alla Capofila con la propria posizione fiscale;
    - è titolare del **conto dedicato** di cui all'art. 4;
    - è l'interlocutore della Capofila per gli aspetti contrattuali ed economici.
-2. L'altro Socio, di seguito **Socio Operativo**, ha **pari diritto** nelle decisioni di cui
+2. **Luigi Zerulo**, di seguito **Socio Operativo**, ha **pari diritto** nelle decisioni di cui
    all'art. 8 e **pari diritto** al margine di cui all'art. 6, e svolge i compiti operativi
    assegnati nell'Allegato A.
 3. Il Socio Firmatario **non può** modificare le condizioni economiche con la Capofila

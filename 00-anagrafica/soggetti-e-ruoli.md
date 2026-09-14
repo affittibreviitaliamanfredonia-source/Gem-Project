@@ -23,8 +23,8 @@ essere fatturata in reverse charge ex art. 7-ter. Vedi
 | Campo | Valore |
 |---|---|
 | Soci | **Gianluca Iaconeta** e **Luigi Zerulo** |
-| **Firmatario** | **L'utente** — unico soggetto con potere di firma verso la capofila. *Nome da confermare tra i due soci.* ⚠️ |
-| **Soggetto che fattura** | **L'utente** (stessa persona del firmatario). Ragione sociale / P.IVA emittente: `DA COMPILARE` ⚠️ |
+| **Firmatario** | **Gianluca Iaconeta** — unico soggetto con potere di firma verso la capofila |
+| **Soggetto che fattura** | **Gianluca Iaconeta** (stessa persona del firmatario). Ragione sociale / P.IVA emittente: `DA COMPILARE` ⚠️ |
 | Conto di incasso | Deve essere intestato al soggetto che fattura. `DA APRIRE / DA INDICARE` ⚠️ |
 | Ripartizione margine | **50 % / 50 %** tra i due soci |
 | Accordo tra soci | Scrittura privata — **da redigere** (vedi [`../04-pagamenti/04-02-ripartizione-soci.md`](../04-pagamenti/04-02-ripartizione-soci.md)) 🔴 |

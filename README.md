@@ -15,7 +15,7 @@
 | Tipo | Accoglienza **B2B** per ragazzi post-diploma spagnoli |
 | Capofila | Soggetto spagnolo — *identità giuridica da confermare* ⚠️ |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
-| Firmatario e fatturante | **L'utente** — *nome da confermare tra i due soci* |
+| Firmatario e fatturante | **Gianluca Iaconeta** |
 | Durata soggiorno | **90 notti** per ospite |
 | Data di arrivo | **01/03/2027** (lunedì) — impostata dal firmatario, *da confermare con la capofila* |
 | Data di partenza | **30/05/2027** (domenica) — 90 notti dopo l'arrivo |
@@ -23,6 +23,7 @@
 | Sistemazione | **Camere singole** |
 | Stato complessivo | 🟡 **Trattativa in corso — nessun contratto scritto** |
 | Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti e documenti di lavoro |
+| Casella email di progetto | **Da creare** — sarà il canale ufficiale verso capofila, strutture e commercialista |
 
 ---
 

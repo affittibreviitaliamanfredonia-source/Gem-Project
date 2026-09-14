@@ -38,8 +38,8 @@
 
 | Ruolo | Chi | Cosa comporta |
 |---|---|---|
-| **Socio Firmatario** | `____________________` *(uno dei due, da indicare)* | Firma il contratto con la capofila · emette le fatture · è titolare del conto dedicato · risponde verso la capofila |
-| **Socio** | `____________________` | Parità nelle decisioni · accesso in lettura al conto e al registro · compiti operativi come da tabella sotto |
+| **Socio Firmatario** | **Gianluca Iaconeta** | Firma il contratto con la capofila · emette le fatture · è titolare del conto dedicato · risponde verso la capofila |
+| **Socio Operativo** | **Luigi Zerulo** | Parità nelle decisioni · accesso in lettura al conto e al registro · compiti operativi come da tabella sotto |
 
 ### Compiti operativi — proposta da confermare
 

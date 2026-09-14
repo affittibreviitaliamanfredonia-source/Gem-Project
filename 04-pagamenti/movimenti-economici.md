@@ -41,9 +41,25 @@
 | B · Tipo movimento | `Incasso` · `Costo` · `Distribuzione` |
 | C · Categoria | `Tranche 80%` · `Tranche 20%` · `Altro incasso` · `Alloggio` · `Transfert` · `Mobility` · `Altro costo` · `Distribuzione Socio 1` · `Distribuzione Socio 2` |
 | D · Descrizione | Testo libero: fattura, fornitore, cosa |
-| E · Ospite / Tranche di riferimento | A cosa si riferisce (es. "Tranche 80% — 36 ospiti", "Struttura X — 12 camere") |
+| E · Riferimento | A cosa si riferisce il movimento — vedi tabella sotto |
 | F · Importo (€) | Numero positivo |
 | G · Saldo progressivo (€) | **Calcolato.** Incasso somma; Costo e Distribuzione sottraggono |
+
+### Cosa scrivere in "Riferimento"
+
+Risponde alla domanda *"questo movimento a cosa si riferisce?"*, così tra sei mesi si capisce ancora.
+
+| Movimento | Cosa scrivere | Esempio |
+|---|---|---|
+| Incasso dalla capofila | Tranche e numero di ospiti | `Tranche 80% — 36 ospiti` |
+| Costo di alloggio | Struttura e camere/ospiti | `Struttura X — 12 camere singole` |
+| Costo di transfert o mobility | Gruppo e data | `Bus arrivo 01/03 — 36 ospiti` |
+| Costo legato a una sola persona | Codice dell'ospite | `Ospite 07 — rientro anticipato` |
+| Distribuzione | Quale socio | `Socio 1 — acconto` |
+
+> Nel foglio caricato il 14/09 l'intestazione della cella **E1** riporta ancora la dicitura
+> precedente ("Ospite / Tranche di riferimento"): va sostituita a mano con **Riferimento**.
+> È solo un'etichetta, nessuna formula dipende da quel testo.
 
 ### I tre tipi di movimento
 
