@@ -8,6 +8,16 @@ Non riguardano la capofila: sono interni.
 | [`documento-di-progetto.md`](documento-di-progetto.md) | Riassunto del progetto su cui i soci si impegnano — **Allegato A** della scrittura privata | 🟡 Bozza |
 | [`scrittura-privata.md`](scrittura-privata.md) | Accordo tra i soci: ruoli, soldi, decisioni, rischi | 🟡 Bozza |
 
+## Versioni stampabili
+
+| PDF | Generato da |
+|---|---|
+| [`pdf/GEM-documento-di-progetto-v0.1.pdf`](pdf/GEM-documento-di-progetto-v0.1.pdf) | `documento-di-progetto.md` |
+| [`pdf/GEM-scrittura-privata-soci-v0.1.pdf`](pdf/GEM-scrittura-privata-soci-v0.1.pdf) | `scrittura-privata.md` |
+
+I PDF sono **copie di lettura** con marcatura "Bozza v0.1": si rigenerano dal Markdown a ogni
+versione. Le correzioni si fanno nei file `.md`, non nel PDF.
+
 ## Percorso
 
 1. I due soci leggono entrambi i documenti e annotano cosa non condividono.
