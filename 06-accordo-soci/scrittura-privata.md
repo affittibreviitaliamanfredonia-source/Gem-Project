@@ -25,9 +25,10 @@ di seguito insieme "i Soci" e ciascuno "il Socio".
 
 a) I Soci intendono realizzare insieme il progetto denominato **GEM**: l'accoglienza a
 Manfredonia di un gruppo di ragazzi spagnoli post-diploma — allo stato **36 ospiti** in
-camera singola per **90 notti**, dal **01/03/2027** al **30/05/2027** — per conto di una
-capofila spagnola (di seguito "la Capofila"), a fronte di un corrispettivo concordato a voce
-di **2.000 € netti per ospite**, pagabile 80 % all'arrivo e 20 % alla partenza.
+camera singola per **90 notti**, dal **01/03/2027** al **30/05/2027** — per conto della
+capofila spagnola `____________________________` *(ragione sociale, da compilare)*, di seguito
+"la Capofila", a fronte di un corrispettivo concordato a voce di **2.000 € netti per ospite**,
+pagabile 80 % all'arrivo e 20 % alla partenza.
 
 b) Il progetto è descritto nel **Documento di progetto** allegato (Allegato A), che i Soci
 dichiarano di condividere integralmente.
@@ -35,9 +36,20 @@ dichiarano di condividere integralmente.
 c) I Soci hanno convenuto di dividere in parti uguali il **margine** del progetto e vogliono
 regolare per iscritto ruoli, gestione del denaro, decisioni e imprevisti.
 
-d) Alla data della firma **non esiste un contratto scritto con la Capofila**, la sua identità
-giuridica non è stata verificata e i costi del progetto non sono stati stimati. I Soci ne sono
-consapevoli e assumono gli impegni che seguono anche per governare questa fase.
+d) **Stato del progetto alla data della firma** — *da compilare al momento della firma,
+barrando la casella che corrisponde alla situazione reale*:
+
+| Elemento | Stato alla firma |
+|---|---|
+| Contratto scritto con la Capofila | ☐ non ancora esistente · ☐ firmato il `____________` |
+| Identità giuridica della Capofila | ☐ non verificata · ☐ verificata: ragione sociale `____________________`, VAT `____________`, verifica VIES del `____________` |
+| Penali e minimo garantito di ospiti | ☐ non concordati · ☐ concordati, art. `____` del contratto con la Capofila |
+| Regime IVA (7-ter / 7-quater) | ☐ parere del commercialista non ancora acquisito · ☐ parere acquisito il `____________`: `____________` |
+| Costi di progetto (alloggio, transfert, mobility) | ☐ non stimati · ☐ stimati in `________ €` per ospite, come da Allegato C |
+| Età degli ospiti | ☐ non comunicata · ☐ comunicata: tutti maggiorenni · ☐ comunicata: `____` minorenni |
+
+I Soci sono consapevoli di ciò che alla data della firma risulta ancora aperto e assumono
+gli impegni che seguono anche per governare le fasi non ancora definite.
 
 Tutto ciò premesso, i Soci convengono quanto segue. Le premesse e l'Allegato A sono parte
 integrante dell'accordo.
