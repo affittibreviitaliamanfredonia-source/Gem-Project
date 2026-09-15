@@ -60,7 +60,7 @@ L'esempio numerico dell'art. 7.3 è anche un foglio Google con i numeri modifica
 
 Copia di revisione della scrittura privata, nella cartella Drive
 **Progetto GEM → 06 · Accordo tra soci**:
-**<https://docs.google.com/document/d/1Mp2wyPW5jPVi0GaOiyl0tYaSMUlUaJruUpf4BA2rzgE/edit>**
+**<https://docs.google.com/document/d/1g-sMNpGKXlRGPtJVpmqFcje7-njP6NRi_FX9lG0WDLc/edit>**
 
 | Chi | Cosa fa | Dove |
 |---|---|---|
