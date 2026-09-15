@@ -27,7 +27,7 @@
 | Ricavo lordo (36 ospiti) | **72.000 €** | Derivato |
 | Tranche 1 — 80 % all'arrivo | 57.600 € | Concordato a voce |
 | Tranche 2 — 20 % alla partenza | 14.400 € — **subordinata a controllo documentale** | Concordato a voce |
-| Regime IVA | Reverse charge art. 7-ter — **da confermare col commercialista** (rischio 7-quater) | Aperto |
+| Regime IVA | Reverse charge art. 7<!--quota-operativo-->-ter — **da confermare col commercialista** (rischio 7-quater) | Aperto |
 | Costi: alloggio, transfert, mobility | **Non ancora stimati** | Aperto |
 | Margine | Ricavi incassati − costi di progetto | Da calcolare |
 | Ripartizione margine | **50 % / 50 %** | Concordato |
@@ -75,7 +75,7 @@
 | 5 | Possibili **minorenni** tra gli ospiti | Domanda scritta alla capofila ora |
 | 6 | Il 20 % è condizionato a un controllo fatto dalla controparte | Elenco documenti tassativo allegato al contratto, termine di contestazione |
 | 7 | **Assicurazione** assente | Preventivo RC + danni in parallelo alla trattativa |
-| 8 | Cassa: le caparre si pagano prima dell'80 % | Piano di cassa nella scrittura privata (art. 5) |
+| 8 | Cassa: le caparre si pagano prima dell'80 % | Piano di cassa nella scrittura privata (art. 5<!--anticipi-->) |
 
 ## 6. Le date
 

@@ -33,6 +33,25 @@ Regole che lo tengono allineato al contratto:
    nello stesso commit.
 4. Il generatore dei PDF **segnala** gli articoli rimasti senza commento.
 
+## Ancore e rimandi interni
+
+Ogni titolo di articolo porta un'**ancora invisibile** (`<!--#nome-->`) e ogni rimando nel
+testo la ripete (`art. 8<!--decisioni-->`). Né GitHub né i PDF le mostrano. Servono al
+controllo automatico, che a ogni generazione verifica:
+
+- che gli articoli siano numerati 1, 2, 3… senza salti;
+- che ogni "art. N" nel testo punti davvero all'articolo che intende (per *nome*, non per numero);
+- che nessun rimando punti a un articolo cancellato;
+- che nessun articolo sia rimasto senza commento, e nessun commento senza articolo.
+
+**Se si cancella un articolo:** i numeri di quelli successivi scalano e i rimandi si sfasano.
+Il generatore lo segnala e, in modalità riparazione, rinumera titoli e rimandi da solo.
+Restano da sistemare **a mano** solo i rimandi all'articolo cancellato — il testo cita
+qualcosa che non esiste più, e cosa scrivere al suo posto è una decisione, non un calcolo.
+
+Quando si aggiunge un articolo nuovo: titolo nella forma `## Art. N — Titolo <!--#nome-->`,
+e ogni rimando a un articolo nella forma `art. N<!--nome-->`.
+
 L'esempio numerico dell'art. 7.3 è anche un foglio Google con i numeri modificabili:
 **[GEM — Esempio art. 7](https://docs.google.com/spreadsheets/d/1rcSlygd33kjZxFmh8jQCCw9iLrsOHHEYOq34sJZtUcw/edit)**
 (per averlo dentro il registro principale: tasto destro sulla scheda → *Copia in → Foglio esistente*).
