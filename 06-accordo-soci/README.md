@@ -56,11 +56,31 @@ L'esempio numerico dell'art. 7.3 è anche un foglio Google con i numeri modifica
 **[GEM — Esempio art. 7](https://docs.google.com/spreadsheets/d/1rcSlygd33kjZxFmh8jQCCw9iLrsOHHEYOq34sJZtUcw/edit)**
 (per averlo dentro il registro principale: tasto destro sulla scheda → *Copia in → Foglio esistente*).
 
+## Dove si rivede: il Google Documento
+
+Copia di revisione della scrittura privata, nella cartella Drive
+**Progetto GEM → 06 · Accordo tra soci**:
+**<https://docs.google.com/document/d/1Mp2wyPW5jPVi0GaOiyl0tYaSMUlUaJruUpf4BA2rzgE/edit>**
+
+| Chi | Cosa fa | Dove |
+|---|---|---|
+| Gianluca e Luigi | Leggono; **commentano** a margine; propongono correzioni in **modalità Suggerimento** | Google Documento |
+| Claude | Legge commenti e suggerimenti, li riporta nel file originale, rigenera PDF e ricarica il Documento | Repository → Drive |
+
+Regole:
+- **L'originale è `scrittura-privata.md`.** Il Documento è una copia: se i due divergono, vale il file.
+- Non modificare il Documento in modalità *Modifica* diretta: le correzioni non tracciate si perdono
+  al ricaricamento. Usare *Suggerimento* (o un commento).
+- Ogni ricaricamento del Documento **azzera i commenti** già recepiti: se un commento è ancora lì,
+  non è ancora stato recepito.
+
 ## Percorso
 
-1. I due soci leggono entrambi i documenti e annotano cosa non condividono.
-2. Le modifiche si fanno **qui**, in Markdown, finché il testo non è condiviso.
-3. Solo a quel punto si genera la versione da firmare (PDF/Word), si firma e si archivia
+1. I due soci leggono il Documento e il PDF con commentario, e annotano cosa non condividono
+   (commenti e suggerimenti nel Documento, oppure a voce a Claude).
+2. Le modifiche si fanno nel file Markdown, finché il testo non è condiviso; a ogni giro si
+   rigenerano PDF e Documento.
+3. Solo a quel punto si genera la versione da firmare, si firma e si archivia
    in `../allegati/` — e lo stato qui passa a ✅ Firmato.
 
 > ⚠️ **Le bozze non sono consulenza legale né fiscale.** Prima della firma vanno lette dal

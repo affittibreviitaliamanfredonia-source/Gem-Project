@@ -22,7 +22,7 @@
 | Numero ospiti | **36** (dato corrente, soggetto a variazione) |
 | Sistemazione | **Camere singole** |
 | Stato complessivo | 🟡 **Trattativa in corso — nessun contratto scritto** |
-| Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti e documenti di lavoro |
+| Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti, esempio art. 7, copia di revisione della scrittura privata |
 | Casella email di progetto | **Da creare** — sarà il canale ufficiale verso capofila, strutture e commercialista |
 
 ---
