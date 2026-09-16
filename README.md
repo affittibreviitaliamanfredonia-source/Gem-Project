@@ -156,7 +156,24 @@ gantt
 
 ---
 
-## 7. Come si aggiorna questa repo
+## 7. Cartella Drive
+
+Struttura concordata il 16/09: una sottocartella per ambito, che rispecchia le fasi della repo.
+
+```
+Progetto GEM/
+├── 01 · Trattativa/            email e verbali con la capofila
+├── 02 · Contratti/             capofila · immobili · fornitori (firmati e bozze)
+├── 03 · Logistica/             preventivi, schede immobili, transfert
+├── 04 · Pagamenti/             fatture emesse e ricevute, backup mensile del registro
+├── 05 · Ospiti/                documenti dei ragazzi — ACCESSO RISTRETTO (dati personali)
+├── 06 · Accordo tra soci/      copia di revisione, versione firmata
+└── 07 · Assicurazione/         polizze e preventivi
+```
+
+Già esistenti: la cartella radice, `06 · Accordo tra soci`, il registro movimenti e l'esempio art. 7.
+
+## 8. Come si aggiorna questa repo
 
 1. **Ogni fase si aggiorna in modo indipendente** — modifica solo i file della cartella interessata.
 2. **Ogni decisione presa** genera un nuovo file in `05-log-decisioni/` (mai modificare i log passati).

@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **1 + 2 parziali / 46**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **6 + 4 parziali / 46**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -118,6 +118,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **17.** **Conto dedicato**: tipo, intestazione, vincoli. → art. 4
 - Risposta:
 
+`[ ]` **17b.** **Collaboratrice in loco**: con quale inquadramento la si paga (prestazione occasionale, P.IVA, altro)? Limiti e adempimenti.
+- Risposta:
+
 ---
 
 ## C · Alla capofila — una sola email, risposta scritta
@@ -127,7 +130,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 **Identità e contratto**
 `[ ]` **18.** Ragione sociale, forma giuridica, VAT, sede, chi firma. *(Q1)* → premesse a), d)
-`[ ]` **19.** Chi redige il contratto, quale legge, quale foro, quale lingua. *(Q2)*
+`[ ]` **19.** Chi redige il contratto **con la capofila**, quale legge, quale foro, quale lingua. *(Q2)*
+- Nota (16/09): non riguarda né la scrittura privata tra soci né i contratti con gli immobili — è il contratto B2B con il cliente spagnolo, che oggi non esiste. Resta aperta.
 `[ ]` **20.** Minimo garantito di ospiti; penali per riduzione, cancellazione, no-show. *(Q3)*
 `[ ]` **21.** Età degli ospiti; quanti minorenni; chi esercita la responsabilità. *(Q5)*
 
@@ -135,7 +139,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **22.** "Netti": netti per noi o netti per voi? Nessuna ritenuta o commissione a nostro carico?
 `[ ]` **23.** 90 **notti** (check-in 01/03, check-out 30/05) o 90 giorni di calendario?
 `[ ]` **24.** Arrivi tutti insieme o scaglionati? Quale data vale per la fattura dell'80 %?
-`[ ]` **25.** I **voli** sono inclusi nei 2.000 €?
+`[x]` **25.** I **voli** sono inclusi nei 2.000 €?
+- Risposta (16/09): **no, li pagano i ragazzi.** → da scrivere nel contratto con la capofila tra le esclusioni (domanda 22).
 `[ ]` **26.** Cosa comprende esattamente "mobility"?
 `[ ]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
 `[ ]` **28.** Termini di pagamento di ciascuna tranche, in giorni.
@@ -151,8 +156,11 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 ## D · Fasi successive
 
 **Logistica → entro 30/11/2026**
-`[ ]` **33.** Quanti immobili servono per 36 singole? Dove? A che distanza dalle attività?
-`[ ]` **34.** Le penali degli immobili sono allineate a quelle della capofila?
+`[~]` **33.** Quanti immobili servono per 36 singole? Dove? A che distanza dalle attività?
+- Risposta (16/09): **il numero dipende dalla capienza di quelli che troviamo.** Restano aperti dove e a che distanza.
+`[~]` **34.** Le penali degli immobili sono allineate a quelle della capofila?
+- Risposta (16/09): **la capofila non c'entra con gli immobili. Nei contratti con i proprietari mettiamo noi una penale, per impedire che si svincolino.**
+- Nota: questo copre il rischio *proprietario che si tira indietro*. Resta scoperto il rischio speculare: se la capofila riduce gli ospiti, noi restiamo vincolati a pagare 90 notti. Serve o un minimo garantito dalla capofila (domanda 20) o una clausola di riduzione con preavviso nei contratti con i proprietari — meglio entrambe.
 `[ ]` **35.** Ogni immobile ha CIN, registrazione ospiti, regolarità?
 `[ ]` **36.** Un fornitore unico o più fornitori?
 
@@ -164,15 +172,17 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 **Operatività → entro febbraio 2027**
 `[ ]` **39.** Regolamento della casa bilingue + addendum firmato, allegato anche al contratto B2B.
-`[ ]` **40.** Reperibilità 24/7 per 90 giorni: turni scritti.
+`[x]` **40.** Reperibilità 24/7 per 90 giorni: turni scritti.
+- Risposta (16/09): **Gianluca sul posto, con una collaboratrice che parla spagnolo.**
+- Conseguenze: (a) il compenso della collaboratrice è un **Costo di progetto** — aggiunto all'art. 6.2 come lettera j); (b) il suo inquadramento (collaborazione occasionale, P.IVA, altro) è una domanda in più per il commercialista → **17b**; (c) tratterà dati dei ragazzi: va nominata nel quadro GDPR (domanda 32).
 `[ ]` **41.** Protocollo check-in/check-out: inventario, foto, verbale.
 `[ ]` **42.** Registro incidenti: chi, quando.
 `[ ]` **43.** Rubrica ospiti (esigenze mediche, contatti di emergenza): chi la raccoglie, dove sta.
 
 **Strumenti**
-`[ ]` **44.** Email di progetto: creata il `____`.
-`[ ]` **45.** Calendario Google con le scadenze: sì / no.
-`[ ]` **46.** Foglio movimenti e cartella Drive condivisi con Luigi: sì / no.
+`[x]` **44.** Email di progetto: creata il **16/09/2026**. Indirizzo: `____________` *(da comunicare)*
+`[x]` **45.** Calendario Google con le scadenze: **sì**, da attivare sull'account della email di progetto appena comunicata.
+`[x]` **46.** Foglio movimenti e cartella Drive condivisi con Luigi: **sì**. La cartella Drive raccoglie tutti i documenti, **una sottocartella per ambito** (contratti, documenti ragazzi, …). Struttura proposta in [`../README.md`](../README.md#cartella-drive).
 
 ---
 

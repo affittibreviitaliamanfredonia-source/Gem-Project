@@ -153,7 +153,9 @@ integrante dell'accordo.
       attuale, il servizio fosse qualificato ai sensi dell'art. 7-quater DPR 633/72 e il
       corrispettivo restasse "netto" per la Capofila;
    h) i costi imprevisti approvati ai sensi dell'art. 9<!--spese-->;
-   i) i danni causati dagli ospiti **non recuperati** dalla Capofila.
+   i) i danni causati dagli ospiti **non recuperati** dalla Capofila;
+   j) i compensi a **collaboratori impiegati nel progetto** (es. assistenza in loco), nella
+      misura concordata tra i Soci ai sensi dell'art. 8<!--decisioni-->.
 3. **Non sono Costi di progetto**: le imposte sui redditi del Socio Firmatario, il tempo
    dedicato da ciascun Socio, le spese personali di spostamento salvo diverso accordo scritto,
    costi di altre attività dei Soci.
