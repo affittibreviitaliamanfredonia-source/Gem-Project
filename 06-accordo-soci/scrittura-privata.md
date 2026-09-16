@@ -273,15 +273,12 @@ integrante dell'accordo.
 > 💬 **Commentario.** Le cose spiacevoli che vanno scritte prima. **Prima della firma con la capofila** ci si può ritirare: rimborso degli anticipi e basta. **Dopo**, no, salvo impedimento grave — e in quel caso la quota si riduce in proporzione al lavoro non svolto. Il comma 3 gestisce il socio che non fa la sua parte: l'altro può sostituirlo e i costi vanno a carico di chi non ha adempiuto. Il comma 4 tutela gli eredi.
 
 
-## Art. 12 — Riservatezza e non concorrenza [DA DECIDERE se includere] <!--#riservatezza-->
+## Art. 12 — Riservatezza <!--#riservatezza-->
 
 1. I Soci mantengono riservate condizioni, controparti e numeri del progetto verso terzi
    che non siano consulenti vincolati al segreto professionale.
-2. Per **12 mesi** dalla chiusura contabile, nessun Socio contatta la Capofila per progetti
-   analoghi **senza offrire all'altro Socio la partecipazione alle stesse condizioni** del
-   presente accordo.
 
-> 💬 **Commentario.** Facoltativo (**[DA DECIDERE]**). Riservatezza su numeri e controparti, e un patto di 12 mesi: se la capofila ripropone un progetto simile a uno solo di voi, l'altro ha diritto di partecipare alle stesse condizioni. Serve a evitare che il contatto costruito insieme venga usato da uno solo. Se vi fidate senza, si toglie — ma va deciso, non dimenticato.
+> 💬 **Commentario.** Numeri, condizioni e nomi delle controparti restano tra voi due e i vostri consulenti. Non vieta di parlare del progetto: vieta di far girare i dettagli economici e contrattuali.
 
 
 ## Art. 13 — Comunicazioni <!--#comunicazioni-->
@@ -335,7 +332,7 @@ Luogo e data: ______________________________
 | **Luigi Zerulo** | ______________________________ |
 
 Ai sensi degli artt. 1341 e 1342 c.c. i Soci dichiarano di approvare specificamente gli
-artt. 3.3<!--impegni-->, 6<!--margine-->, 7<!--quota-operativo-->, 10<!--mancato-incasso-->, 11<!--recesso--> e 12<!--riservatezza-->.
+artt. 3.3<!--impegni-->, 6<!--margine-->, 7<!--quota-operativo-->, 10<!--mancato-incasso--> e 11<!--recesso-->.
 
 | | |
 |---|---|

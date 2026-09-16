@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **6 + 4 parziali / 46**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **8 + 3 parziali / 46**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -51,11 +51,8 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 `[ ]` **3.** Sopra quale importo una spesa richiede il sì di entrambi? *(proposta 500 €)*
 - Risposta:
 
-### A4 · Non concorrenza → art. 12
-`[~]` **4.** Tenere o togliere l'art. 12? Chi ha portato il contatto con la capofila?
-- Risposta (16/09): **il contatto con la capofila l'ha portato Luigi.** Resta da decidere se tenere l'art. 12.
-- Nota: con il contatto in mano a Luigi, la clausola di non concorrenza tutela soprattutto Gianluca
-  (evita che un progetto futuro con la stessa capofila lo escluda). Va letta in questa luce.
+### A4 · Art. 12
+`[x]` **4.** Chiusa (16/09): **l'art. 12 resta solo con la riservatezza.** Il contatto con la capofila l'ha portato Luigi.
 
 ### A5 · Compiti operativi → Allegato A
 `[~]` **5.** Chi fa cosa, nelle tre righe ancora "da assegnare":

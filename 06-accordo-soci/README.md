@@ -97,4 +97,3 @@ Regole:
 | 3 | **Meccanismo fiscale** con cui il secondo socio riceve il 50 % | Art. 7 — col commercialista |
 | 4 | Se dare un **acconto** dopo l'incasso dell'80 % e in che misura | Art. 6 |
 | 5 | Chi **anticipa** le caparre agli immobili e con quali soldi | Art. 5 |
-| 6 | Se includere il patto di **non concorrenza** (art. 12) | Art. 12 |
