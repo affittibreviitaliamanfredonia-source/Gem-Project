@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **15 + 10 parziali / 49**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **17 + 9 parziali / 49**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -77,7 +77,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Risposta (16/09): **in parti uguali, impegno massimo 1.000 € ciascuno.** Per rispettarlo: contratti con gli immobili **senza caparre**; prima dell'80 % non più di **2.000 €** impegnati in totale, salvo consenso scritto di entrambi. → art. 10.1-bis confermato.
 
 ### A9 · Dati da compilare → art. 13, 15, parti
-`[ ]` **9.** Foro competente: `____________` · Email di progetto: `____________` *(ancora da creare, 16/09 sera)* · Email di Luigi: `____________`
+`[x]` **9.** Foro competente: **Foggia** (16/09) → art. 14. Indirizzi di riferimento: la sede legale della società o la **residenza del firmatario** → art. 12 e intestazione. Email di progetto: `____________` *(da creare: il nome dipende dal soggetto che fa il progetto, domanda 13)* · Email di Luigi: `____________`
 `[ ]` **9b.** Dati anagrafici di entrambi per l'intestazione (luogo e data di nascita, residenza, C.F.).
 
 ### A10 · Conto → art. 4
@@ -114,11 +114,11 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
   Nel registro si registra come *Costo · Altro costo* quando viene versata.
 
 `[~]` **16.** **Momento impositivo** dell'80 % incassato prima dell'inizio del servizio.
-- Nota (16/09): "già discusso" tra i soci, ma la risposta non è stata riportata qui. Da scrivere.
+- Nota (16/09): i soci la considerano risposta, ma il testo della risposta non è arrivato in chat. Da scrivere qui in una riga.
 - Risposta:
 
-`[~]` **17.** **Conto dedicato**: tipo, intestazione, vincoli. → art. 4
-- Risposta (16/09): se si costituisce una società, il conto è della società, gestito da chi firma i contratti e invia le fatture, leggibile da entrambi. Se non c'è società: intestato a chi fattura, estratto nel Drive ogni mese. Banca e tipo di conto: aperti.
+`[x]` **17.** **Conto dedicato**: tipo, intestazione, vincoli. → art. 4
+- Risposta (16/09): **conto corrente intestato al soggetto firmante.** Se si costituisce una società, il conto è della società, gestito da chi firma i contratti e invia le fatture, leggibile da entrambi. Se no: intestato a Gianluca, estratto nel Drive ogni mese. → art. 4.1 e 4.2.
 
 ---
 
@@ -200,7 +200,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **43.** Rubrica ospiti (esigenze mediche, contatti di emergenza): chi la raccoglie, dove sta.
 
 **Strumenti**
-`[~]` **44.** Email di progetto: **ancora da creare** (16/09 sera; in mattinata risultava creata — da chiarire). Indirizzo: `____________`
+`[~]` **44.** Email di progetto: **da creare.** Il nome dell'indirizzo dipende dal **soggetto che fa il progetto** (Gianluca in proprio, o una società: domande 12 e 13), perché sarà il canale verso capofila, proprietari, aziende e commercialista. Indirizzo: `____________`
 `[x]` **45.** Calendario Google con le scadenze: **sì**, da attivare sull'account della email di progetto appena comunicata.
 `[x]` **46.** Foglio movimenti e cartella Drive condivisi con Luigi: **sì**. La cartella Drive raccoglie tutti i documenti, **una sottocartella per ambito** (contratti, documenti ragazzi, …). Struttura proposta in [`../README.md`](../README.md#cartella-drive).
 

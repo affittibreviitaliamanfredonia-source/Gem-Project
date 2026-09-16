@@ -115,7 +115,8 @@ integrante dell'accordo.
 
 ## Art. 4 — Conto dedicato e trasparenza <!--#conto-->
 
-1. Il Socio Firmatario apre, o destina, un **conto intestato al soggetto che fattura**,
+1. Il Socio Firmatario apre, o destina, un **conto intestato al soggetto firmatario e
+   fatturante**,
    usato **esclusivamente** per il progetto: vi affluiscono gli incassi dalla Capofila e da
    esso partono i pagamenti ai fornitori e le distribuzioni ai Soci.
 2. Se il conto è intestato a un Socio persona fisica, il Socio Firmatario ne carica
@@ -292,7 +293,9 @@ integrante dell'accordo.
 
 1. Le comunicazioni tra i Soci rilevanti per il presente accordo sono valide se inviate per
    **email** agli indirizzi: `____________________` e `____________________`, oppure annotate
-   nella repository del progetto.
+   nella repository del progetto. Per le comunicazioni formali vale l'indirizzo di
+   **residenza** di ciascun Socio indicato in intestazione (o la sede legale della società,
+   se costituita).
 2. Una comunicazione verbale o telefonica ha effetto solo se **confermata** con uno dei mezzi
    del comma 1 entro 48 ore.
 
@@ -314,9 +317,9 @@ integrante dell'accordo.
 1. Il presente accordo è regolato dalla **legge italiana**.
 2. Per ogni controversia i Soci tentano prima una **conciliazione** diretta, poi con l'aiuto
    di un terzo di comune fiducia, entro 60 giorni. In mancanza, è competente il **Foro di
-   `____________`**.
+   Foggia**.
 
-> 💬 **Commentario.** Legge italiana e, prima di qualunque causa, l'obbligo di provare a mettersi d'accordo — da soli, poi con una persona di fiducia comune, entro 60 giorni. Il foro (**da compilare**) conta solo se tutto il resto fallisce.
+> 💬 **Commentario.** Legge italiana e, prima di qualunque causa, l'obbligo di provare a mettersi d'accordo — da soli, poi con una persona di fiducia comune, entro 60 giorni. Il foro di Foggia conta solo se tutto il resto fallisce.
 
 
 ## Art. 15 — Disposizioni finali <!--#finali-->
