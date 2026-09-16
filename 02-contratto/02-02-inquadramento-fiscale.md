@@ -41,7 +41,7 @@ circa **15.840 €**. È un ordine di grandezza che può azzerare il margine.
 
 ## Condizioni necessarie perché il reverse charge regga
 
-- [ ] La capofila è un **soggetto passivo IVA** (non un ente non commerciale, non un privato).
+- [x] La capofila è un **soggetto passivo IVA**: ente commerciale, confermato dai soci il 16/09.
 - [ ] Il **VAT number** è valido e **attivo su VIES** alla data della fattura.
 - [ ] Stampa della verifica VIES archiviata in [`../allegati/`](../allegati/).
 - [ ] Il VAT è riportato in fattura.
