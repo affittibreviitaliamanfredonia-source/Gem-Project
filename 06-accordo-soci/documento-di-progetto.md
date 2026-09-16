@@ -1,6 +1,6 @@
 # Progetto GEM — Documento di progetto
 
-**Allegato A alla scrittura privata tra i soci** · Versione 0.1 — bozza del 13/09/2026
+**Allegato A alla scrittura privata tra i soci** · Versione 0.2 — bozza del 16/09/2026
 
 > Questo documento dice **cosa** è il progetto e **a cosa ci impegniamo**. Le regole su soldi,
 > decisioni e imprevisti stanno nella [scrittura privata](scrittura-privata.md). I due

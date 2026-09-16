@@ -13,11 +13,11 @@ Non riguardano la capofila: sono interni.
 
 | PDF | Generato da |
 |---|---|
-| [`pdf/GEM-documento-di-progetto-v0.1.pdf`](pdf/GEM-documento-di-progetto-v0.1.pdf) | `documento-di-progetto.md` |
-| [`pdf/GEM-scrittura-privata-soci-v0.1.pdf`](pdf/GEM-scrittura-privata-soci-v0.1.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
-| [`pdf/GEM-scrittura-privata-soci-v0.1-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.1-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
+| [`pdf/GEM-documento-di-progetto-v0.2.pdf`](pdf/GEM-documento-di-progetto-v0.2.pdf) | `documento-di-progetto.md` |
+| [`pdf/GEM-scrittura-privata-soci-v0.2.pdf`](pdf/GEM-scrittura-privata-soci-v0.2.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
+| [`pdf/GEM-scrittura-privata-soci-v0.2-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.2-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
 
-I PDF sono **copie di lettura** con marcatura "Bozza v0.1": si rigenerano dal Markdown a ogni
+I PDF sono **copie di lettura** con marcatura "Bozza v0.2": si rigenerano dal Markdown a ogni
 versione. Le correzioni si fanno nei file `.md`, non nel PDF.
 
 ## Il commentario
@@ -61,7 +61,7 @@ L'esempio numerico dell'art. 7.3 è anche un foglio Google con i numeri modifica
 
 Copia di revisione della scrittura privata, nella cartella Drive
 **Progetto GEM → 06 · Accordo tra soci**:
-**<https://docs.google.com/document/d/1QdQ9NwnauJw8ix3Fo-vJ2SCvV4NjEz8K3FS7qXH707s/edit>**
+**<https://docs.google.com/document/d/1FznIcVviozfEaZ69u2Ygc_B3EBVLvOV8RPOtFehyU9g/edit>**
 
 | Chi | Cosa fa | Dove |
 |---|---|---|

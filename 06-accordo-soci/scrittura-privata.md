@@ -1,6 +1,6 @@
 # Scrittura privata tra soci — Progetto GEM
 
-**Versione 0.1 — bozza del 13/09/2026 · non ancora condivisa né firmata**
+**Versione 0.2 — bozza del 16/09/2026 · in revisione tra i soci, non firmata**
 
 > ⚠️ Bozza redatta per fissare per iscritto quanto concordato a voce. **Non è consulenza
 > legale né fiscale.** Prima della firma va letta dal commercialista, in particolare
