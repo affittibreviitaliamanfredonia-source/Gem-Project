@@ -107,10 +107,10 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 `[x]` **15.** **Imposta di soggiorno**: chi la versa, per 36 persone × 90 notti?
 - Risposta (16/09): **la versiamo noi.** → è un Costo di progetto, già previsto all'art. 6.2 d).
-- Da fare: (a) chiedere al Comune di Manfredonia tariffa e **numero massimo di notti** su cui si
-  applica — molti comuni la limitano alle prime N notti, e su 90 notti fa differenza;
-  (b) inserire la stima nei **Parametri** del registro; (c) nel contratto con la capofila
-  scrivere che è **compresa** nei 2.000 € (domanda 22), così non torna come sorpresa.
+- Tariffa (16/09): **1,50 € a persona a notte, per le prime 5 notti al massimo** → 7,50 € a ospite
+  → **270 € in totale** (36 × 5 × 1,50). Peso trascurabile sul margine.
+- Da fare: nel contratto con la capofila scrivere che è **compresa** nei 2.000 € (domanda 22).
+  Nel registro si registra come *Costo · Altro costo* quando viene versata.
 
 `[ ]` **16.** **Momento impositivo** dell'80 % incassato prima dell'inizio del servizio.
 - Risposta:

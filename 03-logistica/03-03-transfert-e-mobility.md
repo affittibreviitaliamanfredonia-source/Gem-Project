@@ -78,6 +78,7 @@ Alimenta il calcolo del margine in [`../04-pagamenti/04-02-ripartizione-soci.md`
 | Alloggio | `DA STIMARE` | `DA STIMARE` | 🔴 |
 | Transfert | `DA STIMARE` | `DA STIMARE` | 🔴 |
 | Mobility | `DA STIMARE` | `DA STIMARE` | 🔴 |
+| Imposta di soggiorno (1,50 € × max 5 notti) | 7,50 € | 270 € | 🟢 nota il 16/09 |
 | **Totale costi variabili** | `DA CALCOLARE` | `DA CALCOLARE` | 🔴 |
 | Ricavo | 2.000 € | 72.000 € | 🟡 concordato a voce |
 | **Margine** | `DA CALCOLARE` | `DA CALCOLARE` | 🔴 |
