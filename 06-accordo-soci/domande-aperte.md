@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **13 + 12 parziali / 48**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **15 + 10 parziali / 49**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -56,7 +56,7 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 ### A5 · Compiti operativi → Allegato A
 `[x]` **5.** Chi fa cosa, nelle tre righe ancora "da assegnare":
 - Risposta (16/09): **tutto Gianluca**; Luigi solo saltuariamente, a supporto. Compiti di Gianluca: prendere i ragazzi all'arrivo, portarli agli alloggi, presentare alloggio, regole e norme; rapporti e pagamenti con i proprietari; welcome meeting con i tutor; contatto e contratto con le **aziende ospitanti** e primo accompagnamento in azienda con il tutor; transfert, mobility, regolamento casa, rubrica. → Allegato A, tabella compiti.
-- Nota: le **aziende ospitanti** compaiono qui per la prima volta. Se il servizio include anche il collocamento dei ragazzi in azienda, va scritto nel contratto B2B (cosa comprende, chi risponde di cosa) e rafforza la lettura "accoglienza complessa" del 7-ter (domanda 11).
+- Confermato (16/09): il servizio **comprende il collocamento in azienda** nell'ambito richiesto; contratto con l'azienda e primo accompagnamento con il tutor sono parte dell'accordo con la capofila. Dettagli da fissare: domanda 26b.
 - Nota: gli apporti sono asimmetrici ma complementari — Luigi porta il cliente, Gianluca firma,
   fattura, tiene il conto e sta sul posto 90 giorni. È l'argomento da usare nella domanda 6 e
   nell'assioma A7: il 50/50 regge se entrambi riconoscono che i due apporti si equivalgono.
@@ -68,14 +68,13 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Risposta (16/09): **regge.** Il tempo di chi lavora sul posto vale come apporto di lavoro; Luigi porta il contratto e il supporto. Nessun compenso fisso, nessun rimborso: apporti riconosciuti equivalenti. → art. 2.5 nuovo; art. 6.3 invariato.
 
 ### A7 · Recesso e impedimento → art. 11.2
-`[~]` **7.** La riduzione "in proporzione ai giorni trascorsi" va bene, o serve un criterio diverso?
-- Risposta (16/09): data sul recesso **della capofila** ("non esiste recesso: se i ragazzi arrivano parte il contratto"). Questo va nel contratto B2B (domanda 20), e la scrittura ora lo dice nel commentario dell'art. 11.
-- L'art. 11.2 però riguarda il recesso di **uno dei due soci** dopo la firma (malattia, forza maggiore): il criterio "in proporzione ai giorni" resta da confermare.
+`[x]` **7.** La riduzione "in proporzione ai giorni trascorsi" va bene, o serve un criterio diverso?
+- Risposta (16/09): **no.** Il recesso di un socio dopo la firma non è discrezionale: solo per impedimento grave che non permetta di operare nemmeno da remoto. Il socio impedito riprende gli anticipi, resta nell'accordo senza più operare, e riceve **almeno il 10 % del margine netto** per l'apporto dato fino a quel momento. → art. 11.2 riscritto, 11.4 allineato.
+- Il recesso della capofila non esiste ("se i ragazzi arrivano parte il contratto"): va nel contratto B2B (domanda 20).
 
 ### A8 · Perdita → art. 10.1
-`[~]` **8.** Se il margine diventa negativo, la perdita è 50/50 **senza tetto**? O ci si ferma a una cifra?
-- Risposta (16/09): **in parti uguali, con un tetto indicativo di 1.000 € ciascuno**, da valutare in base al contratto con la capofila.
-- Attenzione: un tetto scritto tra soci non cancella i debiti verso i proprietari. L'ho tradotto così (art. 10.1-bis, **da confermare**): prima dell'80 % non si impegnano più di **2.000 €** in totale, salvo consenso scritto di entrambi che vale come accettazione di un rischio maggiore. Se il tetto non è questo, va detto come funziona oltre i 1.000 €.
+`[x]` **8.** Se il margine diventa negativo, la perdita è 50/50 **senza tetto**? O ci si ferma a una cifra?
+- Risposta (16/09): **in parti uguali, impegno massimo 1.000 € ciascuno.** Per rispettarlo: contratti con gli immobili **senza caparre**; prima dell'80 % non più di **2.000 €** impegnati in totale, salvo consenso scritto di entrambi. → art. 10.1-bis confermato.
 
 ### A9 · Dati da compilare → art. 13, 15, parti
 `[ ]` **9.** Foro competente: `____________` · Email di progetto: `____________` *(ancora da creare, 16/09 sera)* · Email di Luigi: `____________`
@@ -155,6 +154,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[x]` **25.** I **voli** sono inclusi nei 2.000 €?
 - Risposta (16/09): **no, li pagano i ragazzi.** → da scrivere nel contratto con la capofila tra le esclusioni (domanda 22).
 `[ ]` **26.** Cosa comprende esattamente "mobility"?
+`[ ]` **26b.** **Collocamento in azienda** (confermato il 16/09 come parte del servizio: contratto con l'azienda e primo accompagnamento con il tutor, per l'ambito richiesto). Da fissare nel contratto B2B: chi definisce gli ambiti e quando; con quale forma giuridica i ragazzi stanno in azienda (tirocinio, mobilità Erasmus+, altro); chi copre **infortuni e responsabilità civile** in azienda; chi firma la convenzione con l'azienda; cosa succede se un'azienda si ritira.
+- Nota: è l'elemento più forte a favore della lettura "accoglienza complessa" (7-ter, domanda 11): va descritto bene nel contratto.
+- Risposta:
 `[~]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
 - Risposta (16/09): i documenti sono **valutazioni, certificati e documentazione correttamente firmata** (A6).
 - Chi giudica (16/09): **in parte i tutor**, che constatano che gli alloggi siano veri e adeguati e che il **posto di lavoro** corrisponda a quanto pattuito. Non è una valutazione discrezionale: è un **veto**.

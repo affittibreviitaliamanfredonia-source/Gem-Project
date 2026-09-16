@@ -12,7 +12,7 @@
 | Voce | Valore |
 |---|---|
 | Nome progetto | **GEM** |
-| Tipo | Accoglienza **B2B** per ragazzi post-diploma spagnoli |
+| Tipo | Accoglienza **B2B** per ragazzi post-diploma spagnoli, con **collocamento in aziende ospitanti** |
 | Capofila | Soggetto spagnolo, **ente non commerciale** — *identità giuridica e posizione IVA da confermare* ⚠️ |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
 | Firmatario e fatturante | **Gianluca Iaconeta** — chi fattura è da confermare col commercialista (16/09) |

@@ -7,17 +7,17 @@ Non riguardano la capofila: sono interni.
 |---|---|---|
 | [`documento-di-progetto.md`](documento-di-progetto.md) | Riassunto del progetto su cui i soci si impegnano — **Allegato A** della scrittura privata | 🟡 Bozza |
 | [`scrittura-privata.md`](scrittura-privata.md) | Accordo tra i soci: ruoli, soldi, decisioni, rischi | 🟡 Bozza |
-| [`domande-aperte.md`](domande-aperte.md) | **Lista di lavoro**: 10 assiomi e 48 domande, divise per chi deve rispondere, con spazio per le risposte | 🟡 13 + 10 parziali / 48 |
+| [`domande-aperte.md`](domande-aperte.md) | **Lista di lavoro**: 10 assiomi e 48 domande, divise per chi deve rispondere, con spazio per le risposte | 🟡 15 + 10 parziali / 49 |
 
 ## Versioni stampabili
 
 | PDF | Generato da |
 |---|---|
-| [`pdf/GEM-documento-di-progetto-v0.4.pdf`](pdf/GEM-documento-di-progetto-v0.4.pdf) | `documento-di-progetto.md` |
-| [`pdf/GEM-scrittura-privata-soci-v0.4.pdf`](pdf/GEM-scrittura-privata-soci-v0.4.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
-| [`pdf/GEM-scrittura-privata-soci-v0.4-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.4-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
+| [`pdf/GEM-documento-di-progetto-v0.5.pdf`](pdf/GEM-documento-di-progetto-v0.5.pdf) | `documento-di-progetto.md` |
+| [`pdf/GEM-scrittura-privata-soci-v0.5.pdf`](pdf/GEM-scrittura-privata-soci-v0.5.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
+| [`pdf/GEM-scrittura-privata-soci-v0.5-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.5-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
 
-I PDF sono **copie di lettura** con marcatura "Bozza v0.4": si rigenerano dal Markdown a ogni
+I PDF sono **copie di lettura** con marcatura "Bozza v0.5": si rigenerano dal Markdown a ogni
 versione. Le correzioni si fanno nei file `.md`, non nel PDF.
 
 ## Il commentario
@@ -63,8 +63,8 @@ Copia di revisione della scrittura privata, nella cartella Drive
 **Progetto GEM → 06 · Accordo tra soci**:
 **<https://docs.google.com/document/d/1FznIcVviozfEaZ69u2Ygc_B3EBVLvOV8RPOtFehyU9g/edit>**
 
-> Il Documento è fermo alla **v0.2** (mattina del 16/09). Le versioni 0.3 e 0.4 recepiscono le
-> risposte della videochiamata (art. 2, 4, 5, 6, 9, 10): il Documento si ricarica a fine giro.
+> Il Documento è fermo alla **v0.2** (mattina del 16/09). Le versioni 0.3–0.5 recepiscono le
+> risposte della videochiamata (art. 2, 4, 5, 6, 9, 10, 11): il Documento si ricarica a fine giro.
 
 | Chi | Cosa fa | Dove |
 |---|---|---|

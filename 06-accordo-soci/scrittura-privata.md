@@ -1,6 +1,6 @@
 # Scrittura privata tra soci — Progetto GEM
 
-**Versione 0.4 — bozza del 16/09/2026 · in revisione tra i soci, non firmata**
+**Versione 0.5 — bozza del 16/09/2026 · in revisione tra i soci, non firmata**
 
 > ⚠️ Bozza redatta per fissare per iscritto quanto concordato a voce. **Non è consulenza
 > legale né fiscale.** Prima della firma va letta dal commercialista, in particolare
@@ -28,8 +28,9 @@ di seguito insieme "i Soci" e ciascuno "il Socio".
 ## Premesse
 
 a) I Soci intendono realizzare insieme il progetto denominato **GEM**: l'accoglienza a
-Manfredonia di un gruppo di ragazzi spagnoli post-diploma — allo stato **36 ospiti** in
-camera singola per **90 notti**, dal **01/03/2027** al **30/05/2027** — per conto della
+Manfredonia di un gruppo di ragazzi spagnoli post-diploma, con il loro **collocamento presso
+aziende ospitanti** nell'ambito richiesto — allo stato **36 ospiti** in camera singola per
+**90 notti**, dal **01/03/2027** al **30/05/2027** — per conto della
 capofila spagnola `____________________________` *(ragione sociale, da compilare)*, di seguito
 "la Capofila", a fronte di un corrispettivo concordato a voce di **2.000 € netti per ospite**
 (IVA inclusa se dovuta, commissioni bancarie a carico della Capofila), pagabile 80 % all'arrivo
@@ -248,10 +249,11 @@ integrante dell'accordo.
 1. Se la Capofila **non paga**, in tutto o in parte, il mancato incasso è **a carico di
    entrambi i Soci al 50 %**: riduce il margine e, se il margine diventa negativo, la perdita
    è coperta in parti uguali.
-1-bis. I Soci intendono contenere la perdita possibile entro **1.000 € ciascuno** **[DA
-   CONFERMARE dopo il contratto con la Capofila]**. A tal fine, prima dell'incasso della
-   tranche dell'80 % i costi impegnati non superano complessivamente **2.000 €**, salvo
-   consenso scritto di entrambi, che vale come accettazione di una perdita possibile maggiore.
+1-bis. La perdita possibile è contenuta entro **1.000 € per ciascun Socio**, quale impegno
+   massimo. A tal fine: i contratti con gli immobili sono conclusi **senza caparre**; prima
+   dell'incasso della tranche dell'80 % i costi impegnati non superano complessivamente
+   **2.000 €**, salvo consenso scritto di entrambi, che vale come accettazione di una perdita
+   possibile maggiore.
 2. Le spese per il **recupero del credito** sono Costi di progetto, decise ai sensi dell'art. 8<!--decisioni-->.
 3. Il mancato incasso della tranche del 20 % si considera **definitivo** quando: la Capofila
    lo ha rifiutato per iscritto e i Soci hanno deciso di non agire; oppure sono trascorsi
@@ -260,7 +262,7 @@ integrante dell'accordo.
    recuperabili sono Costi di progetto, salvo l'art. 3.3<!--impegni-->.
 5. Ciascun Socio risponde **da solo** dei danni causati da sua colpa grave o dolo.
 
-> 💬 **Commentario.** Cosa succede se la capofila non paga: la perdita è **al 50/50**, come il guadagno. Il comma 1-bis traduce l'intenzione dei soci di non perdere più di 1.000 € a testa. Attenzione: un tetto scritto *tra voi* non cancella i debiti verso terzi — se avete impegnato 10.000 € di caparre e la capofila sparisce, il proprietario li vuole comunque, e il socio che ha firmato ne risponde. L'unico modo perché il tetto funzioni è **non impegnare più di 2.000 € prima dell'80 %**: è quello che dice il comma. Oltre, serve il sì scritto di entrambi, che vale come accettazione del rischio maggiore. Le spese per recuperare il credito sono costi di progetto e si decidono insieme. Il comma 3 dice quando il 20 % si considera *definitivamente* perso — serve per chiudere i conti e fare il saldo (art. 6.5<!--margine-->) invece di aspettare all'infinito. Il comma 5 esclude dal 50/50 i danni causati da colpa grave o dolo di uno dei due.
+> 💬 **Commentario.** Cosa succede se la capofila non paga: la perdita è **al 50/50**, come il guadagno. Il comma 1-bis fissa l'impegno massimo: 1.000 € a testa. Un tetto scritto *tra voi* non cancella i debiti verso terzi, quindi il comma dice anche *come* si rispetta: **contratti con gli immobili senza caparre** e **non più di 2.000 € impegnati prima dell'80 %**. Oltre, serve il sì scritto di entrambi, che vale come accettazione del rischio maggiore. Le spese per recuperare il credito sono costi di progetto e si decidono insieme. Il comma 3 dice quando il 20 % si considera *definitivamente* perso — serve per chiudere i conti e fare il saldo (art. 6.5<!--margine-->) invece di aspettare all'infinito. Il comma 5 esclude dal 50/50 i danni causati da colpa grave o dolo di uno dei due.
 
 
 ## Art. 11 — Impedimento, recesso, inadempimento <!--#recesso-->
@@ -268,18 +270,22 @@ integrante dell'accordo.
 1. **Prima della firma con la Capofila**, ciascun Socio può recedere con comunicazione
    scritta: gli sono rimborsati gli anticipi registrati, nulla altro è dovuto, e l'altro
    Socio è libero di proseguire da solo o con terzi.
-2. **Dopo la firma con la Capofila**, il recesso non è ammesso se non per **grave impedimento**
-   (salute, forza maggiore). In tal caso il Socio impedito conserva il diritto alla propria
-   quota di margine **ridotta in proporzione** alla parte di progetto non svolta, secondo un
-   criterio da concordare per iscritto entro 30 giorni; in mancanza di accordo, la quota è
-   ridotta in proporzione ai giorni di soggiorno trascorsi rispetto ai 90 complessivi.
+2. **Dopo la firma con la Capofila**, il recesso **non è discrezionale**: è ammesso solo per
+   **impedimento grave** (salute, forza maggiore) che renda impossibile al Socio operare,
+   anche da remoto. In tal caso il Socio impedito:
+   - riprende gli **anticipi** registrati, ai sensi dell'art. 5<!--anticipi-->;
+   - **resta parte** del presente accordo, senza più obblighi operativi né partecipazione
+     alle decisioni;
+   - conserva il diritto a una quota del margine netto **non inferiore al 10 %**, a
+     riconoscimento dell'apporto fornito fino a quel momento, salvo diverso accordo scritto;
+     il resto del margine spetta al Socio che prosegue.
 3. Se un Socio **non adempie** agli impegni dell'Allegato A e, dopo richiesta scritta, non vi
    provvede entro 15 giorni, l'altro Socio può assumere i compiti mancanti e i costi che ne
    derivano (anche il compenso a terzi) sono addebitati alla quota del Socio inadempiente.
-4. In caso di **decesso** di un Socio, gli eredi hanno diritto alla quota di margine maturata
-   secondo il criterio del comma 2.
+4. In caso di **decesso** di un Socio, gli eredi hanno diritto alla quota di margine prevista
+   dal comma 2.
 
-> 💬 **Commentario.** Le cose spiacevoli che vanno scritte prima. Questo articolo riguarda il recesso di **uno dei due soci**, non quello della capofila: se la capofila può o non può uscire dal contratto lo decide il contratto B2B con lei (domanda 20 della lista), non questa scrittura. **Prima della firma con la capofila** ci si può ritirare: rimborso degli anticipi e basta. **Dopo**, no, salvo impedimento grave — e in quel caso la quota si riduce in proporzione al lavoro non svolto. Il comma 3 gestisce il socio che non fa la sua parte: l'altro può sostituirlo e i costi vanno a carico di chi non ha adempiuto. Il comma 4 tutela gli eredi.
+> 💬 **Commentario.** Le cose spiacevoli che vanno scritte prima. Questo articolo riguarda il recesso di **uno dei due soci**, non quello della capofila: se la capofila può o non può uscire dal contratto lo decide il contratto B2B con lei (domanda 20 della lista), non questa scrittura. **Prima della firma con la capofila** ci si può ritirare: rimborso degli anticipi e basta. **Dopo**, no: non si esce per scelta, solo per un impedimento grave che non permetta di lavorare nemmeno da remoto. Chi è impedito riprende i suoi anticipi, resta formalmente nell'accordo senza più fare nulla, e riceve **almeno il 10 % del margine netto** per quello che ha dato fino a quel momento; il resto va a chi porta avanti il progetto. Il 10 % è un minimo: se l'impedimento arriva a progetto quasi finito, potete concordare per iscritto una quota maggiore. Il comma 3 gestisce il socio che non fa la sua parte: l'altro può sostituirlo e i costi vanno a carico di chi non ha adempiuto. Il comma 4 tutela gli eredi.
 
 
 ## Art. 12 — Comunicazioni <!--#comunicazioni-->

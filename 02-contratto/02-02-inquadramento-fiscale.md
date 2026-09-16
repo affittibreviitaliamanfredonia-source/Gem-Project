@@ -26,7 +26,7 @@ Le due letture possibili:
 
 | Lettura | Qualificazione | Conseguenza |
 |---|---|---|
-| **A** | Servizio **complesso** di accoglienza (coordinamento, assistenza, mobility, gestione documentale), di cui l'alloggio è una componente | 7-ter → fattura **senza IVA** |
+| **A** | Servizio **complesso** di accoglienza (coordinamento, assistenza, mobility, **collocamento in azienda** con contratto e accompagnamento, gestione documentale), di cui l'alloggio è una componente | 7-ter → fattura **senza IVA** |
 | **B** | Prestazione essenzialmente di **alloggio** in Italia | 7-quater → **IVA italiana dovuta** (10 % o 22 % secondo la qualificazione) |
 
 **Impatto economico se vale la lettura B e il prezzo resta 2.000 € "netti":**

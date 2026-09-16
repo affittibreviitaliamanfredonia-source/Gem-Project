@@ -9,6 +9,7 @@
 | Prezzo unitario | **2.000 € netti per persona** |
 | Periodo coperto | **90 giorni** |
 | Sistemazione inclusa | Camera **singola** |
+| Incluso anche | **Collocamento in azienda** nell'ambito richiesto: contratto con l'azienda e primo accompagnamento con il tutor (16/09) |
 | Numero ospiti (corrente) | **36** — indicativo, potranno essere di più o di meno (16/09) |
 | **Ricavo lordo teorico** | **72.000 €** (36 × 2.000 €) |
 

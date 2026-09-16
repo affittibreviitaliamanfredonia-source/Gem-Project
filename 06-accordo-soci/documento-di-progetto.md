@@ -1,6 +1,6 @@
 # Progetto GEM — Documento di progetto
 
-**Allegato A alla scrittura privata tra i soci** · Versione 0.4 — bozza del 16/09/2026
+**Allegato A alla scrittura privata tra i soci** · Versione 0.5 — bozza del 16/09/2026
 
 > Questo documento dice **cosa** è il progetto e **a cosa ci impegniamo**. Le regole su soldi,
 > decisioni e imprevisti stanno nella [scrittura privata](scrittura-privata.md). I due
@@ -12,11 +12,11 @@
 
 | | |
 |---|---|
-| **Cosa** | Accoglienza in Italia, a Manfredonia, di un gruppo di ragazzi spagnoli post-diploma |
+| **Cosa** | Accoglienza in Italia, a Manfredonia, di un gruppo di ragazzi spagnoli post-diploma, e loro **collocamento in aziende ospitanti** nell'ambito richiesto |
 | **Per conto di chi** | Una capofila spagnola — è lei il cliente. I ragazzi non sono clienti nostri |
 | **Quanti** | **36 ospiti**, ciascuno in **camera singola** |
 | **Quando** | Arrivo **01/03/2027**, partenza **30/05/2027** — **90 notti** |
-| **Cosa forniamo** | Alloggio · transfert arrivo/partenza · mobility locale · assistenza durante il soggiorno · rapporti con le aziende ospitanti (contatto, contratto, primo accompagnamento) · documentazione di fine percorso |
+| **Cosa forniamo** | Alloggio · transfert arrivo/partenza · mobility locale · assistenza durante il soggiorno · **collocamento in azienda** (contatto, contratto con l'azienda, primo accompagnamento con il tutor) · documentazione di fine percorso |
 | **Chi siamo** | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % |
 
 ## 2. I numeri
@@ -81,7 +81,7 @@ equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 | 4 | **7-quater**: se il servizio è "alloggio", l'IVA italiana è dovuta — fino a 15.840 € di margine in meno | Parere scritto del commercialista prima della firma |
 | 5 | **Ci sono minorenni** tra gli ospiti (confermato 16/09) | Numero e responsabile dalla capofila; manleva e consensi firmati da genitori o tutori, allegati al contratto |
 | 6 | Il 20 % è condizionato a un controllo fatto dalla controparte | Elenco documenti tassativo allegato al contratto, termine di contestazione |
-| 7 | Cassa: le caparre si pagano prima dell'80 % | Anticipi in parti uguali, restituiti a consuntivo; piano di cassa nella scrittura privata (art. 5<!--anticipi-->) |
+| 7 | Cassa e perdita: i costi si impegnano prima dell'80 % | Contratti con gli immobili **senza caparre**; non più di 2.000 € impegnati prima dell'80 %; perdita massima 1.000 € a socio (art. 10<!--mancato-incasso-->); anticipi in parti uguali, restituiti all'arrivo dell'80 % (art. 5<!--anticipi-->) |
 
 ## 6. Le date
 
