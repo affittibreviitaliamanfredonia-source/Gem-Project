@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **18 + 8 parziali / 49**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **19 + 8 parziali / 49**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -15,7 +15,7 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 
 | # | Assioma | Stato | Risposta dei soci (16/09) | Se cade… |
 |---|---|---|---|---|
-| A1 | Il rapporto è **B2B** con la capofila | `[~]` | La capofila è un **ente non commerciale**. Resta da verificare se è soggetto passivo IVA (VAT attivo su VIES): se non lo è, il reverse charge non si applica → domanda 11b | cambiano IVA, contratto, responsabilità |
+| A1 | Il rapporto è **B2B** con la capofila | `[x]` | **Confermato: la capofila è un ente commerciale** (corretto il 16/09 sera; in un primo momento era stata indicata come non commerciale). Resta solo la verifica VIES del VAT, già prevista | cambiano IVA, contratto, responsabilità |
 | A2 | 2.000 € sono **netti per noi** | `[x]` | **Sì.** IVA **inclusa** nei 2.000 € se dovesse risultare dovuta; **commissioni bancarie a carico della capofila** | se l'IVA è dovuta, esce dai 2.000 €: fino a 12.984 € su 72.000 € (scorporo al 22 %) |
 | A3 | Il servizio è **accoglienza** (7-ter), non alloggio (7-quater) | `[x]` | **Confermato** dai soci. Attenzione: la qualifica la decide la sostanza del servizio e il parere del commercialista (domanda 11), non l'etichetta | fino a 12.984 € di IVA a nostro carico |
 | A4 | Gli ospiti sono **36** e restano 36 | `[x]` | **36 è indicativo: potranno essere di più o di meno.** Serve nel contratto B2B un minimo garantito e una data entro cui il numero è definitivo (domanda 20) | perdita secca su camere già impegnate |
@@ -91,8 +91,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **11.** **7-ter o 7-quater?** Il servizio è accoglienza complessa o alloggio? Serve un **parere scritto**. → A3, art. 6.2 f)
 - Risposta:
 
-`[ ]` **11b.** La capofila è un **ente non commerciale** (A1): è soggetto passivo IVA, con VAT attivo su VIES? Se **no**, il reverse charge non si applica e la fattura va emessa con **IVA italiana**, che per l'assioma A2 esce dai 2.000 €. → premessa d), art. 6.2 f)
-- Risposta:
+`[x]` **11b.** ~~La capofila è un ente non commerciale: è soggetto passivo IVA?~~
+- Superata (16/09 sera): **la capofila è un ente commerciale**, quindi soggetto passivo. Resta la verifica del VAT su VIES alla data di ciascuna fattura, già prevista nell'inquadramento fiscale.
 
 `[ ]` **12.** Con quale **titolo fiscale** Luigi riceve il 50 %: fattura, associazione in partecipazione, altro? Con quali costi per ciascuno? → art. 7
 - Nota (16/09): i soci aggiungono l'ipotesi **SRL** tra i due. Da chiedere al commercialista costi e tempi di costituzione e gestione per un progetto da 72.000 € e 90 giorni. Se si sceglie la SRL, cambiano art. 1.2 (oggi: "non costituisce società"), 2, 4 e 7.

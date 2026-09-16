@@ -13,7 +13,7 @@
 |---|---|
 | Nome progetto | **GEM** |
 | Tipo | Accoglienza **B2B** per ragazzi post-diploma spagnoli, con **collocamento in aziende ospitanti** |
-| Capofila | Soggetto spagnolo, **ente non commerciale** — *identità giuridica e posizione IVA da confermare* ⚠️ |
+| Capofila | Soggetto spagnolo, **ente commerciale** — *ragione sociale e VAT da confermare* ⚠️ |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
 | Firmatario e fatturante | **Gianluca Iaconeta** — chi fattura è da confermare col commercialista (16/09) |
 | Durata soggiorno | **90 notti** per ospite |
@@ -67,7 +67,7 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 | Q1 | **Identità giuridica della capofila** — ragione sociale, VAT number, sede legale | Capofila | 🔴 Alta | ❓ Aperta |
 | Q2 | **Contratto scritto** — chi redige, quale legge applicabile, quale foro | Capofila | 🔴 Alta | ❓ Aperta |
 | Q3 | **Penali e forza maggiore** — cancellazioni, no-show, riduzione numero ospiti | Capofila | 🔴 Alta | ❓ Aperta |
-| Q4 | **7-ter o 7-quater?** — se il servizio è qualificato come alloggio, l'IVA italiana resta dovuta; la capofila è un ente non commerciale: va verificato che sia soggetto passivo IVA | Commercialista | 🔴 Alta | ❓ Aperta |
+| Q4 | **7-ter o 7-quater?** — se il servizio è qualificato come alloggio, l'IVA italiana resta dovuta | Commercialista | 🔴 Alta | ❓ Aperta |
 | Q5 | **Età degli ospiti** — **confermata la presenza di minorenni** (16/09): servono numero, responsabile, manleva dei genitori o tutori | Capofila | 🔴 Alta | 🟡 Parziale |
 
 Dettaglio e formulazione delle domande: [`01-trattativa/01-02-domande-aperte-capofila.md`](01-trattativa/01-02-domande-aperte-capofila.md)

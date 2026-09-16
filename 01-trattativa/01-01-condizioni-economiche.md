@@ -21,9 +21,8 @@
 
 ## Regime IVA
 
-- Operazione **B2B intracomunitaria**. La capofila è un **ente non commerciale** (16/09):
-  il reverse charge regge solo se è comunque soggetto passivo IVA, con VAT attivo su VIES
-  (domanda 11b al commercialista).
+- Operazione **B2B intracomunitaria**: la capofila è un **ente commerciale** (confermato il 16/09),
+  quindi soggetto passivo IVA nel suo paese.
 - Territorialità: **art. 7-ter DPR 633/1972** → rilevante nel paese del committente (Spagna).
 - Fattura italiana emessa **senza IVA**, con dicitura di inversione contabile.
 - **Condizione necessaria:** VAT number della capofila valido e attivo su VIES.
