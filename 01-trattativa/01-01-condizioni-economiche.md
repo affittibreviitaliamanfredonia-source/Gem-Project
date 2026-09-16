@@ -41,6 +41,10 @@ Dettaglio operativo: [`../02-contratto/02-02-inquadramento-fiscale.md`](../02-co
 Il saldo è **condizionato**. Finché non è definito per iscritto *quali documenti*,
 *entro quando* e *chi giudica la conformità*, i 14.400 € sono un credito a rischio.
 
+Chi giudica (16/09): i **tutor** della capofila, con un potere di **veto** sulla veridicità e
+adeguatezza degli alloggi e sulla corrispondenza del posto di lavoro. Perché il veto non sia
+discrezionale, i criteri vanno scritti e la verifica va fatta all'arrivo.
+
 Da fissare nel contratto:
 1. **Elenco tassativo** dei documenti richiesti — nessuna formula aperta tipo "e ogni altro documento".
 2. **Termine** entro cui la capofila deve contestare (es. 15 giorni dalla consegna); scaduto il termine, silenzio = accettazione.

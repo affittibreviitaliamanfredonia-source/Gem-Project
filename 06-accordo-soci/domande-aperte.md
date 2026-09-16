@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **13 + 10 parziali / 48**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **13 + 12 parziali / 48**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -144,8 +144,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Nota (16/09): 36 è indicativo, potranno essere di più o di meno (A4). Chiedere anche **entro quale data** il numero diventa definitivo e come si gestiscono gli ospiti in più.
 `[~]` **21.** Età degli ospiti; quanti minorenni; chi esercita la responsabilità. *(Q5)*
 - Risposta (16/09): **non sono tutti maggiorenni** (A8). Restano da avere: quanti, con quale età, chi esercita la responsabilità durante il soggiorno.
-`[ ]` **21b.** **Manleva e consensi per i minorenni**, firmati da genitori o tutori: chi li predispone (noi o la capofila), in quale lingua, cosa coprono (regolamento della casa, sanitario, privacy, uscite). Da allegare al contratto B2B.
-- Risposta:
+`[~]` **21b.** **Manleva e consensi per i minorenni**, firmati da genitori o tutori: chi li predispone (noi o la capofila), in quale lingua, cosa coprono (regolamento della casa, sanitario, privacy, uscite). Da allegare al contratto B2B.
+- Risposta (16/09): **la scriviamo noi** e la proponiamo alla capofila; loro offriranno una soluzione, una modifica o un'alternativa.
+- Da fare: bozza della richiesta di manleva (in italiano, con traduzione in spagnolo) da allegare all'email alla capofila. Cosa deve coprire e chi la firma: aperto fino alla loro risposta.
 
 **Numeri**
 `[ ]` **22.** "Netti": netti per noi o netti per voi? Nessuna ritenuta o commissione a nostro carico?
@@ -155,7 +156,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Risposta (16/09): **no, li pagano i ragazzi.** → da scrivere nel contratto con la capofila tra le esclusioni (domanda 22).
 `[ ]` **26.** Cosa comprende esattamente "mobility"?
 `[~]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
-- Risposta (16/09): i documenti sono **valutazioni, certificati e documentazione correttamente firmata** (A6). Restano aperti: termine di consegna, termine di contestazione, chi giudica, contestazione parziale.
+- Risposta (16/09): i documenti sono **valutazioni, certificati e documentazione correttamente firmata** (A6).
+- Chi giudica (16/09): **in parte i tutor**, che constatano che gli alloggi siano veri e adeguati e che il **posto di lavoro** corrisponda a quanto pattuito. Non è una valutazione discrezionale: è un **veto**.
+- Attenzione: un veto è discrezionale finché non sono scritti i criteri. Nel contratto B2B vanno fissati: cosa rende un alloggio "adeguato" (camera singola, servizi, distanza), cosa significa "posto di lavoro corrispondente", entro quando il tutor lo verifica (all'arrivo, non alla partenza), e che un veto motivato su un singolo ospite trattiene solo la quota di quell'ospite. Restano aperti: termine di consegna, termine di contestazione, contestazione parziale.
 `[ ]` **28.** Termini di pagamento di ciascuna tranche, in giorni.
 
 **Responsabilità**

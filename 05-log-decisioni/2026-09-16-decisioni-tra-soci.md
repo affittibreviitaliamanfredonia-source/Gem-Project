@@ -43,6 +43,10 @@
     se a una società, leggibile da entrambi (art. 4.2).
 18. **Perdita**: in parti uguali, con l'intenzione di non superare 1.000 € a testa; tradotta
     in un limite ai costi impegnati prima dell'80 % (art. 10.1-bis, da confermare).
+19. **Manleva per i minorenni**: la scriviamo noi e la proponiamo alla capofila, che risponderà
+    con una soluzione, una modifica o un'alternativa.
+20. **Controllo del 20 %**: lo fanno in parte i tutor della capofila, con potere di veto su
+    alloggi e posto di lavoro; non una valutazione discrezionale. Criteri da scrivere nel B2B.
 
 ## Conseguenze
 

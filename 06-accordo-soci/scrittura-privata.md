@@ -139,8 +139,9 @@ integrante dell'accordo.
 3. Gli anticipi sono **rimborsati a ciascun Socio per l'importo esatto anticipato** dopo
    l'incasso della tranche dell'80 % e il pagamento dei costi maturati, e comunque **prima di
    qualsiasi distribuzione** di margine. Il conto consuntivo ne dà evidenza.
-5. Non esiste una cassa precostituita: i Soci versano **all'occorrenza**, in parti uguali,
-   quanto serve secondo il piano di cassa.
+5. Non esiste una cassa precostituita: i Soci versano **all'occorrenza**, in parti uguali e
+   **con fondi propri**, quanto serve secondo il piano di cassa; riprendono quanto versato
+   all'arrivo della prima tranche, ai sensi del comma 3.
 4. Prima della firma con la Capofila i Soci redigono insieme un **piano di cassa**: quali
    costi maturano in quali date, con quali fondi si coprono. Il piano è allegato al registro.
 

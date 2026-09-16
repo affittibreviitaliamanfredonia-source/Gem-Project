@@ -16,7 +16,7 @@ firmata**. Restano da fissare l'elenco voce per voce e le regole qui sotto.
 | **Formato e lingua** accettati | Evita rifiuti per motivi formali | 🔴 |
 | **Termine di consegna** dopo la partenza | Certezza sui tempi | 🔴 |
 | **Termine di contestazione** (es. 15 gg) | Oltre il termine, silenzio = accettazione | 🔴 |
-| **Chi giudica** la conformità | Evita il rifiuto discrezionale | 🔴 |
+| **Chi giudica** la conformità | I **tutor** della capofila, con potere di **veto** su alloggi (veri, adeguati) e posto di lavoro (corrispondente). Servono criteri scritti e verifica **all'arrivo**, non alla partenza (16/09) | 🟡 |
 | **Contestazione parziale** | Si paga il non contestato, si trattiene solo il contestato | 🔴 |
 | **Sanatoria** | Diritto di integrare un documento mancante entro un termine | 🔴 |
 
