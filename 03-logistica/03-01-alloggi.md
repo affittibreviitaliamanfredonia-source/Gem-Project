@@ -33,6 +33,16 @@ non dopo.
 
 Stato: 🔴 da contattare · 🟡 preventivo richiesto · 🟢 preventivo ricevuto · ✅ prenotato
 
+## Linea sui contratti con i proprietari (decisa il 16/09)
+
+| Regola | Come |
+|---|---|
+| **Nessuna caparra** | Si firma senza caparra: la perdita massima tra soci è 1.000 € a testa (scrittura privata, art. 10) |
+| **Pagamento all'arrivo** | All'arrivo dei ragazzi si pagano **tutti e tre i mesi**, così i proprietari sono tranquilli senza caparra |
+| **Registrazione** | Se il contratto si registra, l'imposta di registro è **al 50 % con il proprietario** (come prevede la legge) |
+| **Penale al proprietario** | Nei contratti mettiamo una penale a carico di chi si svincola prima dell'arrivo |
+| **Intestazione** | Chi firma i contratti (Gianluca, la sua agenzia o una società) lo dice il commercialista: il costo dell'affitto si scarica solo se lo sostiene lo stesso soggetto che fattura alla capofila |
+
 ## Punti da verificare con ogni struttura
 
 - [ ] Disponibilità di **36 singole contemporanee** dal 01/03 al 30/05/2027 (90 notti)

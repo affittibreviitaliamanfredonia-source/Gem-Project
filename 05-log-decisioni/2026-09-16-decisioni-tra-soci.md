@@ -67,6 +67,13 @@
   (manleva per i minorenni). Scrittura privata alla versione 0.5.
 - Foro: **Foggia** (art. 14). Comunicazioni formali all'indirizzo di residenza del firmatario o
   alla sede legale della società (art. 12). Conto corrente intestato al soggetto firmante (art. 4).
+- **Affitti**: nessuna caparra, tutti e tre i mesi pagati all'arrivo; registrazione al 50 % con
+  il proprietario; nessuna tassa gestita da noi sugli affitti; eventuale triangolazione dei
+  contratti sull'agenzia di Gianluca, da valutare con la commercialista.
+- Art. 7: tolta l'associazione in partecipazione con apporto d'opera (non ammessa per le persone
+  fisiche dal 2015); resta con apporto di capitale.
+- Alle domande fiscali 11–14 sono state aggiunte risposte provvisorie da ricerca, in attesa
+  della commercialista.
 - Fattura dell'80 % emessa qualche giorno prima dell'arrivo, incasso il giorno dell'arrivo.
 - L'email di progetto si crea dopo aver deciso il soggetto che fa il progetto (persona o società),
   perché il nome dell'indirizzo lo rappresenta verso tutti.

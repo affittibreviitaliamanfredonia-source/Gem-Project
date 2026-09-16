@@ -188,7 +188,8 @@ integrante dell'accordo.
 2. La modalità è **[DA DECIDERE col commercialista]** tra, a titolo di esempio:
    - ☐ fattura (o altro documento fiscale idoneo) emessa dal Socio Operativo al Socio
      Firmatario per i servizi resi al progetto, di importo pari alla quota di margine;
-   - ☐ contratto di **associazione in partecipazione** con apporto d'opera;
+   - ☐ contratto di **associazione in partecipazione** con apporto di **capitale** (per una
+     persona fisica l'apporto di solo lavoro non è ammesso dal 2015, art. 2549 c.c.);
    - ☐ altra forma indicata dal commercialista.
 3. Gli **oneri fiscali** che ciascuna modalità comporta per l'uno o per l'altro Socio sono
    valutati **prima** della scelta; se una modalità sposta un carico fiscale su un solo Socio,
@@ -197,7 +198,7 @@ integrante dell'accordo.
 4. Fino alla definizione di questo articolo **non si effettuano distribuzioni**, salvo il
    rimborso degli anticipi di cui all'art. 5<!--anticipi-->.
 
-> 💬 **Commentario.** Alla capofila fattura solo Gianluca: i 72.000 € sono ricavi suoi per il fisco. Girare metà del margine a Luigi con un semplice bonifico crea un problema a entrambi — Gianluca paga le tasse su tutto, Luigi riceve soldi senza un documento che li giustifichi. Serve un **titolo**: una fattura di Luigi, un contratto di associazione in partecipazione, o altro. Quale, lo dice il commercialista, perché ogni strada costa tasse diverse.
+> 💬 **Commentario.** Alla capofila fattura solo Gianluca: i 72.000 € sono ricavi suoi per il fisco. Girare metà del margine a Luigi con un semplice bonifico crea un problema a entrambi — Gianluca paga le tasse su tutto, Luigi riceve soldi senza un documento che li giustifichi. Serve un **titolo**: una fattura di Luigi, un contratto di associazione in partecipazione (solo con apporto di denaro: dal 2015 una persona fisica non può "associarsi" apportando solo lavoro), una società tra i due, o altro. Quale, lo dice il commercialista, perché ogni strada costa tasse diverse.
 >
 > Il comma 3 protegge il 50/50 *reale*. Esempio con numeri ipotetici, margine 30.000 €, 15.000 € a testa sulla carta:
 >

@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **19 + 8 parziali / 49**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **19 + 12 parziali / 49**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -88,23 +88,44 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 ## B · Al commercialista — bloccano la firma con la capofila
 
-`[ ]` **11.** **7-ter o 7-quater?** Il servizio è accoglienza complessa o alloggio? Serve un **parere scritto**. → A3, art. 6.2 f)
-- Risposta:
+`[~]` **11.** **7-ter o 7-quater?** Il servizio è accoglienza complessa o alloggio? Serve un **parere scritto**. → A3, art. 6.2 f)
+- Risposta provvisoria (ricerca, 16/09 — da confermare col commercialista):
+  - La regola B2B è il **7-ter** (IVA nel paese del cliente). La deroga **7-quater** vale per i servizi "relativi a beni immobili", e il regolamento UE 282/2011 (art. 31-bis) ci mette dentro anche "la fornitura di alloggio nel settore alberghiero o in settori con funzione analoga".
+  - Per un servizio unico con più componenti conta la **componente prevalente**. Con alloggio, transfert, mobility, assistenza 24/7, collocamento in azienda con contratto e tutor, documentazione: la lettura "accoglienza complessa" è sostenibile, ma l'alloggio resta la voce di costo più grande, quindi il rischio 7-quater non è zero.
+  - Cosa lo riduce: contratto B2B che descrive il servizio come programma di accoglienza e inserimento in azienda, con un prezzo unico non spacchettato; eventuale **interpello** all'Agenzia (risposta in 90–120 giorni: da presentare a ottobre per averla prima della firma di dicembre).
+  - Se la lettura fosse 7-quater: IVA al 10 % (alloggio in strutture ricettive) o 22 %, scorporata dai 2.000 €: 6.545 € o 12.984 € in meno su 72.000 €.
+  - **Attenzione 74-ter**: se chi fattura è un'**agenzia di viaggi** e vende alloggio + trasporto comprati da terzi, scatta il regime speciale delle agenzie (IVA sul margine, tassata in Italia, niente reverse charge). Va chiarito se l'agenzia di Gianluca rientra in questa categoria.
+- Risposta del commercialista:
 
 `[x]` **11b.** ~~La capofila è un ente non commerciale: è soggetto passivo IVA?~~
 - Superata (16/09 sera): **la capofila è un ente commerciale**, quindi soggetto passivo. Resta la verifica del VAT su VIES alla data di ciascuna fattura, già prevista nell'inquadramento fiscale.
 
-`[ ]` **12.** Con quale **titolo fiscale** Luigi riceve il 50 %: fattura, associazione in partecipazione, altro? Con quali costi per ciascuno? → art. 7
-- Nota (16/09): i soci aggiungono l'ipotesi **SRL** tra i due. Da chiedere al commercialista costi e tempi di costituzione e gestione per un progetto da 72.000 € e 90 giorni. Se si sceglie la SRL, cambiano art. 1.2 (oggi: "non costituisce società"), 2, 4 e 7.
-- Risposta:
+`[~]` **12.** Con quale **titolo fiscale** Luigi riceve il 50 %: fattura, associazione in partecipazione, altro? Con quali costi per ciascuno? → art. 7
+- Nota (16/09): i soci aggiungono l'ipotesi **SRL** tra i due. Se si sceglie la SRL, cambiano art. 1.2 (oggi: "non costituisce società"), 2, 4 e 7.
+- Risposta provvisoria (ricerca, 16/09 — da confermare col commercialista):
+  - **Associazione in partecipazione con apporto di lavoro: non si può.** Dal 2015 (Jobs Act, art. 2549 c.c.) una persona fisica può associarsi solo apportando **capitale**. L'art. 7 della scrittura è stato corretto.
+  - **Fattura di Luigi** a Gianluca: serve una partita IVA di Luigi (ne ha una? in quale regime?). Per Gianluca è un costo deducibile solo se è in regime **ordinario**; in **forfettario** i costi non si deducono, e il 50 % di Luigi verrebbe tassato due volte.
+  - **Prestazione occasionale**: non adatta a 15–30.000 €: sopra 5.000 € scatta la gestione separata INPS e l'"occasionalità" è difficile da sostenere.
+  - **SRL** tra i due: costi indicativi 1.500–3.000 € per costituirla e 2.000–3.000 € l'anno di tenuta, più la chiusura; tassazione IRES + IRAP (circa 28 %) e poi 26 % sui dividendi. È la forma più pulita per il 50/50 e per la responsabilità, ma pesa su un progetto da 90 giorni.
+- Risposta del commercialista:
 
-`[ ]` **13.** Con quale **posizione** fattura Gianluca (ditta individuale, società, regime)? Conviene così o diversamente? → art. 2
+`[~]` **13.** Con quale **posizione** fattura Gianluca (ditta individuale, società, regime)? Conviene così o diversamente? → art. 2
 - Nota (16/09): i soci hanno rimesso al commercialista anche **chi** dei due fattura (A9). Tutti i
   documenti oggi assumono Gianluca; se la risposta è diversa cambiano art. 2, 4, 7 e le premesse.
-- Risposta:
+- Risposta provvisoria (ricerca, 16/09 — da confermare col commercialista). Dipende da due dati che mancano: **l'agenzia di Gianluca è in forfettario o in ordinario?** ed **è un'agenzia di viaggi** (74-ter) o un'agenzia di gestione affitti?
+  - **Forfettario**: limite 85.000 € di ricavi l'anno (uscita dall'anno dopo), 100.000 € uscita immediata con IVA dalla fattura che sfora. 72.000 € di GEM sommati ai ricavi dell'agenzia rischiano di superarli. Inoltre i costi (affitti, quota di Luigi) **non si deducono**: si paga sul 40 % o sul 78 % dei ricavi a seconda del codice ATECO. Con costi reali intorno al 60 % e la metà del margine a Luigi, è quasi certamente la scelta peggiore.
+  - **Ordinario** (ditta individuale o agenzia esistente): affitti e fattura di Luigi deducibili, IVA sugli acquisti detraibile; si paga IRPEF sul margine effettivo.
+  - **SRL nuova**: vedi domanda 12. Vantaggio in più: un soggetto con un nome, una PEC e un'email di progetto propri (domanda 44).
+- Risposta del commercialista:
 
-`[ ]` **14.** L'**IVA sugli acquisti** di alloggio è detraibile? (dipende dalla 11)
-- Risposta:
+`[~]` **14.** L'**IVA sugli acquisti** di alloggio è detraibile? (dipende dalla 11)
+- Risposta dei soci (16/09): sugli affitti **non gestiamo nessuna tassa**. Se il contratto si registra, l'imposta di registro è al 50 % con il proprietario. Niente caparra: all'arrivo si pagano tutti e tre i mesi. Scaricare i costi d'affitto è possibile solo triangolando i contratti su un altro soggetto, per esempio l'agenzia di Gianluca: lo decide la commercialista. → [alloggi](../03-logistica/03-01-alloggi.md).
+- Risposta provvisoria (ricerca, 16/09 — da confermare col commercialista):
+  - **Proprietari privati**, affitto abitativo: **niente IVA**. Imposta di registro **2 %** del canone (sui 3 mesi, minimo 67 €) divisa a metà per legge, più bollo; obbligo di registrazione perché il contratto supera 30 giorni. Forma adatta: **contratto transitorio** (da 1 a 18 mesi, con l'esigenza transitoria scritta) o contratto turistico, se l'uso lo consente.
+  - Se il proprietario sceglie la **cedolare secca**, non c'è registro né bollo: la Cassazione (sent. 12395/2024) la ammette anche se l'inquilino è un'impresa, ma l'Agenzia delle Entrate non è d'accordo. È un problema del proprietario, non nostro: basta non promettergliela.
+  - **Strutture ricettive** (B&B, case vacanze in forma d'impresa): fattura con **IVA al 10 %**, detraibile se chi la riceve è in regime ordinario. Con il 7-ter la nostra operazione non ha IVA italiana ma **dà comunque diritto alla detrazione** (art. 19, c. 3, lett. b, DPR 633/72).
+  - **Il costo dell'affitto si deduce solo se lo sostiene lo stesso soggetto che fattura alla capofila** (inerenza). La triangolazione sull'agenzia funziona solo se è l'agenzia a fatturare i 72.000 €.
+- Risposta del commercialista:
 
 `[x]` **15.** **Imposta di soggiorno**: chi la versa, per 36 persone × 90 notti?
 - Risposta (16/09): **la versiamo noi.** → è un Costo di progetto, già previsto all'art. 6.2 d).

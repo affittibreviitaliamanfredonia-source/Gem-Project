@@ -7,7 +7,7 @@ Non riguardano la capofila: sono interni.
 |---|---|---|
 | [`documento-di-progetto.md`](documento-di-progetto.md) | Riassunto del progetto su cui i soci si impegnano — **Allegato A** della scrittura privata | 🟡 Bozza |
 | [`scrittura-privata.md`](scrittura-privata.md) | Accordo tra i soci: ruoli, soldi, decisioni, rischi | 🟡 Bozza |
-| [`domande-aperte.md`](domande-aperte.md) | **Lista di lavoro**: 10 assiomi e 48 domande, divise per chi deve rispondere, con spazio per le risposte | 🟡 19 + 8 parziali / 49 |
+| [`domande-aperte.md`](domande-aperte.md) | **Lista di lavoro**: 10 assiomi e 48 domande, divise per chi deve rispondere, con spazio per le risposte | 🟡 19 + 12 parziali / 49 |
 
 ## Versioni stampabili
 
