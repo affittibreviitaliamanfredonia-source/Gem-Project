@@ -1,6 +1,6 @@
 # Scrittura privata tra soci — Progetto GEM
 
-**Versione 0.2 — bozza del 16/09/2026 · in revisione tra i soci, non firmata**
+**Versione 0.3 — bozza del 16/09/2026 · in revisione tra i soci, non firmata**
 
 > ⚠️ Bozza redatta per fissare per iscritto quanto concordato a voce. **Non è consulenza
 > legale né fiscale.** Prima della firma va letta dal commercialista, in particolare
@@ -31,8 +31,10 @@ a) I Soci intendono realizzare insieme il progetto denominato **GEM**: l'accogli
 Manfredonia di un gruppo di ragazzi spagnoli post-diploma — allo stato **36 ospiti** in
 camera singola per **90 notti**, dal **01/03/2027** al **30/05/2027** — per conto della
 capofila spagnola `____________________________` *(ragione sociale, da compilare)*, di seguito
-"la Capofila", a fronte di un corrispettivo concordato a voce di **2.000 € netti per ospite**,
-pagabile 80 % all'arrivo e 20 % alla partenza.
+"la Capofila", a fronte di un corrispettivo concordato a voce di **2.000 € netti per ospite**
+(IVA inclusa se dovuta, commissioni bancarie a carico della Capofila), pagabile 80 % all'arrivo
+e 20 % alla consegna della documentazione finale. Il numero di ospiti è indicativo e potrà
+variare.
 
 b) Il progetto è descritto nel **Documento di progetto** allegato (Allegato A), che i Soci
 dichiarano di condividere integralmente.
@@ -125,17 +127,15 @@ integrante dell'accordo.
 ## Art. 5 — Anticipazione dei costi e piano di cassa <!--#anticipi-->
 
 1. I costi che maturano **prima** dell'incasso della tranche dell'80 % (caparre agli
-   immobili, spese di costituzione) sono anticipati **[DA DECIDERE]**:
-   - ☐ in parti uguali dai due Soci; oppure
-   - ☐ dal Socio `____________` fino a un massimo di `________ €`, oltre il quale in parti uguali.
+   immobili, spese di costituzione) sono anticipati **in parti uguali dai due Soci**.
 2. Ogni anticipazione è registrata nel registro con la dicitura *anticipo Socio X* e
    costituisce **credito verso il progetto**, non verso l'altro Socio.
-3. Gli anticipi sono **rimborsati per primi**, al netto di nulla, dal primo incasso utile e
-   comunque **prima di qualsiasi distribuzione** di margine.
+3. Gli anticipi sono **rimborsati a ciascun Socio per l'importo esatto anticipato**, in sede
+   di conto consuntivo e comunque **prima di qualsiasi distribuzione** di margine.
 4. Prima della firma con la Capofila i Soci redigono insieme un **piano di cassa**: quali
    costi maturano in quali date, con quali fondi si coprono. Il piano è allegato al registro.
 
-> 💬 **Commentario.** Le caparre agli immobili maturano prima che arrivi l'80 %: qualcuno deve anticipare. L'articolo decide chi (**[DA DECIDERE]**), e stabilisce che chi anticipa è *creditore del progetto*, non dell'altro socio, e viene rimborsato **prima** di qualsiasi divisione del margine. Il piano di cassa (comma 4) serve a sapere in anticipo quanti soldi servono e quando.
+> 💬 **Commentario.** Le caparre agli immobili maturano prima che arrivi l'80 %: qualcuno deve anticipare. I soci hanno deciso (16/09) di farlo **in parti uguali**. Chi anticipa è *creditore del progetto*, non dell'altro socio; a consuntivo riprende **esattamente quanto ha versato**, prima che il margine venga diviso. Il piano di cassa (comma 4) serve a sapere in anticipo quanti soldi servono e quando.
 
 
 ## Art. 6 — Margine e ripartizione 50/50 <!--#margine-->

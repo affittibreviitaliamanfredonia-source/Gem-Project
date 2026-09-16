@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **8 + 4 parziali / 46**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **9 + 6 parziali / 48**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -13,18 +13,18 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 
 ## 0 · Assiomi — le cose date per fisse, da confermare una per una
 
-| # | Assioma | Stato | Se cade… |
-|---|---|---|---|
-| A1 | Il rapporto è **B2B** con la capofila | `[ ]` | cambiano IVA, contratto, responsabilità |
-| A2 | 2.000 € sono **netti per noi** | `[ ]` | il ricavo scende |
-| A3 | Il servizio è **accoglienza** (7-ter), non alloggio (7-quater) | `[ ]` | fino a 15.840 € di IVA a nostro carico |
-| A4 | Gli ospiti sono **36** e restano 36 | `[ ]` | perdita secca su camere già impegnate |
-| A5 | "90 giorni" = **90 notti** | `[ ]` | ±36 notti di costo o ricavo |
-| A6 | Il **20 %** arriverà | `[ ]` | 14.400 € di credito a rischio |
-| A7 | Il **50/50** è equo rispetto agli apporti | `[ ]` | conflitto tra soci a progetto avviato |
-| A8 | Gli ospiti sono **maggiorenni** | `[ ]` | consensi, vigilanza, regolamento |
-| A9 | Chi fattura può **girare** metà del margine all'altro in modo legittimo | `[ ]` | il 50/50 è un problema fiscale per entrambi |
-| A10 | Qualcuno può **anticipare** le caparre prima dell'80 % | `[ ]` | il progetto non parte a prescindere dal contratto |
+| # | Assioma | Stato | Risposta dei soci (16/09) | Se cade… |
+|---|---|---|---|---|
+| A1 | Il rapporto è **B2B** con la capofila | `[~]` | La capofila è un **ente non commerciale**. Resta da verificare se è soggetto passivo IVA (VAT attivo su VIES): se non lo è, il reverse charge non si applica → domanda 11b | cambiano IVA, contratto, responsabilità |
+| A2 | 2.000 € sono **netti per noi** | `[x]` | **Sì.** IVA **inclusa** nei 2.000 € se dovesse risultare dovuta; **commissioni bancarie a carico della capofila** | se l'IVA è dovuta, esce dai 2.000 €: fino a 12.984 € su 72.000 € (scorporo al 22 %) |
+| A3 | Il servizio è **accoglienza** (7-ter), non alloggio (7-quater) | `[x]` | **Confermato** dai soci. Attenzione: la qualifica la decide la sostanza del servizio e il parere del commercialista (domanda 11), non l'etichetta | fino a 12.984 € di IVA a nostro carico |
+| A4 | Gli ospiti sono **36** e restano 36 | `[x]` | **36 è indicativo: potranno essere di più o di meno.** Serve nel contratto B2B un minimo garantito e una data entro cui il numero è definitivo (domanda 20) | perdita secca su camere già impegnate |
+| A5 | "90 giorni" = **90 notti** | `[x]` | **Confermato**: 90 notti, 01/03 → 30/05/2027. Da avere per iscritto dalla capofila (domanda 23) | ±36 notti di costo o ricavo |
+| A6 | Il **20 %** arriverà | `[x]` | **Arriva alla consegna** di: valutazioni, certificati, documentazione correttamente firmata. Restano da fissare termini, chi giudica, contestazione parziale (domanda 27) | 14.400 € di credito a rischio |
+| A7 | Il **50/50** è equo rispetto agli apporti | `[x]` | **Sì, è equo.** | conflitto tra soci a progetto avviato |
+| A8 | Gli ospiti sono **maggiorenni** | `[x]` | **Caduto: non sono tutti maggiorenni.** Servono manleva e consensi firmati da genitori o tutori (domanda 21b) | consensi, vigilanza, regolamento |
+| A9 | Chi fattura può **girare** metà del margine all'altro in modo legittimo | `[~]` | **Chi fattura lo decide il commercialista** (domanda 13). Fino ad allora la scrittura resta impostata su Gianluca; se cambia, cambiano art. 2, 4 e 7 | il 50/50 è un problema fiscale per entrambi |
+| A10 | Qualcuno può **anticipare** le caparre prima dell'80 % | `[x]` | **Sì: i costi prima dell'80 % li anticipiamo in parti uguali.** A consuntivo ciascuno riprende esattamente quanto ha versato, prima della divisione del margine → art. 5, domanda 1 | il progetto non parte a prescindere dal contratto |
 
 ---
 
@@ -34,10 +34,10 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 > nell'articolo indicato.
 
 ### A1 · Anticipi e cassa → art. 5
-`[ ]` **1.** Chi anticipa le caparre agli immobili, con quale tetto, con quali soldi?
-- Opzioni: ☐ in parti uguali · ☐ uno solo fino a `____ €`, poi in parti uguali
-- Risposta:
-- Data:
+`[x]` **1.** Chi anticipa le caparre agli immobili, con quale tetto, con quali soldi?
+- Risposta (16/09): **in parti uguali**, senza tetto. Ogni anticipo torna a chi lo ha versato, per
+  l'importo esatto, **a consuntivo** e prima della divisione del margine. → art. 5.1 e 5.3 aggiornati.
+- Con quali soldi: resta aperta (1b e 38).
 
 `[ ]` **1b.** Esiste la cassa per anticipare? Quanto serve prima del 01/03/2027? *(→ Allegato C, piano di cassa)*
 - Risposta:
@@ -93,10 +93,15 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **11.** **7-ter o 7-quater?** Il servizio è accoglienza complessa o alloggio? Serve un **parere scritto**. → A3, art. 6.2 f)
 - Risposta:
 
+`[ ]` **11b.** La capofila è un **ente non commerciale** (A1): è soggetto passivo IVA, con VAT attivo su VIES? Se **no**, il reverse charge non si applica e la fattura va emessa con **IVA italiana**, che per l'assioma A2 esce dai 2.000 €. → premessa d), art. 6.2 f)
+- Risposta:
+
 `[ ]` **12.** Con quale **titolo fiscale** Luigi riceve il 50 %: fattura, associazione in partecipazione, altro? Con quali costi per ciascuno? → art. 7
 - Risposta:
 
 `[ ]` **13.** Con quale **posizione** fattura Gianluca (ditta individuale, società, regime)? Conviene così o diversamente? → art. 2
+- Nota (16/09): i soci hanno rimesso al commercialista anche **chi** dei due fattura (A9). Tutti i
+  documenti oggi assumono Gianluca; se la risposta è diversa cambiano art. 2, 4, 7 e le premesse.
 - Risposta:
 
 `[ ]` **14.** L'**IVA sugli acquisti** di alloggio è detraibile? (dipende dalla 11)
@@ -135,7 +140,11 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **19.** Il **contratto B2B tra Gianluca (fornitore) e la capofila (cliente)**: chi lo redige, con quale legge, quale foro, quale lingua. *(Q2)*
 - Nota (16/09): oggi questo contratto **non esiste** — l'accordo con la capofila è solo verbale. È il documento che regola i 72.000 €.
 `[ ]` **20.** Minimo garantito di ospiti; penali per riduzione, cancellazione, no-show. *(Q3)*
-`[ ]` **21.** Età degli ospiti; quanti minorenni; chi esercita la responsabilità. *(Q5)*
+- Nota (16/09): 36 è indicativo, potranno essere di più o di meno (A4). Chiedere anche **entro quale data** il numero diventa definitivo e come si gestiscono gli ospiti in più.
+`[~]` **21.** Età degli ospiti; quanti minorenni; chi esercita la responsabilità. *(Q5)*
+- Risposta (16/09): **non sono tutti maggiorenni** (A8). Restano da avere: quanti, con quale età, chi esercita la responsabilità durante il soggiorno.
+`[ ]` **21b.** **Manleva e consensi per i minorenni**, firmati da genitori o tutori: chi li predispone (noi o la capofila), in quale lingua, cosa coprono (regolamento della casa, sanitario, privacy, uscite). Da allegare al contratto B2B.
+- Risposta:
 
 **Numeri**
 `[ ]` **22.** "Netti": netti per noi o netti per voi? Nessuna ritenuta o commissione a nostro carico?
@@ -144,7 +153,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[x]` **25.** I **voli** sono inclusi nei 2.000 €?
 - Risposta (16/09): **no, li pagano i ragazzi.** → da scrivere nel contratto con la capofila tra le esclusioni (domanda 22).
 `[ ]` **26.** Cosa comprende esattamente "mobility"?
-`[ ]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
+`[~]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
+- Risposta (16/09): i documenti sono **valutazioni, certificati e documentazione correttamente firmata** (A6). Restano aperti: termine di consegna, termine di contestazione, chi giudica, contestazione parziale.
 `[ ]` **28.** Termini di pagamento di ciascuna tranche, in giorni.
 
 **Responsabilità**
@@ -193,7 +203,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 ## Ordine consigliato
 
 1. **Commercialista** (11–17): le risposte a 11 e 13 possono cambiare chi conviene che fatturi.
-2. **Tra soci** (1–10), con quelle risposte in mano.
+2. **Tra soci** (2–10), con quelle risposte in mano.
 3. **Capofila** (18–32): una sola email, tutte le domande, risposta scritta.
 4. **Firma dell'accordo tra soci** entro il 15/10/2026.
 5. Tutto il resto.

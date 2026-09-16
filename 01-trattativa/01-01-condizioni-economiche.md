@@ -9,16 +9,20 @@
 | Prezzo unitario | **2.000 € netti per persona** |
 | Periodo coperto | **90 giorni** |
 | Sistemazione inclusa | Camera **singola** |
-| Numero ospiti (corrente) | **36** |
+| Numero ospiti (corrente) | **36** — indicativo, potranno essere di più o di meno (16/09) |
 | **Ricavo lordo teorico** | **72.000 €** (36 × 2.000 €) |
 
-> "Netti" va inteso come: importo che deve arrivare al fornitore italiano, al netto di
-> qualunque ritenuta, commissione bancaria o trattenuta operata dalla capofila.
+> "Netti", come inteso dai soci (16/09): i 2.000 € arrivano interi al fornitore italiano;
+> le **commissioni bancarie** sono a carico della capofila; l'**IVA, se dovesse risultare
+> dovuta, è inclusa** nei 2.000 € (cioè la paghiamo noi, scorporandola). I **voli** sono
+> esclusi, a carico dei ragazzi; l'imposta di soggiorno è compresa.
 > **Da mettere per iscritto nel contratto** — è la formulazione che genera più contestazioni.
 
 ## Regime IVA
 
-- Operazione **B2B intracomunitaria**.
+- Operazione **B2B intracomunitaria**. La capofila è un **ente non commerciale** (16/09):
+  il reverse charge regge solo se è comunque soggetto passivo IVA, con VAT attivo su VIES
+  (domanda 11b al commercialista).
 - Territorialità: **art. 7-ter DPR 633/1972** → rilevante nel paese del committente (Spagna).
 - Fattura italiana emessa **senza IVA**, con dicitura di inversione contabile.
 - **Condizione necessaria:** VAT number della capofila valido e attivo su VIES.
@@ -30,7 +34,7 @@ Dettaglio operativo: [`../02-contratto/02-02-inquadramento-fiscale.md`](../02-co
 | Tranche | Quota | Importo (36 ospiti) | Evento scatenante | Condizione |
 |---|---|---|---|---|
 | 1ª | **80 %** | **57.600 €** | **Arrivo** degli ospiti | Nessuna |
-| 2ª | **20 %** | **14.400 €** | **Partenza** degli ospiti | **Subordinata a controllo documentale** ⚠️ |
+| 2ª | **20 %** | **14.400 €** | **Consegna** di valutazioni, certificati e documentazione firmata | **Subordinata a controllo documentale** ⚠️ |
 
 ### Il punto critico del 20 %
 

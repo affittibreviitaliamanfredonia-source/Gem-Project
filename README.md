@@ -13,9 +13,9 @@
 |---|---|
 | Nome progetto | **GEM** |
 | Tipo | Accoglienza **B2B** per ragazzi post-diploma spagnoli |
-| Capofila | Soggetto spagnolo — *identità giuridica da confermare* ⚠️ |
+| Capofila | Soggetto spagnolo, **ente non commerciale** — *identità giuridica e posizione IVA da confermare* ⚠️ |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
-| Firmatario e fatturante | **Gianluca Iaconeta** |
+| Firmatario e fatturante | **Gianluca Iaconeta** — chi fattura è da confermare col commercialista (16/09) |
 | Durata soggiorno | **90 notti** per ospite |
 | Data di arrivo | **01/03/2027** (lunedì) — impostata dal firmatario, *da confermare con la capofila* |
 | Data di partenza | **30/05/2027** (domenica) — 90 notti dopo l'arrivo |
@@ -49,12 +49,12 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 
 | Voce | Valore |
 |---|---|
-| Corrispettivo | **2.000 € netti per persona / 90 giorni** |
+| Corrispettivo | **2.000 € netti per persona / 90 giorni** — IVA inclusa se dovuta, commissioni a carico capofila, voli esclusi |
 | Regime IVA | **Reverse charge — art. 7-ter DPR 633/72** (operazione non soggetta a IVA in Italia) |
 | Ricavo lordo teorico (36 ospiti) | **72.000 €** |
 | Struttura pagamento | **80 / 20** |
 | → Tranche 1 (80%) | 57.600 € — all'**arrivo** |
-| → Tranche 2 (20%) | 14.400 € — alla **partenza**, *subordinata a controllo documentale* |
+| → Tranche 2 (20%) | 14.400 € — alla **consegna** di valutazioni, certificati e documentazione firmata |
 | Costi variabili | Alloggio · Transfert · Mobility (vedi [`04-pagamenti/`](04-pagamenti/)) |
 | Margine residuo | Ripartito **50 / 50** tra i due soci |
 
@@ -67,8 +67,8 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 | Q1 | **Identità giuridica della capofila** — ragione sociale, VAT number, sede legale | Capofila | 🔴 Alta | ❓ Aperta |
 | Q2 | **Contratto scritto** — chi redige, quale legge applicabile, quale foro | Capofila | 🔴 Alta | ❓ Aperta |
 | Q3 | **Penali e forza maggiore** — cancellazioni, no-show, riduzione numero ospiti | Capofila | 🔴 Alta | ❓ Aperta |
-| Q4 | **7-ter o 7-quater?** — se il servizio è qualificato come alloggio, l'IVA italiana resta dovuta | Commercialista | 🔴 Alta | ❓ Aperta |
-| Q5 | **Età degli ospiti** — "post-diploma" può includere minorenni: cambia consensi, responsabilità e chi firma | Capofila | 🔴 Alta | ❓ Aperta |
+| Q4 | **7-ter o 7-quater?** — se il servizio è qualificato come alloggio, l'IVA italiana resta dovuta; la capofila è un ente non commerciale: va verificato che sia soggetto passivo IVA | Commercialista | 🔴 Alta | ❓ Aperta |
+| Q5 | **Età degli ospiti** — **confermata la presenza di minorenni** (16/09): servono numero, responsabile, manleva dei genitori o tutori | Capofila | 🔴 Alta | 🟡 Parziale |
 
 Dettaglio e formulazione delle domande: [`01-trattativa/01-02-domande-aperte-capofila.md`](01-trattativa/01-02-domande-aperte-capofila.md)
 

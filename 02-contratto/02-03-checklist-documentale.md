@@ -4,7 +4,9 @@
 Finché questo elenco non è **concordato per iscritto e allegato al contratto**, il saldo
 è un credito a rischio.
 
-**Stato: 🔴 elenco non concordato con la capofila.**
+**Stato: 🟡 tipologia nota, elenco non concordato.** Il 16/09 i soci hanno chiarito che il 20 %
+si sblocca con la consegna di **valutazioni, certificati e documentazione correttamente
+firmata**. Restano da fissare l'elenco voce per voce e le regole qui sotto.
 
 ## Regole da fissare nel contratto
 
@@ -31,7 +33,9 @@ Finché questo elenco non è **concordato per iscritto e allegato al contratto**
 | 3 | Registrazione dell'ospitalità presso le autorità competenti | Struttura ricettiva | 🔴 |
 | 4 | Riepilogo transfert erogati (arrivo e partenza) | Parte italiana | 🔴 |
 | 5 | Riepilogo mobility erogata | Parte italiana | 🔴 |
-| 6 | Eventuale attestato / documento di fine percorso | `DA DEFINIRE` | 🔴 |
+| 6 | **Valutazione** dell'ospite (scheda o pagella di fine percorso) | `DA DEFINIRE` chi la compila | 🟡 |
+| 6b | **Certificato** di partecipazione o di fine percorso | `DA DEFINIRE` chi lo emette | 🟡 |
+| 6c | **Documentazione firmata** (regolamento della casa, manleva per i minorenni, presenze) | Parte italiana + ospite / genitori | 🟡 |
 
 ### Complessivi di progetto
 

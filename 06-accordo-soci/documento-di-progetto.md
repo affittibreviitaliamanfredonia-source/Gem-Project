@@ -1,6 +1,6 @@
 # Progetto GEM — Documento di progetto
 
-**Allegato A alla scrittura privata tra i soci** · Versione 0.2 — bozza del 16/09/2026
+**Allegato A alla scrittura privata tra i soci** · Versione 0.3 — bozza del 16/09/2026
 
 > Questo documento dice **cosa** è il progetto e **a cosa ci impegniamo**. Le regole su soldi,
 > decisioni e imprevisti stanno nella [scrittura privata](scrittura-privata.md). I due
@@ -71,9 +71,9 @@
 | 2 | Non c'è contratto scritto: 72.000 € esposti sulla parola | Firma entro il 15/12/2026, altrimenti si rivede tutto |
 | 3 | Nessuna penale né minimo garantito: se gli ospiti calano, i costi restano a noi | Minimo garantito in contratto; penali strutture allineate a quelle capofila |
 | 4 | **7-quater**: se il servizio è "alloggio", l'IVA italiana è dovuta — fino a 15.840 € di margine in meno | Parere scritto del commercialista prima della firma |
-| 5 | Possibili **minorenni** tra gli ospiti | Domanda scritta alla capofila ora |
+| 5 | **Ci sono minorenni** tra gli ospiti (confermato 16/09) | Numero e responsabile dalla capofila; manleva e consensi firmati da genitori o tutori, allegati al contratto |
 | 6 | Il 20 % è condizionato a un controllo fatto dalla controparte | Elenco documenti tassativo allegato al contratto, termine di contestazione |
-| 7 | Cassa: le caparre si pagano prima dell'80 % | Piano di cassa nella scrittura privata (art. 5<!--anticipi-->) |
+| 7 | Cassa: le caparre si pagano prima dell'80 % | Anticipi in parti uguali, restituiti a consuntivo; piano di cassa nella scrittura privata (art. 5<!--anticipi-->) |
 
 ## 6. Le date
 

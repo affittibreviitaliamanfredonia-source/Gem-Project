@@ -94,7 +94,11 @@ Se la capofila chiede di partire "in fiducia", la richiesta va messa a verbale i
 
 ## Q5 · Età degli ospiti 🔴
 
-**Stato:** ❓ Aperta · **Inviata il:** `DA COMPILARE` · **Risposta il:** —
+**Stato:** 🟡 Parziale · **Inviata il:** `DA COMPILARE` · **Risposta il:** —
+
+> **16/09:** i soci sanno che **non tutti gli ospiti sono maggiorenni**. La domanda resta
+> aperta su quanti, con quale età e chi ne risponde; e va aggiunta la **manleva** firmata
+> da genitori o tutori.
 
 ### Cosa chiedere
 
@@ -102,6 +106,8 @@ Se la capofila chiede di partire "in fiducia", la richiesta va messa a verbale i
 2. Se sono previsti **minorenni**: quanti, e chi esercita la responsabilità genitoriale
    durante il soggiorno.
 3. Chi raccoglie i **consensi** dei genitori (privacy, sanitario, regolamento della casa).
+4. **Manleva** per i minorenni firmata da genitori o tutori: chi la predispone, in quale
+   lingua, cosa copre.
 
 ### Perché è bloccante
 

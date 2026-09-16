@@ -24,7 +24,7 @@ essere fatturata in reverse charge ex art. 7-ter. Vedi
 |---|---|
 | Soci | **Gianluca Iaconeta** e **Luigi Zerulo** |
 | **Firmatario** | **Gianluca Iaconeta** — unico soggetto con potere di firma verso la capofila |
-| **Soggetto che fattura** | **Gianluca Iaconeta** (stessa persona del firmatario). Ragione sociale / P.IVA emittente: `DA COMPILARE` ⚠️ |
+| **Soggetto che fattura** | **Gianluca Iaconeta** (stessa persona del firmatario) — **da confermare col commercialista** (16/09). Ragione sociale / P.IVA emittente: `DA COMPILARE` ⚠️ |
 | Conto di incasso | Deve essere intestato al soggetto che fattura. `DA APRIRE / DA INDICARE` ⚠️ |
 | Ripartizione margine | **50 % / 50 %** tra i due soci |
 | Accordo tra soci | Scrittura privata — **da redigere** (vedi [`../04-pagamenti/04-02-ripartizione-soci.md`](../04-pagamenti/04-02-ripartizione-soci.md)) 🔴 |
@@ -38,10 +38,10 @@ Definizione operativa in [`../04-pagamenti/04-02-ripartizione-soci.md`](../04-pa
 | Campo | Valore |
 |---|---|
 | Chi sono | Ragazzi spagnoli post-diploma |
-| Numero corrente | **36** |
+| Numero corrente | **36** — indicativo, potranno essere di più o di meno |
 | Durata soggiorno | 90 notti — arrivo **01/03/2027**, partenza **30/05/2027** |
 | Sistemazione | Camera singola per ciascuno |
-| Età | `DA CONFERMARE` ⚠️ — possibili minorenni (vedi Q5) |
+| Età | **Non tutti maggiorenni** (16/09) ⚠️ — numero e responsabilità da chiarire; manleva dei genitori o tutori (vedi Q5) |
 | Rapporto contrattuale | **Nessuno diretto** — il contratto è B2B con la capofila |
 
 **Implicazione:** gli ospiti non sono clienti. Non pagano, non firmano, non hanno titolo a
