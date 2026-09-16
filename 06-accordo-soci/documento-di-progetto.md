@@ -45,12 +45,12 @@
 
 | Area | Responsabile | Note |
 |---|---|---|
-| Rapporti con la capofila e contratto | Socio Firmatario | Ogni modifica economica concordata con l'altro socio |
+| Rapporti con la capofila e contratto | Socio Firmatario | Il contatto con la capofila è stato portato da Luigi; ogni modifica economica concordata con l'altro socio |
 | Fatturazione, conto, commercialista | Socio Firmatario | Rendiconto mensile all'altro socio |
 | Ricerca e contratti immobili | `da assegnare` | Nessun impegno prima della firma con la capofila |
 | Transfert e mobility | `da assegnare` | |
 | Regolamento casa, check-in/out, rubrica ospiti | `da assegnare` | |
-| Reperibilità durante il soggiorno | **Entrambi**, a turno | Un numero unico, turni scritti |
+| Presenza e reperibilità durante il soggiorno | **Gianluca**, sul posto | Un numero unico; da definire chi copre quando Gianluca non può |
 | Registro movimenti | **Entrambi** | Chi muove il denaro registra entro 3 giorni |
 | Registro incidenti | Chi è di turno | Il giorno stesso |
 

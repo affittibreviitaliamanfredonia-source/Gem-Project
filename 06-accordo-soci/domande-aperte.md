@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **0 / 46**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **2 parziali / 46**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -52,15 +52,20 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 - Risposta:
 
 ### A4 · Non concorrenza → art. 12
-`[ ]` **4.** Tenere o togliere l'art. 12? Chi ha portato il contatto con la capofila?
-- Risposta:
+`[~]` **4.** Tenere o togliere l'art. 12? Chi ha portato il contatto con la capofila?
+- Risposta (16/09): **il contatto con la capofila l'ha portato Luigi.** Resta da decidere se tenere l'art. 12.
+- Nota: con il contatto in mano a Luigi, la clausola di non concorrenza tutela soprattutto Gianluca
+  (evita che un progetto futuro con la stessa capofila lo escluda). Va letta in questa luce.
 
 ### A5 · Compiti operativi → Allegato A
-`[ ]` **5.** Chi fa cosa, nelle tre righe ancora "da assegnare":
+`[~]` **5.** Chi fa cosa, nelle tre righe ancora "da assegnare":
 - Ricerca e contratti immobili → `____________`
 - Transfert e mobility → `____________`
 - Regolamento casa, check-in/out, rubrica ospiti → `____________`
-- Chi sta **sul posto** durante i 90 giorni? → `____________`
+- Chi sta **sul posto** durante i 90 giorni? → **Gianluca** (16/09)
+- Nota: gli apporti sono asimmetrici ma complementari — Luigi porta il cliente, Gianluca firma,
+  fattura, tiene il conto e sta sul posto 90 giorni. È l'argomento da usare nella domanda 6 e
+  nell'assioma A7: il 50/50 regge se entrambi riconoscono che i due apporti si equivalgono.
 
 ### A6 · Il tempo come apporto → art. 6.3
 `[ ]` **6.** Se uno dei due farà 90 giorni di presenza e reperibilità e l'altro no, il 50/50 regge?
