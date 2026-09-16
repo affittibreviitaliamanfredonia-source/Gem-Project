@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **2 parziali / 46**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **1 + 2 parziali / 46**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -105,8 +105,12 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **14.** L'**IVA sugli acquisti** di alloggio è detraibile? (dipende dalla 11)
 - Risposta:
 
-`[ ]` **15.** **Imposta di soggiorno**: chi la versa, per 36 persone × 90 notti?
-- Risposta:
+`[x]` **15.** **Imposta di soggiorno**: chi la versa, per 36 persone × 90 notti?
+- Risposta (16/09): **la versiamo noi.** → è un Costo di progetto, già previsto all'art. 6.2 d).
+- Da fare: (a) chiedere al Comune di Manfredonia tariffa e **numero massimo di notti** su cui si
+  applica — molti comuni la limitano alle prime N notti, e su 90 notti fa differenza;
+  (b) inserire la stima nei **Parametri** del registro; (c) nel contratto con la capofila
+  scrivere che è **compresa** nei 2.000 € (domanda 22), così non torna come sorpresa.
 
 `[ ]` **16.** **Momento impositivo** dell'80 % incassato prima dell'inizio del servizio.
 - Risposta:
