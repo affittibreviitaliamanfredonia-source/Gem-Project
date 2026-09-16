@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **8 + 3 parziali / 46**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **8 + 4 parziali / 46**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -22,7 +22,7 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 | A5 | "90 giorni" = **90 notti** | `[ ]` | ±36 notti di costo o ricavo |
 | A6 | Il **20 %** arriverà | `[ ]` | 14.400 € di credito a rischio |
 | A7 | Il **50/50** è equo rispetto agli apporti | `[ ]` | conflitto tra soci a progetto avviato |
-| A8 | Gli ospiti sono **maggiorenni** | `[ ]` | consensi, vigilanza, assicurazione, regolamento |
+| A8 | Gli ospiti sono **maggiorenni** | `[ ]` | consensi, vigilanza, regolamento |
 | A9 | Chi fattura può **girare** metà del margine all'altro in modo legittimo | `[ ]` | il 50/50 è un problema fiscale per entrambi |
 | A10 | Qualcuno può **anticipare** le caparre prima dell'80 % | `[ ]` | il progetto non parte a prescindere dal contratto |
 
@@ -52,7 +52,7 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 - Risposta:
 
 ### A4 · Art. 12
-`[x]` **4.** Chiusa (16/09): **l'art. 12 resta solo con la riservatezza.** Il contatto con la capofila l'ha portato Luigi.
+`[x]` **4.** Chiusa (16/09): **l'art. 12 è stato eliminato** (né non concorrenza né riservatezza). Il contatto con la capofila l'ha portato Luigi.
 
 ### A5 · Compiti operativi → Allegato A
 `[~]` **5.** Chi fa cosa, nelle tre righe ancora "da assegnare":
@@ -90,7 +90,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 ## B · Al commercialista — bloccano la firma con la capofila
 
-`[ ]` **11.** **7-ter o 7-quater?** Il servizio è accoglienza complessa o alloggio? Serve un **parere scritto**. → A3, art. 6.2 g)
+`[ ]` **11.** **7-ter o 7-quater?** Il servizio è accoglienza complessa o alloggio? Serve un **parere scritto**. → A3, art. 6.2 f)
 - Risposta:
 
 `[ ]` **12.** Con quale **titolo fiscale** Luigi riceve il 50 %: fattura, associazione in partecipazione, altro? Con quali costi per ciascuno? → art. 7
@@ -115,20 +115,25 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **17.** **Conto dedicato**: tipo, intestazione, vincoli. → art. 4
 - Risposta:
 
-`[ ]` **17b.** **Collaboratrice in loco**: con quale inquadramento la si paga (prestazione occasionale, P.IVA, altro)? Limiti e adempimenti.
-- Risposta:
-
 ---
 
 ## C · Alla capofila — una sola email, risposta scritta
 
+> **I tre contratti del progetto**, per non confonderli:
+>
+> | Contratto | Contraenti | Stato |
+> |---|---|---|
+> | **Scrittura privata tra soci** | Gianluca Iaconeta ↔ Luigi Zerulo | bozza, in revisione |
+> | **Contratto B2B con la capofila** | Gianluca Iaconeta (fornitore) ↔ capofila spagnola (cliente) | **non esiste** — è l'oggetto della domanda 19 |
+> | **Contratti con gli immobili** | Gianluca Iaconeta ↔ ciascun proprietario | da fare dopo la firma con la capofila |
+>
 > Da inviare **dopo** la risposta del commercialista alla 11 e alla 13, perché possono
 > cambiare come ci presentiamo.
 
 **Identità e contratto**
 `[ ]` **18.** Ragione sociale, forma giuridica, VAT, sede, chi firma. *(Q1)* → premesse a), d)
-`[ ]` **19.** Chi redige il contratto **con la capofila**, quale legge, quale foro, quale lingua. *(Q2)*
-- Nota (16/09): non riguarda né la scrittura privata tra soci né i contratti con gli immobili — è il contratto B2B con il cliente spagnolo, che oggi non esiste. Resta aperta.
+`[ ]` **19.** Il **contratto B2B tra Gianluca (fornitore) e la capofila (cliente)**: chi lo redige, con quale legge, quale foro, quale lingua. *(Q2)*
+- Nota (16/09): oggi questo contratto **non esiste** — l'accordo con la capofila è solo verbale. È il documento che regola i 72.000 €.
 `[ ]` **20.** Minimo garantito di ospiti; penali per riduzione, cancellazione, no-show. *(Q3)*
 `[ ]` **21.** Età degli ospiti; quanti minorenni; chi esercita la responsabilità. *(Q5)*
 
@@ -145,7 +150,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 **Responsabilità**
 `[ ]` **29.** Danni causati dagli ospiti: chi risponde? Esiste un deposito?
 `[ ]` **30.** Referente in loco della capofila; referente richiesto a noi.
-`[ ]` **31.** Assicurazione della capofila per i ragazzi: cosa copre?
+`[~]` **31.** Assicurazione della capofila per i ragazzi: cosa copre?
+- Risposta (16/09): **sono assicurati.** Da avere per iscritto cosa copre (infortuni, malattia, rientro, danni a terzi).
 `[ ]` **32.** GDPR: chi è titolare dei dati dei ragazzi, chi responsabile.
 
 ---
@@ -157,12 +163,13 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Risposta (16/09): **il numero dipende dalla capienza di quelli che troviamo.** Restano aperti dove e a che distanza.
 `[~]` **34.** Le penali degli immobili sono allineate a quelle della capofila?
 - Risposta (16/09): **la capofila non c'entra con gli immobili. Nei contratti con i proprietari mettiamo noi una penale, per impedire che si svincolino.**
-- Nota: questo copre il rischio *proprietario che si tira indietro*. Resta scoperto il rischio speculare: se la capofila riduce gli ospiti, noi restiamo vincolati a pagare 90 notti. Serve o un minimo garantito dalla capofila (domanda 20) o una clausola di riduzione con preavviso nei contratti con i proprietari — meglio entrambe.
+- **Per Luigi:** verificare quali vincoli tengono fermi i 36 ospiti — dovrebbero aver già firmato un *agreement* con la capofila. Se esiste, chiederne copia o sintesi: numero, durata, penali per chi rinuncia.
+- Nota: un accordo capofila–ragazzi vincola *loro* verso la capofila, non la capofila verso di noi. Il nostro minimo garantito va comunque nel contratto B2B (domanda 20).
 `[ ]` **35.** Ogni immobile ha CIN, registrazione ospiti, regolarità?
 `[ ]` **36.** Un fornitore unico o più fornitori?
 
-**Assicurazione → in parallelo alla trattativa**
-`[ ]` **37.** RC attività, danni agli immobili, infortuni: preventivo entro `____`.
+**Assicurazione**
+`[x]` **37.** Decisione (16/09): **nessuna polizza a carico del progetto.** I ragazzi sono assicurati dalla capofila; i proprietari degli immobili devono essere assicurati in proprio (da scrivere nei contratti con loro). Resta non coperta la responsabilità civile per l'attività organizzata direttamente da noi: scelta consapevole dei soci.
 
 **Cassa → prima della firma (Allegato C)**
 `[ ]` **38.** Quanto serve, quando, da dove viene.
@@ -170,8 +177,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 **Operatività → entro febbraio 2027**
 `[ ]` **39.** Regolamento della casa bilingue + addendum firmato, allegato anche al contratto B2B.
 `[x]` **40.** Reperibilità 24/7 per 90 giorni: turni scritti.
-- Risposta (16/09): **Gianluca sul posto, con una collaboratrice che parla spagnolo.**
-- Conseguenze: (a) il compenso della collaboratrice è un **Costo di progetto** — aggiunto all'art. 6.2 come lettera j); (b) il suo inquadramento (collaborazione occasionale, P.IVA, altro) è una domanda in più per il commercialista → **17b**; (c) tratterà dati dei ragazzi: va nominata nel quadro GDPR (domanda 32).
+- Risposta (16/09): **Gianluca sul posto, con una collaboratrice che parla spagnolo, già in forza al suo ufficio.**
+- La collaboratrice **non è parte del progetto**: nessun costo, inquadramento o onere a carico del progetto. A fine progetto Gianluca potrà riconoscerle un bonus **dal proprio compenso**, chiedendo eventualmente un contributo a Luigi — accordo tra i due soci, fuori dalla scrittura privata.
 `[ ]` **41.** Protocollo check-in/check-out: inventario, foto, verbale.
 `[ ]` **42.** Registro incidenti: chi, quando.
 `[ ]` **43.** Rubrica ospiti (esigenze mediche, contatti di emergenza): chi la raccoglie, dove sta.

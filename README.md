@@ -167,8 +167,7 @@ Progetto GEM/
 ├── 03 · Logistica/             preventivi, schede immobili, transfert
 ├── 04 · Pagamenti/             fatture emesse e ricevute, backup mensile del registro
 ├── 05 · Ospiti/                documenti dei ragazzi — ACCESSO RISTRETTO (dati personali)
-├── 06 · Accordo tra soci/      copia di revisione, versione firmata
-└── 07 · Assicurazione/         polizze e preventivi
+└── 06 · Accordo tra soci/      copia di revisione, versione firmata
 ```
 
 Già esistenti: la cartella radice, `06 · Accordo tra soci`, il registro movimenti e l'esempio art. 7.

@@ -50,7 +50,7 @@
 | Ricerca e contratti immobili | `da assegnare` | Nessun impegno prima della firma con la capofila |
 | Transfert e mobility | `da assegnare` | |
 | Regolamento casa, check-in/out, rubrica ospiti | `da assegnare` | |
-| Presenza e reperibilità durante il soggiorno | **Gianluca**, sul posto | Un numero unico; da definire chi copre quando Gianluca non può |
+| Presenza e reperibilità durante il soggiorno | **Gianluca**, sul posto | Con una collaboratrice del suo ufficio che parla spagnolo, non a carico del progetto |
 | Registro movimenti | **Entrambi** | Chi muove il denaro registra entro 3 giorni |
 | Registro incidenti | Chi è di turno | Il giorno stesso |
 
@@ -61,8 +61,7 @@
 3. **Un solo registro dei soldi**, condiviso, aggiornato entro 3 giorni da ogni movimento. Se un numero non è nel registro, non esiste.
 4. **Decisioni congiunte** su: contratto con la capofila, scelta degli immobili, spese sopra la soglia fissata nella scrittura privata, azioni legali.
 5. **Il conto dedicato** serve solo al progetto. Nessun prelievo che non sia registrato come *Distribuzione*.
-6. **Riservatezza** su condizioni, controparti e numeri verso terzi.
-7. **Lo stato del progetto** è quello scritto nel README della repository. Si aggiorna a ogni cambiamento.
+6. **Lo stato del progetto** è quello scritto nel README della repository. Si aggiorna a ogni cambiamento.
 
 ## 5. I rischi che conosciamo
 
@@ -74,8 +73,7 @@
 | 4 | **7-quater**: se il servizio è "alloggio", l'IVA italiana è dovuta — fino a 15.840 € di margine in meno | Parere scritto del commercialista prima della firma |
 | 5 | Possibili **minorenni** tra gli ospiti | Domanda scritta alla capofila ora |
 | 6 | Il 20 % è condizionato a un controllo fatto dalla controparte | Elenco documenti tassativo allegato al contratto, termine di contestazione |
-| 7 | **Assicurazione** assente | Preventivo RC + danni in parallelo alla trattativa |
-| 8 | Cassa: le caparre si pagano prima dell'80 % | Piano di cassa nella scrittura privata (art. 5<!--anticipi-->) |
+| 7 | Cassa: le caparre si pagano prima dell'80 % | Piano di cassa nella scrittura privata (art. 5<!--anticipi-->) |
 
 ## 6. Le date
 

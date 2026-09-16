@@ -125,7 +125,7 @@ integrante dell'accordo.
 ## Art. 5 — Anticipazione dei costi e piano di cassa <!--#anticipi-->
 
 1. I costi che maturano **prima** dell'incasso della tranche dell'80 % (caparre agli
-   immobili, assicurazione, spese di costituzione) sono anticipati **[DA DECIDERE]**:
+   immobili, spese di costituzione) sono anticipati **[DA DECIDERE]**:
    - ☐ in parti uguali dai due Soci; oppure
    - ☐ dal Socio `____________` fino a un massimo di `________ €`, oltre il quale in parti uguali.
 2. Ogni anticipazione è registrata nel registro con la dicitura *anticipo Socio X* e
@@ -144,18 +144,15 @@ integrante dell'accordo.
 2. Sono **Costi di progetto**, e riducono il margine, esclusivamente:
    a) alloggio degli ospiti (canoni, caparre non restituite, utenze e pulizie se non incluse);
    b) transfert e mobility;
-   c) assicurazioni del progetto;
-   d) imposte di soggiorno e oneri amministrativi legati agli immobili;
-   e) spese bancarie del conto dedicato;
-   f) compensi professionali riferibili al progetto (commercialista, eventuale consulenza
+   c) imposte di soggiorno e oneri amministrativi legati agli immobili;
+   d) spese bancarie del conto dedicato;
+   e) compensi professionali riferibili al progetto (commercialista, eventuale consulenza
       legale per il contratto), nella quota concordata;
-   g) **l'IVA eventualmente dovuta** sull'operazione se, contrariamente all'impostazione
+   f) **l'IVA eventualmente dovuta** sull'operazione se, contrariamente all'impostazione
       attuale, il servizio fosse qualificato ai sensi dell'art. 7-quater DPR 633/72 e il
       corrispettivo restasse "netto" per la Capofila;
-   h) i costi imprevisti approvati ai sensi dell'art. 9<!--spese-->;
-   i) i danni causati dagli ospiti **non recuperati** dalla Capofila;
-   j) i compensi a **collaboratori impiegati nel progetto** (es. assistenza in loco), nella
-      misura concordata tra i Soci ai sensi dell'art. 8<!--decisioni-->.
+   g) i costi imprevisti approvati ai sensi dell'art. 9<!--spese-->;
+   h) i danni causati dagli ospiti **non recuperati** dalla Capofila.
 3. **Non sono Costi di progetto**: le imposte sui redditi del Socio Firmatario, il tempo
    dedicato da ciascun Socio, le spese personali di spostamento salvo diverso accordo scritto,
    costi di altre attività dei Soci.
@@ -170,7 +167,7 @@ integrante dell'accordo.
 6. Ogni distribuzione avviene con bonifico dal conto dedicato, in pari importo ai due Soci
    nello stesso giorno, ed è registrata come *Distribuzione*.
 
-> 💬 **Commentario.** Definisce la parola "margine", che altrimenti ognuno interpreta a modo suo. L'elenco dei costi al comma 2 è **chiuso**: se una spesa non è in elenco, non riduce il margine. La lettera g) merita attenzione: se il commercialista dice che l'IVA è dovuta (rischio 7-quater) e il prezzo resta "netto" per la capofila, quell'IVA la pagate voi ed è un costo del progetto. Il comma 5 regola *quando* si divide: un acconto prudente dopo l'80 %, il saldo dopo il 20 %. La riserva per imprevisti evita di distribuire soldi che poi servono.
+> 💬 **Commentario.** Definisce la parola "margine", che altrimenti ognuno interpreta a modo suo. L'elenco dei costi al comma 2 è **chiuso**: se una spesa non è in elenco, non riduce il margine. La lettera f) merita attenzione: se il commercialista dice che l'IVA è dovuta (rischio 7-quater) e il prezzo resta "netto" per la capofila, quell'IVA la pagate voi ed è un costo del progetto. Il comma 5 regola *quando* si divide: un acconto prudente dopo l'80 %, il saldo dopo il 20 %. La riserva per imprevisti evita di distribuire soldi che poi servono.
 
 
 ## Art. 7 — Modalità con cui il Socio Operativo riceve la propria quota <!--#quota-operativo-->
@@ -273,15 +270,7 @@ integrante dell'accordo.
 > 💬 **Commentario.** Le cose spiacevoli che vanno scritte prima. **Prima della firma con la capofila** ci si può ritirare: rimborso degli anticipi e basta. **Dopo**, no, salvo impedimento grave — e in quel caso la quota si riduce in proporzione al lavoro non svolto. Il comma 3 gestisce il socio che non fa la sua parte: l'altro può sostituirlo e i costi vanno a carico di chi non ha adempiuto. Il comma 4 tutela gli eredi.
 
 
-## Art. 12 — Riservatezza <!--#riservatezza-->
-
-1. I Soci mantengono riservate condizioni, controparti e numeri del progetto verso terzi
-   che non siano consulenti vincolati al segreto professionale.
-
-> 💬 **Commentario.** Numeri, condizioni e nomi delle controparti restano tra voi due e i vostri consulenti. Non vieta di parlare del progetto: vieta di far girare i dettagli economici e contrattuali.
-
-
-## Art. 13 — Comunicazioni <!--#comunicazioni-->
+## Art. 12 — Comunicazioni <!--#comunicazioni-->
 
 1. Le comunicazioni tra i Soci rilevanti per il presente accordo sono valide se inviate per
    **email** agli indirizzi: `____________________` e `____________________`, oppure annotate
@@ -292,7 +281,7 @@ integrante dell'accordo.
 > 💬 **Commentario.** Stabilisce quali comunicazioni "contano": email agli indirizzi indicati, o annotazioni nella repository. Una telefonata vale solo se confermata per iscritto entro 48 ore. È la regola che evita il "ma io te l'avevo detto".
 
 
-## Art. 14 — Allegati <!--#allegati-->
+## Art. 13 — Allegati <!--#allegati-->
 
 - **Allegato A** — Documento di progetto ([`documento-di-progetto.md`](documento-di-progetto.md))
 - **Allegato B** — Registro dei movimenti economici (Google Foglio, link in
@@ -302,7 +291,7 @@ integrante dell'accordo.
 > 💬 **Commentario.** Elenca i documenti che fanno parte dell'accordo. L'Allegato A è il documento di progetto (cosa fate); il B è il registro dei movimenti (i soldi); il C è il piano di cassa, ancora da scrivere. Firmando la scrittura, firmate anche gli allegati.
 
 
-## Art. 15 — Legge applicabile e controversie <!--#legge-->
+## Art. 14 — Legge applicabile e controversie <!--#legge-->
 
 1. Il presente accordo è regolato dalla **legge italiana**.
 2. Per ogni controversia i Soci tentano prima una **conciliazione** diretta, poi con l'aiuto
@@ -312,7 +301,7 @@ integrante dell'accordo.
 > 💬 **Commentario.** Legge italiana e, prima di qualunque causa, l'obbligo di provare a mettersi d'accordo — da soli, poi con una persona di fiducia comune, entro 60 giorni. Il foro (**da compilare**) conta solo se tutto il resto fallisce.
 
 
-## Art. 16 — Disposizioni finali <!--#finali-->
+## Art. 15 — Disposizioni finali <!--#finali-->
 
 1. Modifiche e integrazioni sono valide solo **per iscritto**, firmate da entrambi.
 2. L'invalidità di una clausola non travolge le altre; i Soci la sostituiscono con una di
