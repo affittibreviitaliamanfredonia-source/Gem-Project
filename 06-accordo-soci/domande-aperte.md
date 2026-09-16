@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **17 + 9 parziali / 49**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **18 + 8 parziali / 49**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -113,9 +113,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Da fare: nel contratto con la capofila scrivere che è **compresa** nei 2.000 € (domanda 22).
   Nel registro si registra come *Costo · Altro costo* quando viene versata.
 
-`[~]` **16.** **Momento impositivo** dell'80 % incassato prima dell'inizio del servizio.
-- Nota (16/09): i soci la considerano risposta, ma il testo della risposta non è arrivato in chat. Da scrivere qui in una riga.
-- Risposta:
+`[x]` **16.** **Momento impositivo** dell'80 % incassato prima dell'inizio del servizio.
+- Risposta (16/09): **la fattura dell'80 % si emette qualche giorno prima dell'arrivo; il bonifico arriva il giorno dell'arrivo dei ragazzi.** → piano pagamenti, README scadenze.
+- Per il commercialista resta da confermare: con l'emissione anticipata l'operazione si considera effettuata alla data della fattura; verificare che VIES sia controllato quel giorno e come si tratta l'eventuale scarto tra data fattura e incasso.
 
 `[x]` **17.** **Conto dedicato**: tipo, intestazione, vincoli. → art. 4
 - Risposta (16/09): **conto corrente intestato al soggetto firmante.** Se si costituisce una società, il conto è della società, gestito da chi firma i contratti e invia le fatture, leggibile da entrambi. Se no: intestato a Gianluca, estratto nel Drive ogni mese. → art. 4.1 e 4.2.

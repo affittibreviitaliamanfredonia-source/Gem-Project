@@ -63,7 +63,7 @@ circa **15.840 €**. È un ordine di grandezza che può azzerare il margine.
 
 | # | Tranche | Imponibile (36 ospiti) | Evento | Emessa il | N. fattura | Incassata il |
 |---|---|---|---|---|---|---|
-| 1 | 80 % | 57.600 € | Arrivo | — | — | — |
+| 1 | 80 % | 57.600 € | Arrivo (fattura qualche giorno prima, incasso il giorno dell'arrivo) | — | — | — |
 | 2 | 20 % | 14.400 € | Partenza + controllo documentale | — | — | — |
 
 > Gli importi si ricalcolano sul numero **effettivo** di ospiti al momento dell'emissione.

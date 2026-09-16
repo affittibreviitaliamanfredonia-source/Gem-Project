@@ -15,7 +15,8 @@
 | Voce | Stato |
 |---|---|
 | Evento scatenante | Arrivo — **01/03/2027** (impostata, da confermare con la capofila) |
-| Termine di pagamento | `DA DEFINIRE` (proposta: 30 gg data fattura) 🔴 |
+| Emissione fattura | **Qualche giorno prima dell'arrivo** (deciso 16/09; proposta: 24/02/2027) |
+| Termine di pagamento | **Incasso il giorno dell'arrivo, 01/03/2027** (deciso 16/09; da scrivere nel contratto) 🟡 |
 | Fattura emessa il | — |
 | Numero fattura | — |
 | Incassata il | — |
@@ -23,13 +24,13 @@
 ### Da fissare nel contratto
 
 - [ ] "Arrivo" = arrivo del **primo** ospite o dell'**ultimo**? Se scaglionato, quale data vale?
-- [ ] Fattura emessa **prima** o **dopo** l'arrivo?
-- [ ] Termine di pagamento in giorni data fattura
+- [x] Fattura emessa **prima** dell'arrivo, di qualche giorno (16/09)
+- [x] Pagamento: bonifico con valuta il giorno dell'arrivo (16/09) — da mettere nel contratto con la data esatta
 - [ ] Interessi di mora in caso di ritardo
 
 > **Nota di cassa:** i costi di alloggio si sostengono in gran parte **prima o durante**
-> l'arrivo, mentre l'80 % arriva dopo. Va verificato che la cassa regga lo sfasamento,
-> altrimenti serve un anticipo alla firma. Se serve, va chiesto **ora**, in trattativa.
+> l'arrivo, mentre l'80 % arriva il giorno dell'arrivo. Prima di quel giorno i soci anticipano
+> in parti uguali, con fondi propri, e senza caparre agli immobili (scrittura privata, art. 5 e 10).
 
 ## Tranche 2 — 20 %
 

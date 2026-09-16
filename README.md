@@ -109,8 +109,8 @@ gantt
     Soggiorno 90 notti                   :active, l5, 2027-03-01, 2027-05-30
 
     section 04 Pagamenti
-    Fattura 80% (arrivo)                 :milestone, p1, 2027-03-01, 0d
-    Incasso 80% (30 gg)                  :p2, 2027-03-01, 2027-03-31
+    Fattura 80% (prima dell'arrivo)      :milestone, p1, 2027-02-24, 0d
+    Incasso 80% (giorno dell'arrivo)     :milestone, p2, 2027-03-01, 0d
     Consegna documenti (7 gg)            :p3, 2027-05-30, 2027-06-06
     Finestra contestazione (15 gg)       :p4, 2027-06-06, 2027-06-21
     Fattura 20%                          :milestone, p5, 2027-06-22, 0d
@@ -125,7 +125,8 @@ gantt
 | **Firma contratto con la capofila** | **15/12/2026** | Proposta — *nessun impegno con immobili prima di questa data* |
 | Contratti con gli immobili firmati | 15/01/2027 | Proposta |
 | Elenco nominativo ospiti ricevuto | 31/01/2027 | Proposta |
-| **Arrivo · fattura 80 %** | **01/03/2027** | **Impostata** |
+| Fattura 80 % | 24/02/2027 | Proposta (qualche giorno prima dell'arrivo, deciso 16/09) |
+| **Arrivo · incasso 80 %** | **01/03/2027** | **Impostata** (incasso il giorno dell'arrivo, deciso 16/09) |
 | **Partenza (90 notti)** | **30/05/2027** | Derivata |
 | Consegna documentazione | 06/06/2027 | Proposta (7 gg) |
 | Termine contestazione capofila | 21/06/2027 | Proposta (15 gg) |

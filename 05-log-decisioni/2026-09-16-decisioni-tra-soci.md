@@ -66,5 +66,6 @@
   (manleva per i minorenni). Scrittura privata alla versione 0.5.
 - Foro: **Foggia** (art. 14). Comunicazioni formali all'indirizzo di residenza del firmatario o
   alla sede legale della società (art. 12). Conto corrente intestato al soggetto firmante (art. 4).
+- Fattura dell'80 % emessa qualche giorno prima dell'arrivo, incasso il giorno dell'arrivo.
 - L'email di progetto si crea dopo aver deciso il soggetto che fa il progetto (persona o società),
   perché il nome dell'indirizzo lo rappresenta verso tutti.
