@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **9 + 6 parziali / 48**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **13 + 10 parziali / 48**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -39,52 +39,51 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
   l'importo esatto, **a consuntivo** e prima della divisione del margine. → art. 5.1 e 5.3 aggiornati.
 - Con quali soldi: resta aperta (1b e 38).
 
-`[ ]` **1b.** Esiste la cassa per anticipare? Quanto serve prima del 01/03/2027? *(→ Allegato C, piano di cassa)*
-- Risposta:
+`[x]` **1b.** Esiste la cassa per anticipare? Quanto serve prima del 01/03/2027? *(→ Allegato C, piano di cassa)*
+- Risposta (16/09): **non c'è una cassa precostituita: si costituisce all'occorrenza**, in parti uguali. → art. 5.5. Quanto serve e quando: resta il piano di cassa (domanda 38).
 
 ### A2 · Distribuzione del margine → art. 6.5
-`[ ]` **2.** Dopo l'incasso dell'80 % ci si divide un acconto o si aspetta la fine?
-- Se acconto: percentuale del margine provvisorio `____ %` · riserva minima `____ €`
-- Risposta:
+`[x]` **2.** Dopo l'incasso dell'80 % ci si divide un acconto o si aspetta la fine?
+- Risposta (16/09): **nessun acconto.** Con l'80 % si pagano i costi maturati e arretrati e si rimborsano gli anticipi ai soci; il margine si divide una volta sola, alla fine. → art. 6.5 riscritto.
 
 ### A3 · Soglia spese → art. 9
-`[ ]` **3.** Sopra quale importo una spesa richiede il sì di entrambi? *(proposta 500 €)*
-- Risposta:
+`[x]` **3.** Sopra quale importo una spesa richiede il sì di entrambi? *(proposta 500 €)*
+- Risposta (16/09): **nessuna soglia**, ma impegno a contenere le spese al minimo. Resta il consenso di entrambi per le spese fuori dal piano di cassa. → art. 9 riscritto, art. 8.1 c) adeguato.
 
 ### A4 · Art. 12
 `[x]` **4.** Chiusa (16/09): **l'art. 12 è stato eliminato** (né non concorrenza né riservatezza). Il contatto con la capofila l'ha portato Luigi.
 
 ### A5 · Compiti operativi → Allegato A
-`[~]` **5.** Chi fa cosa, nelle tre righe ancora "da assegnare":
-- Ricerca e contratti immobili → `____________`
-- Transfert e mobility → `____________`
-- Regolamento casa, check-in/out, rubrica ospiti → `____________`
-- Chi sta **sul posto** durante i 90 giorni? → **Gianluca** (16/09)
+`[x]` **5.** Chi fa cosa, nelle tre righe ancora "da assegnare":
+- Risposta (16/09): **tutto Gianluca**; Luigi solo saltuariamente, a supporto. Compiti di Gianluca: prendere i ragazzi all'arrivo, portarli agli alloggi, presentare alloggio, regole e norme; rapporti e pagamenti con i proprietari; welcome meeting con i tutor; contatto e contratto con le **aziende ospitanti** e primo accompagnamento in azienda con il tutor; transfert, mobility, regolamento casa, rubrica. → Allegato A, tabella compiti.
+- Nota: le **aziende ospitanti** compaiono qui per la prima volta. Se il servizio include anche il collocamento dei ragazzi in azienda, va scritto nel contratto B2B (cosa comprende, chi risponde di cosa) e rafforza la lettura "accoglienza complessa" del 7-ter (domanda 11).
 - Nota: gli apporti sono asimmetrici ma complementari — Luigi porta il cliente, Gianluca firma,
   fattura, tiene il conto e sta sul posto 90 giorni. È l'argomento da usare nella domanda 6 e
   nell'assioma A7: il 50/50 regge se entrambi riconoscono che i due apporti si equivalgono.
 
 ### A6 · Il tempo come apporto → art. 6.3
-`[ ]` **6.** Se uno dei due farà 90 giorni di presenza e reperibilità e l'altro no, il 50/50 regge?
+`[x]` **6.** Se uno dei due farà 90 giorni di presenza e reperibilità e l'altro no, il 50/50 regge?
 Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso fisso per chi
 è sul posto prima della divisione; una quota diversa; un rimborso spese; lasciare 50/50.
-- Risposta:
+- Risposta (16/09): **regge.** Il tempo di chi lavora sul posto vale come apporto di lavoro; Luigi porta il contratto e il supporto. Nessun compenso fisso, nessun rimborso: apporti riconosciuti equivalenti. → art. 2.5 nuovo; art. 6.3 invariato.
 
 ### A7 · Recesso e impedimento → art. 11.2
-`[ ]` **7.** La riduzione "in proporzione ai giorni trascorsi" va bene, o serve un criterio diverso?
-- Risposta:
+`[~]` **7.** La riduzione "in proporzione ai giorni trascorsi" va bene, o serve un criterio diverso?
+- Risposta (16/09): data sul recesso **della capofila** ("non esiste recesso: se i ragazzi arrivano parte il contratto"). Questo va nel contratto B2B (domanda 20), e la scrittura ora lo dice nel commentario dell'art. 11.
+- L'art. 11.2 però riguarda il recesso di **uno dei due soci** dopo la firma (malattia, forza maggiore): il criterio "in proporzione ai giorni" resta da confermare.
 
 ### A8 · Perdita → art. 10.1
-`[ ]` **8.** Se il margine diventa negativo, la perdita è 50/50 **senza tetto**? O ci si ferma a una cifra?
-- Risposta:
+`[~]` **8.** Se il margine diventa negativo, la perdita è 50/50 **senza tetto**? O ci si ferma a una cifra?
+- Risposta (16/09): **in parti uguali, con un tetto indicativo di 1.000 € ciascuno**, da valutare in base al contratto con la capofila.
+- Attenzione: un tetto scritto tra soci non cancella i debiti verso i proprietari. L'ho tradotto così (art. 10.1-bis, **da confermare**): prima dell'80 % non si impegnano più di **2.000 €** in totale, salvo consenso scritto di entrambi che vale come accettazione di un rischio maggiore. Se il tetto non è questo, va detto come funziona oltre i 1.000 €.
 
 ### A9 · Dati da compilare → art. 13, 15, parti
-`[ ]` **9.** Foro competente: `____________` · Email di progetto: `____________` · Email di Luigi: `____________`
+`[ ]` **9.** Foro competente: `____________` · Email di progetto: `____________` *(ancora da creare, 16/09 sera)* · Email di Luigi: `____________`
 `[ ]` **9b.** Dati anagrafici di entrambi per l'intestazione (luogo e data di nascita, residenza, C.F.).
 
 ### A10 · Conto → art. 4
-`[ ]` **10.** Quale banca/conto? Luigi avrà accesso in lettura o l'estratto mensile?
-- Risposta:
+`[x]` **10.** Quale banca/conto? Luigi avrà accesso in lettura o l'estratto mensile?
+- Risposta (16/09): dipende dalla banca. Se il conto è intestato a un socio persona fisica, chi lo tiene **carica l'estratto conto nel Drive del progetto** periodicamente (ogni mese, art. 4.2) così l'altro lo legge sempre; se il conto è di una società, è leggibile da entrambi. La banca: domanda 17.
 
 ---
 
@@ -97,6 +96,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Risposta:
 
 `[ ]` **12.** Con quale **titolo fiscale** Luigi riceve il 50 %: fattura, associazione in partecipazione, altro? Con quali costi per ciascuno? → art. 7
+- Nota (16/09): i soci aggiungono l'ipotesi **SRL** tra i due. Da chiedere al commercialista costi e tempi di costituzione e gestione per un progetto da 72.000 € e 90 giorni. Se si sceglie la SRL, cambiano art. 1.2 (oggi: "non costituisce società"), 2, 4 e 7.
 - Risposta:
 
 `[ ]` **13.** Con quale **posizione** fattura Gianluca (ditta individuale, società, regime)? Conviene così o diversamente? → art. 2
@@ -114,11 +114,12 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Da fare: nel contratto con la capofila scrivere che è **compresa** nei 2.000 € (domanda 22).
   Nel registro si registra come *Costo · Altro costo* quando viene versata.
 
-`[ ]` **16.** **Momento impositivo** dell'80 % incassato prima dell'inizio del servizio.
+`[~]` **16.** **Momento impositivo** dell'80 % incassato prima dell'inizio del servizio.
+- Nota (16/09): "già discusso" tra i soci, ma la risposta non è stata riportata qui. Da scrivere.
 - Risposta:
 
-`[ ]` **17.** **Conto dedicato**: tipo, intestazione, vincoli. → art. 4
-- Risposta:
+`[~]` **17.** **Conto dedicato**: tipo, intestazione, vincoli. → art. 4
+- Risposta (16/09): se si costituisce una società, il conto è della società, gestito da chi firma i contratti e invia le fatture, leggibile da entrambi. Se non c'è società: intestato a chi fattura, estratto nel Drive ogni mese. Banca e tipo di conto: aperti.
 
 ---
 
@@ -194,7 +195,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **43.** Rubrica ospiti (esigenze mediche, contatti di emergenza): chi la raccoglie, dove sta.
 
 **Strumenti**
-`[x]` **44.** Email di progetto: creata il **16/09/2026**. Indirizzo: `____________` *(da comunicare)*
+`[~]` **44.** Email di progetto: **ancora da creare** (16/09 sera; in mattinata risultava creata — da chiarire). Indirizzo: `____________`
 `[x]` **45.** Calendario Google con le scadenze: **sì**, da attivare sull'account della email di progetto appena comunicata.
 `[x]` **46.** Foglio movimenti e cartella Drive condivisi con Luigi: **sì**. La cartella Drive raccoglie tutti i documenti, **una sottocartella per ambito** (contratti, documenti ragazzi, …). Struttura proposta in [`../README.md`](../README.md#cartella-drive).
 

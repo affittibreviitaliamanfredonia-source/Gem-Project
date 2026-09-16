@@ -1,6 +1,6 @@
 # Scrittura privata tra soci — Progetto GEM
 
-**Versione 0.3 — bozza del 16/09/2026 · in revisione tra i soci, non firmata**
+**Versione 0.4 — bozza del 16/09/2026 · in revisione tra i soci, non firmata**
 
 > ⚠️ Bozza redatta per fissare per iscritto quanto concordato a voce. **Non è consulenza
 > legale né fiscale.** Prima della firma va letta dal commercialista, in particolare
@@ -92,8 +92,12 @@ integrante dell'accordo.
    scritto del Socio Operativo.
 4. La distribuzione dei compiti operativi è quella dell'Allegato A e può essere modificata
    d'accordo tra i Soci con semplice scambio di email.
+5. I Soci riconoscono come **apporti equivalenti**, ai fini della ripartizione paritaria del
+   margine: per il Socio Operativo, il contratto con la Capofila e il supporto al progetto; per
+   il Socio Firmatario, la firma, la fatturazione, la tenuta del conto e il **lavoro sul posto**
+   durante i 90 giorni.
 
-> 💬 **Commentario.** Chi fa cosa. Gianluca firma, fattura e tiene il conto: verso la capofila esiste solo lui. Luigi ha gli stessi diritti *tra voi* (decisioni, metà del margine) ma non compare verso terzi. Il comma 3 è la tutela di Luigi: Gianluca non può cambiare prezzo, numero di ospiti o penali con la capofila senza il suo sì scritto — altrimenti chi firma potrebbe decidere da solo il destino dei soldi di entrambi.
+> 💬 **Commentario.** Chi fa cosa. Gianluca firma, fattura e tiene il conto: verso la capofila esiste solo lui. Luigi ha gli stessi diritti *tra voi* (decisioni, metà del margine) ma non compare verso terzi. Il comma 3 è la tutela di Luigi: Gianluca non può cambiare prezzo, numero di ospiti o penali con la capofila senza il suo sì scritto — altrimenti chi firma potrebbe decidere da solo il destino dei soldi di entrambi. Il comma 5 mette per iscritto *perché* il 50/50 è equo: Luigi porta il contratto e il supporto, Gianluca il lavoro sul posto per 90 giorni oltre a firma e conto. Il tempo di chi lavora sul posto è un apporto, non un costo da rimborsare (art. 6.3<!--margine-->).
 
 
 ## Art. 3 — Nessun impegno prima della firma con la Capofila <!--#impegni-->
@@ -113,15 +117,17 @@ integrante dell'accordo.
 1. Il Socio Firmatario apre, o destina, un **conto intestato al soggetto che fattura**,
    usato **esclusivamente** per il progetto: vi affluiscono gli incassi dalla Capofila e da
    esso partono i pagamenti ai fornitori e le distribuzioni ai Soci.
-2. Il Socio Operativo ha **accesso in sola lettura** al conto (o, se la banca non lo consente,
-   riceve l'estratto conto entro il giorno 5 di ogni mese).
+2. Se il conto è intestato a un Socio persona fisica, il Socio Firmatario ne carica
+   l'**estratto conto** nella cartella Drive del progetto **entro il giorno 5 di ogni mese**
+   (o concede l'accesso in sola lettura, se la banca lo consente). Se il conto è intestato a
+   una società, è accessibile in lettura a entrambi i Soci.
 3. Ogni movimento è registrato nel **registro condiviso** dei movimenti (Allegato B) **entro
    3 giorni** da chi lo ha effettuato. Un movimento non registrato non è opponibile all'altro
    Socio.
 4. Il Socio Firmatario **non preleva** dal conto se non a titolo di *Distribuzione* ai sensi
    dell'art. 6<!--margine--> o di *rimborso* ai sensi dell'art. 5<!--anticipi-->, entrambi registrati.
 
-> 💬 **Commentario.** Un conto solo, usato solo per GEM, intestato a chi fattura. Luigi lo vede in lettura (o riceve l'estratto ogni mese). Il comma 3 lega tutto al registro condiviso: **un movimento che non è nel registro non conta** — è la regola che rende i conti verificabili da entrambi senza doversi fidare a parole. Il comma 4 vieta prelievi "informali".
+> 💬 **Commentario.** Un conto solo, usato solo per GEM, intestato a chi fattura. Se il conto è di Gianluca come persona, ogni mese l'estratto finisce nel Drive del progetto, così Luigi lo vede sempre; se il conto sarà di una società, lo vedono entrambi direttamente. Il comma 3 lega tutto al registro condiviso: **un movimento che non è nel registro non conta** — è la regola che rende i conti verificabili da entrambi senza doversi fidare a parole. Il comma 4 vieta prelievi "informali".
 
 
 ## Art. 5 — Anticipazione dei costi e piano di cassa <!--#anticipi-->
@@ -130,12 +136,15 @@ integrante dell'accordo.
    immobili, spese di costituzione) sono anticipati **in parti uguali dai due Soci**.
 2. Ogni anticipazione è registrata nel registro con la dicitura *anticipo Socio X* e
    costituisce **credito verso il progetto**, non verso l'altro Socio.
-3. Gli anticipi sono **rimborsati a ciascun Socio per l'importo esatto anticipato**, in sede
-   di conto consuntivo e comunque **prima di qualsiasi distribuzione** di margine.
+3. Gli anticipi sono **rimborsati a ciascun Socio per l'importo esatto anticipato** dopo
+   l'incasso della tranche dell'80 % e il pagamento dei costi maturati, e comunque **prima di
+   qualsiasi distribuzione** di margine. Il conto consuntivo ne dà evidenza.
+5. Non esiste una cassa precostituita: i Soci versano **all'occorrenza**, in parti uguali,
+   quanto serve secondo il piano di cassa.
 4. Prima della firma con la Capofila i Soci redigono insieme un **piano di cassa**: quali
    costi maturano in quali date, con quali fondi si coprono. Il piano è allegato al registro.
 
-> 💬 **Commentario.** Le caparre agli immobili maturano prima che arrivi l'80 %: qualcuno deve anticipare. I soci hanno deciso (16/09) di farlo **in parti uguali**. Chi anticipa è *creditore del progetto*, non dell'altro socio; a consuntivo riprende **esattamente quanto ha versato**, prima che il margine venga diviso. Il piano di cassa (comma 4) serve a sapere in anticipo quanti soldi servono e quando.
+> 💬 **Commentario.** Le caparre agli immobili maturano prima che arrivi l'80 %: qualcuno deve anticipare. I soci hanno deciso (16/09) di farlo **in parti uguali**. Chi anticipa è *creditore del progetto*, non dell'altro socio; riprende **esattamente quanto ha versato** appena arriva l'80 % e sono pagati i costi maturati, comunque prima che il margine venga diviso. Non c'è una cassa messa da parte prima (comma 5): si versa quando serve, in parti uguali. Proprio per questo il piano di cassa (comma 4) serve: dice in anticipo quanti soldi servono e quando.
 
 
 ## Art. 6 — Margine e ripartizione 50/50 <!--#margine-->
@@ -157,17 +166,16 @@ integrante dell'accordo.
    dedicato da ciascun Socio, le spese personali di spostamento salvo diverso accordo scritto,
    costi di altre attività dei Soci.
 4. Il margine è ripartito **50 % a ciascun Socio**.
-5. **Tempi di distribuzione [DA DECIDERE]:**
-   - **Acconto**: dopo l'incasso della tranche dell'80 % e dopo che **tutti i costi di alloggio
-     sono stati pagati o accantonati**, può essere distribuito un acconto pari al **`____ %`**
-     del margine *provvisorio* (ricavi incassati − costi pagati − costi già contrattualizzati
-     e non ancora pagati), trattenendo una riserva per imprevisti non inferiore a `________ €`.
-   - **Saldo**: entro **30 giorni** dall'incasso della tranche del 20 %, o dal momento in cui
-     il suo mancato incasso è definitivo ai sensi dell'art. 10<!--mancato-incasso-->.
+5. **Tempi di distribuzione:**
+   - dopo l'incasso della tranche dell'80 % **non si distribuisce margine**: il conto serve a
+     pagare i costi maturati e arretrati e a rimborsare gli anticipi dei Soci (art. 5<!--anticipi-->);
+   - il margine è distribuito in **un'unica soluzione**, entro **30 giorni** dall'incasso della
+     tranche del 20 %, o dal momento in cui il suo mancato incasso è definitivo ai sensi
+     dell'art. 10<!--mancato-incasso-->.
 6. Ogni distribuzione avviene con bonifico dal conto dedicato, in pari importo ai due Soci
    nello stesso giorno, ed è registrata come *Distribuzione*.
 
-> 💬 **Commentario.** Definisce la parola "margine", che altrimenti ognuno interpreta a modo suo. L'elenco dei costi al comma 2 è **chiuso**: se una spesa non è in elenco, non riduce il margine. La lettera f) merita attenzione: se il commercialista dice che l'IVA è dovuta (rischio 7-quater) e il prezzo resta "netto" per la capofila, quell'IVA la pagate voi ed è un costo del progetto. Il comma 5 regola *quando* si divide: un acconto prudente dopo l'80 %, il saldo dopo il 20 %. La riserva per imprevisti evita di distribuire soldi che poi servono.
+> 💬 **Commentario.** Definisce la parola "margine", che altrimenti ognuno interpreta a modo suo. L'elenco dei costi al comma 2 è **chiuso**: se una spesa non è in elenco, non riduce il margine. La lettera f) merita attenzione: se il commercialista dice che l'IVA è dovuta (rischio 7-quater) e il prezzo resta "netto" per la capofila, quell'IVA la pagate voi ed è un costo del progetto. Il comma 5 regola *quando* si divide: **mai prima della fine**. Con l'80 % si pagano i costi e si restituiscono gli anticipi ai soci; il margine si divide una volta sola, dopo il 20 % (o quando è certo che non arriverà). È la scelta più prudente: non si distribuiscono soldi che poi potrebbero servire.
 
 
 ## Art. 7 — Modalità con cui il Socio Operativo riceve la propria quota <!--#quota-operativo-->
@@ -208,7 +216,7 @@ integrante dell'accordo.
    nel canale concordato, conservato):
    a) firma e ogni modifica del contratto con la Capofila;
    b) scelta degli immobili e firma dei relativi contratti;
-   c) spese superiori alla soglia dell'art. 9<!--spese-->;
+   c) spese non previste dal piano di cassa, ai sensi dell'art. 9<!--spese-->;
    d) avvio di azioni legali o transazioni;
    e) ammissione di ospiti oltre il numero contrattuale, o riduzione del numero;
    f) modifiche al presente accordo.
@@ -225,14 +233,13 @@ integrante dell'accordo.
 
 ## Art. 9 — Spese <!--#spese-->
 
-1. **Soglia** singola spesa: `________ €` **[DA DECIDERE — proposta: 500 €]**.
-2. Sotto la soglia, il Socio responsabile dell'area decide e paga dal conto dedicato (o
-   anticipa, art. 5<!--anticipi-->), registrando entro 3 giorni.
-3. Sopra la soglia, consenso di entrambi prima dell'impegno.
-4. Spese **fuori dal piano di cassa** e sopra la soglia richiedono, oltre al consenso, la
-   verifica che la riserva dell'art. 6.5<!--margine--> resti integra.
+1. **Non è fissata una soglia di spesa.** Il Socio responsabile dell'area decide e paga dal
+   conto dedicato (o anticipa, art. 5<!--anticipi-->) le spese necessarie, con l'impegno di
+   **contenerle al minimo**, registrando entro 3 giorni.
+2. Le spese **non previste dal piano di cassa** (Allegato C) o estranee all'elenco dell'art. 6.2<!--margine-->
+   richiedono il consenso di entrambi **prima** dell'impegno.
 
-> 💬 **Commentario.** Fissa la cifra sopra la quale una spesa richiede il sì di entrambi (**[DA DECIDERE]**, proposta 500 €). Sotto, chi gestisce l'area decide e registra entro 3 giorni. Il comma 4 aggiunge un freno: una spesa grande e non prevista dal piano di cassa non deve mangiarsi la riserva per imprevisti.
+> 💬 **Commentario.** I soci hanno scelto (16/09) di **non fissare una soglia**: chi gestisce un'area spende quel che serve, il meno possibile, e lo registra entro 3 giorni. Il freno resta nel comma 2: quello che non era nel piano di cassa, o non è un costo di progetto secondo l'art. 6.2<!--margine-->, si decide in due prima di impegnarsi.
 
 
 ## Art. 10 — Mancato incasso e rischi <!--#mancato-incasso-->
@@ -240,6 +247,10 @@ integrante dell'accordo.
 1. Se la Capofila **non paga**, in tutto o in parte, il mancato incasso è **a carico di
    entrambi i Soci al 50 %**: riduce il margine e, se il margine diventa negativo, la perdita
    è coperta in parti uguali.
+1-bis. I Soci intendono contenere la perdita possibile entro **1.000 € ciascuno** **[DA
+   CONFERMARE dopo il contratto con la Capofila]**. A tal fine, prima dell'incasso della
+   tranche dell'80 % i costi impegnati non superano complessivamente **2.000 €**, salvo
+   consenso scritto di entrambi, che vale come accettazione di una perdita possibile maggiore.
 2. Le spese per il **recupero del credito** sono Costi di progetto, decise ai sensi dell'art. 8<!--decisioni-->.
 3. Il mancato incasso della tranche del 20 % si considera **definitivo** quando: la Capofila
    lo ha rifiutato per iscritto e i Soci hanno deciso di non agire; oppure sono trascorsi
@@ -248,7 +259,7 @@ integrante dell'accordo.
    recuperabili sono Costi di progetto, salvo l'art. 3.3<!--impegni-->.
 5. Ciascun Socio risponde **da solo** dei danni causati da sua colpa grave o dolo.
 
-> 💬 **Commentario.** Cosa succede se la capofila non paga: la perdita è **al 50/50**, come il guadagno. Le spese per recuperare il credito sono costi di progetto e si decidono insieme. Il comma 3 dice quando il 20 % si considera *definitivamente* perso — serve per chiudere i conti e fare il saldo (art. 6.5<!--margine-->) invece di aspettare all'infinito. Il comma 5 esclude dal 50/50 i danni causati da colpa grave o dolo di uno dei due.
+> 💬 **Commentario.** Cosa succede se la capofila non paga: la perdita è **al 50/50**, come il guadagno. Il comma 1-bis traduce l'intenzione dei soci di non perdere più di 1.000 € a testa. Attenzione: un tetto scritto *tra voi* non cancella i debiti verso terzi — se avete impegnato 10.000 € di caparre e la capofila sparisce, il proprietario li vuole comunque, e il socio che ha firmato ne risponde. L'unico modo perché il tetto funzioni è **non impegnare più di 2.000 € prima dell'80 %**: è quello che dice il comma. Oltre, serve il sì scritto di entrambi, che vale come accettazione del rischio maggiore. Le spese per recuperare il credito sono costi di progetto e si decidono insieme. Il comma 3 dice quando il 20 % si considera *definitivamente* perso — serve per chiudere i conti e fare il saldo (art. 6.5<!--margine-->) invece di aspettare all'infinito. Il comma 5 esclude dal 50/50 i danni causati da colpa grave o dolo di uno dei due.
 
 
 ## Art. 11 — Impedimento, recesso, inadempimento <!--#recesso-->
@@ -267,7 +278,7 @@ integrante dell'accordo.
 4. In caso di **decesso** di un Socio, gli eredi hanno diritto alla quota di margine maturata
    secondo il criterio del comma 2.
 
-> 💬 **Commentario.** Le cose spiacevoli che vanno scritte prima. **Prima della firma con la capofila** ci si può ritirare: rimborso degli anticipi e basta. **Dopo**, no, salvo impedimento grave — e in quel caso la quota si riduce in proporzione al lavoro non svolto. Il comma 3 gestisce il socio che non fa la sua parte: l'altro può sostituirlo e i costi vanno a carico di chi non ha adempiuto. Il comma 4 tutela gli eredi.
+> 💬 **Commentario.** Le cose spiacevoli che vanno scritte prima. Questo articolo riguarda il recesso di **uno dei due soci**, non quello della capofila: se la capofila può o non può uscire dal contratto lo decide il contratto B2B con lei (domanda 20 della lista), non questa scrittura. **Prima della firma con la capofila** ci si può ritirare: rimborso degli anticipi e basta. **Dopo**, no, salvo impedimento grave — e in quel caso la quota si riduce in proporzione al lavoro non svolto. Il comma 3 gestisce il socio che non fa la sua parte: l'altro può sostituirlo e i costi vanno a carico di chi non ha adempiuto. Il comma 4 tutela gli eredi.
 
 
 ## Art. 12 — Comunicazioni <!--#comunicazioni-->

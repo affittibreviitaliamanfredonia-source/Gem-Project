@@ -29,7 +29,20 @@
 10. **Anticipi in parti uguali**, restituiti a consuntivo per l'importo esatto, prima della
     divisione del margine (art. 5).
 11. **Chi fattura** lo decide il commercialista: fino ad allora i documenti restano impostati
-    su Gianluca.
+    su Gianluca. Sul tavolo anche l'ipotesi di una **SRL** tra i soci.
+12. **Nessuna cassa precostituita**: si versa all'occorrenza, in parti uguali (art. 5.5).
+13. **Nessun acconto dopo l'80 %**: si pagano costi e arretrati, si rimborsano gli anticipi,
+    il margine si divide una volta sola alla fine (art. 6.5).
+14. **Nessuna soglia di spesa**: ognuno spende il minimo necessario nella propria area;
+    consenso di entrambi solo per spese fuori dal piano di cassa (art. 9, art. 8.1 c).
+15. **Compiti operativi tutti a Gianluca**, Luigi a supporto saltuario. Tra i compiti compaiono
+    le **aziende ospitanti** (contatto, contratto, primo accompagnamento con il tutor).
+16. **Il tempo sul posto vale come apporto di lavoro**, non come costo: apporti riconosciuti
+    equivalenti (art. 2.5).
+17. **Conto**: se intestato a un socio persona fisica, estratto conto nel Drive ogni mese;
+    se a una società, leggibile da entrambi (art. 4.2).
+18. **Perdita**: in parti uguali, con l'intenzione di non superare 1.000 € a testa; tradotta
+    in un limite ai costi impegnati prima dell'80 % (art. 10.1-bis, da confermare).
 
 ## Conseguenze
 
@@ -38,4 +51,4 @@
   direttamente dai soci: scelta consapevole, registrata qui.
 - Per Luigi: verificare l'*agreement* già firmato tra capofila e ragazzi (vincoli sui 36).
 - Nuove domande: 11b (la capofila, ente non commerciale, è soggetto passivo IVA?) e 21b
-  (manleva per i minorenni). Scrittura privata alla versione 0.3.
+  (manleva per i minorenni). Scrittura privata alla versione 0.4.

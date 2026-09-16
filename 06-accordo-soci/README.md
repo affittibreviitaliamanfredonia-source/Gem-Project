@@ -7,17 +7,17 @@ Non riguardano la capofila: sono interni.
 |---|---|---|
 | [`documento-di-progetto.md`](documento-di-progetto.md) | Riassunto del progetto su cui i soci si impegnano — **Allegato A** della scrittura privata | 🟡 Bozza |
 | [`scrittura-privata.md`](scrittura-privata.md) | Accordo tra i soci: ruoli, soldi, decisioni, rischi | 🟡 Bozza |
-| [`domande-aperte.md`](domande-aperte.md) | **Lista di lavoro**: 10 assiomi e 48 domande, divise per chi deve rispondere, con spazio per le risposte | 🟡 9 + 6 parziali / 48 |
+| [`domande-aperte.md`](domande-aperte.md) | **Lista di lavoro**: 10 assiomi e 48 domande, divise per chi deve rispondere, con spazio per le risposte | 🟡 13 + 10 parziali / 48 |
 
 ## Versioni stampabili
 
 | PDF | Generato da |
 |---|---|
-| [`pdf/GEM-documento-di-progetto-v0.3.pdf`](pdf/GEM-documento-di-progetto-v0.3.pdf) | `documento-di-progetto.md` |
-| [`pdf/GEM-scrittura-privata-soci-v0.3.pdf`](pdf/GEM-scrittura-privata-soci-v0.3.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
-| [`pdf/GEM-scrittura-privata-soci-v0.3-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.3-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
+| [`pdf/GEM-documento-di-progetto-v0.4.pdf`](pdf/GEM-documento-di-progetto-v0.4.pdf) | `documento-di-progetto.md` |
+| [`pdf/GEM-scrittura-privata-soci-v0.4.pdf`](pdf/GEM-scrittura-privata-soci-v0.4.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
+| [`pdf/GEM-scrittura-privata-soci-v0.4-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.4-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
 
-I PDF sono **copie di lettura** con marcatura "Bozza v0.3": si rigenerano dal Markdown a ogni
+I PDF sono **copie di lettura** con marcatura "Bozza v0.4": si rigenerano dal Markdown a ogni
 versione. Le correzioni si fanno nei file `.md`, non nel PDF.
 
 ## Il commentario
@@ -63,8 +63,8 @@ Copia di revisione della scrittura privata, nella cartella Drive
 **Progetto GEM → 06 · Accordo tra soci**:
 **<https://docs.google.com/document/d/1FznIcVviozfEaZ69u2Ygc_B3EBVLvOV8RPOtFehyU9g/edit>**
 
-> Il Documento è fermo alla **v0.2** (mattina del 16/09). La v0.3 cambia solo art. 5 e la
-> premessa a): il Documento si ricarica al prossimo giro di revisione, per non azzerare i commenti.
+> Il Documento è fermo alla **v0.2** (mattina del 16/09). Le versioni 0.3 e 0.4 recepiscono le
+> risposte della videochiamata (art. 2, 4, 5, 6, 9, 10): il Documento si ricarica a fine giro.
 
 | Chi | Cosa fa | Dove |
 |---|---|---|
@@ -96,7 +96,7 @@ Regole:
 | # | Decisione | Dove nel testo |
 |---|---|---|
 | 1 | ~~Quale dei due è il **Socio Firmatario**~~ → **Gianluca Iaconeta** (deciso il 14/09) | Art. 2 |
-| 2 | **Soglia** oltre la quale una spesa richiede il consenso di entrambi | Art. 9 |
+| 2 | ~~**Soglia** di spesa~~ → **nessuna soglia**, spese al minimo, consenso solo fuori dal piano di cassa (deciso il 16/09) | Art. 9 |
 | 3 | **Meccanismo fiscale** con cui il secondo socio riceve il 50 % | Art. 7 — col commercialista |
-| 4 | Se dare un **acconto** dopo l'incasso dell'80 % e in che misura | Art. 6 |
+| 4 | ~~Se dare un **acconto** dopo l'80 %~~ → **nessun acconto**, margine diviso solo alla fine (deciso il 16/09) | Art. 6 |
 | 5 | ~~Chi **anticipa** le caparre agli immobili~~ → **in parti uguali, restituiti a consuntivo** (deciso il 16/09); con quali soldi: piano di cassa | Art. 5 |

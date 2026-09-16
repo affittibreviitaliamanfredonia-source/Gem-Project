@@ -1,6 +1,6 @@
 # Progetto GEM — Documento di progetto
 
-**Allegato A alla scrittura privata tra i soci** · Versione 0.3 — bozza del 16/09/2026
+**Allegato A alla scrittura privata tra i soci** · Versione 0.4 — bozza del 16/09/2026
 
 > Questo documento dice **cosa** è il progetto e **a cosa ci impegniamo**. Le regole su soldi,
 > decisioni e imprevisti stanno nella [scrittura privata](scrittura-privata.md). I due
@@ -16,7 +16,7 @@
 | **Per conto di chi** | Una capofila spagnola — è lei il cliente. I ragazzi non sono clienti nostri |
 | **Quanti** | **36 ospiti**, ciascuno in **camera singola** |
 | **Quando** | Arrivo **01/03/2027**, partenza **30/05/2027** — **90 notti** |
-| **Cosa forniamo** | Alloggio · transfert arrivo/partenza · mobility locale · assistenza durante il soggiorno · documentazione di fine percorso |
+| **Cosa forniamo** | Alloggio · transfert arrivo/partenza · mobility locale · assistenza durante il soggiorno · rapporti con le aziende ospitanti (contatto, contratto, primo accompagnamento) · documentazione di fine percorso |
 | **Chi siamo** | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % |
 
 ## 2. I numeri
@@ -26,7 +26,7 @@
 | Corrispettivo | **2.000 € netti** per ospite | Concordato a voce |
 | Ricavo lordo (36 ospiti) | **72.000 €** | Derivato |
 | Tranche 1 — 80 % all'arrivo | 57.600 € | Concordato a voce |
-| Tranche 2 — 20 % alla partenza | 14.400 € — **subordinata a controllo documentale** | Concordato a voce |
+| Tranche 2 — 20 % alla consegna dei documenti | 14.400 € — alla consegna di **valutazioni, certificati e documentazione firmata** | Concordato a voce |
 | Regime IVA | Reverse charge art. 7<!--quota-operativo-->-ter — **da confermare col commercialista** (rischio 7-quater) | Aperto |
 | Costi: alloggio, transfert, mobility | **Non ancora stimati** | Aperto |
 | Margine | Ricavi incassati − costi di progetto | Da calcolare |
@@ -39,18 +39,26 @@
 | Ruolo | Chi | Cosa comporta |
 |---|---|---|
 | **Socio Firmatario** | **Gianluca Iaconeta** | Firma il contratto con la capofila · emette le fatture · è titolare del conto dedicato · risponde verso la capofila |
-| **Socio Operativo** | **Luigi Zerulo** | Parità nelle decisioni · accesso in lettura al conto e al registro · compiti operativi come da tabella sotto |
+| **Socio Operativo** | **Luigi Zerulo** | Ha portato il contratto con la capofila · supporto al progetto, sul posto solo saltuariamente · parità nelle decisioni · accesso in lettura al conto e al registro |
 
-### Compiti operativi — proposta da confermare
+### Compiti operativi — decisi il 16/09
+
+Sul posto c'è **Gianluca**; Luigi interviene **saltuariamente**, a supporto. I due apporti
+(contratto e supporto da un lato, lavoro sul posto per 90 giorni dall'altro) valgono come
+equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 
 | Area | Responsabile | Note |
 |---|---|---|
-| Rapporti con la capofila e contratto | Socio Firmatario | Il contatto con la capofila è stato portato da Luigi; ogni modifica economica concordata con l'altro socio |
-| Fatturazione, conto, commercialista | Socio Firmatario | Rendiconto mensile all'altro socio |
-| Ricerca e contratti immobili | `da assegnare` | Nessun impegno prima della firma con la capofila |
-| Transfert e mobility | `da assegnare` | |
-| Regolamento casa, check-in/out, rubrica ospiti | `da assegnare` | |
-| Presenza e reperibilità durante il soggiorno | **Gianluca**, sul posto | Con una collaboratrice del suo ufficio che parla spagnolo, non a carico del progetto |
+| Rapporti con la capofila e contratto | **Gianluca** (firma) · **Luigi** (contatto) | Il contatto con la capofila lo ha portato Luigi; ogni modifica economica concordata tra i due |
+| Fatturazione, conto, commercialista | **Gianluca** | Estratto conto nel Drive ogni mese |
+| Ricerca e contratti immobili; rapporti e **pagamenti ai proprietari** | **Gianluca** | Nessun impegno prima della firma con la capofila |
+| **Arrivo**: andare a prendere i ragazzi, portarli agli alloggi, presentare l'alloggio, le regole e le norme | **Gianluca** | Con la collaboratrice del suo ufficio che parla spagnolo, non a carico del progetto |
+| **Welcome meeting** (aperitivo con i tutor o simile) | **Gianluca** | |
+| **Aziende ospitanti**: contatto, contratto, primo accompagnamento in azienda con il tutor | **Gianluca** | |
+| Transfert e mobility | **Gianluca** | |
+| Regolamento casa, check-in/out, rubrica ospiti | **Gianluca** | |
+| Presenza e reperibilità durante il soggiorno | **Gianluca**, sul posto | |
+| Supporto saltuario, su richiesta | **Luigi** | |
 | Registro movimenti | **Entrambi** | Chi muove il denaro registra entro 3 giorni |
 | Registro incidenti | Chi è di turno | Il giorno stesso |
 
@@ -59,7 +67,7 @@
 1. **Nessun impegno economico** con immobili o fornitori **prima della firma** del contratto con la capofila.
 2. **Tutto per iscritto.** Ciò che si decide a voce o al telefono si conferma via email o nella repository.
 3. **Un solo registro dei soldi**, condiviso, aggiornato entro 3 giorni da ogni movimento. Se un numero non è nel registro, non esiste.
-4. **Decisioni congiunte** su: contratto con la capofila, scelta degli immobili, spese sopra la soglia fissata nella scrittura privata, azioni legali.
+4. **Decisioni congiunte** su: contratto con la capofila, scelta degli immobili, spese fuori dal piano di cassa, azioni legali. Nessuna soglia di spesa: ognuno spende il minimo necessario nella propria area.
 5. **Il conto dedicato** serve solo al progetto. Nessun prelievo che non sia registrato come *Distribuzione*.
 6. **Lo stato del progetto** è quello scritto nel README della repository. Si aggiorna a ogni cambiamento.
 
