@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **19 + 12 parziali / 49**
+> Aggiornata al: 16/09/2026 · Risposte ricevute: **20 + 11 parziali / 49**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -104,15 +104,20 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Nota (16/09): i soci aggiungono l'ipotesi **SRL** tra i due. Se si sceglie la SRL, cambiano art. 1.2 (oggi: "non costituisce società"), 2, 4 e 7.
 - Risposta provvisoria (ricerca, 16/09 — da confermare col commercialista):
   - **Associazione in partecipazione con apporto di lavoro: non si può.** Dal 2015 (Jobs Act, art. 2549 c.c.) una persona fisica può associarsi solo apportando **capitale**. L'art. 7 della scrittura è stato corretto.
-  - **Fattura di Luigi** a Gianluca: serve una partita IVA di Luigi (ne ha una? in quale regime?). Per Gianluca è un costo deducibile solo se è in regime **ordinario**; in **forfettario** i costi non si deducono, e il 50 % di Luigi verrebbe tassato due volte.
+  - **Fattura di Luigi** a Gianluca: serve una partita IVA di Luigi (ne ha una? in quale regime?). Per Gianluca, in regime ordinario (confermato 17/09), è un **costo deducibile**: è la strada più semplice, se Luigi ha o apre una posizione.
   - **Prestazione occasionale**: non adatta a 15–30.000 €: sopra 5.000 € scatta la gestione separata INPS e l'"occasionalità" è difficile da sostenere.
   - **SRL** tra i due: costi indicativi 1.500–3.000 € per costituirla e 2.000–3.000 € l'anno di tenuta, più la chiusura; tassazione IRES + IRAP (circa 28 %) e poi 26 % sui dividendi. È la forma più pulita per il 50/50 e per la responsabilità, ma pesa su un progetto da 90 giorni.
 - Risposta del commercialista:
 
-`[~]` **13.** Con quale **posizione** fattura Gianluca (ditta individuale, società, regime)? Conviene così o diversamente? → art. 2
+`[x]` **13.** Con quale **posizione** fattura Gianluca (ditta individuale, società, regime)? Conviene così o diversamente? → art. 2
 - Nota (16/09): i soci hanno rimesso al commercialista anche **chi** dei due fattura (A9). Tutti i
   documenti oggi assumono Gianluca; se la risposta è diversa cambiano art. 2, 4, 7 e le premesse.
-- Risposta provvisoria (ricerca, 16/09 — da confermare col commercialista). Dipende da due dati che mancano: **l'agenzia di Gianluca è in forfettario o in ordinario?** ed **è un'agenzia di viaggi** (74-ter) o un'agenzia di gestione affitti?
+- Risposta (17/09): **impresa individuale IACONETA GIANLUCA, P.IVA 04175780719, regime ordinario, ATECO 55.20.4** (affittacamere per brevi soggiorni, case vacanze, B&B, residence) — dalla visura camerale del 13/10/2025 sul Drive. Dati completi in [`soggetti-e-ruoli`](../00-anagrafica/soggetti-e-ruoli.md).
+- Conseguenze:
+  - **Ordinario**: affitti, fattura di Luigi e IVA sugli acquisti si deducono. La posizione esistente è adatta a fatturare i 72.000 €; la SRL resta un'opzione, non una necessità.
+  - **Non è un'agenzia di viaggi** (ATECO 79): il regime 74-ter non dovrebbe scattare. Da confermare, perché il 74-ter segue l'attività svolta e non il codice.
+  - **Il rischio 7-quater sale**: chi fattura è un'**impresa ricettiva**. Per l'Agenzia è più facile leggere il servizio come "alloggio con funzione analoga all'alberghiero" (domanda 11). In quel caso l'IVA sarebbe quella dell'alloggio, **10 %**: 6.545 € scorporati dai 72.000 €. Il contratto B2B deve descrivere il programma completo (aziende, tutor, assistenza), non un soggiorno.
+- Il resto della valutazione precedente, per confronto:
   - **Forfettario**: limite 85.000 € di ricavi l'anno (uscita dall'anno dopo), 100.000 € uscita immediata con IVA dalla fattura che sfora. 72.000 € di GEM sommati ai ricavi dell'agenzia rischiano di superarli. Inoltre i costi (affitti, quota di Luigi) **non si deducono**: si paga sul 40 % o sul 78 % dei ricavi a seconda del codice ATECO. Con costi reali intorno al 60 % e la metà del margine a Luigi, è quasi certamente la scelta peggiore.
   - **Ordinario** (ditta individuale o agenzia esistente): affitti e fattura di Luigi deducibili, IVA sugli acquisti detraibile; si paga IRPEF sul margine effettivo.
   - **SRL nuova**: vedi domanda 12. Vantaggio in più: un soggetto con un nome, una PEC e un'email di progetto propri (domanda 44).

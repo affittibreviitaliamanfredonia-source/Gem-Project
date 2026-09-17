@@ -72,6 +72,8 @@
   contratti sull'agenzia di Gianluca, da valutare con la commercialista.
 - Art. 7: tolta l'associazione in partecipazione con apporto d'opera (non ammessa per le persone
   fisiche dal 2015); resta con apporto di capitale.
+- 17/09: chi fattura è l'impresa individuale di Gianluca, P.IVA 04175780719, regime ordinario,
+  ATECO 55.20.4 (visura camerale del 13/10/2025 sul Drive). Non è un'agenzia di viaggi.
 - Alle domande fiscali 11–14 sono state aggiunte risposte provvisorie da ricerca, in attesa
   della commercialista.
 - Fattura dell'80 % emessa qualche giorno prima dell'arrivo, incasso il giorno dell'arrivo.
