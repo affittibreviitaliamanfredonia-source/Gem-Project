@@ -13,11 +13,11 @@ Non riguardano la capofila: sono interni.
 
 | PDF | Generato da |
 |---|---|
-| [`pdf/GEM-documento-di-progetto-v0.5.pdf`](pdf/GEM-documento-di-progetto-v0.5.pdf) | `documento-di-progetto.md` |
-| [`pdf/GEM-scrittura-privata-soci-v0.5.pdf`](pdf/GEM-scrittura-privata-soci-v0.5.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
-| [`pdf/GEM-scrittura-privata-soci-v0.5-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.5-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
+| [`pdf/GEM-documento-di-progetto-v0.6.pdf`](pdf/GEM-documento-di-progetto-v0.6.pdf) | `documento-di-progetto.md` |
+| [`pdf/GEM-scrittura-privata-soci-v0.6.pdf`](pdf/GEM-scrittura-privata-soci-v0.6.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
+| [`pdf/GEM-scrittura-privata-soci-v0.6-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.6-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
 
-I PDF sono **copie di lettura** con marcatura "Bozza v0.5": si rigenerano dal Markdown a ogni
+I PDF sono **copie di lettura** con marcatura "Bozza v0.6": si rigenerano dal Markdown a ogni
 versione. Le correzioni si fanno nei file `.md`, non nel PDF.
 
 ## Il commentario
@@ -61,10 +61,9 @@ L'esempio numerico dell'art. 7.3 è anche un foglio Google con i numeri modifica
 
 Copia di revisione della scrittura privata, nella cartella Drive
 **Progetto GEM → 06 · Accordo tra soci**:
-**<https://docs.google.com/document/d/1FznIcVviozfEaZ69u2Ygc_B3EBVLvOV8RPOtFehyU9g/edit>**
+**<https://docs.google.com/document/d/1Hn5BIlcPSVRmVQ_eVUtvI_n8SzAtGYvjLDlYEfkCcsA/edit>**
 
-> Il Documento è fermo alla **v0.2** (mattina del 16/09). Le versioni 0.3–0.5 recepiscono le
-> risposte della videochiamata (art. 2, 4, 5, 6, 9, 10, 11): il Documento si ricarica a fine giro.
+> Il Documento è alla **v0.6** (18/09/2026), allineato al file. I commenti dei giri precedenti sono stati recepiti.
 
 | Chi | Cosa fa | Dove |
 |---|---|---|

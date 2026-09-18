@@ -21,7 +21,7 @@
 | Data di partenza | **30/05/2027** (domenica) — 90 notti dopo l'arrivo |
 | Numero ospiti | **36** (dato corrente, soggetto a variazione) |
 | Sistemazione | **Camere singole** |
-| Stato complessivo | 🟡 **Trattativa in corso — nessun contratto scritto** |
+| Stato complessivo | 🟡 **Trattativa in corso — accordo firmato da Luigi, testo da acquisire e verificare** |
 | Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti, esempio art. 7, copia di revisione della scrittura privata |
 | Casella email di progetto | **Da creare** — sarà il canale ufficiale verso capofila, strutture e commercialista |
 
@@ -65,7 +65,7 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 | # | Questione | Verso | Priorità | Stato |
 |---|---|---|---|---|
 | Q1 | **Identità giuridica della capofila** — ragione sociale, VAT number, sede legale | Capofila | 🔴 Alta | ❓ Aperta |
-| Q2 | **Contratto scritto** — chi redige, quale legge applicabile, quale foro | Capofila | 🔴 Alta | ❓ Aperta |
+| Q2 | **Contratto scritto** — esiste un accordo firmato da Luigi, da acquisire nel Drive e probabilmente da rifirmare; legge e foro da verificare sul testo | Capofila / Luigi | 🔴 Alta | 🟡 Parziale |
 | Q3 | **Penali e forza maggiore** — cancellazioni, no-show, riduzione numero ospiti | Capofila | 🔴 Alta | ❓ Aperta |
 | Q4 | **7-ter o 7-quater?** — se il servizio è qualificato come alloggio, l'IVA italiana resta dovuta | Commercialista | 🔴 Alta | ❓ Aperta |
 | Q5 | **Età degli ospiti** — **confermata la presenza di minorenni** (16/09): servono numero, responsabile, manleva dei genitori o tutori | Capofila | 🔴 Alta | 🟡 Parziale |

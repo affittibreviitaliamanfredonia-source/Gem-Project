@@ -7,6 +7,7 @@
 | [`01-01-condizioni-economiche.md`](01-01-condizioni-economiche.md) | Corrispettivo, regime IVA, struttura 80/20 |
 | [`01-02-domande-aperte-capofila.md`](01-02-domande-aperte-capofila.md) | Le 3 questioni bloccanti da porre alla capofila |
 | [`01-03-storico-comunicazioni.md`](01-03-storico-comunicazioni.md) | Registro cronologico degli scambi con la controparte |
+| [`01-04-bozza-email-capofila.md`](01-04-bozza-email-capofila.md) | Bozza dell'email alla capofila con tutte le domande aperte, in italiano — da inviare dopo la commercialista |
 
 ## Cosa manca per chiudere questa fase
 

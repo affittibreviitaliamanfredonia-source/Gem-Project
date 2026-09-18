@@ -1,6 +1,6 @@
 # Progetto GEM — Documento di progetto
 
-**Allegato A alla scrittura privata tra i soci** · Versione 0.5 — bozza del 16/09/2026
+**Allegato A alla scrittura privata tra i soci** · Versione 0.6 — bozza del 18/09/2026
 
 > Questo documento dice **cosa** è il progetto e **a cosa ci impegniamo**. Le regole su soldi,
 > decisioni e imprevisti stanno nella [scrittura privata](scrittura-privata.md). I due
@@ -76,7 +76,7 @@ equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 | # | Rischio | Cosa facciamo |
 |---|---|---|
 | 1 | La capofila non è ancora identificata giuridicamente (nome, VAT, chi firma) | Nessuna firma senza visura e verifica VIES |
-| 2 | Non c'è contratto scritto: 72.000 € esposti sulla parola | Firma entro il 15/12/2026, altrimenti si rivede tutto |
+| 2 | L'accordo con la capofila è stato firmato da Luigi ma il testo non è ancora nella cartella del progetto | Copia nel Drive subito; verifica delle clausole; nuova firma del firmatario entro il 15/12/2026 |
 | 3 | Nessuna penale né minimo garantito: se gli ospiti calano, i costi restano a noi | Minimo garantito in contratto; penali strutture allineate a quelle capofila |
 | 4 | **7-quater**: se il servizio è "alloggio", l'IVA italiana è dovuta — fino a 15.840 € di margine in meno | Parere scritto del commercialista prima della firma |
 | 5 | **Ci sono minorenni** tra gli ospiti (confermato 16/09) | Numero e responsabile dalla capofila; manleva e consensi firmati da genitori o tutori, allegati al contratto |

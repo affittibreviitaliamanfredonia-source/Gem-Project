@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 16/09/2026 · Risposte ricevute: **20 + 11 parziali / 49**
+> Aggiornata al: 18/09/2026 · Risposte ricevute: **20 + 13 parziali / 49**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -74,7 +74,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 ### A8 · Perdita → art. 10.1
 `[x]` **8.** Se il margine diventa negativo, la perdita è 50/50 **senza tetto**? O ci si ferma a una cifra?
-- Risposta (16/09): **in parti uguali, impegno massimo 1.000 € ciascuno.** Per rispettarlo: contratti con gli immobili **senza caparre**; prima dell'80 % non più di **2.000 €** impegnati in totale, salvo consenso scritto di entrambi. → art. 10.1-bis confermato.
+- Risposta (16/09): **in parti uguali, impegno massimo 1.000 € ciascuno.** Per rispettarlo: contratti con gli immobili **senza caparre**; prima dell'80 % non più di **2.000 €** impegnati in totale, salvo consenso scritto di entrambi. → art. 10.2 confermato.
 
 ### A9 · Dati da compilare → art. 13, 15, parti
 `[x]` **9.** Foro competente: **Foggia** (16/09) → art. 14. Indirizzi di riferimento: la sede legale della società o la **residenza del firmatario** → art. 12 e intestazione. Email di progetto: `____________` *(da creare: il nome dipende dal soggetto che fa il progetto, domanda 13)* · Email di Luigi: `____________`
@@ -94,7 +94,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
   - Per un servizio unico con più componenti conta la **componente prevalente**. Con alloggio, transfert, mobility, assistenza 24/7, collocamento in azienda con contratto e tutor, documentazione: la lettura "accoglienza complessa" è sostenibile, ma l'alloggio resta la voce di costo più grande, quindi il rischio 7-quater non è zero.
   - Cosa lo riduce: contratto B2B che descrive il servizio come programma di accoglienza e inserimento in azienda, con un prezzo unico non spacchettato; eventuale **interpello** all'Agenzia (risposta in 90–120 giorni: da presentare a ottobre per averla prima della firma di dicembre).
   - Se la lettura fosse 7-quater: IVA al 10 % (alloggio in strutture ricettive) o 22 %, scorporata dai 2.000 €: 6.545 € o 12.984 € in meno su 72.000 €.
-  - **Attenzione 74-ter**: se chi fattura è un'**agenzia di viaggi** e vende alloggio + trasporto comprati da terzi, scatta il regime speciale delle agenzie (IVA sul margine, tassata in Italia, niente reverse charge). Va chiarito se l'agenzia di Gianluca rientra in questa categoria.
+  - **Attenzione 74-ter**: se chi fattura è un'**agenzia di viaggi** e vende alloggio + trasporto comprati da terzi, scatta il regime speciale delle agenzie (IVA sul margine, tassata in Italia, niente reverse charge). Superata il 17/09: l'impresa è ATECO 55.20.4, non agenzia di viaggi.
+- Decisione di Gianluca (18/09): **si fattura in 7-ter, aggiungendo un secondo codice ATECO** all'impresa per il servizio di accoglienza e collocamento (candidati da valutare con la commercialista: 85.59.20 formazione e aggiornamento professionale; 78.10.00 ricerca, selezione e collocamento; 82.99.99 servizi di supporto alle imprese). Il codice aiuta la coerenza, ma per il Fisco conta la sostanza: contratto B2B e fattura devono descrivere il programma, non il soggiorno.
 - Risposta del commercialista:
 
 `[x]` **11b.** ~~La capofila è un ente non commerciale: è soggetto passivo IVA?~~
@@ -102,6 +103,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 `[~]` **12.** Con quale **titolo fiscale** Luigi riceve il 50 %: fattura, associazione in partecipazione, altro? Con quali costi per ciascuno? → art. 7
 - Nota (16/09): i soci aggiungono l'ipotesi **SRL** tra i due. Se si sceglie la SRL, cambiano art. 1.2 (oggi: "non costituisce società"), 2, 4 e 7.
+- Risposta dei soci (18/09): **Luigi non ha partita IVA; prenderà i soldi come regalo tra privati.**
+- ⚠️ **Da non fare così**, per tre motivi: (1) una donazione di quella cifra è valida solo per **atto notarile con testimoni** (art. 782 c.c.), altrimenti è nulla; (2) un compenso travestito da regalo è riqualificabile dal Fisco come reddito non dichiarato di Luigi; (3) senza documento la metà di Luigi **non è un costo** per Gianluca, che paga l'IRPEF su tutto il margine: su 30.000 € di margine, circa 5–6.000 € di tasse in più a carico di Gianluca. Il 50/50 salta.
+- Alternativa senza partita IVA: **ricevuta per prestazione occasionale** (redditi diversi, art. 67 TUIR) con ritenuta d'acconto del 20 % trattenuta da Gianluca; deducibile per lui, dichiarata da Luigi; sopra 5.000 € si versa la gestione separata INPS (due terzi Gianluca, un terzo Luigi). Regge se il rapporto resta un progetto unico e non abituale. → aggiunta come opzione all'art. 7.2; il commentario spiega perché il regalo non funziona.
 - Risposta provvisoria (ricerca, 16/09 — da confermare col commercialista):
   - **Associazione in partecipazione con apporto di lavoro: non si può.** Dal 2015 (Jobs Act, art. 2549 c.c.) una persona fisica può associarsi solo apportando **capitale**. L'art. 7 della scrittura è stato corretto.
   - **Fattura di Luigi** a Gianluca: serve una partita IVA di Luigi (ne ha una? in quale regime?). Per Gianluca, in regime ordinario (confermato 17/09), è un **costo deducibile**: è la strada più semplice, se Luigi ha o apre una posizione.
@@ -155,7 +159,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 > | Contratto | Contraenti | Stato |
 > |---|---|---|
 > | **Scrittura privata tra soci** | Gianluca Iaconeta ↔ Luigi Zerulo | bozza, in revisione |
-> | **Contratto B2B con la capofila** | Gianluca Iaconeta (fornitore) ↔ capofila spagnola (cliente) | **non esiste** — è l'oggetto della domanda 19 |
+> | **Contratto B2B con la capofila** | Gianluca Iaconeta (fornitore) ↔ capofila spagnola (cliente) | **esiste, firmato da Luigi**; da acquisire nel Drive e probabilmente da rifirmare (domanda 19) |
 > | **Contratti con gli immobili** | Gianluca Iaconeta ↔ ciascun proprietario | da fare dopo la firma con la capofila |
 >
 > Da inviare **dopo** la risposta del commercialista alla 11 e alla 13, perché possono
@@ -163,8 +167,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 **Identità e contratto**
 `[ ]` **18.** Ragione sociale, forma giuridica, VAT, sede, chi firma. *(Q1)* → premesse a), d)
-`[ ]` **19.** Il **contratto B2B tra Gianluca (fornitore) e la capofila (cliente)**: chi lo redige, con quale legge, quale foro, quale lingua. *(Q2)*
-- Nota (16/09): oggi questo contratto **non esiste** — l'accordo con la capofila è solo verbale. È il documento che regola i 72.000 €.
+`[~]` **19.** Il **contratto B2B tra Gianluca (fornitore) e la capofila (cliente)**: chi lo redige, con quale legge, quale foro, quale lingua. *(Q2)*
+- Risposta (18/09): **un accordo scritto con la capofila esiste ed è stato firmato da Luigi**; probabilmente andrà **firmato di nuovo** (da Gianluca, come firmatario e fatturante). Dovrebbe già contenere la descrizione del servizio, collocamento in azienda compreso.
+- Da fare subito: **Luigi carica una copia dell'accordo firmato nella cartella Drive "02 · Contratto"**. Senza il testo non si possono verificare prezzo, numero, penali, 20 %, aziende, legge e foro. La domanda resta aperta su cosa manca nel testo, non più sul se esiste.
 `[ ]` **20.** Minimo garantito di ospiti; penali per riduzione, cancellazione, no-show. *(Q3)*
 - Nota (16/09): 36 è indicativo, potranno essere di più o di meno (A4). Chiedere anche **entro quale data** il numero diventa definitivo e come si gestiscono gli ospiti in più.
 `[~]` **21.** Età degli ospiti; quanti minorenni; chi esercita la responsabilità. *(Q5)*
@@ -182,6 +187,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **26.** Cosa comprende esattamente "mobility"?
 `[ ]` **26b.** **Collocamento in azienda** (confermato il 16/09 come parte del servizio: contratto con l'azienda e primo accompagnamento con il tutor, per l'ambito richiesto). Da fissare nel contratto B2B: chi definisce gli ambiti e quando; con quale forma giuridica i ragazzi stanno in azienda (tirocinio, mobilità Erasmus+, altro); chi copre **infortuni e responsabilità civile** in azienda; chi firma la convenzione con l'azienda; cosa succede se un'azienda si ritira.
 - Nota: è l'elemento più forte a favore della lettura "accoglienza complessa" (7-ter, domanda 11): va descritto bene nel contratto.
+- Nota (18/09): secondo Gianluca la descrizione del servizio con il collocamento **è già nell'accordo firmato da Luigi**. Da verificare sul testo appena è nel Drive (domanda 19).
 - Risposta:
 `[~]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
 - Risposta (16/09): i documenti sono **valutazioni, certificati e documentazione correttamente firmata** (A6).
@@ -206,6 +212,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[~]` **34.** Le penali degli immobili sono allineate a quelle della capofila?
 - Risposta (16/09): **la capofila non c'entra con gli immobili. Nei contratti con i proprietari mettiamo noi una penale, per impedire che si svincolino.**
 - **Per Luigi:** verificare quali vincoli tengono fermi i 36 ospiti — dovrebbero aver già firmato un *agreement* con la capofila. Se esiste, chiederne copia o sintesi: numero, durata, penali per chi rinuncia.
+- Nota (18/09): l'accordo firmato da Luigi con la capofila (domanda 19) potrebbe già contenere queste clausole: verificare sul testo.
 - Nota: un accordo capofila–ragazzi vincola *loro* verso la capofila, non la capofila verso di noi. Il nostro minimo garantito va comunque nel contratto B2B (domanda 20).
 `[ ]` **35.** Ogni immobile ha CIN, registrazione ospiti, regolarità?
 `[ ]` **36.** Un fornitore unico o più fornitori?
@@ -226,7 +233,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **43.** Rubrica ospiti (esigenze mediche, contatti di emergenza): chi la raccoglie, dove sta.
 
 **Strumenti**
-`[~]` **44.** Email di progetto: **da creare.** Il nome dell'indirizzo dipende dal **soggetto che fa il progetto** (Gianluca in proprio, o una società: domande 12 e 13), perché sarà il canale verso capofila, proprietari, aziende e commercialista. Indirizzo: `____________`
+`[~]` **44.** Email di progetto: **in arrivo a breve** (18/09). Soggetto: l'impresa individuale di Gianluca (domanda 13). Indirizzo: `____________`
 `[x]` **45.** Calendario Google con le scadenze: **sì**, da attivare sull'account della email di progetto appena comunicata.
 `[x]` **46.** Foglio movimenti e cartella Drive condivisi con Luigi: **sì**. La cartella Drive raccoglie tutti i documenti, **una sottocartella per ambito** (contratti, documenti ragazzi, …). Struttura proposta in [`../README.md`](../README.md#cartella-drive).
 
