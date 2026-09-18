@@ -173,7 +173,25 @@ Progetto GEM/
 
 Già esistenti: la cartella radice, `06 · Accordo tra soci`, il registro movimenti e l'esempio art. 7.
 
-## 8. Come si aggiorna questa repo
+## 8. Come circolano le email del progetto
+
+L'account Google collegato a Claude è quello dell'agenzia; la casella ufficiale del progetto è
+**progettogem@gmail.com**. Modello concordato il 18/09/2026:
+
+1. **In uscita.** Claude prepara l'email e la invia a progettogem@gmail.com con l'oggetto nella
+   forma `[GEM → destinatario@…] Oggetto reale`; il corpo è già pronto e firmato, gli allegati
+   piccoli sono allegati, quelli grandi sono link alla cartella Drive.
+2. Gianluca, da progettogem, la **inoltra al destinatario** togliendo l'intestazione "Fwd" e le
+   righe di servizio, e mette in **Ccn** l'indirizzo dell'agenzia: così Claude vede cosa è
+   partito, a chi e quando, e lo registra nello storico delle comunicazioni.
+3. **In entrata.** progettogem **inoltra automaticamente** tutto all'indirizzo dell'agenzia
+   (Impostazioni Gmail → Inoltro). Claude legge le risposte, le etichetta "GEM" e le registra.
+4. **Drive.** Tutti i file del progetto stanno nella cartella "Progetto GEM", condivisa in
+   scrittura con progettogem: i due account vedono le stesse cose.
+5. **Calendario.** Il calendario "GEM" vive sull'account progettogem, condiviso con l'agenzia
+   con permesso di modifica.
+
+## 9. Come si aggiorna questa repo
 
 1. **Ogni fase si aggiorna in modo indipendente** — modifica solo i file della cartella interessata.
 2. **Ogni decisione presa** genera un nuovo file in `05-log-decisioni/` (mai modificare i log passati).
