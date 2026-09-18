@@ -112,7 +112,7 @@ chiarire a voce e poi confermare per iscritto.
 Un cordiale saluto,
 
 Gianluca Iaconeta
-[email di progetto] · [telefono]
+progettogem@gmail.com · [telefono]
 Luigi Zerulo
 [email]
 
@@ -122,7 +122,7 @@ Luigi Zerulo
 
 - [ ] Leggere l'accordo firmato da Luigi e **togliere le domande a cui già risponde**
 - [ ] Parere della commercialista su 7-ter e sul titolo di Luigi (domande 11 e 12): può cambiare la frase sulla fatturazione
-- [ ] Email di progetto attiva; Luigi in copia
+- [x] Email di progetto attiva (progettogem@gmail.com); Luigi in copia
 - [ ] Data limite di risposta realistica rispetto al piano immobili (30/11/2026)
 - [ ] Allegare la bozza di manleva (domanda 21b) quando pronta, o annunciarla come qui
 - [ ] Registrare l'invio in [`01-03-storico-comunicazioni.md`](01-03-storico-comunicazioni.md)

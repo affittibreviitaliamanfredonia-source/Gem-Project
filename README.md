@@ -23,7 +23,7 @@
 | Sistemazione | **Camere singole** |
 | Stato complessivo | 🟡 **Trattativa in corso — accordo firmato da Luigi, testo da acquisire e verificare** |
 | Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti, esempio art. 7, copia di revisione della scrittura privata |
-| Casella email di progetto | **Da creare** — sarà il canale ufficiale verso capofila, strutture e commercialista |
+| Casella email di progetto | **progettogem@gmail.com** (creata il 18/09/2026) — canale ufficiale verso capofila, proprietari, aziende e commercialista; ha accesso in scrittura alla cartella Drive e al registro |
 
 ---
 

@@ -17,7 +17,8 @@
    firmato di nuovo da Gianluca. Copia da caricare nel Drive, cartella "02 · Contratto".
 3. **Fatturazione in 7-ter** con l'aggiunta di un **secondo codice ATECO** all'impresa di Gianluca
    per il servizio di accoglienza e collocamento. Codice da scegliere con la commercialista.
-4. **Email di progetto** in arrivo a breve, intestata all'impresa individuale di Gianluca.
+4. **Email di progetto: progettogem@gmail.com**, creata il 18/09. Cartella Drive e registro
+   condivisi in scrittura con questo indirizzo lo stesso giorno.
 5. La descrizione del servizio con il collocamento in azienda dovrebbe essere già nell'accordo
    firmato: da verificare sul testo.
 
