@@ -2,8 +2,8 @@
 
 **Bozza v0.1 del 19/09/2026**, in italiano e spagnolo; in caso di dubbio prevale l'italiano.
 Da proporre a School Travel (domanda 21b): potrà accettarla, modificarla o proporre il proprio
-modulo. Le parti tra `[ ]` si compilano per ciascun ragazzo. Copia su Google Documenti nella
-cartella Drive "02 · Contratti".
+modulo. Le parti tra `[ ]` si compilano per ciascun ragazzo. Copia su Google Documenti:
+<https://docs.google.com/document/d/1bksm57BjADGyUjddrSjqQmFvbSxNk0A8iC59BjrMdBQ/edit> (cartella Drive "02 · Contratti").
 
 > **Cosa può e cosa non può fare questo documento.** Serve a tre cose: autorizzare il minore a
 > partecipare, dare i consensi che la legge richiede (sanitari, dati personali) e stabilire chi
