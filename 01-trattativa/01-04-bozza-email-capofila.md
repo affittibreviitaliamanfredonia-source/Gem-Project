@@ -99,9 +99,11 @@ da inserire nel contratto e nel regolamento della casa: ogni ragazzo versa all'a
 **deposito cauzionale di 100 €**, restituito alla partenza dopo il controllo dell'alloggio con
 inventario e foto; per i minorenni il deposito è previsto nella manleva firmata dai genitori;
 per danni superiori al deposito risponde School Travel, che si rivale sulle famiglie. Ci dite
-se va bene così o come preferite gestirla? Chi è il vostro **referente** sul posto e quale referente chiedete a noi? Ci
-confermate che i ragazzi sono coperti da una vostra **assicurazione** e cosa copre (infortuni,
-malattia, rientro, danni a terzi, ore in azienda)? Per i dati personali dei ragazzi, chi è il
+se va bene così o come preferite gestirla? Chi è il vostro **referente** sul posto e quale referente chiedete a noi? Sappiamo che i ragazzi sono coperti da una vostra **assicurazione** per gli infortuni sul
+lavoro e per l'assistenza sanitaria: vi chiediamo se copre anche la **responsabilità civile
+verso terzi** fuori dall'orario di lavoro (danni agli alloggi, a cose o persone), con quali
+massimali, se include il tragitto casa–azienda, e di inviarci una copia del certificato prima
+dell'arrivo. Per i dati personali dei ragazzi, chi è il
 **titolare del trattamento** e in che veste li trattiamo noi?
 
 **11. I ragazzi e voi** *(domanda 34)*

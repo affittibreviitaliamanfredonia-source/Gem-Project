@@ -207,6 +207,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **30.** Referente in loco della capofila; referente richiesto a noi.
 `[~]` **31.** Assicurazione della capofila per i ragazzi: cosa copre?
 - Risposta (16/09): **sono assicurati.** Da avere per iscritto cosa copre (infortuni, malattia, rientro, danni a terzi).
+- Risposta (19/09): School Travel copre **infortuni sul lavoro** (le ore in azienda) e **assistenza sanitaria**. **Responsabilità civile verso terzi: da chiedere.** È la copertura che ci interessa di più: danni agli alloggi e a terzi fuori dall'orario di lavoro. Se manca, il deposito di 100 € (domanda 29) copre solo i piccoli danni; per il resto va scritto nel contratto che risponde School Travel.
+- Da chiedere insieme: massimali, se la polizza copre anche il tragitto casa–azienda, e una copia del certificato prima dell'arrivo.
 `[ ]` **32.** GDPR: chi è titolare dei dati dei ragazzi, chi responsabile.
 
 ---
