@@ -18,7 +18,7 @@ Legenda stato: ✅ concordato per iscritto · 🟡 concordato a voce · 🔴 non
 | 9 | **Termini di pagamento** | Giorni data fattura per ciascuna tranche | 🔴 |
 | 10 | **Interessi di mora** | Conseguenze del ritardo di pagamento | 🔴 |
 | 11 | **Cosa è incluso** | Perimetro esatto: alloggio, transfert, mobility, **collocamento in azienda** (contratto con l'azienda, primo accompagnamento con il tutor, ambito richiesto); cosa **non** è incluso (voli) | 🔴 |
-| 12 | **Penali** | Cancellazione, riduzione numero, no-show | 🔴 (vedi Q3) |
+| 12 | **Penali** | Esiste una penale a scaglioni per il ritiro della capofila (100 % a due settimane dall'arrivo, ridotta se prima). Da verificare: scaglioni, riduzione parziale, no-show, modalità di incasso | 🟡 (vedi Q3) |
 | 13 | **Forza maggiore** | Definizione e ripartizione dei costi non recuperabili | 🔴 (vedi Q3) |
 | 14 | **Responsabilità** | Limiti, assicurazioni, danni causati dagli ospiti | 🔴 |
 | 15 | **Privacy / GDPR** | Trattamento dei dati degli ospiti, ruoli titolare/responsabile | 🔴 |

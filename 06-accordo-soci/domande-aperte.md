@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 11 parziali / 51**
+> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 12 parziali / 51**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -172,8 +172,10 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[~]` **19.** Il **contratto B2B tra Gianluca (fornitore) e la capofila (cliente)**: chi lo redige, con quale legge, quale foro, quale lingua. *(Q2)*
 - Risposta (18/09): **un accordo scritto con la capofila esiste ed è stato firmato da Luigi**; probabilmente andrà **firmato di nuovo** (da Gianluca, come firmatario e fatturante). Dovrebbe già contenere la descrizione del servizio, collocamento in azienda compreso.
 - Da fare subito: **Luigi carica una copia dell'accordo firmato nella cartella Drive "02 · Contratto"**. Senza il testo non si possono verificare prezzo, numero, penali, 20 %, aziende, legge e foro. La domanda resta aperta su cosa manca nel testo, non più sul se esiste.
-`[ ]` **20.** Minimo garantito di ospiti; penali per riduzione, cancellazione, no-show. *(Q3)*
+`[~]` **20.** Minimo garantito di ospiti; penali per riduzione, cancellazione, no-show. *(Q3)*
 - Nota (16/09): 36 è indicativo, potranno essere di più o di meno (A4). Chiedere anche **entro quale data** il numero diventa definitivo e come si gestiscono gli ospiti in più.
+- Risposta (19/09, dalla call con Luigi): **l'accordo firmato prevede una penale a carico della capofila, a scaglioni**: se si ritira **due settimane prima dell'arrivo**, il compenso ci spetta **al 100 %**; ritirandosi qualche mese prima, una percentuale ridotta, e così via.
+- Da leggere sul testo (domanda 19): le date e le percentuali di ogni scaglione; se la penale vale anche per la **riduzione parziale** del numero (ritiro di alcuni ragazzi) o solo per il ritiro totale; se copre il **no-show** all'arrivo; da quale data il numero è definitivo; come si incassa (compensazione con l'80 %, fattura separata, tempi).
 `[~]` **21.** Età degli ospiti; quanti minorenni; chi esercita la responsabilità. *(Q5)*
 - Risposta (16/09): **non sono tutti maggiorenni** (A8). Restano da avere: quanti, con quale età, chi esercita la responsabilità durante il soggiorno.
 `[~]` **21b.** **Manleva e consensi per i minorenni**, firmati da genitori o tutori: chi li predispone (noi o la capofila), in quale lingua, cosa coprono (regolamento della casa, sanitario, privacy, uscite). Da allegare al contratto B2B.

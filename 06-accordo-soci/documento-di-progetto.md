@@ -77,7 +77,7 @@ equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 |---|---|---|
 | 1 | La capofila non è ancora identificata giuridicamente (nome, VAT, chi firma) | Nessuna firma senza visura e verifica VIES |
 | 2 | L'accordo con la capofila è stato firmato da Luigi ma il testo non è ancora nella cartella del progetto | Copia nel Drive subito; verifica delle clausole; nuova firma del firmatario entro il 15/12/2026 |
-| 3 | Nessuna penale né minimo garantito: se gli ospiti calano, i costi restano a noi | Minimo garantito in contratto; penali strutture allineate a quelle capofila |
+| 3 | Riduzione del numero di ospiti: i costi degli alloggi restano a noi | L'accordo con la capofila prevede una penale a scaglioni per il suo ritiro (100 % a due settimane dall'arrivo); da verificare che copra anche le riduzioni parziali e il no-show; nessuna caparra agli immobili |
 | 4 | **7-quater**: se il servizio è "alloggio", l'IVA italiana è dovuta — fino a 15.840 € di margine in meno | Parere scritto del commercialista prima della firma |
 | 5 | **Ci sono minorenni** tra gli ospiti (confermato 16/09) | Numero e responsabile dalla capofila; manleva e consensi firmati da genitori o tutori, allegati al contratto |
 | 6 | Il 20 % è condizionato a un controllo fatto dalla controparte | Elenco documenti tassativo allegato al contratto, termine di contestazione |
