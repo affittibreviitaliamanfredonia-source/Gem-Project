@@ -25,6 +25,8 @@
 
 ## Conseguenze
 
+- 19/09: l'accordo con School Travel non regola i danni. I soci propongono un **deposito cauzionale
+  di 100 € a ragazzo** all'arrivo, previo accordo con School Travel (domanda 29).
 - 19/09: Luigi invierà l'accordo preliminare con School Travel via email alla casella
   dell'agenzia, da cui Claude lo legge direttamente.
 - 19/09, dalla call con Luigi: l'accordo firmato prevede una **penale a scaglioni** a carico della

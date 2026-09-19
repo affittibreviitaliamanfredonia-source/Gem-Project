@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 13 parziali / 51**
+> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 14 parziali / 51**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -201,7 +201,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **28.** Termini di pagamento di ciascuna tranche, in giorni.
 
 **Responsabilità**
-`[ ]` **29.** Danni causati dagli ospiti: chi risponde? Esiste un deposito?
+`[~]` **29.** Danni causati dagli ospiti: chi risponde? Esiste un deposito?
+- Risposta (19/09): nell'accordo tra School Travel e Luigi **non c'è nessuna clausola** sui danni. Proposta dei soci: **ogni ragazzo lascia 100 € all'arrivo come deposito cauzionale**, previo accordo con School Travel.
+- Da fissare per farlo funzionare: (a) chi lo incassa e dove sta — conto dedicato, registrato come *deposito*, non come ricavo; 36 × 100 = 3.600 € da restituire; (b) restituzione alla partenza dopo il check-out con inventario e foto (domanda 41); (c) cosa succede se il danno supera i 100 €: la differenza la paga School Travel, da scrivere nel contratto B2B; (d) per i minorenni il deposito e la trattenuta vanno nella manleva firmata dai genitori (21b); (e) meglio bonifico o carta che contanti, per la tracciabilità; (f) la regola va anche nel regolamento della casa (39). → proposta inserita nella bozza di email alla capofila, punto 10.
 `[ ]` **30.** Referente in loco della capofila; referente richiesto a noi.
 `[~]` **31.** Assicurazione della capofila per i ragazzi: cosa copre?
 - Risposta (16/09): **sono assicurati.** Da avere per iscritto cosa copre (infortuni, malattia, rientro, danni a terzi).
