@@ -24,6 +24,8 @@
 
 ## Conseguenze
 
+- 19/09: email di Luigi luigi.zerulo.lz@gmail.com; condivisi con lui cartella Drive, registro e
+  foglio scenari (scrittura) e Google Doc della scrittura privata (commento).
 - Scrittura privata alla versione 0.6 (art. 7.2 e commentario). Google Documento ricaricato.
 - Bozza dell'email alla capofila: [`../01-trattativa/01-04-bozza-email-capofila.md`](../01-trattativa/01-04-bozza-email-capofila.md).
 - Da fare: bozza della richiesta di manleva per i minorenni (domanda 21b).

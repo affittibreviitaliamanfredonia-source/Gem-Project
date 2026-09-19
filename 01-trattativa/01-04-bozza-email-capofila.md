@@ -114,7 +114,7 @@ Un cordiale saluto,
 Gianluca Iaconeta
 progettogem@gmail.com · [telefono]
 Luigi Zerulo
-[email]
+luigi.zerulo.lz@gmail.com
 
 ---
 
