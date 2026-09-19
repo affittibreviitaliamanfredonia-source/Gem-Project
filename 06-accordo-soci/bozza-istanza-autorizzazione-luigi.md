@@ -83,7 +83,7 @@ Si allegano: A) richiesta del committente; B) scheda descrittiva del progetto.
 
 Il sottoscritto Gianluca Iaconeta, titolare dell'impresa individuale IACONETA GIANLUCA, P.IVA
 04175780719, con sede in Manfredonia (FG), Via Tribuna 201, PEC gianlucaiaconeta@pec.it,
-email di progetto progettogem@gmail.com,
+email di progetto garganoeuropemobility@gmail.com,
 
 **CHIEDE**
 

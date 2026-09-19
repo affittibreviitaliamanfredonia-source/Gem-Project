@@ -77,7 +77,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Risposta (16/09): **in parti uguali, impegno massimo 1.000 € ciascuno.** Per rispettarlo: contratti con gli immobili **senza caparre**; prima dell'80 % non più di **2.000 €** impegnati in totale, salvo consenso scritto di entrambi. → art. 10.2 confermato.
 
 ### A9 · Dati da compilare → art. 13, 15, parti
-`[x]` **9.** Foro competente: **Foggia** (16/09) → art. 14. Indirizzi di riferimento: la sede legale della società o la **residenza del firmatario** → art. 12 e intestazione. Email di progetto: **progettogem@gmail.com** · Email di Luigi: **luigi.zerulo.lz@gmail.com** (19/09)
+`[x]` **9.** Foro competente: **Foggia** (16/09) → art. 14. Indirizzi di riferimento: la sede legale della società o la **residenza del firmatario** → art. 12 e intestazione. Email di progetto: **garganoeuropemobility@gmail.com** · Email di Luigi: **luigi.zerulo.lz@gmail.com** (19/09)
 `[ ]` **9b.** Dati anagrafici di entrambi per l'intestazione (luogo e data di nascita, residenza, C.F.).
 
 ### A10 · Conto → art. 4
@@ -235,9 +235,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **43.** Rubrica ospiti (esigenze mediche, contatti di emergenza): chi la raccoglie, dove sta.
 
 **Strumenti**
-`[x]` **44.** Email di progetto: **progettogem@gmail.com**, creata il 18/09/2026.
-`[~]` **45.** Calendario Google con le scadenze: **sì**, sull'account progettogem@gmail.com. Da fare da quell'account: creare il calendario "GEM" e condividerlo con affittibreviitalia.manfredonia@gmail.com con permesso di modifica; poi Claude carica le scadenze del README.
-`[x]` **46.** Foglio movimenti e cartella Drive condivisi con Luigi: **sì**. Fatto il 18/09: cartella "Progetto GEM" e registro condivisi in scrittura con **progettogem@gmail.com**. Il 19/09 condivisi anche con **luigi.zerulo.lz@gmail.com**: cartella, registro e foglio scenari in scrittura, Google Doc della scrittura in commento. La cartella Drive raccoglie tutti i documenti, **una sottocartella per ambito** (contratti, documenti ragazzi, …). Struttura proposta in [`../README.md`](../README.md#cartella-drive).
+`[x]` **44.** Email di progetto: **garganoeuropemobility@gmail.com** (19/09/2026). La casella progettogem@gmail.com del 18/09 è accantonata.
+`[~]` **45.** Calendario Google con le scadenze: **sì**, sull'account garganoeuropemobility@gmail.com. Da fare da quell'account: creare il calendario "GEM" e condividerlo con affittibreviitalia.manfredonia@gmail.com con permesso di modifica; poi Claude carica le scadenze del README.
+`[x]` **46.** Foglio movimenti e cartella Drive condivisi con Luigi: **sì**. Fatto il 18/09: cartella "Progetto GEM" e registro condivisi in scrittura con **garganoeuropemobility@gmail.com**. Il 19/09 condivisi anche con **luigi.zerulo.lz@gmail.com**: cartella, registro e foglio scenari in scrittura, Google Doc della scrittura in commento. La cartella Drive raccoglie tutti i documenti, **una sottocartella per ambito** (contratti, documenti ragazzi, …). Struttura proposta in [`../README.md`](../README.md#cartella-drive).
 
 ---
 

@@ -23,7 +23,7 @@
 | Sistemazione | **Camere singole** |
 | Stato complessivo | 🟡 **Trattativa in corso — accordo firmato da Luigi, testo da acquisire e verificare** |
 | Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti, esempio art. 7, copia di revisione della scrittura privata |
-| Casella email di progetto | **progettogem@gmail.com** (creata il 18/09/2026) — canale ufficiale verso capofila, proprietari, aziende e commercialista; ha accesso in scrittura alla cartella Drive e al registro |
+| Casella email di progetto | **garganoeuropemobility@gmail.com** (creata il 18/09/2026) — canale ufficiale verso capofila, proprietari, aziende e commercialista; ha accesso in scrittura alla cartella Drive e al registro |
 
 ---
 
@@ -176,19 +176,19 @@ Già esistenti: la cartella radice, `06 · Accordo tra soci`, il registro movime
 ## 8. Come circolano le email del progetto
 
 L'account Google collegato a Claude è quello dell'agenzia; la casella ufficiale del progetto è
-**progettogem@gmail.com**. Modello concordato il 18/09/2026:
+**garganoeuropemobility@gmail.com**. Modello concordato il 18/09/2026:
 
-1. **In uscita.** Claude prepara l'email e la invia a progettogem@gmail.com con l'oggetto nella
+1. **In uscita.** Claude prepara l'email e la invia a garganoeuropemobility@gmail.com con l'oggetto nella
    forma `[GEM → destinatario@…] Oggetto reale`; il corpo è già pronto e firmato, gli allegati
    piccoli sono allegati, quelli grandi sono link alla cartella Drive.
-2. Gianluca, da progettogem, la **inoltra al destinatario** togliendo l'intestazione "Fwd" e le
+2. Gianluca, da garganoeuropemobility, la **inoltra al destinatario** togliendo l'intestazione "Fwd" e le
    righe di servizio, e mette in **Ccn** l'indirizzo dell'agenzia: così Claude vede cosa è
    partito, a chi e quando, e lo registra nello storico delle comunicazioni.
-3. **In entrata.** progettogem **inoltra automaticamente** tutto all'indirizzo dell'agenzia
+3. **In entrata.** garganoeuropemobility **inoltra automaticamente** tutto all'indirizzo dell'agenzia
    (Impostazioni Gmail → Inoltro). Claude legge le risposte, le etichetta "GEM" e le registra.
 4. **Drive.** Tutti i file del progetto stanno nella cartella "Progetto GEM", condivisa in
-   scrittura con progettogem: i due account vedono le stesse cose.
-5. **Calendario.** Il calendario "GEM" vive sull'account progettogem, condiviso con l'agenzia
+   scrittura con garganoeuropemobility: i due account vedono le stesse cose.
+5. **Calendario.** Il calendario "GEM" vive sull'account garganoeuropemobility, condiviso con l'agenzia
    con permesso di modifica.
 
 ## 9. Come si aggiorna questa repo
