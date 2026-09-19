@@ -25,6 +25,8 @@
 
 ## Conseguenze
 
+- 19/09: Luigi invierà l'accordo preliminare con School Travel via email alla casella
+  dell'agenzia, da cui Claude lo legge direttamente.
 - 19/09, dalla call con Luigi: l'accordo firmato prevede una **penale a scaglioni** a carico della
   capofila; 100 % del compenso se si ritira a due settimane dall'arrivo, percentuali ridotte se
   prima. Scaglioni esatti da leggere sul testo.
