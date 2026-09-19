@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 16 parziali / 51**
+> Aggiornata al: 18/09/2026 · Risposte ricevute: **25 + 23 parziali / 51**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -184,27 +184,34 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - 19/09: **bozza v0.1 scritta**, italiano e spagnolo: [`../02-contratto/02-04-bozza-manleva-minorenni.md`](../02-contratto/02-04-bozza-manleva-minorenni.md), [copia su Google Documenti](https://docs.google.com/document/d/1bksm57BjADGyUjddrSjqQmFvbSxNk0A8iC59BjrMdBQ/edit) nella cartella "02 · Contratti". Copre: autorizzazione, natura del soggiorno senza custodia continuativa, regole e orari, deposito di 100 €, salute e urgenze, assicurazione, manleva nei limiti di legge, consenso esplicito ai dati anche sanitari, interruzione. Firmano entrambi i genitori. Da allegare all'email a School Travel.
 
 **Numeri**
-`[ ]` **22.** "Netti": netti per noi o netti per voi? Nessuna ritenuta o commissione a nostro carico?
-`[ ]` **23.** 90 **notti** (check-in 01/03, check-out 30/05) o 90 giorni di calendario?
-`[ ]` **24.** Arrivi tutti insieme o scaglionati? Quale data vale per la fattura dell'80 %?
+`[~]` **22.** "Netti": netti per noi o netti per voi? Nessuna ritenuta o commissione a nostro carico?
+- 19/09: la definizione dei soci è nell'assioma A2 (IVA inclusa se dovuta, commissioni a carico di School Travel, voli esclusi). Da verificare che l'accordo firmato la dica così.
+`[x]` **23.** 90 **notti** (check-in 01/03, check-out 30/05) o 90 giorni di calendario?
+- Risposta (19/09): **90 notti in totale**, confermato da Luigi.
+`[x]` **24.** Arrivi tutti insieme o scaglionati? Quale data vale per la fattura dell'80 %?
+- Risposta (19/09): **arrivano tutti insieme.** La data dell'arrivo vale per l'incasso dell'80 %; da chiedere a School Travel solo volo e aeroporto.
 `[x]` **25.** I **voli** sono inclusi nei 2.000 €?
 - Risposta (16/09): **no, li pagano i ragazzi.** → da scrivere nel contratto con la capofila tra le esclusioni (domanda 22).
-`[ ]` **26.** Cosa comprende esattamente "mobility"?
+`[x]` **26.** Cosa comprende esattamente "mobility"?
+- Risposta (19/09): **i ragazzi devono poter andare da casa al lavoro con un mezzo.** Quindi: abbonamento ai mezzi pubblici o navetta casa–azienda, a seconda di dove stanno alloggi e aziende. Costo da stimare in [transfert e mobility](../03-logistica/03-03-transfert-e-mobility.md) appena scelti gli alloggi.
 `[ ]` **26b.** **Collocamento in azienda** (confermato il 16/09 come parte del servizio: contratto con l'azienda e primo accompagnamento con il tutor, per l'ambito richiesto). Da fissare nel contratto B2B: chi definisce gli ambiti e quando; con quale forma giuridica i ragazzi stanno in azienda (tirocinio, mobilità Erasmus+, altro); chi copre **infortuni e responsabilità civile** in azienda; chi firma la convenzione con l'azienda; cosa succede se un'azienda si ritira.
 - Nota: è l'elemento più forte a favore della lettura "accoglienza complessa" (7-ter, domanda 11): va descritto bene nel contratto.
 - Nota (18/09): secondo Gianluca la descrizione del servizio con il collocamento **è già nell'accordo firmato da Luigi**. Da verificare sul testo appena è nel Drive (domanda 19).
 - Risposta:
 `[~]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
+- 19/09: **è tutto scritto nell'agreement firmato da Luigi**, in arrivo via email. Da verificare sul testo rispetto ai punti sotto.
 - Risposta (16/09): i documenti sono **valutazioni, certificati e documentazione correttamente firmata** (A6).
 - Chi giudica (16/09): **in parte i tutor**, che constatano che gli alloggi siano veri e adeguati e che il **posto di lavoro** corrisponda a quanto pattuito. Non è una valutazione discrezionale: è un **veto**.
 - Attenzione: un veto è discrezionale finché non sono scritti i criteri. Nel contratto B2B vanno fissati: cosa rende un alloggio "adeguato" (camera singola, servizi, distanza), cosa significa "posto di lavoro corrispondente", entro quando il tutor lo verifica (all'arrivo, non alla partenza), e che un veto motivato su un singolo ospite trattiene solo la quota di quell'ospite. Restano aperti: termine di consegna, termine di contestazione, contestazione parziale.
-`[ ]` **28.** Termini di pagamento di ciascuna tranche, in giorni.
+`[~]` **28.** Termini di pagamento di ciascuna tranche, in giorni.
+- 19/09: nell'agreement firmato da Luigi, in arrivo. Da verificare che dica: 80 % il giorno dell'arrivo, 20 % entro 30 giorni dalla consegna dei documenti.
 
 **Responsabilità**
 `[~]` **29.** Danni causati dagli ospiti: chi risponde? Esiste un deposito?
 - Risposta (19/09): nell'accordo tra School Travel e Luigi **non c'è nessuna clausola** sui danni. Proposta dei soci: **ogni ragazzo lascia 100 € all'arrivo come deposito cauzionale**, previo accordo con School Travel.
 - Da fissare per farlo funzionare: (a) chi lo incassa e dove sta — conto dedicato, registrato come *deposito*, non come ricavo; 36 × 100 = 3.600 € da restituire; (b) restituzione alla partenza dopo il check-out con inventario e foto (domanda 41); (c) cosa succede se il danno supera i 100 €: la differenza la paga School Travel, da scrivere nel contratto B2B; (d) per i minorenni il deposito e la trattenuta vanno nella manleva firmata dai genitori (21b); (e) meglio bonifico o carta che contanti, per la tracciabilità; (f) la regola va anche nel regolamento della casa (39). → proposta inserita nella bozza di email alla capofila, punto 10.
-`[ ]` **30.** Referente in loco della capofila; referente richiesto a noi.
+`[x]` **30.** Referente in loco della capofila; referente richiesto a noi.
+- Risposta (19/09): **i referenti in loco siamo noi** (Gianluca, con la collaboratrice). A School Travel si chiede solo il nome e il telefono del loro referente per le emergenze e per i tutor.
 `[~]` **31.** Assicurazione della capofila per i ragazzi: cosa copre?
 - Risposta (16/09): **sono assicurati.** Da avere per iscritto cosa copre (infortuni, malattia, rientro, danni a terzi).
 - Risposta (19/09): School Travel copre **infortuni sul lavoro** (le ore in azienda) e **assistenza sanitaria**. **Responsabilità civile verso terzi: da chiedere.** È la copertura che ci interessa di più: danni agli alloggi e a terzi fuori dall'orario di lavoro. Se manca, il deposito di 100 € (domanda 29) copre solo i piccoli danni; per il resto va scritto nel contratto che risponde School Travel.
@@ -220,6 +227,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 **Logistica → entro 30/11/2026**
 `[~]` **33.** Quanti immobili servono per 36 singole? Dove? A che distanza dalle attività?
+- 19/09: da definire insieme alla scrittura privata, ora in bozza.
 - Risposta (16/09): **il numero dipende dalla capienza di quelli che troviamo.** Restano aperti dove e a che distanza.
 `[~]` **34.** Le penali degli immobili sono allineate a quelle della capofila?
 - Risposta (16/09): **la capofila non c'entra con gli immobili. Nei contratti con i proprietari mettiamo noi una penale, per impedire che si svincolino.**
@@ -227,13 +235,15 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Nota (18/09): l'accordo firmato da Luigi con la capofila (domanda 19) potrebbe già contenere queste clausole: verificare sul testo.
 - Nota: un accordo capofila–ragazzi vincola *loro* verso la capofila, non la capofila verso di noi. Il nostro minimo garantito va comunque nel contratto B2B (domanda 20).
 `[ ]` **35.** Ogni immobile ha CIN, registrazione ospiti, regolarità?
-`[ ]` **36.** Un fornitore unico o più fornitori?
+`[~]` **36.** Un fornitore unico o più fornitori?
+- 19/09: da definire insieme alla scrittura privata, ora in bozza.
 
 **Assicurazione**
 `[x]` **37.** Decisione (16/09): **nessuna polizza a carico del progetto.** I ragazzi sono assicurati dalla capofila; i proprietari degli immobili devono essere assicurati in proprio (da scrivere nei contratti con loro). Resta non coperta la responsabilità civile per l'attività organizzata direttamente da noi: scelta consapevole dei soci.
 
 **Cassa → prima della firma (Allegato C)**
-`[ ]` **38.** Quanto serve, quando, da dove viene.
+`[~]` **38.** Quanto serve, quando, da dove viene.
+- 19/09: da definire insieme alla scrittura privata (Allegato C, piano di cassa). Senza caparre, prima dell'80 % restano registrazione dei contratti, viaggi e commercialista.
 
 **Operatività → entro febbraio 2027**
 `[~]` **39.** Regolamento della casa bilingue + addendum firmato, allegato anche al contratto B2B.
@@ -241,9 +251,12 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[x]` **40.** Reperibilità 24/7 per 90 giorni: turni scritti.
 - Risposta (16/09): **Gianluca sul posto, con una collaboratrice che parla spagnolo, già in forza al suo ufficio.**
 - La collaboratrice **non è parte del progetto**: nessun costo, inquadramento o onere a carico del progetto. A fine progetto Gianluca potrà riconoscerle un bonus **dal proprio compenso**, chiedendo eventualmente un contributo a Luigi — accordo tra i due soci, fuori dalla scrittura privata.
-`[ ]` **41.** Protocollo check-in/check-out: inventario, foto, verbale.
-`[ ]` **42.** Registro incidenti: chi, quando.
-`[ ]` **43.** Rubrica ospiti (esigenze mediche, contatti di emergenza): chi la raccoglie, dove sta.
+`[~]` **41.** Protocollo check-in/check-out: inventario, foto, verbale.
+- 19/09: da definire insieme alla scrittura; il regolamento della casa (39) già prevede inventario con foto all'arrivo e alla partenza.
+`[~]` **42.** Registro incidenti: chi, quando.
+- 19/09: da definire insieme alla scrittura; l'Allegato A dice già "chi è di turno, il giorno stesso".
+`[~]` **43.** Rubrica ospiti (esigenze mediche, contatti di emergenza): chi la raccoglie, dove sta.
+- 19/09: da definire insieme alla scrittura. I dati arrivano con la manleva (punto 5) e stanno nella cartella Drive "05 · Ospiti — ACCESSO RISTRETTO".
 
 **Strumenti**
 `[x]` **44.** Email di progetto: **garganoeuropemobility@gmail.com** (19/09/2026). La casella progettogem@gmail.com del 18/09 è accantonata.

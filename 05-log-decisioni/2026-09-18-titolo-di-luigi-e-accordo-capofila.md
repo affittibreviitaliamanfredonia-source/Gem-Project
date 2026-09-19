@@ -25,6 +25,10 @@
 
 ## Conseguenze
 
+- 19/09: arrivo di tutto il gruppo insieme, 90 notti; mobility = ogni ragazzo raggiunge l'azienda con
+  un mezzo; referenti in loco siamo noi; penali, documenti del 20 % e termini di pagamento sono
+  nell'agreement firmato da Luigi. Alloggi, fornitori, cassa e protocolli operativi si definiscono
+  insieme alla scrittura privata.
 - 19/09: per registrare i contratti e gestire il soggiorno serve l'autorizzazione a trattare i dati
   dei ragazzi: nomina a responsabile ex art. 28 GDPR da parte di School Travel, consenso esplicito
   per i dati sanitari nella manleva (domanda 32).

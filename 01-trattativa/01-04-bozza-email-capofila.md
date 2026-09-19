@@ -67,13 +67,14 @@ bancarie a vostro carico**, e che l'IVA, se dovesse risultare dovuta in Italia, 
 in quell'importo? Confermate che i **voli sono esclusi** e a carico dei ragazzi?
 
 **6. Le date** *(domande 23 e 24)*
-Confermate **90 notti** con check-in il 1° marzo e check-out il 30 maggio 2027? Gli arrivi
-sono **tutti insieme** o scaglionati? Con quale volo/aeroporto (Bari o altro)? Se scaglionati,
-quale data vale come "arrivo" per la fattura dell'80 %?
+Abbiamo inteso **90 notti**, check-in il 1° marzo e check-out il 30 maggio 2027, con arrivo di
+tutto il gruppo insieme. Ci confermate, e ci dite con quale volo e aeroporto (Bari o altro) e a
+che ora, per organizzare i trasferimenti?
 
 **7. Mobilità locale** *(domanda 26)*
-Cosa intendete esattamente per "mobility": abbonamento ai mezzi pubblici, navette casa–azienda,
-un numero di uscite organizzate? Ci serve per dimensionarla e quotarla.
+Per "mobility" intendiamo che ogni ragazzo possa andare da casa all'azienda con un mezzo,
+abbonamento ai mezzi pubblici o navetta a seconda delle distanze. Ci confermate che è questo
+che vi aspettate, e se prevedete anche uscite organizzate?
 
 **8. Le aziende ospitanti** *(domanda 26b)*
 Ci occuperemo di contattare le aziende, firmare il contratto con ciascuna e accompagnare i
@@ -99,7 +100,8 @@ da inserire nel contratto e nel regolamento della casa: ogni ragazzo versa all'a
 **deposito cauzionale di 100 €**, restituito alla partenza dopo il controllo dell'alloggio con
 inventario e foto; per i minorenni il deposito è previsto nella manleva firmata dai genitori;
 per danni superiori al deposito risponde School Travel, che si rivale sulle famiglie. Ci dite
-se va bene così o come preferite gestirla? Chi è il vostro **referente** sul posto e quale referente chiedete a noi? Sappiamo che i ragazzi sono coperti da una vostra **assicurazione** per gli infortuni sul
+se va bene così o come preferite gestirla? Il referente sul posto per tutto il soggiorno è Gianluca Iaconeta, reperibile 24 ore su 24
+al `[telefono]`; vi chiediamo nome e telefono del **vostro referente** e dei tutor. Sappiamo che i ragazzi sono coperti da una vostra **assicurazione** per gli infortuni sul
 lavoro e per l'assistenza sanitaria: vi chiediamo se copre anche la **responsabilità civile
 verso terzi** fuori dall'orario di lavoro (danni agli alloggi, a cose o persone), con quali
 massimali, se include il tragitto casa–azienda, e di inviarci una copia del certificato prima
