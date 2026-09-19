@@ -21,7 +21,7 @@ Legenda stato: ✅ concordato per iscritto · 🟡 concordato a voce · 🔴 non
 | 12 | **Penali** | Esiste una penale a scaglioni per il ritiro della capofila (100 % a due settimane dall'arrivo, ridotta se prima). Da verificare: scaglioni, riduzione parziale, no-show, modalità di incasso | 🟡 (vedi Q3) |
 | 13 | **Forza maggiore** | Definizione e ripartizione dei costi non recuperabili | 🔴 (vedi Q3) |
 | 14 | **Responsabilità** | Danni causati dagli ospiti: nell'accordo attuale manca; proposta **deposito cauzionale di 100 € a ragazzo** all'arrivo, restituito al check-out; oltre il deposito risponde School Travel | 🟡 (proposta) |
-| 15 | **Privacy / GDPR** | Trattamento dei dati degli ospiti, ruoli titolare/responsabile | 🔴 |
+| 15 | **Privacy / GDPR** | School Travel titolare, la nostra impresa responsabile ex art. 28 (allegato al contratto); titolari autonomi per registrazione contratti, alloggiati e imposta di soggiorno; consenso esplicito per i dati sanitari nella manleva | 🟡 (proposta) |
 | 16 | **Legge applicabile** | Italiana o spagnola | 🔴 (vedi Q2) |
 | 17 | **Foro competente** | Sede o arbitrato | 🔴 (vedi Q2) |
 | 18 | **Lingua** | Versione prevalente in caso di testo bilingue | 🔴 |

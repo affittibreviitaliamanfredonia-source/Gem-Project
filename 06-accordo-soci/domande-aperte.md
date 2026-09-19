@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 14 parziali / 51**
+> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 15 parziali / 51**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -209,7 +209,10 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Risposta (16/09): **sono assicurati.** Da avere per iscritto cosa copre (infortuni, malattia, rientro, danni a terzi).
 - Risposta (19/09): School Travel copre **infortuni sul lavoro** (le ore in azienda) e **assistenza sanitaria**. **Responsabilità civile verso terzi: da chiedere.** È la copertura che ci interessa di più: danni agli alloggi e a terzi fuori dall'orario di lavoro. Se manca, il deposito di 100 € (domanda 29) copre solo i piccoli danni; per il resto va scritto nel contratto che risponde School Travel.
 - Da chiedere insieme: massimali, se la polizza copre anche il tragitto casa–azienda, e una copia del certificato prima dell'arrivo.
-`[ ]` **32.** GDPR: chi è titolare dei dati dei ragazzi, chi responsabile.
+`[~]` **32.** GDPR: chi è titolare dei dati dei ragazzi, chi responsabile.
+- Risposta (19/09): per registrare i contratti di locazione, comunicare gli alloggiati e gestire il soggiorno **dobbiamo essere autorizzati a trattare i dati personali dei ragazzi**, compresi dati sensibili (documenti, minorenni, eventuali condizioni sanitarie o allergie).
+- Come si fa, in pratica: (a) nel contratto B2B **School Travel resta titolare** dei dati dei ragazzi e **nomina la nostra impresa responsabile del trattamento** (art. 28 GDPR), con l'elenco dei dati, delle finalità e della durata; (b) per gli adempimenti che la legge impone a noi — registrazione dei contratti, comunicazione alloggiati alla Questura, imposta di soggiorno — siamo **titolari autonomi**, e va detto nello stesso documento; (c) i dati sanitari sono "categorie particolari": servono il **consenso esplicito** dei genitori o dei ragazzi maggiorenni, da mettere nella manleva (21b), e vanno raccolti solo se necessari; (d) **informativa** in spagnolo a ragazzi e famiglie, firmata con la manleva; (e) i proprietari ricevono solo i dati necessari al contratto; (f) conservazione: elenco e documenti nella cartella Drive "05 · Ospiti — ACCESSO RISTRETTO", mai nella repository; cancellazione a fine progetto, salvo i documenti fiscali da conservare per legge.
+- Da preparare: nomina a responsabile (una pagina), informativa in spagnolo, riga sul consenso ai dati sanitari nella manleva.
 
 ---
 

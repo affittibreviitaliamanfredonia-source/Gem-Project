@@ -9,7 +9,7 @@ Non riguardano la capofila: sono interni.
 | [`scrittura-privata.md`](scrittura-privata.md) | Accordo tra i soci: ruoli, soldi, decisioni, rischi | 🟡 Bozza |
 | [`bozza-istanza-autorizzazione-luigi.md`](bozza-istanza-autorizzazione-luigi.md) | Bozza dell'istanza di Luigi ai superiori e della richiesta del committente per l'incarico occasionale (art. 53 D.Lgs. 165/2001, artt. 894–896 COM) | 🟡 Bozza |
 | [`nota-per-luigi-compenso.md`](nota-per-luigi-compenso.md) | Traccia per parlare con Luigi delle strade per la sua quota (autorizzazione, SRL, ass. in partecipazione); numeri nel foglio "GEM — Confronto scenari compenso" | 🟡 Bozza |
-| [`domande-aperte.md`](domande-aperte.md) | **Lista di lavoro**: 10 assiomi e 48 domande, divise per chi deve rispondere, con spazio per le risposte | 🟡 21 + 14 parziali / 51 |
+| [`domande-aperte.md`](domande-aperte.md) | **Lista di lavoro**: 10 assiomi e 48 domande, divise per chi deve rispondere, con spazio per le risposte | 🟡 21 + 15 parziali / 51 |
 
 ## Versioni stampabili
 

@@ -103,8 +103,11 @@ se va bene così o come preferite gestirla? Chi è il vostro **referente** sul p
 lavoro e per l'assistenza sanitaria: vi chiediamo se copre anche la **responsabilità civile
 verso terzi** fuori dall'orario di lavoro (danni agli alloggi, a cose o persone), con quali
 massimali, se include il tragitto casa–azienda, e di inviarci una copia del certificato prima
-dell'arrivo. Per i dati personali dei ragazzi, chi è il
-**titolare del trattamento** e in che veste li trattiamo noi?
+dell'arrivo. Per i dati personali dei ragazzi, che dobbiamo
+trattare per registrare i contratti di alloggio e per gli obblighi di legge italiani, vi
+proponiamo che School Travel resti **titolare del trattamento** e nomini la nostra impresa
+**responsabile** ai sensi dell'art. 28 del GDPR, con un allegato al contratto; per i dati
+sanitari chiederemo un consenso esplicito insieme alla manleva.
 
 **11. I ragazzi e voi** *(domanda 34)*
 I ragazzi hanno già firmato con voi un accordo di partecipazione? Se sì, ci sarebbe utile una

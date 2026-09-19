@@ -25,6 +25,9 @@
 
 ## Conseguenze
 
+- 19/09: per registrare i contratti e gestire il soggiorno serve l'autorizzazione a trattare i dati
+  dei ragazzi: nomina a responsabile ex art. 28 GDPR da parte di School Travel, consenso esplicito
+  per i dati sanitari nella manleva (domanda 32).
 - 19/09: School Travel assicura i ragazzi per infortuni sul lavoro e assistenza sanitaria;
   responsabilità civile verso terzi da chiedere (domanda 31).
 - 19/09: l'accordo con School Travel non regola i danni. I soci propongono un **deposito cauzionale
