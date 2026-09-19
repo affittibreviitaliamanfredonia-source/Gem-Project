@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 15 parziali / 51**
+> Aggiornata al: 18/09/2026 · Risposte ricevute: **21 + 16 parziali / 51**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -236,7 +236,8 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 `[ ]` **38.** Quanto serve, quando, da dove viene.
 
 **Operatività → entro febbraio 2027**
-`[ ]` **39.** Regolamento della casa bilingue + addendum firmato, allegato anche al contratto B2B.
+`[~]` **39.** Regolamento della casa bilingue + addendum firmato, allegato anche al contratto B2B.
+- 19/09: **bozza v0.1 scritta**, italiano e spagnolo, con deposito di 100 €, silenzio, minorenni, danni: [`../03-logistica/03-04-regolamento-casa.md`](../03-logistica/03-04-regolamento-casa.md) e copia su Google Documenti nella cartella "03 · Logistica". Da rivedere con Luigi e da allegare al contratto con School Travel.
 `[x]` **40.** Reperibilità 24/7 per 90 giorni: turni scritti.
 - Risposta (16/09): **Gianluca sul posto, con una collaboratrice che parla spagnolo, già in forza al suo ufficio.**
 - La collaboratrice **non è parte del progetto**: nessun costo, inquadramento o onere a carico del progetto. A fine progetto Gianluca potrà riconoscerle un bonus **dal proprio compenso**, chiedendo eventualmente un contributo a Luigi — accordo tra i due soci, fuori dalla scrittura privata.

@@ -6,6 +6,7 @@
 |---|---|
 | [`03-01-alloggi.md`](03-01-alloggi.md) | Strutture, camere singole, costi, stato prenotazioni |
 | [`03-02-elenco-ospiti.md`](03-02-elenco-ospiti.md) | Registro dei 36 ospiti e assegnazione camere |
+| [`03-04-regolamento-casa.md`](03-04-regolamento-casa.md) | Regolamento della casa, italiano e spagnolo, con deposito, silenzio, minorenni, danni; da firmare all'arrivo | 🟡 Bozza v0.1 |
 | [`03-03-transfert-e-mobility.md`](03-03-transfert-e-mobility.md) | Trasporti da/per aeroporto e spostamenti locali |
 
 ## ⚠️ Regola operativa
