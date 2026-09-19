@@ -3,7 +3,7 @@
 **Bozza v0.1 del 19/09/2026.** Da allegare al contratto con School Travel e da far firmare a ogni
 ospite all'arrivo (per i minorenni, firmato in anticipo dai genitori con la manleva). Testo
 italiano e spagnolo a fronte; in caso di dubbio prevale l'italiano. Le parti tra `[ ]` si
-compilano per ciascun alloggio. Copia su Google Documenti nella cartella Drive "03 · Logistica".
+compilano per ciascun alloggio. Copia su Google Documenti: <https://docs.google.com/document/d/1s_bYRekjWN6c9AMJoL9LqkPnJqbpuUg9-YuvpLgbr-o/edit> (cartella Drive "03 · Logistica").
 
 ---
 
