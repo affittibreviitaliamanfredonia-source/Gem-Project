@@ -181,7 +181,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Risposta (16/09): **non sono tutti maggiorenni** (A8). Restano da avere: quanti, con quale età, chi esercita la responsabilità durante il soggiorno.
 `[~]` **21b.** **Manleva e consensi per i minorenni**, firmati da genitori o tutori: chi li predispone (noi o la capofila), in quale lingua, cosa coprono (regolamento della casa, sanitario, privacy, uscite). Da allegare al contratto B2B.
 - Risposta (16/09): **la scriviamo noi** e la proponiamo alla capofila; loro offriranno una soluzione, una modifica o un'alternativa.
-- Da fare: bozza della richiesta di manleva (in italiano, con traduzione in spagnolo) da allegare all'email alla capofila. Cosa deve coprire e chi la firma: aperto fino alla loro risposta.
+- 19/09: **bozza v0.1 scritta**, italiano e spagnolo: [`../02-contratto/02-04-bozza-manleva-minorenni.md`](../02-contratto/02-04-bozza-manleva-minorenni.md), copia su Google Documenti nella cartella "02 · Contratti". Copre: autorizzazione, natura del soggiorno senza custodia continuativa, regole e orari, deposito di 100 €, salute e urgenze, assicurazione, manleva nei limiti di legge, consenso esplicito ai dati anche sanitari, interruzione. Firmano entrambi i genitori. Da allegare all'email a School Travel.
 
 **Numeri**
 `[ ]` **22.** "Netti": netti per noi o netti per voi? Nessuna ritenuta o commissione a nostro carico?

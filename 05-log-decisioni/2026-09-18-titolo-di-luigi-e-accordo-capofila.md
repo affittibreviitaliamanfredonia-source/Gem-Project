@@ -41,4 +41,5 @@
   foglio scenari (scrittura) e Google Doc della scrittura privata (commento).
 - Scrittura privata alla versione 0.6 (art. 7.2 e commentario). Google Documento ricaricato.
 - Bozza dell'email alla capofila: [`../01-trattativa/01-04-bozza-email-capofila.md`](../01-trattativa/01-04-bozza-email-capofila.md).
-- Da fare: bozza della richiesta di manleva per i minorenni (domanda 21b).
+- 19/09: scritte le bozze bilingui del **regolamento della casa** (03-logistica) e della **manleva per
+  i minorenni** (02-contratto), entrambe anche su Google Documenti.
