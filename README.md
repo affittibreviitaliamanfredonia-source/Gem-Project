@@ -13,7 +13,7 @@
 |---|---|
 | Nome progetto | **GEM** |
 | Tipo | Accoglienza **B2B** per ragazzi post-diploma spagnoli, con **collocamento in aziende ospitanti** |
-| Capofila | Soggetto spagnolo, **ente commerciale** — *ragione sociale e VAT da confermare* ⚠️ |
+| Capofila | **School Travel**, soggetto spagnolo, ente commerciale — *ragione sociale completa, forma giuridica, VAT e firmatario da confermare* ⚠️ |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
 | Firmatario e fatturante | **Gianluca Iaconeta** — chi fattura è da confermare col commercialista (16/09) |
 | Durata soggiorno | **90 notti** per ospite |

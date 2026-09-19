@@ -7,7 +7,7 @@
 
 | Campo | Valore |
 |---|---|
-| Ragione sociale | `DA COMPILARE` ⚠️ (vedi Q1) |
+| Nome | **School Travel** (19/09) — denominazione legale completa `DA COMPILARE` ⚠️ (vedi Q1) |
 | Forma giuridica | `DA COMPILARE` ⚠️ |
 | Partita IVA / VAT number | `DA COMPILARE` ⚠️ — **necessario per il reverse charge** |
 | Sede legale | `DA COMPILARE` ⚠️ |
