@@ -89,8 +89,8 @@ succede se un'azienda si ritira durante il percorso.
 Per il saldo prendiamo come riferimento i documenti dell'edizione 2026: Learning Agreement,
 Monitoring and Tutoring Report, Company Evaluation of the Student sul vostro modello, Company
 Internship Certificate, EU Survey compilato dallo studente. Ci confermate che l'elenco è questo,
-ci inviate i modelli, e ci confermate che il questionario UE, che dipende dallo studente, non
-blocca il saldo? Vi chiediamo poi di fissare insieme: lingua e formato;
+ci inviate i modelli aggiornati e il **codice del progetto 2027** da riportare sui certificati, e ci
+confermate che il questionario UE, che dipende dallo studente, non blocca il saldo? Vi chiediamo poi di fissare insieme: lingua e formato;
 **quando** i tutor fanno la verifica (proponiamo nei primi giorni dopo l'arrivo, così ogni
 problema si corregge subito); entro quanti giorni dalla consegna potete contestare, trascorsi
 i quali la documentazione si intende accettata; che una contestazione su un singolo ospite

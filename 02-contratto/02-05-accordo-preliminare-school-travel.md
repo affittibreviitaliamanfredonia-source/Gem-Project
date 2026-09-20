@@ -83,6 +83,15 @@ PNG di 25×25 pixel**, non un PDF. Se il file era così anche all'origine, Schoo
 un'icona e ha risposto "Thank you!" senza aprirla: il documento firmato da Chiara potrebbe **non essere
 mai arrivato**. Da verificare aprendo l'email inviata del 27/05 nella casella GEM da un computer.
 
+## L'edizione 2026 in numeri (dai documenti finali)
+
+- **9 studenti** di Jaén, tirocinio dal **17/03/2026 al 17/05/2026**, due mesi.
+- Codice progetto Erasmus+: **2024-1-ES01-KA121-VET-000206337** (accreditamento KA121-VET
+  dell'istituto spagnolo, bando 2024).
+- Documentazione finale consegnata il 16/05/2026: certificato, valutazione dell'azienda, report di
+  tutoraggio per ciascuno studente. Modelli ricostruiti in [`modelli/`](modelli/).
+- Aziende ospitanti di Manfredonia, tra cui un'azienda agricola; valutazioni tutte tra 4 e 5.
+
 ## Cosa dice il testo
 
 | Elemento | Nel testo |
