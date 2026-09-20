@@ -196,6 +196,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - 19/09: la definizione dei soci è nell'assioma A2 (IVA inclusa se dovuta, commissioni a carico di School Travel, voli esclusi). Da verificare che l'accordo firmato la dica così.
 `[ ]` **22b.** Prezzo per il formato da **62 giorni** (16/02–18/04/2027 = 62 giorni). I 2.000 € sono il tetto del bando per 92 giorni (email 14/05 e 28/07/2025). → premessa a), art. 6
 - 20/09: il gruppo di **marzo–maggio 2026** era dichiarato da School Travel come formato da 62 giorni (email 06/08/2025). **Prima domanda a Luigi**: quanto ha fatturato GEM a studente per quel gruppo e su quale base. Poi conferma scritta da School Travel per il 2027. Fino ad allora tutti i totali del progetto sono provvisori.
+- 20/09 (sera): il 06/08/2025 School Travel **chiese a GEM** "the cost for hosting the 3 students who will be staying for 62 days": il prezzo per 62 giorni lo fissò GEM, non il bando. Quindi la cifra 2026 è il **nostro** precedente e School Travel si aspetta "the same conditions": se vogliamo un prezzo diverso per il 2027 va motivato.
 `[~]` **23.** Date e durata del soggiorno.
 - Risposta (19/09): 90 notti dal 01/03, secondo Luigi.
 - 20/09: Gianluca conferma che il 01/03 veniva da **un ricordo impreciso di Luigi**. Vale l'email di School Travel del 25/06/2026: **16 febbraio – 18 aprile 2027, 61 notti**. Piano, README e documenti riallineati su queste date, **da confermare per iscritto** con School Travel insieme al prezzo: i 2.000 € erano quotati "per 92 giorni".

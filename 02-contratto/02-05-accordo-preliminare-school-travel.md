@@ -46,10 +46,22 @@ del progetto (72.000 €, 80 % = 57.600 €) sono **da considerare provvisori e 
 **Il prezzo del formato da 62 giorni esiste già: l'ha incassato GEM.** Il 06/08/2025 Sandra
 conferma il calendario 2025/26: un gruppo a gennaio (92 giorni), uno a febbraio (92 giorni) e **"a
 smaller group in March (62-day internships)"**. Il gruppo che GEM ha ospitato a Manfredonia dal 18/03 al
-16/05/2026 è quello: **formato da 62 giorni**. Quindi la fattura di GEM a School Travel per quel gruppo
-dice quanto il bando paga per 62 giorni in camera singola. È la domanda più utile da fare a Luigi
-adesso, prima di scrivere a School Travel: **quanto è stato fatturato a studente nel 2026, e su quale
-base**.
+16/05/2026 è quello: **formato da 62 giorni**. E il prezzo per quel formato **non è una tariffa del
+bando: lo ha chiesto School Travel a GEM** ("could you confirm the cost for hosting the 3 students who
+will be staying for 62 days in March?", 06/08/2025 17:11). Luigi rispose confermando tutti gli studenti
+senza indicare il prezzo nel messaggio che abbiamo; la cifra fu fissata dopo, per email o WhatsApp, e
+poi fatturata. È la domanda più utile da fare a Luigi adesso, prima di scrivere a School Travel:
+**quanto è stato fatturato a studente per il gruppo marzo–maggio 2026, e come fu concordato**. Quel
+numero è il precedente che School Travel si aspetta per i 36 del 2027 ("the conditions will remain the
+same" è la loro formula abituale); se vogliamo un prezzo diverso, dobbiamo motivarlo (camera singola,
+gruppo grande, 61 notti in bassa stagione).
+
+Altre due cose dal 06/08/2025. I **numeri cambiano fino all'ultimo**: a Luigi era stato detto "more
+students in March and maybe in January", per iscritto diventano 3 a marzo e 8 a gennaio, e Luigi accetta
+tutto ("Why now we are talking about 3 student in March? … I confirm you all the students") senza
+chiudere il prezzo. E School Travel, quando le serve piazzare un profilo difficile, **fa da sé la ricerca
+delle aziende** in zona (laboratori, impianti ambientali, industrie alimentari) e manda mansioni
+suggerite: nel 2027 si può chiedere lo stesso aiuto per i settori più difficili.
 
 **Il precedente sui tempi.** Nel 2025 il gruppo partiva il 23/09; il 06/08 School Travel chiese alloggi
 e aziende "as soon as possible" per inviare la documentazione al cliente **nella settimana del 18/08**,
