@@ -40,10 +40,11 @@ Ragione sociale completa, forma giuridica, **numero di partita IVA intracomunita
 sede legale e nome e qualifica della persona con potere di firma. Ci serve per la fattura in
 inversione contabile: il VAT verrà verificato sul sistema VIES alla data di ciascuna fattura.
 
-**2. Il contratto** *(domanda 19)*
-Luigi ha già firmato con voi un accordo. Poiché le fatture verranno emesse dalla mia impresa,
-vi proponiamo di **rifirmarlo intestato a IACONETA GIANLUCA**, integrandolo con i punti di
-questa email. Vi chiediamo: in quale lingua lo redigiamo (proponiamo italiano e spagnolo, con
+**2. Il contratto e l'accordo di cooperazione per il bando** *(domanda 19)*
+Nel 2026 l'organizzazione ospitante era Gargano Europe Mobility, la ditta di Luigi, oggi cessata.
+Per il 2027 l'ospitante è la mia impresa, **IACONETA GIANLUCA**: vi chiediamo di aggiornare
+l'**accordo di cooperazione** richiesto dal bando con questi dati, e di formalizzare in un
+**contratto** i punti di questa email. Vi chiediamo: in quale lingua lo redigiamo (proponiamo italiano e spagnolo, con
 prevalenza di una delle due versioni in caso di dubbio), quale legge lo regola e quale foro è
 competente. Noi proponiamo legge italiana e foro di Foggia; siamo disponibili a discuterne.
 
@@ -85,9 +86,11 @@ all'azienda; chi copre **infortuni e responsabilità civile** durante le ore in 
 succede se un'azienda si ritira durante il percorso.
 
 **9. Il 20 % finale** *(domande 27 e 28)*
-Abbiamo capito che il saldo si sblocca con la consegna di **valutazioni, certificati e
-documentazione firmata**, e che i vostri tutor verificano alloggi e posto di lavoro. Vi
-chiediamo di fissare insieme: l'**elenco esatto** dei documenti, in quale lingua e formato;
+Per il saldo prendiamo come riferimento i documenti dell'edizione 2026: Learning Agreement,
+Monitoring and Tutoring Report, Company Evaluation of the Student sul vostro modello, Company
+Internship Certificate, EU Survey compilato dallo studente. Ci confermate che l'elenco è questo,
+ci inviate i modelli, e ci confermate che il questionario UE, che dipende dallo studente, non
+blocca il saldo? Vi chiediamo poi di fissare insieme: lingua e formato;
 **quando** i tutor fanno la verifica (proponiamo nei primi giorni dopo l'arrivo, così ogni
 problema si corregge subito); entro quanti giorni dalla consegna potete contestare, trascorsi
 i quali la documentazione si intende accettata; che una contestazione su un singolo ospite

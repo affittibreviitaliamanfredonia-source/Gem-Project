@@ -83,17 +83,17 @@ documento, o sono stati concordati a voce.
    scritto per un altro verso della collaborazione ("Lote 1 Italia" fa pensare a un lotto di un
    bando). Così com'è, non descrive il servizio che vendiamo.
 
-2. **La parte italiana non è l'impresa di Gianluca, e non può esserlo per il bando.** Firma **Gargano Europe Mobility, P.IVA
+2. **La parte italiana era Gargano Europe Mobility, ditta individuale di Luigi, oggi chiusa** (precisazione di Gianluca del 20/09). Firma **Gargano Europe Mobility, P.IVA
    04566340719**: è l'agenzia Erasmus+ già attiva a Manfredonia, con sito
    garganoeuropemobility.com, di cui **Luigi Zerulo è "Project Manager and Director"**, e che ha
    già ospitato gruppi spagnoli, croati, lituani e rumeni tra il 2023 e il 2025. Quindi "GEM" non
    è il nome di un progetto nuovo: è un soggetto che esiste, con una sua partita IVA. Da chiarire
    **chi ne è titolare e con quale forma giuridica** (ditta individuale di chi? associazione? società?),
    perché da questo dipendono: chi fattura, il ruolo di Luigi come dipendente pubblico, e il senso
-   della scrittura privata tra i soci. Nel bando l'organizzazione ospitante dichiarata è GEM: la
-   struttura più lineare potrebbe essere **GEM fattura a Inversión y Educación** e **l'impresa di
-   Gianluca fattura a GEM** alloggio e servizi. Se GEM è un'associazione, non può distribuire utili
-   ai soci: il 50/50 andrebbe ripensato come prezzo dei servizi, non come divisione di margine.
+   della scrittura privata tra i soci. **Risolto il 20/09**: GEM non esiste più come soggetto,
+   quindi per il 2027 l'ospitante e il fatturante è **l'impresa di Gianluca**, come già previsto
+   dalla scrittura privata. Va chiesto a School Travel di **aggiornare l'accordo di cooperazione
+   del bando** con il nuovo ospitante, altrimenti nei loro atti risulta un soggetto chiuso.
 
 3. **La controparte si chiama Inversión y Educación S.L.**, non School Travel. School Travel è
    il nome che compare nei metadati del file (Manuel De Andrés) ed è probabilmente il nome

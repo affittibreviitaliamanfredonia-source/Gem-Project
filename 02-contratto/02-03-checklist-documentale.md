@@ -4,9 +4,7 @@
 Finché questo elenco non è **concordato per iscritto e allegato al contratto**, il saldo
 è un credito a rischio.
 
-**Stato: 🟡 tipologia nota, elenco non concordato.** Il 16/09 i soci hanno chiarito che il 20 %
-si sblocca con la consegna di **valutazioni, certificati e documentazione correttamente
-firmata**. Restano da fissare l'elenco voce per voce e le regole qui sotto.
+**Stato: 🟡 elenco noto dall'edizione 2026, da confermare per iscritto per il 2027.** I documenti sono quelli della rendicontazione Erasmus+ (Learning Agreement, report di tutoraggio, valutazione e certificato dell'azienda, questionario UE dello studente). Restano da fissare le regole qui sotto.
 
 ## Regole da fissare nel contratto
 
@@ -20,30 +18,30 @@ firmata**. Restano da fissare l'elenco voce per voce e le regole qui sotto.
 | **Contestazione parziale** | Si paga il non contestato, si trattiene solo il contestato | 🔴 |
 | **Sanatoria** | Diritto di integrare un documento mancante entro un termine | 🔴 |
 
-## Elenco documenti — bozza da proporre
+## Elenco documenti — quello che School Travel ha chiesto nell'edizione 2026
 
-> Bozza della parte italiana, **da negoziare**. Nessuna di queste voci è ancora accettata.
+> Dal thread "Final documentation" tra GEM e Carmen Miró (School Travel), edizione 2026. È la
+> **rendicontazione Erasmus+**: i documenti servono a School Travel per il finanziatore. Per il
+> 2027 si parte da qui e si chiede conferma scritta (domanda 27).
 
 ### Per ciascun ospite
 
-| # | Documento | Chi lo produce | Stato |
+| # | Documento | Chi lo produce | Note |
 |---|---|---|---|
-| 1 | Attestazione di soggiorno (date effettive di ingresso e uscita) | Parte italiana | 🔴 |
-| 2 | Prova dell'assegnazione della camera singola | Struttura ricettiva | 🔴 |
-| 3 | Registrazione dell'ospitalità presso le autorità competenti | Struttura ricettiva | 🔴 |
-| 4 | Riepilogo transfert erogati (arrivo e partenza) | Parte italiana | 🔴 |
-| 5 | Riepilogo mobility erogata | Parte italiana | 🔴 |
-| 6 | **Valutazione** dell'ospite (scheda o pagella di fine percorso) | `DA DEFINIRE` chi la compila | 🟡 |
-| 6b | **Certificato** di partecipazione o di fine percorso | `DA DEFINIRE` chi lo emette | 🟡 |
-| 6c | **Documentazione firmata** (regolamento della casa, manleva per i minorenni, presenze) | Parte italiana + ospite / genitori | 🟡 |
+| 1 | **Learning Agreement / Europass** ("the LAs") | Predisposto da School Travel, firmato da azienda ospitante e ospitante | Nel 2026 li ha curati GEM |
+| 2 | **Monitoring and Tutoring Report** | Parte italiana (tutor / referente) | Novità chiesta da School Travel per il 2027: modello da farsi dare |
+| 3 | **Company Evaluation of the Student** | Azienda ospitante, sul modello di School Travel | |
+| 4 | **Company Internship Certificate** | Azienda ospitante, su modello nostro | Nel 2026 GEM usava un proprio modello |
+| 5 | **Student Evaluation / EU Survey** | Lo studente, direttamente sulla piattaforma UE | Non dipende da noi: da chiarire che non blocca il saldo |
 
-### Complessivi di progetto
+### Da aggiungere per il 2027, a tutela nostra
 
-| # | Documento | Stato |
+| # | Documento | Chi lo produce |
 |---|---|---|
-| 7 | Elenco riepilogativo dei 36 ospiti con date effettive | 🔴 |
-| 8 | Rendiconto delle eventuali variazioni (rientri anticipati, no-show, sostituzioni) | 🔴 |
-| 9 | Segnalazione di eventuali criticità occorse durante il soggiorno | 🔴 |
+| 6 | Verbale della verifica dei tutor su alloggi e posto di lavoro, **nei primi giorni** dopo l'arrivo | Tutor School Travel + referente GEM |
+| 7 | Regolamento della casa firmato e, per i minorenni, manleva firmata | Ospite / genitori |
+| 8 | Inventari di check-in e check-out | Referente GEM + ospite |
+| 9 | Elenco riepilogativo degli ospiti con date effettive e variazioni | Parte italiana |
 
 ## Avanzamento alla consegna
 

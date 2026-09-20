@@ -27,6 +27,13 @@
 7. Precisazione di Gianluca: thread e documento riguardano l'**edizione 2026** (gruppo di Jaén).
    Valgono come precedente; il bando copre 2026 e 2027.
 
+8. **Gargano Europe Mobility era la ditta individuale di Luigi, oggi chiusa.** Per il 2027
+   l'ospitante e il fatturante è l'impresa di Gianluca; School Travel deve aggiornare l'accordo
+   di cooperazione del bando.
+9. Dal thread "Final documentation" 2026: i documenti per il saldo sono quelli Erasmus+
+   (Learning Agreement, Monitoring and Tutoring Report, Company Evaluation, Company Internship
+   Certificate, EU Survey dello studente). Checklist documentale riscritta su questa base.
+
 ## Conseguenze
 
 - Il contratto B2B con prezzo e condizioni **va scritto**: domande 19, 20, 27, 28 riaperte.

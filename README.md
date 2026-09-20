@@ -21,7 +21,7 @@
 | Data di partenza | **30/05/2027** (domenica) — 90 notti dopo l'arrivo |
 | Numero ospiti | **36** (dato corrente, soggetto a variazione) |
 | Sistemazione | **Camere singole** |
-| Stato complessivo | 🔴 **Trattativa in corso — nessun documento scritto contiene prezzo, date, penali o pagamenti: tutto verbale. Il contratto va scritto e proposto noi** |
+| Stato complessivo | 🔴 **Trattativa in corso — nessun documento scritto con prezzo, date, penali o pagamenti. Ospitante 2026 (ditta di Luigi) cessata: per il 2027 ospitante e fatturante è l'impresa di Gianluca; contratto da scrivere e proporre** |
 | Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti, esempio art. 7, copia di revisione della scrittura privata |
 | Casella email di progetto | **garganoeuropemobility@gmail.com** (creata il 18/09/2026) — canale ufficiale verso capofila, proprietari, aziende e commercialista; ha accesso in scrittura alla cartella Drive e al registro |
 
