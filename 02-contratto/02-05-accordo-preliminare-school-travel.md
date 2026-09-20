@@ -42,6 +42,9 @@ Quindi: il documento è un **adempimento formale del bando**, non il contratto c
 School Travel per dimostrare al finanziatore chi è l'organizzazione ospitante. I soldi del progetto
 sono, con ogni probabilità, **fondi Erasmus+** che passano da School Travel.
 
+Il carteggio 2026 è riportato riga per riga nello [storico delle comunicazioni](../01-trattativa/01-03-storico-comunicazioni.md).
+Manca la **risposta di Carmen** del maggio 2026 sulla documentazione finale: se c'è, è la conferma scritta dell'elenco.
+
 ## Cosa dice il testo
 
 | Elemento | Nel testo |
