@@ -16,8 +16,13 @@ Manuel De Andrés (SCHOOL TRAVEL), creato il 29/04/2026. Testo estratto su Googl
 
 Il rapporto con School Travel nasce **un anno prima** dell'accordo: 26 messaggi dal 14/05/2025 al
 14/08/2025 tra Sandra Paredes (School Travel) e la casella garganoeuropemobility, con Carmen in copia e,
-da luglio, **Libero Dachille**. Ricostruito il 20/09/2026 da screenshot (i primi 7 messaggi; il resto in
-arrivo); riga per riga in [`../01-trattativa/01-03-storico-comunicazioni.md`](../01-trattativa/01-03-storico-comunicazioni.md).
+da luglio, **Libero Dachille**. Ricostruito **per intero** il 20/09/2026 da screenshot, riga per riga in
+[`../01-trattativa/01-03-storico-comunicazioni.md`](../01-trattativa/01-03-storico-comunicazioni.md);
+mancano solo i testi completi di tre risposte di Luigi. In sintesi: bando vinto da School Travel
+(fino a 100 studenti, formati 32/62/92 giorni, tetto 2.000 € per 92 giorni); GEM parte da 1.700 € in
+doppia e si allinea ai 2.000 € in singola proposti da School Travel; il gruppo di settembre 2025 si riduce
+da 18 a 5 per i ritardi di GEM; School Travel mette per iscritto i dubbi sui gruppi grandi e diversifica;
+per marzo 2026 chiede a GEM il prezzo del formato da 62 giorni.
 
 **Come funziona il bando, nelle parole di School Travel (14/05/2025).** School Travel ha vinto un bando
 per coordinare tirocini in Italia, Belgio e Francia, fino a 100 studenti tra luglio 2025 e marzo 2026.

@@ -62,6 +62,7 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 | 08/08/2025 14:12 | garganoeuropemobility (Luigi) → Sandra, cc Libero, Carmen | Email | "Of course you can send the other two student here … When you come back you will have all the informations of the other students" | |
 | 12/08/2025 18:16 | Carmen Miró → garganoeuropemobility, cc Libero, Sandra | Email | "Regarding the **5 students** we are going to send you on September 23rd. How is the search for accommodation and companies going? Next week Sandra will be in the office and she needs to start including the details of each student in the documentation" | La direttrice interviene di persona per sollecitare |
 | 12/08/2025 | garganoeuropemobility (Luigi) → Carmen, cc Libero, Sandra | Email | "We have found the apartments and we are searching the companies. It's a little bit difficult just because in this period all the people are in holiday, but we will confirm you all the companies soon as possible" | Ultimo messaggio visto del thread (l'indice arriva al 14/08) |
+| 14/08/2025 | Carmen Miró → garganoeuropemobility | Reazione 👍 | Carmen "reacted to your message" al messaggio di Luigi del 12/08 ("We have found the apartments…") | **Chiude il thread "New tender – Internships 2025/2026"** (26 messaggi, 14/05–14/08/2025), ricostruito per intero il 20/09/2026. Mancano solo i testi completi di tre risposte di Luigi (01/08, 06/08, 07/08) |
 
 ## Come registrare
 
