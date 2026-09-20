@@ -20,7 +20,9 @@
    agreement* con l'organizzazione ospitante richiesto dal bando. L'organizzazione ospitante
    dichiarata è **Gargano Europe Mobility**, non l'impresa di Gianluca.
 6. Lo stesso giorno School Travel ha ritirato la richiesta: un accordo di cooperazione GEM–I&E
-   esisteva già da inizio 2026. Quello è il documento firmato da Luigi, e non lo abbiamo.
+   esisteva già da inizio 2026. Luigi rispose "we are just waiting the particulars". Secondo
+   Gianluca sono le prime email del 2026 nella casella: **nessun documento scritto contiene i
+   termini economici**; 2.000 €, 36 ragazzi, 90 notti, 80/20 e penali sono accordi verbali.
 
 ## Conseguenze
 

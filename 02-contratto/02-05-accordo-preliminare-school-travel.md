@@ -24,6 +24,13 @@ l'accordo precedente, che **non abbiamo**.
 Contatti School Travel dal thread: Manuel De Andrés <mdeandres@schooltravel.es>, Carmen Miró
 Vázquez <cmiro@schooltravel.es>, tel. 91 590 49 16.
 
+Luigi risponde lo stesso giorno: *"No problem Manuel, we are just waiting the particulars"*. Secondo
+Gianluca queste sono **le prime email del 2026** nella casella di GEM: quindi nella casella non c'è
+un accordo precedente, e al 29/04/2026 GEM **aspettava ancora i dettagli** del progetto. Tutto ciò
+che oggi diamo per concordato (2.000 € a studente, 36 ragazzi, 90 notti dal 1° marzo, 80/20, penale
+a scaglioni, documenti del 20 %) è stato definito **dopo, a voce o in altri scambi** che non sono in
+questo thread.
+
 Quindi: il documento è un **adempimento formale del bando**, non il contratto commerciale. Serve a
 School Travel per dimostrare al finanziatore chi è l'organizzazione ospitante. I soldi del progetto
 sono, con ogni probabilità, **fondi Erasmus+** che passano da School Travel.
