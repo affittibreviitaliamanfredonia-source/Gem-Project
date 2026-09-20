@@ -30,7 +30,7 @@ Finché questo elenco non è **concordato per iscritto e allegato al contratto**
 |---|---|---|---|
 | 1 | **Learning Agreement / Europass** ("the LAs") | Predisposto da School Travel, firmato da azienda ospitante e ospitante | Nel 2026 li ha curati GEM |
 | 2 | **Monitoring and Tutoring Report** | Parte italiana (tutor / referente) | Novità chiesta da School Travel per il 2027: modello da farsi dare |
-| 3 | **Company Evaluation of the Student** | Azienda ospitante, sul modello di School Travel | |
+| 3 | **Company Evaluation of the Student** | Azienda ospitante, sul modello di School Travel | Modello ricostruito: [`modelli/company-evaluation-of-the-student.md`](modelli/company-evaluation-of-the-student.md) — 14 criteri, scala 1–5, bilingue, timbro e firma |
 | 4 | **Company Internship Certificate** | Azienda ospitante, su modello nostro | Nel 2026 GEM usava un proprio modello |
 | 5 | **Student Evaluation / EU Survey** | Lo studente, direttamente sulla piattaforma UE | Non dipende da noi: da chiarire che non blocca il saldo |
 
