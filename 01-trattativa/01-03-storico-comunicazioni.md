@@ -5,6 +5,7 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 | Data | Canale | Direzione | Oggetto | Esito / nota | Allegato |
 |---|---|---|---|---|---|
 | 2026-09-12 | — | — | Apertura registro | Nessuna comunicazione ancora tracciata | — |
+| 20/09/2026 | Luigi → Gianluca | File | *Collaboration Agreement* GEM ↔ Inversión y Educación S.L. (Lote 1 Italia), docx del 29/04/2026 | Letto e analizzato: [`../02-contratto/02-05-accordo-preliminare-school-travel.md`](../02-contratto/02-05-accordo-preliminare-school-travel.md) |
 | 19/09/2026 | Gianluca → Luigi (via garganoeuropemobility) | Email | Bozza di accordo tra soci v0.6: scrittura da firmare, con commentario, Allegato A; link al Google Doc e alla cartella Drive; tre punti aperti (art. 7, art. 2.5, accordo con la capofila da caricare) | Preparata da Claude e inviata alla casella di progetto; inoltro a Luigi da confermare |
 
 ## Come registrare

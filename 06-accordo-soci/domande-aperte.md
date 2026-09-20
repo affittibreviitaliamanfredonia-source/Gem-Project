@@ -5,7 +5,7 @@
 > un articolo dell'accordo. Le sezioni sono divise per **chi deve rispondere**: la A è
 > quella su cui potete decidere voi due da soli.
 >
-> Aggiornata al: 18/09/2026 · Risposte ricevute: **25 + 23 parziali / 51**
+> Aggiornata al: 18/09/2026 · Risposte ricevute: **25 + 20 parziali / 51**
 
 Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfondire
 
@@ -169,12 +169,14 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 
 **Identità e contratto**
 `[~]` **18.** Ragione sociale, forma giuridica, VAT, sede, chi firma. *(Q1)* → premesse a), d)
-- Risposta (19/09): la capofila si chiama **School Travel**. Mancano: denominazione legale completa (S.L., S.A., altro), numero VAT da verificare su VIES, sede, nome e qualifica di chi firma. Dovrebbero essere nell'accordo firmato da Luigi.
+- Risposta (19/09): la capofila si chiama **School Travel**.
+- Dal documento (20/09): la controparte legale è **Inversión y Educación S.L.**, VAT **ESB83018630** (valido su VIES il 20/09), López de Hoyos 6, Madrid, rappresentata da **Iñigo Álvarez Valdés**. "School Travel" è il nome commerciale (autore del file: Manuel De Andrés). Manca solo la qualifica di chi firma. → [lettura del documento](../02-contratto/02-05-accordo-preliminare-school-travel.md)
 `[~]` **19.** Il **contratto B2B tra Gianluca (fornitore) e la capofila (cliente)**: chi lo redige, con quale legge, quale foro, quale lingua. *(Q2)*
 - Risposta (18/09): **un accordo scritto con la capofila esiste ed è stato firmato da Luigi**; probabilmente andrà **firmato di nuovo** (da Gianluca, come firmatario e fatturante). Dovrebbe già contenere la descrizione del servizio, collocamento in azienda compreso.
-- 19/09: **Luigi invia l'accordo preliminare via email a affittibreviitalia.manfredonia@gmail.com**; Claude lo legge dalla casella, lo salva nella cartella Drive "02 · Contratti" e ne estrae le risposte alle domande 18, 20, 22–32. Senza il testo non si possono verificare prezzo, numero, penali, 20 %, aziende, legge e foro. La domanda resta aperta su cosa manca nel testo, non più sul se esiste.
-`[~]` **20.** Minimo garantito di ospiti; penali per riduzione, cancellazione, no-show. *(Q3)*
+- 20/09: **documento ricevuto e letto**: è un *Collaboration Agreement* di una pagina tra **Gargano Europe Mobility (P.IVA 04566340719)** e Inversión y Educación S.L., senza prezzo, date, penali, 80/20, documenti del 20 %. Non è il contratto B2B: quello **va scritto**. E la parte italiana non è l'impresa di Gianluca ma GEM, l'agenzia di cui Luigi è direttore: **da chiarire chi è il titolare di quella partita IVA**. → [lettura del documento](../02-contratto/02-05-accordo-preliminare-school-travel.md) Senza il testo non si possono verificare prezzo, numero, penali, 20 %, aziende, legge e foro. La domanda resta aperta su cosa manca nel testo, non più sul se esiste.
+`[ ]` **20.** Minimo garantito di ospiti; penali per riduzione, cancellazione, no-show. *(Q3)*
 - Nota (16/09): 36 è indicativo, potranno essere di più o di meno (A4). Chiedere anche **entro quale data** il numero diventa definitivo e come si gestiscono gli ospiti in più.
+- 20/09: **nel documento ricevuto la penale non c'è.** O esiste un altro testo, o è un accordo verbale: da mettere per iscritto nel contratto B2B.
 - Risposta (19/09, dalla call con Luigi): **l'accordo firmato prevede una penale a carico della capofila, a scaglioni**: se si ritira **due settimane prima dell'arrivo**, il compenso ci spetta **al 100 %**; ritirandosi qualche mese prima, una percentuale ridotta, e così via.
 - Da leggere sul testo (domanda 19): le date e le percentuali di ogni scaglione; se la penale vale anche per la **riduzione parziale** del numero (ritiro di alcuni ragazzi) o solo per il ritiro totale; se copre il **no-show** all'arrivo; da quale data il numero è definitivo; come si incassa (compensazione con l'80 %, fattura separata, tempi).
 `[~]` **21.** Età degli ospiti; quanti minorenni; chi esercita la responsabilità. *(Q5)*
@@ -198,13 +200,13 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 - Nota: è l'elemento più forte a favore della lettura "accoglienza complessa" (7-ter, domanda 11): va descritto bene nel contratto.
 - Nota (18/09): secondo Gianluca la descrizione del servizio con il collocamento **è già nell'accordo firmato da Luigi**. Da verificare sul testo appena è nel Drive (domanda 19).
 - Risposta:
-`[~]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
-- 19/09: **è tutto scritto nell'agreement firmato da Luigi**, in arrivo via email. Da verificare sul testo rispetto ai punti sotto.
+`[ ]` **27.** Quali **documenti** sbloccano il 20 %; entro quando; chi giudica; cosa succede se contesta in parte.
+- 20/09: **nel documento ricevuto non c'è nulla sul 20 %** né sui documenti. Da scrivere nel contratto B2B.
 - Risposta (16/09): i documenti sono **valutazioni, certificati e documentazione correttamente firmata** (A6).
 - Chi giudica (16/09): **in parte i tutor**, che constatano che gli alloggi siano veri e adeguati e che il **posto di lavoro** corrisponda a quanto pattuito. Non è una valutazione discrezionale: è un **veto**.
 - Attenzione: un veto è discrezionale finché non sono scritti i criteri. Nel contratto B2B vanno fissati: cosa rende un alloggio "adeguato" (camera singola, servizi, distanza), cosa significa "posto di lavoro corrispondente", entro quando il tutor lo verifica (all'arrivo, non alla partenza), e che un veto motivato su un singolo ospite trattiene solo la quota di quell'ospite. Restano aperti: termine di consegna, termine di contestazione, contestazione parziale.
-`[~]` **28.** Termini di pagamento di ciascuna tranche, in giorni.
-- 19/09: nell'agreement firmato da Luigi, in arrivo. Da verificare che dica: 80 % il giorno dell'arrivo, 20 % entro 30 giorni dalla consegna dei documenti.
+`[ ]` **28.** Termini di pagamento di ciascuna tranche, in giorni.
+- 20/09: **nel documento ricevuto non ci sono termini di pagamento.** Da scrivere nel contratto B2B: 80 % il giorno dell'arrivo, 20 % entro 30 giorni dalla consegna dei documenti.
 
 **Responsabilità**
 `[~]` **29.** Danni causati dagli ospiti: chi risponde? Esiste un deposito?

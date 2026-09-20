@@ -13,7 +13,7 @@
 |---|---|
 | Nome progetto | **GEM** |
 | Tipo | Accoglienza **B2B** per ragazzi post-diploma spagnoli, con **collocamento in aziende ospitanti** |
-| Capofila | **School Travel**, soggetto spagnolo, ente commerciale — *ragione sociale completa, forma giuridica, VAT e firmatario da confermare* ⚠️ |
+| Capofila | **Inversión y Educación S.L.** (nome commerciale School Travel), Madrid, VAT ESB83018630 valido su VIES; rappresentata da Iñigo Álvarez Valdés |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
 | Firmatario e fatturante | **Gianluca Iaconeta** — chi fattura è da confermare col commercialista (16/09) |
 | Durata soggiorno | **90 notti** per ospite |
@@ -21,7 +21,7 @@
 | Data di partenza | **30/05/2027** (domenica) — 90 notti dopo l'arrivo |
 | Numero ospiti | **36** (dato corrente, soggetto a variazione) |
 | Sistemazione | **Camere singole** |
-| Stato complessivo | 🟡 **Trattativa in corso — accordo firmato da Luigi, testo da acquisire e verificare** |
+| Stato complessivo | 🟡 **Trattativa in corso — esiste solo un accordo di collaborazione generico; il contratto con prezzo e condizioni va scritto** |
 | Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti, esempio art. 7, copia di revisione della scrittura privata |
 | Casella email di progetto | **garganoeuropemobility@gmail.com** (creata il 18/09/2026) — canale ufficiale verso capofila, proprietari, aziende e commercialista; ha accesso in scrittura alla cartella Drive e al registro |
 
@@ -65,8 +65,8 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 | # | Questione | Verso | Priorità | Stato |
 |---|---|---|---|---|
 | Q1 | **Identità giuridica della capofila** — ragione sociale, VAT number, sede legale | Capofila | 🔴 Alta | ❓ Aperta |
-| Q2 | **Contratto scritto** — esiste un accordo firmato da Luigi, da acquisire nel Drive e probabilmente da rifirmare; legge e foro da verificare sul testo | Capofila / Luigi | 🔴 Alta | 🟡 Parziale |
-| Q3 | **Penali e forza maggiore** — l'accordo firmato da Luigi prevede una penale a scaglioni a carico della capofila (100 % se si ritira a due settimane dall'arrivo, meno se prima); da leggere scaglioni, riduzioni parziali, no-show | Capofila / Luigi | 🔴 Alta | 🟡 Parziale |
+| Q2 | **Contratto scritto** — il documento ricevuto il 20/09 è un accordo di collaborazione generico tra Gargano Europe Mobility e Inversión y Educación: senza prezzo, date, penali, 80/20. Il contratto B2B **va scritto** | Capofila | 🔴 Alta | ❓ Aperta |
+| Q3 | **Penali e forza maggiore** — la penale a scaglioni descritta da Luigi **non è nel documento ricevuto**: va messa per iscritto nel contratto B2B | Capofila | 🔴 Alta | ❓ Aperta |
 | Q4 | **7-ter o 7-quater?** — se il servizio è qualificato come alloggio, l'IVA italiana resta dovuta | Commercialista | 🔴 Alta | ❓ Aperta |
 | Q5 | **Età degli ospiti** — **confermata la presenza di minorenni** (16/09): servono numero, responsabile, manleva dei genitori o tutori | Capofila | 🔴 Alta | 🟡 Parziale |
 
