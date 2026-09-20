@@ -24,6 +24,9 @@
    Gianluca sono le prime email del 2026 nella casella: **nessun documento scritto contiene i
    termini economici**; 2.000 €, 36 ragazzi, 90 notti, 80/20 e penali sono accordi verbali.
 
+7. Precisazione di Gianluca: thread e documento riguardano l'**edizione 2026** (gruppo di Jaén).
+   Valgono come precedente; il bando copre 2026 e 2027.
+
 ## Conseguenze
 
 - Il contratto B2B con prezzo e condizioni **va scritto**: domande 19, 20, 27, 28 riaperte.

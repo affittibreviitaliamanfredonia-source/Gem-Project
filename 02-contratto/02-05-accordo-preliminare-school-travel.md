@@ -1,4 +1,11 @@
-# Accordo preliminare ricevuto da Luigi — lettura del 20/09/2026
+# Accordo di cooperazione GEM–School Travel (edizione 2026) — lettura del 20/09/2026
+
+> **Precisazione di Gianluca (20/09):** il thread e il documento riguardano **l'esperienza dell'anno
+> scorso**, cioè il gruppo di Jaén ospitato nel 2026, non il progetto del 2027. Servono come
+> precedente: mostrano chi è il cliente (Inversión y Educación / School Travel), chi è
+> l'organizzazione ospitante dichiarata (Gargano Europe Mobility) e che il bando vinto copre
+> **2026 e 2027**: il gruppo del 2027 è, con ogni probabilità, la seconda ondata dello stesso bando.
+> Per il 2027 non esiste ancora nulla di scritto.
 
 **File:** `Acuerdo_IE_y_GEM__Lote_1_ITALIA.docx`, ricevuto il 20/09/2026. Metadati: autore
 Manuel De Andrés (SCHOOL TRAVEL), creato il 29/04/2026. Testo estratto su Google Documenti:
