@@ -12,6 +12,10 @@ Manuel De Andrés (SCHOOL TRAVEL), creato il 29/04/2026. Testo estratto su Googl
 <https://docs.google.com/document/d/1yz-ydyoRFkxW57R3WoTNCuIALyQMbeREYNMaLyd9mK4/edit>
 (cartella Drive "02 · Contratti"). L'originale va conservato nella stessa cartella.
 
+## Prima del 2026: il thread "New tender – Internships 2025/2026"
+
+Il rapporto con School Travel nasce **un anno prima** dell'accordo: un thread di 26 messaggi dal 14/05/2025 al 14/08/2025 tra Sandra Paredes e Carmen Miró (School Travel) e la casella garganoeuropemobility, indirizzato a "Luigi and Libero". Il 20/09/2026 ne abbiamo solo l'indice; il contenuto è in arrivo e verrà registrato in [`../01-trattativa/01-03-storico-comunicazioni.md`](../01-trattativa/01-03-storico-comunicazioni.md). Domande a cui dovrebbe rispondere: come School Travel è arrivata a Manfredonia, chi è Libero, quali termini economici furono pattuiti per la prima edizione e da dove viene il prezzo di 2.000 € per 92 giorni citato il 25/06/2026.
+
 ## Il contesto (email del 29/04/2026)
 
 Il documento arriva con un'email di Manuel De Andrés (School Travel) a garganoeuropemobility@gmail.com,

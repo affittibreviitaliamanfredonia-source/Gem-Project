@@ -13,6 +13,7 @@
 | Sede legale | **Hermanos Bécquer 6, 28006 Madrid** (accordo firmato 19/05/2026); nella bozza di aprile 2026 figurava López de Hoyos 6 — da confermare |
 | Rappresentante / referenti | Rappresentata da **Iñigo Álvarez Valdés**. Operativi: **Carmen Miró Vázquez**, Directora de School Travel (cmiro@schooltravel.es); **Manuel De Andrés Álvaro**, coordinatore progetti europei (mdeandres@schooltravel.es) |
 | Contatti | tel. 91 590 49 16 · scrive a garganoeuropemobility@gmail.com |
+| Altri interlocutori (2025) | **Sandra Paredes**: interlocutrice di School Travel nel thread "New tender – Internships 2025/2026" (maggio–agosto 2025), ruolo da chiarire quando arriva il contenuto |
 | Committente pubblico a monte | **Jaén Provincial Council** (Diputación Provincial de Jaén): l'ente che ha aggiudicato il bando a School Travel; referente "Raquel" (email del 25/06/2026) |
 | Gruppo | **ASTEX** (astex.es, C/ Hermanos Bécquer 7, 28006 Madrid, tel. 91 590 34 90): School Travel è la divisione "ASTEX School Travel"; la firma email di Manuel rimanda ad astex.es. Inversión y Educación S.L. è con ogni probabilità la società del gruppo che contratta |
 
@@ -29,6 +30,7 @@ essere fatturata in reverse charge ex art. 7-ter. Vedi
 | **Soggetto che fattura** | **Gianluca Iaconeta**, impresa individuale (stessa persona del firmatario) — da confermare col commercialista se fatturare con questa posizione o con una società (domanda 13) |
 | Dati dell'impresa (visura camerale 13/10/2025) | **IACONETA GIANLUCA**, impresa individuale · P.IVA **04175780719** · REA **FG-308982** · sede **Via Tribuna 201, 71043 Manfredonia (FG)** · PEC **gianlucaiaconeta@pec.it** · attività prevalente: affittacamere per brevi soggiorni, case per vacanze, B&B, residence · **ATECO 55.20.4** · attiva dal 25/09/2019 · regime **ordinario** |
 | Precedente ospitante (2026) | **Gargano Europe Mobility**, ditta individuale di Luigi Zerulo, P.IVA 04566340719, Piazza delle Rose 6 Manfredonia, **cessata**. Accordo con I&E del 19/05/2026 firmato per GEM da **Chiara Perillo**, allora collaboratrice di Luigi e interlocutrice di School Travel per la casella garganoeuropemobility. Il nome resta al progetto; il soggetto giuridico del 2027 è l'impresa di Gianluca |
+| Da identificare | **"Libero"**: destinatario, con Luigi, delle email di School Travel del 2025 ("Luigi and Libero"). Non compare nel carteggio 2026: chiedere a Luigi chi è e se ha ancora un ruolo |
 | Email di Luigi | luigi.zerulo.lz@gmail.com (19/09/2026) — cartella Drive e registro condivisi in scrittura, Google Doc della scrittura in commento |
 | Email di progetto | **garganoeuropemobility@gmail.com** — canale ufficiale del progetto (18/09/2026) |
 | Conto di incasso | Deve essere intestato al soggetto che fattura. `DA APRIRE / DA INDICARE` ⚠️ |
