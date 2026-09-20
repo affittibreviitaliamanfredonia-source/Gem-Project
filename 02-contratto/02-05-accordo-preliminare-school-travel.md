@@ -45,6 +45,27 @@ sono, con ogni probabilità, **fondi Erasmus+** che passano da School Travel.
 Il carteggio 2026 è riportato riga per riga nello [storico delle comunicazioni](../01-trattativa/01-03-storico-comunicazioni.md).
 Manca la **risposta di Carmen** del maggio 2026 sulla documentazione finale: se c'è, è la conferma scritta dell'elenco.
 
+## Il seguito: l'accordo firmato del 19/05/2026
+
+Il 21/05/2026 Manuel scrive a "Chiara" alla casella di GEM: l'**ente pubblico** che ha
+aggiudicato il bando a School Travel chiede una piccola modifica per contatti mancanti, e allega
+la versione aggiornata, **già firmata il 19/05/2026** da **Chiara Perillo per Gargano Europe
+Mobility** e da Iñigo Álvarez Valdés per I&E. Differenze rispetto al file di aprile:
+
+| | Aprile 2026 | Versione firmata 19/05/2026 |
+|---|---|---|
+| Studenti | da 1 a 42, 2026–2027 | **da 1 a 10, settembre 2026 – febbraio 2027** |
+| Sede GEM | Manfredonia 71043 | **Piazza delle Rose 6, Manfredonia**; contatti garganoeuropemobility@gmail.com, +39 379 3123159 |
+| Sede I&E | López de Hoyos 6, Madrid | **Hermanos Bécquer 6, 28006 Madrid** |
+| Firma GEM | in bianco | **Chiara Perillo**, 19/05/2026 |
+| Note | — | "including Belgium" tra i paesi: refuso del modello |
+
+Quindi il bando è di un **ente pubblico spagnolo** e School Travel ne è l'aggiudicataria; gli
+accordi di cooperazione sono per lotti e periodi diversi (42 studenti 2026–27; 10 studenti
+set. 2026 – feb. 2027). Il gruppo di 36 per marzo–maggio 2027 sarà un altro lotto o un'altra
+ondata: **servirà un accordo di cooperazione con l'impresa di Gianluca**. Chi sia Chiara Perillo
+e con quale titolo abbia firmato per la ditta di Luigi è da chiarire.
+
 ## Cosa dice il testo
 
 | Elemento | Nel testo |

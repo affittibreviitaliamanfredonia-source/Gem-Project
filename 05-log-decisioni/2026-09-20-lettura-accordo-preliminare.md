@@ -34,6 +34,10 @@
    (Learning Agreement, Monitoring and Tutoring Report, Company Evaluation, Company Internship
    Certificate, EU Survey dello studente). Checklist documentale riscritta su questa base.
 
+10. Accordo di cooperazione GEM–I&E **firmato il 19/05/2026** da Chiara Perillo per GEM: 1–10
+    studenti, settembre 2026 – febbraio 2027; il bando è di un ente pubblico spagnolo. Il gruppo
+    2027 richiederà un nuovo accordo di cooperazione con l'impresa di Gianluca.
+
 ## Conseguenze
 
 - Il contratto B2B con prezzo e condizioni **va scritto**: domande 19, 20, 27, 28 riaperte.
