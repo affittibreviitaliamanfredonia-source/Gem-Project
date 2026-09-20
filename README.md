@@ -19,7 +19,7 @@
 | Durata soggiorno | **90 notti** per ospite |
 | Data di arrivo | **01/03/2027** (lunedì) — impostata dal firmatario, *da confermare con la capofila* |
 | Data di partenza | **30/05/2027** (domenica) — 90 notti dopo l'arrivo |
-| Numero ospiti | **36** (dato corrente, soggetto a variazione) |
+| Numero ospiti | **36** — sono i 42 pianificati da Jaén meno i 6 dirottati su un'altra città a luglio 2026; soggetto a variazione |
 | Sistemazione | **Camere singole** |
 | Stato complessivo | 🔴 **Trattativa in corso — nessun documento scritto con prezzo, date, penali o pagamenti. Ospitante 2026 (ditta di Luigi) cessata: per il 2027 ospitante e fatturante è l'impresa di Gianluca; contratto da scrivere e proporre** |
 | Cartella Drive condivisa | [Progetto GEM](https://drive.google.com/drive/folders/1pi-At6vpQarCtofPGBuuYgX3fke82UGR) — registro movimenti, esempio art. 7, copia di revisione della scrittura privata |

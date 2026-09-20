@@ -113,6 +113,35 @@ Per il 2027 questo dice due cose: il termine di consegna dei documenti può esse
 di **10–15 giorni** dalla partenza, se le firme delle aziende si raccolgono l'ultimo giorno; e che
 l'anello debole è il **tutor aziendale** che non firma in tempo.
 
+## Giugno–luglio 2026: il thread "Confirmation of Student Placements" — il più importante
+
+Il **25/06/2026** Carmen scrive a GEM confermando l'intenzione di mandare **42 studenti da Jaén**,
+"based on the … price of €2,… per student for a …-day stay", e "as agreed, the package should
+include the following: …". **È l'unica email con i termini economici**: prezzo per studente, durata,
+contenuto del pacchetto. Ne abbiamo visto solo l'inizio: **il testo completo va acquisito**, perché è
+la base scritta del contratto 2027.
+
+Poi il thread racconta un incidente che spiega i numeri di oggi:
+
+- GEM **non risponde per più di dieci giorni** (Luigi malato, e da dicembre lavora a Milano).
+- Il 06/07 Carmen comunica che i **6 studenti previsti per settembre** sono stati dirottati **su
+  un'altra città italiana**, e chiede se GEM "is still running the programme in Manfredonia": una
+  persona di Jaén aveva visto su Instagram che Luigi aveva cambiato lavoro.
+- Luigi risponde che i 42 erano confermati, che stavano cercando gli alloggi, e chiede di tornare
+  indietro; Carmen parla di un "**February group**" per cui si farà sentire.
+
+**Conseguenze per il 2027**
+
+1. **36 = 42 − 6.** I 36 ragazzi del progetto sono i 42 pianificati da Jaén meno i 6 già persi a
+   luglio 2026. Il numero non è un'ipotesi: è quello che resta di un impegno più grande.
+2. **School Travel ha già una alternativa in Italia.** La dirotta in un venerdì, dopo dieci giorni
+   di silenzio. La **reattività** è una condizione del rapporto, non un dettaglio: la casella di
+   progetto va presidiata ogni giorno, con l'inoltro automatico e un referente che risponde entro
+   24 ore. È l'argomento più forte per presentare Gianluca come interlocutore stabile sul posto.
+3. **La fiducia va ricostruita per iscritto**: il cambio di ospitante annunciato a maggio, l'assenza
+   di luglio e il "moved on to another job" vanno chiusi con una comunicazione chiara: nuovo
+   ospitante, nuovo referente, stessa squadra, stesso programma.
+
 ## Cosa dice il testo
 
 | Elemento | Nel testo |
