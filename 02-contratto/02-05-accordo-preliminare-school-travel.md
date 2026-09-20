@@ -98,6 +98,21 @@ mai arrivato**. Da verificare aprendo l'email inviata del 27/05 nella casella GE
   *host organisation* sugli Europass, che firmano e timbrano. Date della mobilità sugli Europass:
   18/03 – 16/05/2026 (sui certificati 17/03 – 17/05: i due documenti non coincidevano di un giorno).
 
+## Come si è chiusa l'edizione 2026 (tempi reali)
+
+| Data | Passaggio |
+|---|---|
+| 17/05/2026 | Rientro del gruppo in Spagna |
+| 19/05 | School Travel manda l'elenco dei documenti finali "da firmare e caricare a registro" |
+| 16/05 – 26/05 | GEM consegna certificati, valutazioni, report (16/05) e gli Europass firmati dalle aziende (26/05) |
+| 01/06 | Ultimo Europass, bloccato dal ritardo di un tutor aziendale |
+| 02/06 | "Recibido, muchas gracias": documentazione chiusa, **16 giorni** dopo la partenza |
+| ? | Fattura e incasso del saldo: **non ancora ricostruiti** |
+
+Per il 2027 questo dice due cose: il termine di consegna dei documenti può essere realisticamente
+di **10–15 giorni** dalla partenza, se le firme delle aziende si raccolgono l'ultimo giorno; e che
+l'anello debole è il **tutor aziendale** che non firma in tempo.
+
 ## Cosa dice il testo
 
 | Elemento | Nel testo |
