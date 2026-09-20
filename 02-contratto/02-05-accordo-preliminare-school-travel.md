@@ -14,6 +14,16 @@ attualmente a Manfredonia". Per il bando devono presentare un *cooperation agree
 l'**organizzazione ospitante in destinazione**, che sarà Gargano Europe Mobility; chiedono a Luigi di
 aggiungere il nome, convertire in PDF e rimandarlo firmato.
 
+Tre minuti dopo Manuel manda una versione corretta, e poi una terza email: *"Please disregard my
+previous email. I've just realized that we already have this information from earlier this year,
+as we had previously requested it from you."* Quindi School Travel **ha ritirato la richiesta lo
+stesso giorno**: un accordo di cooperazione GEM–I&E esisteva già da inizio 2026. Nel file ricevuto
+la firma per GEM è in bianco. Quello che Luigi ricorda di aver firmato è probabilmente
+l'accordo precedente, che **non abbiamo**.
+
+Contatti School Travel dal thread: Manuel De Andrés <mdeandres@schooltravel.es>, Carmen Miró
+Vázquez <cmiro@schooltravel.es>, tel. 91 590 49 16.
+
 Quindi: il documento è un **adempimento formale del bando**, non il contratto commerciale. Serve a
 School Travel per dimostrare al finanziatore chi è l'organizzazione ospitante. I soldi del progetto
 sono, con ogni probabilità, **fondi Erasmus+** che passano da School Travel.

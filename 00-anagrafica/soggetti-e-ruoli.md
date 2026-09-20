@@ -7,12 +7,12 @@
 
 | Campo | Valore |
 |---|---|
-| Nome | **School Travel** (19/09) — denominazione legale completa `DA COMPILARE` ⚠️ (vedi Q1) |
-| Forma giuridica | `DA COMPILARE` ⚠️ |
-| Partita IVA / VAT number | `DA COMPILARE` ⚠️ — **necessario per il reverse charge** |
-| Sede legale | `DA COMPILARE` ⚠️ |
-| Referente operativo | `DA COMPILARE` |
-| Contatti | `DA COMPILARE` |
+| Denominazione legale | **Inversión y Educación S.L.** (20/09, dal *Collaboration Agreement*) — nome commerciale **School Travel** |
+| Forma giuridica | Sociedad Limitada (S.L.) |
+| Partita IVA / VAT number | **ESB83018630** — valido su VIES il 20/09/2026 (la Spagna non espone nome e indirizzo) |
+| Sede legale | López de Hoyos 6, Madrid |
+| Rappresentante / referenti | Rappresentata da **Iñigo Álvarez Valdés**. Operativi: **Manuel De Andrés** (mdeandres@schooltravel.es), **Carmen Miró Vázquez** (cmiro@schooltravel.es) |
+| Contatti | tel. 91 590 49 16 · scrive a garganoeuropemobility@gmail.com |
 
 **Perché è bloccante:** senza VAT number valido e verificabile (VIES) l'operazione non può
 essere fatturata in reverse charge ex art. 7-ter. Vedi
