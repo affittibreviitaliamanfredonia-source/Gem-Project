@@ -90,7 +90,13 @@ mai arrivato**. Da verificare aprendo l'email inviata del 27/05 nella casella GE
   dell'istituto spagnolo, bando 2024).
 - Documentazione finale consegnata il 16/05/2026: certificato, valutazione dell'azienda, report di
   tutoraggio per ciascuno studente. Modelli ricostruiti in [`modelli/`](modelli/).
-- Aziende ospitanti di Manfredonia, tra cui un'azienda agricola; valutazioni tutte tra 4 e 5.
+- Aziende ospitanti di Manfredonia, tra cui un'azienda agricola e un polo socio-sanitario;
+  valutazioni tutte tra 4 e 5.
+- **Catena dei soggetti** (dagli Europass): istituto di invio = una scuola di **Linares (Jaén)**,
+  titolare dell'accreditamento KA121-VET; School Travel / Inversión y Educación = aggiudicataria del
+  bando dell'ente pubblico e intermediaria; GEM = organizzazione di accoglienza; le **aziende** =
+  *host organisation* sugli Europass, che firmano e timbrano. Date della mobilità sugli Europass:
+  18/03 – 16/05/2026 (sui certificati 17/03 – 17/05: i due documenti non coincidevano di un giorno).
 
 ## Cosa dice il testo
 
