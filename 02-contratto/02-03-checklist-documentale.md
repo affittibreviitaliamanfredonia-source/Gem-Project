@@ -20,7 +20,7 @@ Finché questo elenco non è **concordato per iscritto e allegato al contratto**
 
 ## Elenco documenti — quello che School Travel ha chiesto nell'edizione 2026
 
-> Dal thread "Final documentation" tra GEM e Carmen Miró (School Travel), edizione 2026. È la
+> Dal thread "Final documentation" tra GEM e Carmen Miró (School Travel), edizione 2026. Il 16/05/2026 GEM ha consegnato, per ogni studente, certificato dell'azienda, valutazione dell'azienda e report di tutoraggio (tre zip); i Learning Agreement firmati arrivano da School Travel. Dai file del 2026 si ricavano i **modelli** per il 2027, da anonimizzare. È la
 > **rendicontazione Erasmus+**: i documenti servono a School Travel per il finanziatore. Per il
 > 2027 si parte da qui e si chiede conferma scritta (domanda 27).
 
