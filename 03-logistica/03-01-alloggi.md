@@ -11,6 +11,9 @@
 
 > La camera singola è un vincolo contrattuale, non una preferenza: incide direttamente
 > sul costo ed è il primo elemento che una struttura proverà a rinegoziare.
+>
+> **Taglio degli appartamenti:** School Travel ragiona per appartamenti da **4–5 camere singole**
+> (email 01/08/2025). Con 36 ospiti servono **8–9 appartamenti** di quel taglio, o l'equivalente.
 
 ## Costo — da quantificare ⚠️
 

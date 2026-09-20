@@ -81,7 +81,7 @@ equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 | 4 | **7-quater**: se il servizio è "alloggio", l'IVA italiana è dovuta — fino a 15.840 € di margine in meno | Parere scritto del commercialista prima della firma |
 | 5 | **Ci sono minorenni** tra gli ospiti (confermato 16/09) | Numero e responsabile dalla capofila; manleva e consensi firmati da genitori o tutori, allegati al contratto |
 | 6 | Il 20 % è condizionato a un controllo fatto dalla controparte | Elenco documenti tassativo allegato al contratto, termine di contestazione |
-| 8 | **Reattività verso School Travel**: nel 2026 dieci giorni senza risposta sono costati 6 studenti, dirottati su un'altra città | Casella di progetto presidiata ogni giorno, inoltro automatico, risposta entro 24 ore; Gianluca referente stabile sul posto |
+| 8 | **Reattività verso School Travel**: nel 2026 dieci giorni senza risposta sono costati 6 studenti, dirottati su un'altra città; già nel luglio 2025 quattro email senza risposta avevano spostato la maggioranza del gruppo su Campobasso | Casella di progetto presidiata ogni giorno, inoltro automatico, risposta entro 24 ore; Gianluca referente stabile sul posto |
 | 7 | Cassa e perdita: i costi si impegnano prima dell'80 % | Contratti con gli immobili **senza caparre**; non più di 2.000 € impegnati prima dell'80 %; perdita massima 1.000 € a socio (art. 10<!--mancato-incasso-->); anticipi in parti uguali, restituiti all'arrivo dell'80 % (art. 5<!--anticipi-->) |
 
 ## 6. Le date

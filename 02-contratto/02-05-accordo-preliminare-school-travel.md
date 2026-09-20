@@ -31,7 +31,9 @@ Martina Franca 1.700 €, entrambi in camera doppia) e Luigi ha risposto **"€1
 92 notti in doppia. A luglio 2025 School Travel è tornata sul budget ("we previously received a quote of
 €1,700 per student for double room…", seguito da acquisire) chiedendo quanti studenti in **singola** GEM
 potesse accogliere: è lì, con ogni probabilità, che il prezzo in singola è salito al tetto di 2.000 €,
-quello che Carmen il 25/06/2026 chiama "the price you quoted us".
+quello che Carmen il 25/06/2026 chiama "the price you quoted us". Il 28/07/2025 School Travel lo
+ripete in chiaro: "the **maximum** budget per participant is €2000, for single-room accommodation, meals
+not included", e chiede a GEM il "revised budget for a 92-day stay in single rooms".
 
 **La conseguenza per il 2027, ed è la più importante.** Il soggiorno dei 36 va dal 16/02 al 18/04: 61
 notti, **62 giorni**. È esattamente il **formato medio del bando**, non quello da 92. Se il bando ha un
@@ -45,6 +47,21 @@ del progetto (72.000 €, 80 % = 57.600 €) sono **da considerare provvisori e 
 alloggi e collocamenti in azienda **entro l'11 settembre**, undici giorni prima. Per il 2027 aspettiamoci
 la stessa richiesta intorno al **5 febbraio**: il piano interno (immobili entro il 15/11, contratti entro
 il 20/12) è compatibile, i collocamenti in azienda vanno chiusi entro gennaio.
+
+**Il precedente sul silenzio, già nel 2025.** Tra il 28/07 e il 01/08/2025 Sandra scrive **quattro
+volte** senza risposta (Luigi in ferie): chiede la nuova offerta per la camera singola, quanti studenti
+GEM può ospitare, in quali settori. Il 01/08 comunica che la **maggioranza del gruppo andrà a
+Campobasso** e a Manfredonia "a few". Nel luglio 2026 la scena si ripete con i 6 studenti di settembre.
+Non è un incidente: è il **difetto strutturale** della gestione precedente, e il motivo per cui la
+casella di progetto va presidiata ogni giorno (documento di progetto, rischio 8).
+
+**Il precedente sui minorenni e sui settori.** L'elenco del 30/07/2025 ha una colonna "Under 18" con
+diversi "Yes": i minorenni sono **la norma**. I settori chiesti nel 2025 sono assistenza socio-sanitaria
+e cura di persone non autosufficienti, **assistente infermieristico** (il più frequente), turismo ed
+eventi, informatica e IA applicata all'impresa, web design, amministrazione: per il 2027 le aziende da
+cercare a Manfredonia sono RSA e strutture per anziani, studi e ambulatori, agenzie di viaggio ed
+eventi, studi informatici e web, uffici amministrativi. School Travel ragiona per **appartamenti da 4–5
+camere singole**: 36 ospiti sono 8–9 appartamenti.
 
 **Il precedente sulla qualità.** A luglio 2025 School Travel scrive che gli studenti hanno dato "very
 positive feedback about their experience in Manfredonia": GEM aveva già ospitato un gruppo School Travel
