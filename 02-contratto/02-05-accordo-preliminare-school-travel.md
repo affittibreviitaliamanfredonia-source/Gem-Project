@@ -63,8 +63,9 @@ Mobility** e da Iñigo Álvarez Valdés per I&E. Differenze rispetto al file di 
 Quindi il bando è di un **ente pubblico spagnolo** e School Travel ne è l'aggiudicataria; gli
 accordi di cooperazione sono per lotti e periodi diversi (42 studenti 2026–27; 10 studenti
 set. 2026 – feb. 2027). Il gruppo di 36 per marzo–maggio 2027 sarà un altro lotto o un'altra
-ondata: **servirà un accordo di cooperazione con l'impresa di Gianluca**. Chi sia Chiara Perillo
-e con quale titolo abbia firmato per la ditta di Luigi è da chiarire.
+ondata: **servirà un accordo di cooperazione con l'impresa di Gianluca**. Chiara Perillo era la
+**collaboratrice di Luigi** in GEM e l'interlocutrice abituale di School Travel: per questo Manuel le
+scrive "Dear Chiara". Nel 2027 School Travel va avvisata che gli interlocutori cambiano.
 
 ## Cosa dice il testo
 
