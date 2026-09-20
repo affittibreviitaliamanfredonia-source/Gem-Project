@@ -23,9 +23,9 @@
 
 | Voce | Valore | Stato |
 |---|---|---|
-| Corrispettivo | **2.000 € netti** per ospite | Concordato a voce |
-| Ricavo lordo (36 ospiti) | **72.000 €** | Derivato |
-| Tranche 1 — 80 % all'arrivo | 57.600 € | Concordato a voce |
+| Corrispettivo | **2.000 € netti** per ospite | ⚠️ ipotesi di lavoro: 2.000 € è il tetto del bando per 92 giorni, il prezzo per il formato da 62 giorni è da confermare (vedi STORIA.md §3) |
+| Ricavo lordo (36 ospiti) | **72.000 €** | Derivato, provvisorio |
+| Tranche 1 — 80 % all'arrivo | 57.600 € | Derivato, provvisorio |
 | Tranche 2 — 20 % alla consegna dei documenti | 14.400 € — alla consegna di **valutazioni, certificati e documentazione firmata** | Concordato a voce |
 | Regime IVA | Reverse charge art. 7<!--quota-operativo-->-ter — **da confermare col commercialista** (rischio 7-quater) | Aperto |
 | Costi: alloggio, transfert, mobility | **Non ancora stimati** | Aperto |

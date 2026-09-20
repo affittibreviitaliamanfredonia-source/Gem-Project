@@ -80,5 +80,5 @@ Alimenta il calcolo del margine in [`../04-pagamenti/04-02-ripartizione-soci.md`
 | Mobility | `DA STIMARE` | `DA STIMARE` | 🔴 |
 | Imposta di soggiorno (1,50 € × max 5 notti) | 7,50 € | 270 € | 🟢 nota il 16/09 |
 | **Totale costi variabili** | `DA CALCOLARE` | `DA CALCOLARE` | 🔴 |
-| Ricavo | 2.000 € | 72.000 € | 🟡 concordato a voce |
+| Ricavo | 2.000 € | 72.000 € | ⚠️ ipotesi di lavoro: 2.000 € è il tetto del bando per 92 giorni, il prezzo per il formato da 62 giorni è da confermare (vedi STORIA.md §3) |
 | **Margine** | `DA CALCOLARE` | `DA CALCOLARE` | 🔴 |

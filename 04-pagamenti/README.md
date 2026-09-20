@@ -20,7 +20,7 @@ totali e ripartizione 50/50 si ricalcolano da soli.
 
 | Voce | Importo |
 |---|---|
-| Ricavo lordo | 72.000 € |
+| Ricavo lordo | 72.000 € — ⚠️ ipotesi di lavoro: 2.000 € è il tetto del bando per 92 giorni, il prezzo per il formato da 62 giorni è da confermare (vedi STORIA.md §3) |
 | → Tranche 80 % (arrivo) | 57.600 € |
 | → Tranche 20 % (partenza, condizionata) | 14.400 € |
 | Costi variabili | `DA STIMARE` ⚠️ |

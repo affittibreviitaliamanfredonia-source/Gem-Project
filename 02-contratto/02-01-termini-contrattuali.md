@@ -8,10 +8,10 @@ Legenda stato: ✅ concordato per iscritto · 🟡 concordato a voce · 🔴 non
 | # | Clausola | Contenuto atteso | Stato |
 |---|---|---|---|
 | 1 | **Parti** | Identificazione completa di entrambe, con poteri di firma | 🔴 (vedi Q1) |
-| 2 | **Oggetto** | Servizio di accoglienza per ragazzi post-diploma, 90 gg, camera singola | 🟡 |
+| 2 | **Oggetto** | Servizio di accoglienza per ragazzi post-diploma, 61 notti (formato 62 giorni del bando), camera singola, collocamento in azienda | 🟡 |
 | 3 | **Numero ospiti** | 36, con **minimo garantito** e regole di variazione | 🔴 (vedi Q3) |
 | 4 | **Durata** | 61 notti per ospite, 16/02 – 18/04/2027 (email School Travel 25/06/2026); prezzo quotato per 92 giorni da riconciliare | 🟡 |
-| 5 | **Corrispettivo** | 2.000 € netti/persona | 🟡 |
+| 5 | **Corrispettivo** | 2.000 € netti/persona — ⚠️ ipotesi di lavoro: 2.000 € è il tetto del bando per 92 giorni, il prezzo per il formato da 62 giorni è da confermare (vedi STORIA.md §3) | 🔴 |
 | 6 | **Regime IVA** | Reverse charge art. 7-ter, fattura senza IVA | 🟡 |
 | 7 | **Pagamento** | 80 % all'arrivo, 20 % alla partenza | 🟡 |
 | 8 | **Condizione del saldo** | Controllo documentale: cosa, entro quando, chi decide | 🔴 |

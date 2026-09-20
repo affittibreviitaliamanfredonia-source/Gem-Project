@@ -7,6 +7,25 @@ Stato aggiornato al: 2026-09-12
 
 ---
 
+## Q0 · Prezzo per il formato da 62 giorni 🔴
+
+**Cosa sappiamo (20/09/2026, dal carteggio 2025).** I 2.000 € per studente sono il **tetto del bando
+per un soggiorno di 92 giorni** (email School Travel 14/05/2025), proposti da School Travel stessa
+come prezzo dei concorrenti in camera singola (24/07/2025). Il bando ha tre formati: 32, 62, 92 giorni.
+Il gruppo 2027 (16/02–18/04, 61 notti) è nel **formato da 62 giorni**. Per quel formato School Travel
+nel 2025 **chiese a GEM il prezzo** ("could you confirm the cost for hosting the 3 students who will be
+staying for 62 days?"); il gruppo marzo–maggio 2026 fu quindi fatturato a una cifra che oggi non
+conosciamo e che School Travel considererà il riferimento ("the conditions will remain the same").
+
+**Cosa chiedere, e a chi.**
+1. A **Luigi**: importo fatturato a studente nel 2026, come fu concordato, quando fu incassato.
+2. A **School Travel**, dopo: conferma scritta dell'importo per 36 studenti nel formato da 62 giorni,
+   pacchetto invariato (singola, transfer, collocamento, bus). Se vogliamo un prezzo diverso dal 2026,
+   motivarlo: gruppo grande, singola, bassa stagione.
+
+**Finché non c'è:** tutti i totali del progetto (72.000 €, 57.600 €, 14.400 €) sono provvisori. Storia
+completa in [`../STORIA.md`](../STORIA.md) §3.
+
 ## Q1 · Identità giuridica della capofila 🔴
 
 **Stato:** ❓ Aperta · **Inviata il:** `DA COMPILARE` · **Risposta il:** —
@@ -122,6 +141,7 @@ Se la capofila chiede di partire "in fiducia", la richiesta va messa a verbale i
 
 | # | Questione | Priorità | Stato | Impatto se non risolta |
 |---|---|---|---|---|
+| Q0 | Prezzo per 62 giorni | 🔴 Alta | ❓ Aperta | Tutti i totali sono provvisori; 2.000 € è il tetto per 92 giorni |
 | Q1 | Identità giuridica | 🔴 Alta | ❓ Aperta | Reverse charge non applicabile · contratto inopponibile |
 | Q2 | Contratto scritto | 🔴 Alta | ❓ Aperta | 72.000 € esposti senza titolo |
 | Q3 | Penali e forza maggiore | 🔴 Alta | ❓ Aperta | Rischio volume interamente a carico parte italiana |

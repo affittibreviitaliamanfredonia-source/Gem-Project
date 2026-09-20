@@ -6,13 +6,13 @@
 
 | Voce | Valore |
 |---|---|
-| Prezzo unitario | **2.000 € netti per persona** |
+| Prezzo unitario | **2.000 € netti per persona** — ⚠️ ipotesi di lavoro: 2.000 € è il tetto del bando per 92 giorni, il prezzo per il formato da 62 giorni è da confermare (vedi STORIA.md §3) |
 | Periodo coperto | **16/02 – 18/04/2027, 61 notti** (email School Travel 25/06/2026). ⚠️ 61 notti = **62 giorni**, formato medio del bando (32/62/92). I 2.000 € sono il **tetto del bando per il formato da 92 giorni** (email 14/05/2025): il prezzo per 62 giorni va **chiesto a School Travel** prima di tutto |
 | Sistemazione inclusa | Camera **singola** |
 | Pacchetto scritto da School Travel (25/06/2026) | Camera singola per tutti · appartamento con **piccolo soggiorno o zona pranzo** · **pensione non richiesta** · **abbonamento bus** · **transfer aeroportuali** arrivo e partenza |
 | Incluso anche | **Collocamento in azienda** nell'ambito richiesto: contratto con l'azienda e primo accompagnamento con il tutor (16/09) |
 | Numero ospiti (corrente) | **36** — indicativo, potranno essere di più o di meno (16/09) |
-| **Ricavo lordo teorico** | **72.000 €** (36 × 2.000 €) |
+| **Ricavo lordo teorico** | **72.000 €** (36 × 2.000 €) — provvisorio |
 
 > "Netti", come inteso dai soci (16/09): i 2.000 € arrivano interi al fornitore italiano;
 > le **commissioni bancarie** sono a carico della capofila; l'**IVA, se dovesse risultare
@@ -58,7 +58,7 @@ Checklist documentale in lavorazione: [`../02-contratto/02-03-checklist-document
 
 | Categoria | Descrizione | Importo stimato |
 |---|---|---|
-| Alloggio | Camera singola × 36 × 90 gg | `DA STIMARE` ⚠️ |
+| Alloggio | Camera singola × 36 × 61 notti | `DA STIMARE` ⚠️ |
 | Transfert | Arrivi e partenze | `DA STIMARE` ⚠️ |
 | Mobility | Spostamenti locali durante il soggiorno | `DA STIMARE` ⚠️ |
 

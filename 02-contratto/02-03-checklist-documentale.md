@@ -1,6 +1,6 @@
 # Checklist documentale — condizione per la tranche 20 %
 
-**Il saldo del 20 % (14.400 € su 36 ospiti) è subordinato al controllo documentale.**
+**Il saldo del 20 % (14.400 € su 36 ospiti a 2.000 €, cifra provvisoria) è subordinato al controllo documentale.**
 Finché questo elenco non è **concordato per iscritto e allegato al contratto**, il saldo
 è un credito a rischio.
 

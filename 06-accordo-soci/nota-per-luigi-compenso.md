@@ -30,7 +30,7 @@ uno disciplinare. In più io pagherei IRPEF e INPS su tutto il margine, e il 50/
 
 ### A · Autorizzazione + prestazione occasionale
 Chiedi al tuo Comando l'autorizzazione per un **incarico occasionale retribuito**: un progetto
-solo, 90 giorni, ruolo di contatto con la capofila e supporto. Se arriva, io ti pago con una
+solo, 61 notti, ruolo di contatto con la capofila e supporto. Se arriva, io ti pago con una
 **ricevuta per prestazione occasionale**: trattengo il 20 % di ritenuta d'acconto e la verso
 per te; sopra i 5.000 € si versa la gestione separata INPS (due terzi io, un terzo tu). Per me
 è un costo deducibile, per te un reddito dichiarato nel 730.

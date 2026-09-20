@@ -33,9 +33,10 @@ aziende ospitanti** nell'ambito richiesto — allo stato **36 ospiti** in camera
 per **61 notti**, dal **16/02/2027** al **18/04/2027** (date indicate dalla Capofila il 25/06/2026, da
 confermare per iscritto) — per conto della
 capofila spagnola `____________________________` *(ragione sociale, da compilare)*, di seguito
-"la Capofila", a fronte di un corrispettivo concordato a voce di **2.000 € netti per ospite**
-(IVA inclusa se dovuta, commissioni bancarie a carico della Capofila), pagabile 80 % all'arrivo
-e 20 % alla consegna della documentazione finale. Il numero di ospiti è indicativo e potrà
+"la Capofila", a fronte di un corrispettivo **da definire per iscritto con la Capofila**, allo stato
+indicato in **2.000 € netti per ospite** come riferimento delle edizioni precedenti (IVA inclusa
+se dovuta, commissioni bancarie a carico della Capofila), pagabile 80 % all'arrivo e 20 % alla
+consegna della documentazione finale. Il numero di ospiti è indicativo e potrà
 variare.
 
 b) Il progetto è descritto nel **Documento di progetto** allegato (Allegato A), che i Soci

@@ -9,6 +9,7 @@
 
 > Gli importi vanno ricalcolati sul numero **effettivo** di ospiti al momento dell'emissione.
 > Riferimento per unità: 2.000 € netti/ospite → 1.600 € (80 %) + 400 € (20 %).
+> ⚠️ Ipotesi di lavoro: 2.000 € è il tetto del bando per 92 giorni, il prezzo per il formato da 62 giorni è da confermare (vedi storia.md §3). Il piano si rifà una volta sola con il prezzo vero.
 
 ## Tranche 1 — 80 %
 

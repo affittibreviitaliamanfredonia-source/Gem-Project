@@ -20,9 +20,9 @@
 | Voce | Valore |
 |---|---|
 | Costo per camera / notte | `DA STIMARE` |
-| Costo per ospite / 90 gg | `DA STIMARE` |
+| Costo per ospite / 61 notti | `DA STIMARE` |
 | **Costo alloggio totale** | `DA STIMARE` |
-| Incidenza sui 2.000 €/ospite | `DA CALCOLARE` |
+| Incidenza sul prezzo per ospite (2.000 € è un'ipotesi, vedi STORIA.md §3) | `DA CALCOLARE` |
 
 **Soglia di attenzione:** l'alloggio è la voce di costo dominante. Sui 2.000 € per ospite,
 è il valore che determina se il margine esiste. Va quantificato **prima** di firmare,
@@ -30,7 +30,7 @@ non dopo.
 
 ## Strutture in valutazione
 
-| # | Struttura | Camere disponibili | € / notte | Totale 90 gg | Contatto | Stato |
+| # | Struttura | Camere disponibili | € / notte | Totale 61 notti | Contatto | Stato |
 |---|---|---|---|---|---|---|
 | — | Nessuna struttura ancora contattata | — | — | — | — | 🔴 |
 

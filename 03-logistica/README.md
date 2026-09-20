@@ -22,6 +22,8 @@ Se la capofila chiede di anticipare, la richiesta va messa a verbale in
 
 - [x] Date dall'email di School Travel del 25/06/2026: arrivo **16/02/2027** → partenza **18/04/2027** (61 notti) — *da confermare per iscritto*
 - [ ] Numero definitivo di ospiti confermato per iscritto
+- [ ] Prezzo per il formato da 62 giorni confermato per iscritto (oggi i 2.000 € sono un'ipotesi: STORIA.md §3)
+- [ ] Mappa delle aziende ospitanti per settore (assistenza socio-sanitaria, infermieristico, turismo, informatica, amministrazione, ristorazione, farmacia, agricolo): da chiudere entro il 10/01/2027
 - [ ] Preventivi alloggio ottenuti (almeno 2 strutture a confronto)
 - [ ] Preventivi transfert ottenuti
 - [ ] Soluzione mobility definita e quotata

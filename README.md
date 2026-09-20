@@ -54,7 +54,7 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 |---|---|
 | Corrispettivo | **2.000 € per persona** — è il **tetto del bando per 92 giorni** (email School Travel 14/05/2025), citato da Carmen il 25/06/2026 come "the price you quoted us"; **per il formato da 62 giorni il prezzo è da chiedere**; pacchetto: camera singola, appartamento con zona giorno, niente vitto, abbonamento bus, transfer aeroportuali. Netti: IVA inclusa se dovuta, commissioni a carico capofila, voli esclusi |
 | Regime IVA | **Reverse charge — art. 7-ter DPR 633/72** (operazione non soggetta a IVA in Italia) |
-| Ricavo lordo teorico (36 ospiti) | **72.000 €** |
+| Ricavo lordo teorico (36 ospiti) | **72.000 €** — ⚠️ ipotesi di lavoro: 2.000 € è il tetto del bando per 92 giorni, il prezzo per il formato da 62 giorni è da confermare (vedi STORIA.md §3) |
 | Struttura pagamento | **80 / 20** |
 | → Tranche 1 (80%) | 57.600 € — all'**arrivo** |
 | → Tranche 2 (20%) | 14.400 € — alla **consegna** di valutazioni, certificati e documentazione firmata |
@@ -71,6 +71,7 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 | Q2 | **Contratto scritto** — il documento ricevuto il 20/09 è un accordo di collaborazione generico tra Gargano Europe Mobility e Inversión y Educación: senza prezzo, date, penali, 80/20. Il contratto B2B **va scritto** | Capofila | 🔴 Alta | ❓ Aperta |
 | Q3 | **Penali e forza maggiore** — la penale a scaglioni descritta da Luigi **non è nel documento ricevuto**: va messa per iscritto nel contratto B2B | Capofila | 🔴 Alta | ❓ Aperta |
 | Q4 | **7-ter o 7-quater?** — se il servizio è qualificato come alloggio, l'IVA italiana resta dovuta | Commercialista | 🔴 Alta | ❓ Aperta |
+| Q0 | **Prezzo per il formato da 62 giorni** — i 2.000 € sono il tetto del bando per 92 giorni; School Travel chiese a GEM il prezzo per 62 giorni nel 2025 e si aspetterà "le stesse condizioni" del 2026. Prima domanda a Luigi (fattura 2026), poi a School Travel | Luigi, poi Capofila | 🔴 Alta | ❓ Aperta |
 | Q5 | **Età degli ospiti** — **confermata la presenza di minorenni** (16/09): servono numero, responsabile, manleva dei genitori o tutori | Capofila | 🔴 Alta | 🟡 Parziale |
 
 Dettaglio e formulazione delle domande: [`01-trattativa/01-02-domande-aperte-capofila.md`](01-trattativa/01-02-domande-aperte-capofila.md)
@@ -108,6 +109,7 @@ gantt
     Censimento immobili e preventivi     :l1, 2026-10-01, 2026-11-15
     Contratti con gli immobili           :l2, 2026-12-01, 2026-12-20
     Elenco nominativo ospiti             :l3, 2026-12-15, 2027-01-15
+    Aziende ospitanti confermate         :crit, l6, 2026-11-15, 2027-01-10
     Regolamento casa e check-in pronti   :l4, 2027-01-15, 2027-02-12
     Soggiorno 61 notti                   :active, l5, 2027-02-16, 2027-04-18
 
@@ -125,6 +127,7 @@ gantt
 | Risposte capofila (Q1, Q2, Q3, Q5) e parere commercialista (Q4) | 31/10/2026 | Proposta |
 | Scrittura privata tra soci firmata | 15/10/2026 | Proposta |
 | Immobili censiti con preventivi | 15/11/2026 | Proposta |
+| Aziende ospitanti confermate (una per studente) | 10/01/2027 | Proposta — nel 2025 School Travel chiese alloggi e aziende 5 settimane prima dell'arrivo |
 | **Firma contratto con la capofila** | **30/11/2026** | Proposta — *nessun impegno con immobili prima di questa data* |
 | Contratti con gli immobili firmati | 20/12/2026 | Proposta (prima delle feste) |
 | Elenco nominativo ospiti ricevuto | 15/01/2027 | Proposta |

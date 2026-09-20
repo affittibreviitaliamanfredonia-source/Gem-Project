@@ -19,6 +19,8 @@ Non riguardano la capofila: sono interni.
 | [`pdf/GEM-scrittura-privata-soci-v0.7.pdf`](pdf/GEM-scrittura-privata-soci-v0.7.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
 | [`pdf/GEM-scrittura-privata-soci-v0.7-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.7-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
 
+⚠️ Il 20/09 sera la **premessa a)** del Markdown è stata modificata (corrispettivo "da definire per iscritto", 2.000 € come riferimento): i PDF v0.7 hanno ancora la frase precedente e si rigenerano alla v0.8.
+
 I PDF sono **copie di lettura** con marcatura "Bozza v0.7": si rigenerano dal Markdown a ogni
 versione. Le correzioni si fanno nei file `.md`, non nel PDF.
 
