@@ -82,6 +82,7 @@ equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 | 5 | **Ci sono minorenni** tra gli ospiti (confermato 16/09) | Numero e responsabile dalla capofila; manleva e consensi firmati da genitori o tutori, allegati al contratto |
 | 6 | Il 20 % è condizionato a un controllo fatto dalla controparte | Elenco documenti tassativo allegato al contratto, termine di contestazione |
 | 8 | **Reattività verso School Travel**: nel 2026 dieci giorni senza risposta sono costati 6 studenti, dirottati su un'altra città; già nel luglio 2025 quattro email senza risposta avevano spostato la maggioranza del gruppo su Campobasso | Casella di progetto presidiata ogni giorno, inoltro automatico, risposta entro 24 ore; Gianluca referente stabile sul posto |
+| 9 | **Credibilità presso School Travel**: nell'agosto 2025 ha scritto di avere "doubts about your ability to handle larger groups" e diversifica le destinazioni di proposito; 36 studenti sono il gruppo più grande mai assegnato a Manfredonia | Prima email della nuova gestione con referente unico, piano datato e impegno di risposta in 24 ore; aggiornamenti spontanei a School Travel a ogni tappa (immobili, aziende, documenti) senza aspettare il sollecito |
 | 7 | Cassa e perdita: i costi si impegnano prima dell'80 % | Contratti con gli immobili **senza caparre**; non più di 2.000 € impegnati prima dell'80 %; perdita massima 1.000 € a socio (art. 10<!--mancato-incasso-->); anticipi in parti uguali, restituiti all'arrivo dell'80 % (art. 5<!--anticipi-->) |
 
 ## 6. Le date

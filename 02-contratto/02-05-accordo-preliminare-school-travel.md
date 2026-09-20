@@ -92,6 +92,19 @@ cercare a Manfredonia sono RSA e strutture per anziani, studi e ambulatori, agen
 eventi, studi informatici e web, uffici amministrativi. School Travel ragiona per **appartamenti da 4–5
 camere singole**: 36 ospiti sono 8–9 appartamenti.
 
+**Il precedente sulla reputazione, che è il più scomodo.** Il 07/08/2025 Sandra scrive nero su bianco:
+*"In the past, we've sent you only a small number of students, and it was quite challenging for you to
+find companies, get the tutors to sign, and provide us with the necessary details on time… This raises
+some doubts about your ability to handle larger groups."* E aggiunge che altri dieci studenti di gennaio
+vanno altrove "in order to diversify". Poi arriva il luglio 2026 con i sei studenti persi per silenzio.
+Quindi, agli occhi di School Travel, Manfredonia è una destinazione **affidabile per gruppi piccoli e
+incerta per quelli grandi**; i 36 del 2027 sono un salto di scala che School Travel stessa dubitava
+fosse alla nostra portata. La prima email della nuova gestione deve rispondere a questo prima che al
+prezzo: nome del referente unico, un piano con date (immobili, aziende, documenti), risposta garantita
+entro 24 ore. Nella stessa email Sandra annuncia un progetto **Valencia** (centinaia di studenti, 4–6
+settimane, camera doppia): non ci riguarda oggi, ma dice che School Travel ha più canali di quello di
+Jaén.
+
 **Il precedente sulla qualità.** A luglio 2025 School Travel scrive che gli studenti hanno dato "very
 positive feedback about their experience in Manfredonia": GEM aveva già ospitato un gruppo School Travel
 prima dell'estate 2025. Il rapporto ha quindi almeno tre edizioni alle spalle (prima metà 2025,
