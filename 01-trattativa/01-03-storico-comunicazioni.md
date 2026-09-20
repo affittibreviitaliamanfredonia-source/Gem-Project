@@ -5,6 +5,7 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 | Data | Canale | Direzione | Oggetto | Esito / nota | Allegato |
 |---|---|---|---|---|---|
 | 2026-09-12 | — | — | Apertura registro | Nessuna comunicazione ancora tracciata | — |
+| 20/09/2026 07:24 | Gianluca (da garganoeuropemobility) → affittibreviitalia | Inoltro | Thread "Collaboration Agreement Signature" del 21–27/05/2026 con allegato | Letto; allegato risultato non valido (vedi 27/05) |
 | 20/09/2026 | Luigi → Gianluca | File | *Collaboration Agreement* GEM ↔ Inversión y Educación S.L. (Lote 1 Italia), docx del 29/04/2026 | Letto e analizzato: [`../02-contratto/02-05-accordo-preliminare-school-travel.md`](../02-contratto/02-05-accordo-preliminare-school-travel.md) |
 | 19/09/2026 | Gianluca → Luigi (via garganoeuropemobility) | Email | Bozza di accordo tra soci v0.6: scrittura da firmare, con commentario, Allegato A; link al Google Doc e alla cartella Drive; tre punti aperti (art. 7, art. 2.5, accordo con la capofila da caricare) | Preparata da Claude e inviata alla casella di progetto; inoltro a Luigi da confermare |
 | 29/04/2026 14:59 | Manuel De Andrés (School Travel) → garganoeuropemobility, cc Carmen Miró | Email + docx | Edizione 2026: bando vinto per fino a 42 tirocini in Italia 2026–27 con studenti di Jaén; chiede firma del *Collaboration Agreement* GEM–I&E (Lote 1 Italia) | Carteggio 2026, ricostruito il 20/09 da screenshot |
@@ -15,7 +16,7 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 | 27/05/2026 12:36 | Manuel De Andrés → garganoeuropemobility | Email | Sollecito: "Would it be possible to have this document signed today? We urgently need it in order to complete the contract award process" | Carteggio 2026 |
 | 27/05/2026 13:13 | garganoeuropemobility (Luigi) → Manuel | Email | **"We are changing our company data, if you want she can sign the document but in September the data will be changed. Tell me if is ok"** | School Travel è già avvisata dal maggio 2026 che i dati della parte italiana cambiano a settembre |
 | 27/05/2026 13:16 | Manuel → garganoeuropemobility | Email | "No worries at all! We need it signed by just now" | idem |
-| 27/05/2026 17:28 | garganoeuropemobility (Luigi) → Manuel | Email + PDF firmato | "Perfect, here is the document" — invia l'accordo firmato (file "Agreement Gargano – ASTEX") | PDF non ancora acquisito leggibile: da rimandare |
+| 27/05/2026 17:28 | garganoeuropemobility (Luigi) → Manuel | Email + allegato "Agreement Gargano & ASTEX.pdf.pdf" | "Perfect, here is the document" | ⚠️ **L'allegato di quell'email è un'immagine PNG di 25×25 pixel (518 byte), non un PDF**: verificato il 20/09 dal messaggio originale inoltrato. School Travel potrebbe non aver mai ricevuto l'accordo firmato. Da controllare nella casella GEM da computer |
 | 27/05/2026 | Manuel → garganoeuropemobility | Email | "Thank you!" | Chiude il thread |
 | 07/05/2026 09:30 | garganoeuropemobility (Luigi) → Carmen Miró Vázquez | Email | "Final documentation": chiede conferma dell'elenco documenti per il saldo (LAs, Monitoring and Tutoring Report, Company Evaluation, Company Certificate, Student Evaluation) rispetto a quanto fatto per il gruppo precedente | idem; risposta di Carmen non ancora acquisita |
 

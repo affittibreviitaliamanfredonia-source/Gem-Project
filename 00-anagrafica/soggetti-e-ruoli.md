@@ -13,6 +13,7 @@
 | Sede legale | **Hermanos Bécquer 6, 28006 Madrid** (accordo firmato 19/05/2026); nella bozza di aprile 2026 figurava López de Hoyos 6 — da confermare |
 | Rappresentante / referenti | Rappresentata da **Iñigo Álvarez Valdés**. Operativi: **Manuel De Andrés** (mdeandres@schooltravel.es), **Carmen Miró Vázquez** (cmiro@schooltravel.es) |
 | Contatti | tel. 91 590 49 16 · scrive a garganoeuropemobility@gmail.com |
+| Gruppo | **ASTEX** (astex.es, C/ Hermanos Bécquer 7, 28006 Madrid, tel. 91 590 34 90): School Travel è la divisione "ASTEX School Travel"; la firma email di Manuel rimanda ad astex.es. Inversión y Educación S.L. è con ogni probabilità la società del gruppo che contratta |
 
 **Perché è bloccante:** senza VAT number valido e verificabile (VIES) l'operazione non può
 essere fatturata in reverse charge ex art. 7-ter. Vedi

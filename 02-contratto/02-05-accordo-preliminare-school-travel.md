@@ -73,6 +73,16 @@ sapendolo. Quindi il cambio della parte italiana per il 2027 è **già annunciat
 principio**: la richiesta di aggiornare l'accordo di cooperazione con l'impresa di Gianluca non sarà
 una sorpresa, va solo formalizzata.
 
+**ASTEX.** Il file firmato si chiama "Agreement Gargano & ASTEX": ASTEX è il gruppo di cui School
+Travel è una divisione (astex.es, Hermanos Bécquer 7, Madrid; la sede di I&E è al civico 6). Non è
+l'ente pubblico: è la casa madre della controparte.
+
+**Attenzione all'allegato del 27/05/2026.** Nel messaggio originale inviato da GEM a Manuel, recuperato
+dall'inoltro del 20/09, l'allegato "Agreement Gargano & ASTEX.pdf.pdf" pesa **518 byte ed è un'immagine
+PNG di 25×25 pixel**, non un PDF. Se il file era così anche all'origine, School Travel ha ricevuto
+un'icona e ha risposto "Thank you!" senza aprirla: il documento firmato da Chiara potrebbe **non essere
+mai arrivato**. Da verificare aprendo l'email inviata del 27/05 nella casella GEM da un computer.
+
 ## Cosa dice il testo
 
 | Elemento | Nel testo |
