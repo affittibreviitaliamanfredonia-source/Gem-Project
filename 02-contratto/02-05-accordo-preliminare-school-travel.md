@@ -14,7 +14,42 @@ Manuel De Andrés (SCHOOL TRAVEL), creato il 29/04/2026. Testo estratto su Googl
 
 ## Prima del 2026: il thread "New tender – Internships 2025/2026"
 
-Il rapporto con School Travel nasce **un anno prima** dell'accordo: un thread di 26 messaggi dal 14/05/2025 al 14/08/2025 tra Sandra Paredes e Carmen Miró (School Travel) e la casella garganoeuropemobility, indirizzato a "Luigi and Libero". Il 20/09/2026 ne abbiamo solo l'indice; il contenuto è in arrivo e verrà registrato in [`../01-trattativa/01-03-storico-comunicazioni.md`](../01-trattativa/01-03-storico-comunicazioni.md). Domande a cui dovrebbe rispondere: come School Travel è arrivata a Manfredonia, chi è Libero, quali termini economici furono pattuiti per la prima edizione e da dove viene il prezzo di 2.000 € per 92 giorni citato il 25/06/2026.
+Il rapporto con School Travel nasce **un anno prima** dell'accordo: 26 messaggi dal 14/05/2025 al
+14/08/2025 tra Sandra Paredes (School Travel) e la casella garganoeuropemobility, con Carmen in copia e,
+da luglio, **Libero Dachille**. Ricostruito il 20/09/2026 da screenshot (i primi 7 messaggi; il resto in
+arrivo); riga per riga in [`../01-trattativa/01-03-storico-comunicazioni.md`](../01-trattativa/01-03-storico-comunicazioni.md).
+
+**Come funziona il bando, nelle parole di School Travel (14/05/2025).** School Travel ha vinto un bando
+per coordinare tirocini in Italia, Belgio e Francia, fino a 100 studenti tra luglio 2025 e marzo 2026.
+Il cliente è la Diputación di Jaén. Il bando prevede **tre formati di durata: 32, 62 o 92 giorni**. Il
+budget copre alloggio (doppia o singola), transfer aeroportuali, **collocamento in azienda** e, se serve,
+trasporto pubblico casa–azienda. **Il tetto è 2.000 € per studente per un soggiorno di 92 giorni.**
+
+**Da dove vengono i 2.000 €.** Non da GEM. Sono il **massimo rimborsabile dal bando** per il formato
+lungo. Il 19/05/2025 Sandra ha chiesto a GEM un prezzo in linea con i concorrenti (Sicilia 1.600 €,
+Martina Franca 1.700 €, entrambi in camera doppia) e Luigi ha risposto **"€1700 is a good price"** per
+92 notti in doppia. A luglio 2025 School Travel è tornata sul budget ("we previously received a quote of
+€1,700 per student for double room…", seguito da acquisire) chiedendo quanti studenti in **singola** GEM
+potesse accogliere: è lì, con ogni probabilità, che il prezzo in singola è salito al tetto di 2.000 €,
+quello che Carmen il 25/06/2026 chiama "the price you quoted us".
+
+**La conseguenza per il 2027, ed è la più importante.** Il soggiorno dei 36 va dal 16/02 al 18/04: 61
+notti, **62 giorni**. È esattamente il **formato medio del bando**, non quello da 92. Se il bando ha un
+tetto per il formato da 62 giorni, come è ragionevole (2.000 € è dichiarato "per 92 giorni"), School
+Travel **non potrà pagare 2.000 €** per quel gruppo, qualunque cosa dica l'email del 25/06. Il numero da
+mettere nel piano non è né 2.000 né il proporzionale aritmetico (~1.330 €): è **il tetto del bando per
+62 giorni**, che va chiesto a School Travel prima di ogni altra cosa. Finché non lo abbiamo, i totali
+del progetto (72.000 €, 80 % = 57.600 €) sono **da considerare provvisori e probabilmente in eccesso**.
+
+**Il precedente sui tempi.** Nel 2025 il gruppo partiva la settimana del 22/09 e School Travel voleva
+alloggi e collocamenti in azienda **entro l'11 settembre**, undici giorni prima. Per il 2027 aspettiamoci
+la stessa richiesta intorno al **5 febbraio**: il piano interno (immobili entro il 15/11, contratti entro
+il 20/12) è compatibile, i collocamenti in azienda vanno chiusi entro gennaio.
+
+**Il precedente sulla qualità.** A luglio 2025 School Travel scrive che gli studenti hanno dato "very
+positive feedback about their experience in Manfredonia": GEM aveva già ospitato un gruppo School Travel
+prima dell'estate 2025. Il rapporto ha quindi almeno tre edizioni alle spalle (prima metà 2025,
+settembre–dicembre 2025, marzo–maggio 2026): è un argomento negoziale per il 2027.
 
 ## Il contesto (email del 29/04/2026)
 
@@ -126,15 +161,15 @@ documento scritto con i termini economici**, e dice:
 |---|---|
 | Committente pubblico | **Jaén Provincial Council** (Diputación Provincial de Jaén); referente "Raquel" |
 | Studenti | 42 in totale da Jaén |
-| Prezzo | **2.000 € per studente**, "the price **you quoted us**" (l'offerta era di GEM) **per un soggiorno di 92 giorni** |
+| Prezzo | **2.000 € per studente**, "the price **you quoted us**" **per un soggiorno di 92 giorni**. È il **tetto del bando** per il formato da 92 giorni (email School Travel 14/05/2025), a cui GEM si è allineata per la camera singola |
 | Pacchetto | camera **singola** per tutti; appartamento con **piccolo soggiorno o zona pranzo**; **pensione non richiesta**; **abbonamento bus** incluso; **transfer aeroportuali** arrivo e partenza |
 | Gruppo 1 | 6 studenti, 22/09 – 22/12/2026 (poi dirottati altrove) |
 | Gruppo 2 | **36 studenti, 16 febbraio – 18 aprile** (2027) |
 
-Tre cose da notare subito. (1) **Le date dei 36 non sono quelle del progetto**: School Travel scrive
-16/02–18/04, cioè **61 giorni**; il progetto oggi è impostato su 01/03–30/05, 90 notti, e il prezzo
-è stato quotato "per 92 giorni". O le date sono cambiate dopo luglio, o c'è un'incoerenza da chiarire
-prima di qualunque contratto: 61 notti invece di 90 cambiano il costo alloggi di un terzo. (2) Il
+Tre cose da notare subito. (1) **Le date dei 36 sono 16/02–18/04, 61 notti, 62 giorni**: è il formato
+medio del bando (32, 62 o 92 giorni), mentre i 2.000 € sono il tetto del formato lungo. Il progetto è
+stato riallineato a queste date il 20/09/2026; il **prezzo per il formato da 62 giorni** è la prima cosa
+da chiedere a School Travel. (2) Il
 **pacchetto è definito**: niente vitto, abbonamento bus come "mobility", transfer, camera singola in
 appartamenti con zona giorno. Il **collocamento in azienda** non è nell'elenco: è nell'oggetto stesso
 del programma. (3) La **penale** e il **20 %** non ci sono nemmeno qui.

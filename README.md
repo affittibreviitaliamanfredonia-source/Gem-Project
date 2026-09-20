@@ -16,7 +16,7 @@
 | Capofila | **Inversión y Educación S.L.** (nome commerciale School Travel), Madrid, VAT ESB83018630 valido su VIES; rappresentata da Iñigo Álvarez Valdés |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
 | Firmatario e fatturante | **Gianluca Iaconeta** — chi fattura è da confermare col commercialista (16/09) |
-| Durata soggiorno | **61 notti** per ospite (16/02 → 18/04/2027), come nell'unica email scritta di School Travel (25/06/2026). ⚠️ Il prezzo di 2.000 € fu quotato "per 92 giorni": da riconciliare nel contratto |
+| Durata soggiorno | **61 notti** per ospite (16/02 → 18/04/2027), come nell'unica email scritta di School Travel (25/06/2026). ⚠️ 61 notti = **62 giorni**, formato medio del bando; i 2.000 € sono il tetto del formato da 92: **prezzo da chiedere** |
 | Data di arrivo | **16/02/2027** (martedì) — dall'email di School Travel del 25/06/2026; *da confermare per iscritto*. Il precedente 01/03 veniva da un ricordo impreciso |
 | Data di partenza | **18/04/2027** (domenica) — 61 notti dopo l'arrivo |
 | Numero ospiti | **36** — sono i 42 pianificati da Jaén meno i 6 dirottati su un'altra città a luglio 2026; soggetto a variazione |
@@ -49,7 +49,7 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 
 | Voce | Valore |
 |---|---|
-| Corrispettivo | **2.000 € per persona** — prezzo quotato da GEM "per 92 giorni" (email School Travel 25/06/2026); pacchetto: camera singola, appartamento con zona giorno, niente vitto, abbonamento bus, transfer aeroportuali. Netti: IVA inclusa se dovuta, commissioni a carico capofila, voli esclusi |
+| Corrispettivo | **2.000 € per persona** — è il **tetto del bando per 92 giorni** (email School Travel 14/05/2025), citato da Carmen il 25/06/2026 come "the price you quoted us"; **per il formato da 62 giorni il prezzo è da chiedere**; pacchetto: camera singola, appartamento con zona giorno, niente vitto, abbonamento bus, transfer aeroportuali. Netti: IVA inclusa se dovuta, commissioni a carico capofila, voli esclusi |
 | Regime IVA | **Reverse charge — art. 7-ter DPR 633/72** (operazione non soggetta a IVA in Italia) |
 | Ricavo lordo teorico (36 ospiti) | **72.000 €** |
 | Struttura pagamento | **80 / 20** |
@@ -133,10 +133,12 @@ gantt
 | Fattura 20 % | 19/05/2027 | Proposta |
 | Incasso 20 % | entro 18/06/2027 | Proposta (30 gg) |
 
-> **Da fissare nel contratto:** date di check-in e check-out, e il rapporto tra i **2.000 €**
-> quotati "per 92 giorni" e le **61 notti** effettive. Se School Travel chiede una riduzione
-> proporzionale, il prezzo scende a circa 1.330 €; se il prezzo resta, il margine sale. Va deciso
-> prima di firmare, non dopo.
+> **Da fissare nel contratto, prima di ogni altra cosa: il prezzo.** I **2.000 €** sono il **tetto
+> del bando per un soggiorno di 92 giorni** (email School Travel 14/05/2025), non un prezzo proposto
+> da noi. Il soggiorno 2027 è di 61 notti, **62 giorni**: uno degli altri due formati del bando (32, 62,
+> 92). Il prezzo per quel formato va **chiesto a School Travel**; fino ad allora i totali di questo
+> README (72.000 €, 57.600 €, 14.400 €) sono provvisori e probabilmente in eccesso. Dettagli in
+> [`02-contratto/02-05-accordo-preliminare-school-travel.md`](02-contratto/02-05-accordo-preliminare-school-travel.md).
 
 ---
 
