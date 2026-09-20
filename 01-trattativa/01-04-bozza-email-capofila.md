@@ -27,8 +27,9 @@ Riassumo prima quello che abbiamo inteso, così potete correggerci:
 - **le date**: **dal 16 febbraio al 18 aprile 2027**, 61 notti, come nella stessa email. Vi chiediamo
   di confermarle per iscritto, perché da queste dipendono i contratti con gli alloggi;
 - **il prezzo**: i 2.000 € per studente si riferivano a un soggiorno di 92 giorni; questo gruppo resta
-  62 giorni. Vi chiediamo di indicarci **l'importo previsto per il formato da 62 giorni** e di confermare
-  che il pacchetto resta lo stesso;
+  62 giorni, come il gruppo di marzo–maggio 2026. Vi chiediamo di indicarci **l'importo previsto per il
+  formato da 62 giorni** `[se Luigi conferma la cifra 2026: "confermate che resta X € come nel 2026?"]` e
+  di confermare che il pacchetto resta lo stesso;
 - corrispettivo per ospite `[da confermare]` **netto**, comprensivo di alloggio, trasferimenti di
   arrivo e partenza, mobilità locale, assistenza sul posto, collocamento in azienda con contratto
   e primo accompagnamento con il tutor, imposta di soggiorno e documentazione di fine percorso;

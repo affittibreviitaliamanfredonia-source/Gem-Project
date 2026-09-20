@@ -43,10 +43,21 @@ mettere nel piano non è né 2.000 né il proporzionale aritmetico (~1.330 €):
 62 giorni**, che va chiesto a School Travel prima di ogni altra cosa. Finché non lo abbiamo, i totali
 del progetto (72.000 €, 80 % = 57.600 €) sono **da considerare provvisori e probabilmente in eccesso**.
 
-**Il precedente sui tempi.** Nel 2025 il gruppo partiva la settimana del 22/09 e School Travel voleva
-alloggi e collocamenti in azienda **entro l'11 settembre**, undici giorni prima. Per il 2027 aspettiamoci
-la stessa richiesta intorno al **5 febbraio**: il piano interno (immobili entro il 15/11, contratti entro
-il 20/12) è compatibile, i collocamenti in azienda vanno chiusi entro gennaio.
+**Il prezzo del formato da 62 giorni esiste già: l'ha incassato GEM.** Il 06/08/2025 Sandra
+conferma il calendario 2025/26: un gruppo a gennaio (92 giorni), uno a febbraio (92 giorni) e **"a
+smaller group in March (62-day internships)"**. Il gruppo che GEM ha ospitato a Manfredonia dal 18/03 al
+16/05/2026 è quello: **formato da 62 giorni**. Quindi la fattura di GEM a School Travel per quel gruppo
+dice quanto il bando paga per 62 giorni in camera singola. È la domanda più utile da fare a Luigi
+adesso, prima di scrivere a School Travel: **quanto è stato fatturato a studente nel 2026, e su quale
+base**.
+
+**Il precedente sui tempi.** Nel 2025 il gruppo partiva il 23/09; il 06/08 School Travel chiese alloggi
+e aziende "as soon as possible" per inviare la documentazione al cliente **nella settimana del 18/08**,
+cinque settimane prima, e il 24/07 aveva indicato l'11/09 come limite ultimo. Per il 2027 aspettiamoci la
+prima richiesta intorno al **10 gennaio** e il limite ai primi di febbraio: il piano interno (immobili
+entro il 15/11, contratti entro il 20/12) è compatibile, i **collocamenti in azienda vanno chiusi entro
+il 10 gennaio**, non a fine gennaio. Nel 2025 una parte degli accordi passò per **WhatsApp** tra Luigi e
+Sandra: quello che non è in email va chiesto a Luigi.
 
 **Il precedente sul silenzio, già nel 2025.** Tra il 28/07 e il 01/08/2025 Sandra scrive **quattro
 volte** senza risposta (Luigi in ferie): chiede la nuova offerta per la camera singola, quanti studenti
