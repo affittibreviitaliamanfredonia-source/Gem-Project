@@ -16,9 +16,9 @@
 | Capofila | **Inversión y Educación S.L.** (nome commerciale School Travel), Madrid, VAT ESB83018630 valido su VIES; rappresentata da Iñigo Álvarez Valdés |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
 | Firmatario e fatturante | **Gianluca Iaconeta** — chi fattura è da confermare col commercialista (16/09) |
-| Durata soggiorno | **90 notti** per ospite — il prezzo di 2.000 € fu quotato "per 92 giorni"; l'email del 25/06/2026 indica 16/02–18/04, cioè 61 giorni ⚠️ |
-| Data di arrivo | **01/03/2027** (lunedì) — impostata dal firmatario. ⚠️ **L'unica email scritta di School Travel (25/06/2026) indica per i 36 il periodo 16 febbraio – 18 aprile**: da chiarire prima di tutto |
-| Data di partenza | **30/05/2027** (domenica) — 90 notti dopo l'arrivo |
+| Durata soggiorno | **61 notti** per ospite (16/02 → 18/04/2027), come nell'unica email scritta di School Travel (25/06/2026). ⚠️ Il prezzo di 2.000 € fu quotato "per 92 giorni": da riconciliare nel contratto |
+| Data di arrivo | **16/02/2027** (martedì) — dall'email di School Travel del 25/06/2026; *da confermare per iscritto*. Il precedente 01/03 veniva da un ricordo impreciso |
+| Data di partenza | **18/04/2027** (domenica) — 61 notti dopo l'arrivo |
 | Numero ospiti | **36** — sono i 42 pianificati da Jaén meno i 6 dirottati su un'altra città a luglio 2026; soggetto a variazione |
 | Sistemazione | **Camere singole** |
 | Stato complessivo | 🔴 **Trattativa in corso — nessun documento scritto con prezzo, date, penali o pagamenti. Ospitante 2026 (ditta di Luigi) cessata: per il 2027 ospitante e fatturante è l'impresa di Gianluca; contratto da scrivere e proporre** |
@@ -82,13 +82,13 @@ Dettaglio e formulazione delle domande: [`01-trattativa/01-02-domande-aperte-cap
 
 ## 5. Piano temporale
 
-> Ancoraggio: **arrivo 01/03/2027**, impostato dal firmatario. Tutte le altre date sono
+> Ancoraggio: **arrivo 16/02/2027**, dall'email di School Travel del 25/06/2026 (da confermare). Tutte le altre date sono
 > **proposte a ritroso**, non concordate con nessuno. Vanno confermate con la capofila
 > (firma, date) e col commercialista (termini di fatturazione).
 
 ```mermaid
 gantt
-    title Progetto GEM — piano a ritroso dall'arrivo del 01/03/2027
+    title Progetto GEM — piano a ritroso dall'arrivo del 16/02/2027
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
@@ -98,44 +98,45 @@ gantt
     Scrittura privata tra soci           :t3, 2026-09-13, 2026-10-15
 
     section 02 Contratto
-    Bozza e negoziazione                 :c1, 2026-11-01, 2026-12-14
-    Firma contratto con la capofila      :milestone, m1, 2026-12-15, 0d
+    Bozza e negoziazione                 :c1, 2026-10-15, 2026-11-29
+    Firma contratto con la capofila      :milestone, m1, 2026-11-30, 0d
 
     section 03 Logistica
-    Censimento immobili e preventivi     :l1, 2026-10-01, 2026-11-30
-    Contratti con gli immobili           :l2, 2026-12-16, 2027-01-15
-    Elenco nominativo ospiti             :l3, 2027-01-01, 2027-01-31
-    Regolamento casa e check-in pronti   :l4, 2027-02-01, 2027-02-26
-    Soggiorno 90 notti                   :active, l5, 2027-03-01, 2027-05-30
+    Censimento immobili e preventivi     :l1, 2026-10-01, 2026-11-15
+    Contratti con gli immobili           :l2, 2026-12-01, 2026-12-20
+    Elenco nominativo ospiti             :l3, 2026-12-15, 2027-01-15
+    Regolamento casa e check-in pronti   :l4, 2027-01-15, 2027-02-12
+    Soggiorno 61 notti                   :active, l5, 2027-02-16, 2027-04-18
 
     section 04 Pagamenti
-    Fattura 80% (prima dell'arrivo)      :milestone, p1, 2027-02-24, 0d
-    Incasso 80% (giorno dell'arrivo)     :milestone, p2, 2027-03-01, 0d
-    Consegna documenti (7 gg)            :p3, 2027-05-30, 2027-06-06
-    Finestra contestazione (15 gg)       :p4, 2027-06-06, 2027-06-21
-    Fattura 20%                          :milestone, p5, 2027-06-22, 0d
-    Incasso 20% (30 gg)                  :p6, 2027-06-22, 2027-07-22
+    Fattura 80% (prima dell'arrivo)      :milestone, p1, 2027-02-10, 0d
+    Incasso 80% (giorno dell'arrivo)     :milestone, p2, 2027-02-16, 0d
+    Consegna documenti (15 gg)           :p3, 2027-04-18, 2027-05-03
+    Finestra contestazione (15 gg)       :p4, 2027-05-03, 2027-05-18
+    Fattura 20%                          :milestone, p5, 2027-05-19, 0d
+    Incasso 20% (30 gg)                  :p6, 2027-05-19, 2027-06-18
 ```
 
 | Scadenza | Data | Natura |
 |---|---|---|
 | Risposte capofila (Q1, Q2, Q3, Q5) e parere commercialista (Q4) | 31/10/2026 | Proposta |
 | Scrittura privata tra soci firmata | 15/10/2026 | Proposta |
-| Immobili censiti con preventivi | 30/11/2026 | Proposta |
-| **Firma contratto con la capofila** | **15/12/2026** | Proposta — *nessun impegno con immobili prima di questa data* |
-| Contratti con gli immobili firmati | 15/01/2027 | Proposta |
-| Elenco nominativo ospiti ricevuto | 31/01/2027 | Proposta |
-| Fattura 80 % | 24/02/2027 | Proposta (qualche giorno prima dell'arrivo, deciso 16/09) |
-| **Arrivo · incasso 80 %** | **01/03/2027** | **Impostata** (incasso il giorno dell'arrivo, deciso 16/09) |
-| **Partenza (90 notti)** | **30/05/2027** | Derivata |
-| Consegna documentazione | 06/06/2027 | Proposta (7 gg) |
-| Termine contestazione capofila | 21/06/2027 | Proposta (15 gg) |
-| Fattura 20 % | 22/06/2027 | Proposta |
-| Incasso 20 % | entro 22/07/2027 | Proposta (30 gg) |
+| Immobili censiti con preventivi | 15/11/2026 | Proposta |
+| **Firma contratto con la capofila** | **30/11/2026** | Proposta — *nessun impegno con immobili prima di questa data* |
+| Contratti con gli immobili firmati | 20/12/2026 | Proposta (prima delle feste) |
+| Elenco nominativo ospiti ricevuto | 15/01/2027 | Proposta |
+| Fattura 80 % | 10/02/2027 | Proposta (qualche giorno prima dell'arrivo, deciso 16/09) |
+| **Arrivo · incasso 80 %** | **16/02/2027** | **Da email School Travel 25/06/2026**, da confermare (incasso il giorno dell'arrivo, deciso 16/09) |
+| **Partenza (61 notti)** | **18/04/2027** | Da email School Travel 25/06/2026 |
+| Consegna documentazione | 03/05/2027 | Proposta (15 gg, come nel 2026) |
+| Termine contestazione capofila | 18/05/2027 | Proposta (15 gg) |
+| Fattura 20 % | 19/05/2027 | Proposta |
+| Incasso 20 % | entro 18/06/2027 | Proposta (30 gg) |
 
-> **Convenzione da fissare nel contratto:** "90 giorni" qui è letto come **90 notti**
-> (check-in 01/03, check-out 30/05). Se la capofila intende 90 giorni di calendario
-> inclusi, la partenza slitta o anticipa di un giorno — e con essa il costo di 36 notti.
+> **Da fissare nel contratto:** date di check-in e check-out, e il rapporto tra i **2.000 €**
+> quotati "per 92 giorni" e le **61 notti** effettive. Se School Travel chiede una riduzione
+> proporzionale, il prezzo scende a circa 1.330 €; se il prezzo resta, il margine sale. Va deciso
+> prima di firmare, non dopo.
 
 ---
 

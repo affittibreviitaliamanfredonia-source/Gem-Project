@@ -20,7 +20,7 @@ Se la capofila chiede di anticipare, la richiesta va messa a verbale in
 
 ## Cosa manca per chiudere questa fase
 
-- [x] Data di arrivo impostata: **01/03/2027** → partenza **30/05/2027** (90 notti) — *da confermare con la capofila*
+- [x] Date dall'email di School Travel del 25/06/2026: arrivo **16/02/2027** → partenza **18/04/2027** (61 notti) — *da confermare per iscritto*
 - [ ] Numero definitivo di ospiti confermato per iscritto
 - [ ] Preventivi alloggio ottenuti (almeno 2 strutture a confronto)
 - [ ] Preventivi transfert ottenuti

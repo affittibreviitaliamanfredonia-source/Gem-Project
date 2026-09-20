@@ -19,7 +19,7 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
 | A2 | 2.000 € sono **netti per noi** | `[x]` | **Sì.** IVA **inclusa** nei 2.000 € se dovesse risultare dovuta; **commissioni bancarie a carico della capofila** | se l'IVA è dovuta, esce dai 2.000 €: fino a 12.984 € su 72.000 € (scorporo al 22 %) |
 | A3 | Il servizio è **accoglienza** (7-ter), non alloggio (7-quater) | `[x]` | **Confermato** dai soci. Attenzione: la qualifica la decide la sostanza del servizio e il parere del commercialista (domanda 11), non l'etichetta | fino a 12.984 € di IVA a nostro carico |
 | A4 | Gli ospiti sono **36** e restano 36 | `[x]` | **36 è indicativo: potranno essere di più o di meno.** Serve nel contratto B2B un minimo garantito e una data entro cui il numero è definitivo (domanda 20) | perdita secca su camere già impegnate |
-| A5 | "90 giorni" = **90 notti** | `[x]` | **Confermato**: 90 notti, 01/03 → 30/05/2027. Da avere per iscritto dalla capofila (domanda 23) | ±36 notti di costo o ricavo |
+| A5 | "90 giorni" = **90 notti** | `[ ]` | **Caduto (20/09)**: l'unica email scritta di School Travel dice **16/02 → 18/04/2027, 61 notti**; il 01/03 veniva da un ricordo impreciso. Il prezzo era quotato "per 92 giorni": da riconciliare (domanda 23) | ±36 notti di costo o ricavo |
 | A6 | Il **20 %** arriverà | `[x]` | **Arriva alla consegna** di: valutazioni, certificati, documentazione correttamente firmata. Restano da fissare termini, chi giudica, contestazione parziale (domanda 27) | 14.400 € di credito a rischio |
 | A7 | Il **50/50** è equo rispetto agli apporti | `[x]` | **Sì, è equo.** | conflitto tra soci a progetto avviato |
 | A8 | Gli ospiti sono **maggiorenni** | `[x]` | **Caduto: non sono tutti maggiorenni.** Servono manleva e consensi firmati da genitori o tutori (domanda 21b) | consensi, vigilanza, regolamento |
@@ -39,7 +39,7 @@ Legenda: `[ ]` aperta · `[x]` risposta · `[~]` risposta parziale, da approfond
   l'importo esatto, **a consuntivo** e prima della divisione del margine. → art. 5.1 e 5.3 aggiornati.
 - Con quali soldi: resta aperta (1b e 38).
 
-`[x]` **1b.** Esiste la cassa per anticipare? Quanto serve prima del 01/03/2027? *(→ Allegato C, piano di cassa)*
+`[x]` **1b.** Esiste la cassa per anticipare? Quanto serve prima del 16/02/2027? *(→ Allegato C, piano di cassa)*
 - Risposta (16/09): **non c'è una cassa precostituita: si costituisce all'occorrenza**, in parti uguali. → art. 5.5. Quanto serve e quando: resta il piano di cassa (domanda 38).
 
 ### A2 · Distribuzione del margine → art. 6.5
@@ -140,7 +140,7 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
   - **Il costo dell'affitto si deduce solo se lo sostiene lo stesso soggetto che fattura alla capofila** (inerenza). La triangolazione sull'agenzia funziona solo se è l'agenzia a fatturare i 72.000 €.
 - Risposta del commercialista:
 
-`[x]` **15.** **Imposta di soggiorno**: chi la versa, per 36 persone × 90 notti?
+`[x]` **15.** **Imposta di soggiorno**: chi la versa, per 36 persone × 61 notti?
 - Risposta (16/09): **la versiamo noi.** → è un Costo di progetto, già previsto all'art. 6.2 d).
 - Tariffa (16/09): **1,50 € a persona a notte, per le prime 5 notti al massimo** → 7,50 € a ospite
   → **270 € in totale** (36 × 5 × 1,50). Peso trascurabile sul margine.
@@ -193,9 +193,9 @@ Oggi l'art. 6.3 dice che il tempo **non** è un costo. Alternative: un compenso 
 **Numeri**
 `[~]` **22.** "Netti": netti per noi o netti per voi? Nessuna ritenuta o commissione a nostro carico?
 - 19/09: la definizione dei soci è nell'assioma A2 (IVA inclusa se dovuta, commissioni a carico di School Travel, voli esclusi). Da verificare che l'accordo firmato la dica così.
-`[~]` **23.** 90 **notti** (check-in 01/03, check-out 30/05) o 90 giorni di calendario?
-- Risposta (19/09): **90 notti in totale**, confermato da Luigi.
-- ⚠️ 20/09: l'email di School Travel del 25/06/2026 dice **36 studenti dal 16 febbraio al 18 aprile**, 61 giorni, con prezzo quotato "per 92 giorni". Riaperta: **quali sono le date vere?** È la prima cosa da chiarire con School Travel, perché cambia alloggi, costi e calendario.
+`[~]` **23.** Date e durata del soggiorno.
+- Risposta (19/09): 90 notti dal 01/03, secondo Luigi.
+- 20/09: Gianluca conferma che il 01/03 veniva da **un ricordo impreciso di Luigi**. Vale l'email di School Travel del 25/06/2026: **16 febbraio – 18 aprile 2027, 61 notti**. Piano, README e documenti riallineati su queste date, **da confermare per iscritto** con School Travel insieme al prezzo: i 2.000 € erano quotati "per 92 giorni".
 `[x]` **24.** Arrivi tutti insieme o scaglionati? Quale data vale per la fattura dell'80 %?
 - Risposta (19/09): **arrivano tutti insieme.** La data dell'arrivo vale per l'incasso dell'80 %; da chiedere a School Travel solo volo e aeroporto.
 `[x]` **25.** I **voli** sono inclusi nei 2.000 €?

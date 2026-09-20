@@ -45,7 +45,7 @@ Definizione operativa in [`../04-pagamenti/04-02-ripartizione-soci.md`](../04-pa
 |---|---|
 | Chi sono | Ragazzi spagnoli post-diploma |
 | Numero corrente | **36** — indicativo, potranno essere di più o di meno |
-| Durata soggiorno | 90 notti — arrivo **01/03/2027**, partenza **30/05/2027** |
+| Durata soggiorno | 61 notti — arrivo **16/02/2027**, partenza **18/04/2027** (email School Travel 25/06/2026, da confermare) |
 | Sistemazione | Camera singola per ciascuno |
 | Età | **Non tutti maggiorenni** (16/09) ⚠️ — numero e responsabilità da chiarire; manleva dei genitori o tutori (vedi Q5) |
 | Rapporto contrattuale | **Nessuno diretto** — il contratto è B2B con la capofila |

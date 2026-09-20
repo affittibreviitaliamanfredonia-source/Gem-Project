@@ -1,6 +1,6 @@
 # Scrittura privata tra soci — Progetto GEM
 
-**Versione 0.6 — bozza del 18/09/2026 · in revisione tra i soci, non firmata**
+**Versione 0.7 — bozza del 20/09/2026 · in revisione tra i soci, non firmata**
 
 > ⚠️ Bozza redatta per fissare per iscritto quanto concordato a voce. **Non è consulenza
 > legale né fiscale.** Prima della firma va letta dal commercialista, in particolare
@@ -30,7 +30,8 @@ di seguito insieme "i Soci" e ciascuno "il Socio".
 a) I Soci intendono realizzare insieme il progetto denominato **GEM**: l'accoglienza a
 Manfredonia di un gruppo di ragazzi spagnoli post-diploma, con il loro **collocamento presso
 aziende ospitanti** nell'ambito richiesto — allo stato **36 ospiti** in camera singola
-per **90 notti**, dal **01/03/2027** al **30/05/2027** — per conto della
+per **61 notti**, dal **16/02/2027** al **18/04/2027** (date indicate dalla Capofila il 25/06/2026, da
+confermare per iscritto) — per conto della
 capofila spagnola `____________________________` *(ragione sociale, da compilare)*, di seguito
 "la Capofila", a fronte di un corrispettivo concordato a voce di **2.000 € netti per ospite**
 (IVA inclusa se dovuta, commissioni bancarie a carico della Capofila), pagabile 80 % all'arrivo
@@ -96,9 +97,9 @@ integrante dell'accordo.
 5. I Soci riconoscono come **apporti equivalenti**, ai fini della ripartizione paritaria del
    margine: per il Socio Operativo, il contratto con la Capofila e il supporto al progetto; per
    il Socio Firmatario, la firma, la fatturazione, la tenuta del conto e il **lavoro sul posto**
-   durante i 90 giorni.
+   durante il soggiorno.
 
-> 💬 **Commentario.** Chi fa cosa. Gianluca firma, fattura e tiene il conto: verso la capofila esiste solo lui. Luigi ha gli stessi diritti *tra voi* (decisioni, metà del margine) ma non compare verso terzi. Il comma 3 è la tutela di Luigi: Gianluca non può cambiare prezzo, numero di ospiti o penali con la capofila senza il suo sì scritto — altrimenti chi firma potrebbe decidere da solo il destino dei soldi di entrambi. Il comma 5 mette per iscritto *perché* il 50/50 è equo: Luigi porta il contratto e il supporto, Gianluca il lavoro sul posto per 90 giorni oltre a firma e conto. Il tempo di chi lavora sul posto è un apporto, non un costo da rimborsare (art. 6.3<!--margine-->).
+> 💬 **Commentario.** Chi fa cosa. Gianluca firma, fattura e tiene il conto: verso la capofila esiste solo lui. Luigi ha gli stessi diritti *tra voi* (decisioni, metà del margine) ma non compare verso terzi. Il comma 3 è la tutela di Luigi: Gianluca non può cambiare prezzo, numero di ospiti o penali con la capofila senza il suo sì scritto — altrimenti chi firma potrebbe decidere da solo il destino dei soldi di entrambi. Il comma 5 mette per iscritto *perché* il 50/50 è equo: Luigi porta il contratto e il supporto, Gianluca il lavoro sul posto per tutto il soggiorno oltre a firma e conto. Il tempo di chi lavora sul posto è un apporto, non un costo da rimborsare (art. 6.3<!--margine-->).
 
 
 ## Art. 3 — Nessun impegno prima della firma con la Capofila <!--#impegni-->

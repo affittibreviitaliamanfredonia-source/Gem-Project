@@ -9,7 +9,7 @@ compilano per ciascun alloggio. Copia su Google Documenti: <https://docs.google.
 
 ## Italiano
 
-**Benvenuto a Manfredonia.** Questa casa è la tua per 90 notti, dal 1° marzo al 30 maggio 2027.
+**Benvenuto a Manfredonia.** Questa casa è la tua per 61 notti, dal 16 febbraio al 18 aprile 2027.
 Le regole che seguono servono a viverci bene, in sicurezza e senza problemi con i vicini e con
 il proprietario. Firmandole ti impegni a rispettarle.
 
@@ -87,7 +87,7 @@ Per i minorenni: firma del genitore o tutore (vedi manleva) ____________________
 
 ## Español
 
-**Bienvenido a Manfredonia.** Esta casa es tuya durante 90 noches, del 1 de marzo al 30 de mayo
+**Bienvenido a Manfredonia.** Esta casa es tuya durante 61 noches, del 16 de febrero al 18 de abril
 de 2027. Las normas que siguen sirven para vivir bien, con seguridad y sin problemas con los
 vecinos ni con el propietario. Al firmarlas te comprometes a respetarlas.
 

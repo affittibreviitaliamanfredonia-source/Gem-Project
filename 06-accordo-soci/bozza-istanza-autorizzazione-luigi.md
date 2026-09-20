@@ -36,7 +36,7 @@ seguito descritta.
 (FG), Via Tribuna 201, attività ricettiva (ATECO 55.20.4).
 
 **Oggetto dell'attività.** Collaborazione occasionale al progetto denominato "GEM": accoglienza a
-Manfredonia, dal 1° marzo al 30 maggio 2027, di un gruppo di circa 36 studenti spagnoli
+Manfredonia, dal 16 febbraio al 18 aprile 2027, di un gruppo di circa 36 studenti spagnoli
 post-diploma per conto di un ente spagnolo, con alloggio, trasferimenti, assistenza e inserimento
 in aziende ospitanti del territorio. Il sottoscritto ha messo in contatto il committente con
 l'ente spagnolo e fornirebbe, su richiesta, un supporto **saltuario** di relazione con tale ente
@@ -91,7 +91,7 @@ che il `[grado, nome e cognome]` sia autorizzato a prestare, in forma occasional
 collaborazione descritta di seguito.
 
 - **Progetto:** "GEM", accoglienza a Manfredonia di circa 36 studenti spagnoli post-diploma
-  dal 1° marzo al 30 maggio 2027, per conto di un ente spagnolo, con inserimento in aziende
+  dal 16 febbraio al 18 aprile 2027, per conto di un ente spagnolo, con inserimento in aziende
   ospitanti del territorio.
 - **Contenuto della collaborazione:** relazione occasionale con l'ente spagnolo, di cui
   l'interessato ha favorito il contatto, e consiglio al committente su richiesta. Nessuna

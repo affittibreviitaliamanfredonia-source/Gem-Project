@@ -10,12 +10,12 @@ Le parti tra `[ ]` vanno compilate o tolte prima dell'invio.
 
 ---
 
-**Oggetto:** Progetto GEM — Manfredonia, marzo–maggio 2027: punti da definire prima del contratto
+**Oggetto:** Progetto GEM — Manfredonia, febbraio–aprile 2027: punti da definire prima del contratto
 
 Gentile [nome], gentili [nome capofila],
 
 grazie per la fiducia accordata a Luigi e a me per l'accoglienza dei vostri ragazzi a
-Manfredonia dal **1° marzo al 30 maggio 2027**. Stiamo preparando gli alloggi, i trasferimenti
+Manfredonia dal **16 febbraio al 18 aprile 2027**. Stiamo preparando gli alloggi, i trasferimenti
 e i contatti con le aziende ospitanti, e per farlo bene abbiamo bisogno di fissare per iscritto
 alcuni punti. Vi chiedo la cortesia di una risposta scritta, anche per punti, entro il
 **[31/10/2026]**: ci permette di confermare gli immobili in tempo.
@@ -24,9 +24,9 @@ Riassumo prima quello che abbiamo inteso, così potete correggerci:
 
 - **36 ospiti** post-diploma, ciascuno in **camera singola** in appartamenti con zona giorno, senza
   vitto, con abbonamento bus e transfer aeroportuali, come nella vostra email del 25 giugno 2026;
-- **le date**: nella stessa email indicavate **dal 16 febbraio al 18 aprile**; noi stiamo lavorando su
-  **90 notti, dal 1° marzo al 30 maggio 2027**, coerenti con il prezzo quotato per 92 giorni. Vi
-  chiediamo di confermare per iscritto quale periodo vale, perché da questo dipendono gli alloggi;
+- **le date**: **dal 16 febbraio al 18 aprile 2027**, 61 notti, come nella stessa email. Vi chiediamo
+  di confermarle per iscritto, perché da queste dipendono i contratti con gli alloggi; il prezzo di
+  2.000 € era stato quotato per un soggiorno di 92 giorni e va confermato per questa durata;
 - corrispettivo di **2.000 € netti per ospite**, comprensivo di alloggio, trasferimenti di
   arrivo e partenza, mobilità locale, assistenza sul posto, collocamento in azienda con contratto
   e primo accompagnamento con il tutor, imposta di soggiorno e documentazione di fine percorso;
@@ -71,7 +71,7 @@ bancarie a vostro carico**, e che l'IVA, se dovesse risultare dovuta in Italia, 
 in quell'importo? Confermate che i **voli sono esclusi** e a carico dei ragazzi?
 
 **6. Le date** *(domande 23 e 24)*
-Abbiamo inteso **90 notti**, check-in il 1° marzo e check-out il 30 maggio 2027, con arrivo di
+Abbiamo inteso **61 notti**, check-in il 16 febbraio e check-out il 18 aprile 2027, con arrivo di
 tutto il gruppo insieme. Ci confermate, e ci dite con quale volo e aeroporto (Bari o altro) e a
 che ora, per organizzare i trasferimenti?
 

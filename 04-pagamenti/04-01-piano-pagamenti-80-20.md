@@ -14,9 +14,9 @@
 
 | Voce | Stato |
 |---|---|
-| Evento scatenante | Arrivo — **01/03/2027** (impostata, da confermare con la capofila) |
-| Emissione fattura | **Qualche giorno prima dell'arrivo** (deciso 16/09; proposta: 24/02/2027) |
-| Termine di pagamento | **Incasso il giorno dell'arrivo, 01/03/2027** (deciso 16/09; da scrivere nel contratto) 🟡 |
+| Evento scatenante | Arrivo — **16/02/2027** (email School Travel 25/06/2026, da confermare) |
+| Emissione fattura | **Qualche giorno prima dell'arrivo** (deciso 16/09; proposta: 10/02/2027) |
+| Termine di pagamento | **Incasso il giorno dell'arrivo, 16/02/2027** (deciso 16/09; da scrivere nel contratto) 🟡 |
 | Fattura emessa il | — |
 | Numero fattura | — |
 | Incassata il | — |
@@ -36,7 +36,7 @@
 
 | Voce | Stato |
 |---|---|
-| Evento scatenante | Partenza — **30/05/2027** (derivata: 90 notti) |
+| Evento scatenante | Partenza — **18/04/2027** (61 notti) |
 | Condizione | Controllo documentale — **elenco non concordato** 🔴 |
 | Termine di consegna documenti | `DA DEFINIRE` 🔴 |
 | Termine di contestazione capofila | `DA DEFINIRE` 🔴 |

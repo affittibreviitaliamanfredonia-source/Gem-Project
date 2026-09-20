@@ -17,7 +17,7 @@ modulo. Le parti tra `[ ]` si compilano per ciascun ragazzo. Copia su Google Doc
 ## Italiano
 
 **AUTORIZZAZIONE, CONSENSO E MANLEVA**
-per la partecipazione di un minore al progetto GEM — Manfredonia, 1° marzo – 30 maggio 2027
+per la partecipazione di un minore al progetto GEM — Manfredonia, 16 febbraio – 18 aprile 2027
 
 I sottoscritti
 `[nome e cognome]`, nato/a a `[ ]` il `[ ]`, documento `[tipo e numero]`, e
@@ -27,8 +27,8 @@ in qualità di genitori / esercenti la responsabilità genitoriale sul minore
 di seguito "il Partecipante",
 
 premesso che il Partecipante prende parte al programma organizzato da **School Travel**
-(di seguito "l'Organizzatore") che prevede un soggiorno a Manfredonia (Italia) dal 1° marzo al
-30 maggio 2027, con alloggio in camera singola in appartamento condiviso con altri partecipanti,
+(di seguito "l'Organizzatore") che prevede un soggiorno a Manfredonia (Italia) dal 16 febbraio al
+18 aprile 2027, con alloggio in camera singola in appartamento condiviso con altri partecipanti,
 trasferimenti, assistenza e inserimento presso un'azienda ospitante; e che i servizi di
 accoglienza in Italia sono forniti dall'impresa **IACONETA GIANLUCA**, P.IVA 04175780719,
 Manfredonia, di seguito "l'Ospitante",
@@ -103,7 +103,7 @@ Per presa visione, il Partecipante: ______________________
 ## Español
 
 **AUTORIZACIÓN, CONSENTIMIENTO Y EXONERACIÓN DE RESPONSABILIDAD**
-para la participación de un menor en el proyecto GEM — Manfredonia, 1 de marzo – 30 de mayo de 2027
+para la participación de un menor en el proyecto GEM — Manfredonia, 16 de febrero – 18 de abril de 2027
 
 Los abajo firmantes
 `[nombre y apellidos]`, nacido/a en `[ ]` el `[ ]`, documento `[tipo y número]`, y
@@ -113,8 +113,8 @@ en calidad de padres / titulares de la patria potestad del menor
 en adelante "el Participante",
 
 considerando que el Participante toma parte en el programa organizado por **School Travel**
-(en adelante "el Organizador") que prevé una estancia en Manfredonia (Italia) del 1 de marzo al
-30 de mayo de 2027, con alojamiento en habitación individual en piso compartido con otros
+(en adelante "el Organizador") que prevé una estancia en Manfredonia (Italia) del 16 de febrero al
+18 de abril de 2027, con alojamiento en habitación individual en piso compartido con otros
 participantes, traslados, asistencia e incorporación a una empresa de acogida; y que los
 servicios de acogida en Italia los presta la empresa **IACONETA GIANLUCA**, NIF-IVA
 IT04175780719, Manfredonia, en adelante "el Anfitrión",

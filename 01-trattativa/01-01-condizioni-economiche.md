@@ -7,7 +7,7 @@
 | Voce | Valore |
 |---|---|
 | Prezzo unitario | **2.000 € netti per persona** |
-| Periodo coperto | **90 giorni** secondo i soci; **92 giorni** nella base di prezzo citata da School Travel; **16/02–18/04 (61 giorni)** nelle date scritte da School Travel il 25/06/2026 ⚠️ da chiarire |
+| Periodo coperto | **16/02 – 18/04/2027, 61 notti** (email School Travel 25/06/2026). ⚠️ Il prezzo di 2.000 € fu quotato "per 92 giorni": va riconciliato nel contratto, proporzionale (~1.330 €) o confermato |
 | Sistemazione inclusa | Camera **singola** |
 | Pacchetto scritto da School Travel (25/06/2026) | Camera singola per tutti · appartamento con **piccolo soggiorno o zona pranzo** · **pensione non richiesta** · **abbonamento bus** · **transfer aeroportuali** arrivo e partenza |
 | Incluso anche | **Collocamento in azienda** nell'ambito richiesto: contratto con l'azienda e primo accompagnamento con il tutor (16/09) |

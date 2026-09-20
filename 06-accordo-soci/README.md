@@ -15,11 +15,11 @@ Non riguardano la capofila: sono interni.
 
 | PDF | Generato da |
 |---|---|
-| [`pdf/GEM-documento-di-progetto-v0.6.pdf`](pdf/GEM-documento-di-progetto-v0.6.pdf) | `documento-di-progetto.md` |
-| [`pdf/GEM-scrittura-privata-soci-v0.6.pdf`](pdf/GEM-scrittura-privata-soci-v0.6.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
-| [`pdf/GEM-scrittura-privata-soci-v0.6-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.6-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
+| [`pdf/GEM-documento-di-progetto-v0.7.pdf`](pdf/GEM-documento-di-progetto-v0.7.pdf) | `documento-di-progetto.md` |
+| [`pdf/GEM-scrittura-privata-soci-v0.7.pdf`](pdf/GEM-scrittura-privata-soci-v0.7.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
+| [`pdf/GEM-scrittura-privata-soci-v0.7-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.7-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
 
-I PDF sono **copie di lettura** con marcatura "Bozza v0.6": si rigenerano dal Markdown a ogni
+I PDF sono **copie di lettura** con marcatura "Bozza v0.7": si rigenerano dal Markdown a ogni
 versione. Le correzioni si fanno nei file `.md`, non nel PDF.
 
 ## Il commentario
@@ -65,7 +65,7 @@ Copia di revisione della scrittura privata, nella cartella Drive
 **Progetto GEM → 06 · Accordo tra soci**:
 **<https://docs.google.com/document/d/1Hn5BIlcPSVRmVQ_eVUtvI_n8SzAtGYvjLDlYEfkCcsA/edit>**
 
-> Il Documento è alla **v0.6** (18/09/2026), allineato al file. I commenti dei giri precedenti sono stati recepiti.
+> Il Documento è alla **v0.7** (18/09/2026), allineato al file. I commenti dei giri precedenti sono stati recepiti.
 
 | Chi | Cosa fa | Dove |
 |---|---|---|

@@ -22,5 +22,6 @@ Modello: [`../templates/template-decisione.md`](../templates/template-decisione.
 | 2026-09-13 | Data di arrivo 01/03/2027 e ruoli tra i soci | [`2026-09-13-data-arrivo-e-ruoli.md`](2026-09-13-data-arrivo-e-ruoli.md) |
 | 2026-09-13 | Registro movimenti spostato su Google Fogli | [`2026-09-13-registro-su-google-fogli.md`](2026-09-13-registro-su-google-fogli.md) |
 | 2026-09-16 | Decisioni tra i soci sull'accordo (no patti, no assicurazione, collaboratrice fuori progetto) | [`2026-09-16-decisioni-tra-soci.md`](2026-09-16-decisioni-tra-soci.md) |
+| 2026-09-20 | Date del soggiorno 16/02–18/04/2027 dall'email di School Travel; il 01/03 era un ricordo impreciso | [`2026-09-20-date-16-febbraio-18-aprile.md`](2026-09-20-date-16-febbraio-18-aprile.md) |
 | 2026-09-20 | Lettura dell'accordo preliminare: è un accordo di collaborazione generico; GEM è un soggetto esistente con P.IVA propria | [`2026-09-20-lettura-accordo-preliminare.md`](2026-09-20-lettura-accordo-preliminare.md) |
 | 2026-09-18 | Titolo per la quota di Luigi (con riserva), accordo con la capofila firmato da Luigi, secondo codice ATECO | [`2026-09-18-titolo-di-luigi-e-accordo-capofila.md`](2026-09-18-titolo-di-luigi-e-accordo-capofila.md) |

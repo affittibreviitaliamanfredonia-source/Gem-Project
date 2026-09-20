@@ -1,6 +1,6 @@
 # Progetto GEM — Documento di progetto
 
-**Allegato A alla scrittura privata tra i soci** · Versione 0.6 — bozza del 18/09/2026
+**Allegato A alla scrittura privata tra i soci** · Versione 0.7 — bozza del 20/09/2026
 
 > Questo documento dice **cosa** è il progetto e **a cosa ci impegniamo**. Le regole su soldi,
 > decisioni e imprevisti stanno nella [scrittura privata](scrittura-privata.md). I due
@@ -15,7 +15,7 @@
 | **Cosa** | Accoglienza in Italia, a Manfredonia, di un gruppo di ragazzi spagnoli post-diploma, e loro **collocamento in aziende ospitanti** nell'ambito richiesto |
 | **Per conto di chi** | Una capofila spagnola — è lei il cliente. I ragazzi non sono clienti nostri |
 | **Quanti** | **36 ospiti**, ciascuno in **camera singola** |
-| **Quando** | Arrivo **01/03/2027**, partenza **30/05/2027** — **90 notti** |
+| **Quando** | Arrivo **16/02/2027**, partenza **18/04/2027** — **61 notti** (date scritte da School Travel il 25/06/2026, da confermare) |
 | **Cosa forniamo** | Alloggio · transfert arrivo/partenza · mobility locale · assistenza durante il soggiorno · **collocamento in azienda** (contatto, contratto con l'azienda, primo accompagnamento con il tutor) · documentazione di fine percorso |
 | **Chi siamo** | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % |
 
@@ -44,7 +44,7 @@
 ### Compiti operativi — decisi il 16/09
 
 Sul posto c'è **Gianluca**; Luigi interviene **saltuariamente**, a supporto. I due apporti
-(contratto e supporto da un lato, lavoro sul posto per 90 giorni dall'altro) valgono come
+(contratto e supporto da un lato, lavoro sul posto per tutto il soggiorno dall'altro) valgono come
 equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 
 | Area | Responsabile | Note |
@@ -76,7 +76,7 @@ equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 | # | Rischio | Cosa facciamo |
 |---|---|---|
 | 1 | La capofila non è ancora identificata giuridicamente (nome, VAT, chi firma) | Nessuna firma senza visura e verifica VIES |
-| 2 | L'accordo con la capofila è stato firmato da Luigi ma il testo non è ancora nella cartella del progetto | Copia nel Drive subito; verifica delle clausole; nuova firma del firmatario entro il 15/12/2026 |
+| 2 | Non esiste un contratto con prezzo, date e penali: solo l'email di School Travel del 25/06/2026 | Contratto scritto e proposto da noi, firma entro il 30/11/2026 |
 | 3 | Riduzione del numero di ospiti: i costi degli alloggi restano a noi | L'accordo con la capofila prevede una penale a scaglioni per il suo ritiro (100 % a due settimane dall'arrivo); da verificare che copra anche le riduzioni parziali e il no-show; nessuna caparra agli immobili |
 | 4 | **7-quater**: se il servizio è "alloggio", l'IVA italiana è dovuta — fino a 15.840 € di margine in meno | Parere scritto del commercialista prima della firma |
 | 5 | **Ci sono minorenni** tra gli ospiti (confermato 16/09) | Numero e responsabile dalla capofila; manleva e consensi firmati da genitori o tutori, allegati al contratto |
@@ -93,8 +93,8 @@ equivalenti ai fini del 50/50 (scrittura privata, art. 2.5<!--ruoli-->).
 | Immobili censiti con preventivi | 30/11/2026 | Proposta |
 | **Firma contratto con la capofila** | **15/12/2026** | Proposta — limite oltre il quale non si prenotano 36 singole in tempo |
 | Contratti immobili firmati | 15/01/2027 | Proposta |
-| **Arrivo · fattura 80 %** | **01/03/2027** | Impostata |
-| **Partenza** | **30/05/2027** | Derivata |
+| **Arrivo · incasso 80 %** | **16/02/2027** | Da email School Travel, da confermare |
+| **Partenza** | **18/04/2027** | Da email School Travel |
 | Fattura 20 % | 22/06/2027 | Proposta |
 
 Piano completo con Gantt nel [README](../README.md#5-piano-temporale).

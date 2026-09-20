@@ -16,4 +16,4 @@
 - [ ] Risposta scritta a Q3 (penali e forza maggiore)
 - [ ] Risposta scritta a Q5 (età degli ospiti, eventuali minorenni)
 - [ ] Conferma scritta del numero definitivo di ospiti
-- [ ] Conferma scritta delle date: arrivo 01/03/2027, partenza 30/05/2027
+- [ ] Conferma scritta delle date: arrivo 16/02/2027, partenza 18/04/2027 (email School Travel 25/06/2026) e del prezzo per 61 notti

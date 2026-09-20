@@ -6,8 +6,8 @@
 |---|---|
 | Numero camere | **36** |
 | Tipologia | **Camera singola** — una per ospite, nessuna condivisione |
-| Durata | **90 notti** — dal 01/03/2027 al 30/05/2027 (⚠️ School Travel il 25/06/2026 scriveva 16/02–18/04: da chiarire) |
-| Notti totali | 36 × 90 = **3.240 notti** |
+| Durata | **61 notti** — dal 16/02/2027 al 18/04/2027 (email School Travel 25/06/2026, da confermare) |
+| Notti totali | 36 × 61 = **2.196 notti** |
 
 > La camera singola è un vincolo contrattuale, non una preferenza: incide direttamente
 > sul costo ed è il primo elemento che una struttura proverà a rinegoziare.
@@ -52,7 +52,7 @@ Stato: 🔴 da contattare · 🟡 preventivo richiesto · 🟢 preventivo ricevu
 
 ## Punti da verificare con ogni struttura
 
-- [ ] Disponibilità di **36 singole contemporanee** dal 01/03 al 30/05/2027 (90 notti)
+- [ ] Disponibilità di **36 singole contemporanee** dal 16/02 al 18/04/2027 (61 notti)
 - [ ] Cosa è **incluso**: utenze, pulizie, cambio biancheria, wi-fi, colazione
 - [ ] **Condizioni di cancellazione** e penali per riduzione del numero di camere
 - [ ] **Caparra** richiesta e sua recuperabilità

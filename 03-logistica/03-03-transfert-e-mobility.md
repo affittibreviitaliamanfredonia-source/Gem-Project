@@ -40,7 +40,7 @@ Trasporti da/per aeroporto o stazione, all'arrivo e alla partenza.
 
 ## Mobility
 
-Spostamenti locali durante i 90 giorni di soggiorno.
+Spostamenti locali durante le 61 notti di soggiorno: **abbonamento bus** per ogni studente (email School Travel 25/06/2026).
 
 | Voce | Valore |
 |---|---|

@@ -102,7 +102,7 @@ Se la capofila chiede di partire "in fiducia", la richiesta va messa a verbale i
 
 ### Cosa chiedere
 
-1. Età minima e massima dei partecipanti alla data di arrivo (01/03/2027).
+1. Età minima e massima dei partecipanti alla data di arrivo (16/02/2027).
 2. Se sono previsti **minorenni**: quanti, e chi esercita la responsabilità genitoriale
    durante il soggiorno.
 3. Chi raccoglie i **consensi** dei genitori (privacy, sanitario, regolamento della casa).
