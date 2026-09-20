@@ -4,6 +4,9 @@
 > Non contiene storico: ogni cambiamento sostituisce il valore precedente.
 > Lo storico delle decisioni vive in [`05-log-decisioni/`](05-log-decisioni/), quello
 > dei movimenti economici nel [registro su Google Fogli](04-pagamenti/movimenti-economici.md).
+>
+> **Chi arriva nuovo legge prima [`STORIA.md`](STORIA.md)**: da dove viene il progetto, come ragiona
+> School Travel, come è nato il prezzo, e l'elenco di quello che dobbiamo ancora capire.
 
 ---
 
