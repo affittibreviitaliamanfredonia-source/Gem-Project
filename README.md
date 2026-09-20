@@ -16,8 +16,8 @@
 | Capofila | **Inversión y Educación S.L.** (nome commerciale School Travel), Madrid, VAT ESB83018630 valido su VIES; rappresentata da Iñigo Álvarez Valdés |
 | Controparte italiana | Gianluca Iaconeta e Luigi Zerulo, soci al 50 % (vedi [`00-anagrafica/soggetti-e-ruoli.md`](00-anagrafica/soggetti-e-ruoli.md)) |
 | Firmatario e fatturante | **Gianluca Iaconeta** — chi fattura è da confermare col commercialista (16/09) |
-| Durata soggiorno | **90 notti** per ospite |
-| Data di arrivo | **01/03/2027** (lunedì) — impostata dal firmatario, *da confermare con la capofila* |
+| Durata soggiorno | **90 notti** per ospite — il prezzo di 2.000 € fu quotato "per 92 giorni"; l'email del 25/06/2026 indica 16/02–18/04, cioè 61 giorni ⚠️ |
+| Data di arrivo | **01/03/2027** (lunedì) — impostata dal firmatario. ⚠️ **L'unica email scritta di School Travel (25/06/2026) indica per i 36 il periodo 16 febbraio – 18 aprile**: da chiarire prima di tutto |
 | Data di partenza | **30/05/2027** (domenica) — 90 notti dopo l'arrivo |
 | Numero ospiti | **36** — sono i 42 pianificati da Jaén meno i 6 dirottati su un'altra città a luglio 2026; soggetto a variazione |
 | Sistemazione | **Camere singole** |
@@ -49,7 +49,7 @@ Legenda: 🟢 completato/attivo · 🟡 in corso · 🔴 bloccato o non avviato
 
 | Voce | Valore |
 |---|---|
-| Corrispettivo | **2.000 € netti per persona / 90 giorni** — IVA inclusa se dovuta, commissioni a carico capofila, voli esclusi |
+| Corrispettivo | **2.000 € per persona** — prezzo quotato da GEM "per 92 giorni" (email School Travel 25/06/2026); pacchetto: camera singola, appartamento con zona giorno, niente vitto, abbonamento bus, transfer aeroportuali. Netti: IVA inclusa se dovuta, commissioni a carico capofila, voli esclusi |
 | Regime IVA | **Reverse charge — art. 7-ter DPR 633/72** (operazione non soggetta a IVA in Italia) |
 | Ricavo lordo teorico (36 ospiti) | **72.000 €** |
 | Struttura pagamento | **80 / 20** |

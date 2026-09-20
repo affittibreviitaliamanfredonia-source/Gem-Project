@@ -115,11 +115,25 @@ l'anello debole è il **tutor aziendale** che non firma in tempo.
 
 ## Giugno–luglio 2026: il thread "Confirmation of Student Placements" — il più importante
 
-Il **25/06/2026** Carmen scrive a GEM confermando l'intenzione di mandare **42 studenti da Jaén**,
-"based on the … price of €2,… per student for a …-day stay", e "as agreed, the package should
-include the following: …". **È l'unica email con i termini economici**: prezzo per studente, durata,
-contenuto del pacchetto. Ne abbiamo visto solo l'inizio: **il testo completo va acquisito**, perché è
-la base scritta del contratto 2027.
+Il **25/06/2026** Carmen scrive a GEM "so that everything is confirmed and on record". È **l'unico
+documento scritto con i termini economici**, e dice:
+
+| Elemento | Testo del 25/06/2026 |
+|---|---|
+| Committente pubblico | **Jaén Provincial Council** (Diputación Provincial de Jaén); referente "Raquel" |
+| Studenti | 42 in totale da Jaén |
+| Prezzo | **2.000 € per studente**, "the price **you quoted us**" (l'offerta era di GEM) **per un soggiorno di 92 giorni** |
+| Pacchetto | camera **singola** per tutti; appartamento con **piccolo soggiorno o zona pranzo**; **pensione non richiesta**; **abbonamento bus** incluso; **transfer aeroportuali** arrivo e partenza |
+| Gruppo 1 | 6 studenti, 22/09 – 22/12/2026 (poi dirottati altrove) |
+| Gruppo 2 | **36 studenti, 16 febbraio – 18 aprile** (2027) |
+
+Tre cose da notare subito. (1) **Le date dei 36 non sono quelle del progetto**: School Travel scrive
+16/02–18/04, cioè **61 giorni**; il progetto oggi è impostato su 01/03–30/05, 90 notti, e il prezzo
+è stato quotato "per 92 giorni". O le date sono cambiate dopo luglio, o c'è un'incoerenza da chiarire
+prima di qualunque contratto: 61 notti invece di 90 cambiano il costo alloggi di un terzo. (2) Il
+**pacchetto è definito**: niente vitto, abbonamento bus come "mobility", transfer, camera singola in
+appartamenti con zona giorno. Il **collocamento in azienda** non è nell'elenco: è nell'oggetto stesso
+del programma. (3) La **penale** e il **20 %** non ci sono nemmeno qui.
 
 Poi il thread racconta un incidente che spiega i numeri di oggi:
 

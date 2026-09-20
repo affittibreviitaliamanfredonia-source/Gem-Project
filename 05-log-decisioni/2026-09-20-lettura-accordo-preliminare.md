@@ -38,6 +38,13 @@
     studenti, settembre 2026 – febbraio 2027; il bando è di un ente pubblico spagnolo. Il gruppo
     2027 richiederà un nuovo accordo di cooperazione con l'impresa di Gianluca.
 
+11. **Email di School Travel del 25/06/2026** (unico scritto con i termini): 2.000 € a studente quotati
+    da GEM per 92 giorni; pacchetto singola + zona giorno + niente vitto + bus pass + transfer;
+    committente pubblico Jaén Provincial Council; **36 studenti 16/02–18/04**, date diverse da quelle
+    del progetto (01/03–30/05). Da chiarire per prima cosa.
+12. I 36 sono i 42 pianificati meno i 6 dirottati altrove a luglio 2026 dopo dieci giorni senza
+    risposta da GEM: la reattività entra tra i rischi del progetto.
+
 ## Conseguenze
 
 - Il contratto B2B con prezzo e condizioni **va scritto**: domande 19, 20, 27, 28 riaperte.

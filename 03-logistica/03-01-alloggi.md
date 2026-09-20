@@ -6,7 +6,7 @@
 |---|---|
 | Numero camere | **36** |
 | Tipologia | **Camera singola** — una per ospite, nessuna condivisione |
-| Durata | **90 notti** — dal 01/03/2027 al 30/05/2027 |
+| Durata | **90 notti** — dal 01/03/2027 al 30/05/2027 (⚠️ School Travel il 25/06/2026 scriveva 16/02–18/04: da chiarire) |
 | Notti totali | 36 × 90 = **3.240 notti** |
 
 > La camera singola è un vincolo contrattuale, non una preferenza: incide direttamente
@@ -42,6 +42,13 @@ Stato: 🔴 da contattare · 🟡 preventivo richiesto · 🟢 preventivo ricevu
 | **Registrazione** | Se il contratto si registra, l'imposta di registro è **al 50 % con il proprietario** (come prevede la legge) |
 | **Penale al proprietario** | Nei contratti mettiamo una penale a carico di chi si svincola prima dell'arrivo |
 | **Intestazione** | Chi firma i contratti (Gianluca, la sua agenzia o una società) lo dice il commercialista: il costo dell'affitto si scarica solo se lo sostiene lo stesso soggetto che fattura alla capofila |
+
+## Requisiti scritti da School Travel (email del 25/06/2026)
+
+- **Camera singola** per ogni studente.
+- L'appartamento deve avere un **piccolo soggiorno o una zona pranzo**: non solo camere.
+- **Vitto non richiesto**: i ragazzi cucinano; serve una cucina attrezzata.
+- Abbonamento bus e transfer aeroportuali sono nel pacchetto, non nell'alloggio.
 
 ## Punti da verificare con ogni struttura
 

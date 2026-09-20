@@ -22,8 +22,11 @@ alcuni punti. Vi chiedo la cortesia di una risposta scritta, anche per punti, en
 
 Riassumo prima quello che abbiamo inteso, così potete correggerci:
 
-- **36 ospiti** post-diploma, ciascuno in **camera singola**, per **90 notti** (arrivo 1° marzo,
-  partenza 30 maggio 2027);
+- **36 ospiti** post-diploma, ciascuno in **camera singola** in appartamenti con zona giorno, senza
+  vitto, con abbonamento bus e transfer aeroportuali, come nella vostra email del 25 giugno 2026;
+- **le date**: nella stessa email indicavate **dal 16 febbraio al 18 aprile**; noi stiamo lavorando su
+  **90 notti, dal 1° marzo al 30 maggio 2027**, coerenti con il prezzo quotato per 92 giorni. Vi
+  chiediamo di confermare per iscritto quale periodo vale, perché da questo dipendono gli alloggi;
 - corrispettivo di **2.000 € netti per ospite**, comprensivo di alloggio, trasferimenti di
   arrivo e partenza, mobilità locale, assistenza sul posto, collocamento in azienda con contratto
   e primo accompagnamento con il tutor, imposta di soggiorno e documentazione di fine percorso;
