@@ -52,8 +52,12 @@ il 20/12) è compatibile, i collocamenti in azienda vanno chiusi entro gennaio.
 volte** senza risposta (Luigi in ferie): chiede la nuova offerta per la camera singola, quanti studenti
 GEM può ospitare, in quali settori. Il 01/08 comunica che la **maggioranza del gruppo andrà a
 Campobasso** e a Manfredonia "a few". Nel luglio 2026 la scena si ripete con i 6 studenti di settembre.
-Non è un incidente: è il **difetto strutturale** della gestione precedente, e il motivo per cui la
-casella di progetto va presidiata ogni giorno (documento di progetto, rischio 8).
+Il 01/08 alle 12:38 lo scrive senza giri di parole: **"As I have been telling you all week, we simply
+don't have time"**. Risultato: dei 18 studenti confermati, a Manfredonia ne arrivano **4** ("which 4
+students do you prefer?"), il resto a Campobasso. Non è un incidente: è il **difetto strutturale** della
+gestione precedente, e il motivo per cui la casella di progetto va presidiata ogni giorno (documento di
+progetto, rischio 8). La lezione per il 2027 è anche numerica: **36 studenti non sono un'assegnazione
+acquisita**; School Travel ridistribuisce tra le città in base a chi risponde.
 
 **Il precedente sui minorenni e sui settori.** L'elenco del 30/07/2025 ha una colonna "Under 18" con
 diversi "Yes": i minorenni sono **la norma**. I settori chiesti nel 2025 sono assistenza socio-sanitaria
