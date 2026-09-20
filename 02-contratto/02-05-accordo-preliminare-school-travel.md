@@ -67,6 +67,12 @@ ondata: **servirà un accordo di cooperazione con l'impresa di Gianluca**. Chiar
 **collaboratrice di Luigi** in GEM e l'interlocutrice abituale di School Travel: per questo Manuel le
 scrive "Dear Chiara". Nel 2027 School Travel va avvisata che gli interlocutori cambiano.
 
+**Il 27/05/2026 Luigi ha scritto a Manuel: "We are changing our company data… in September the data
+will be changed."** School Travel ha risposto "no worries" e ha accettato la firma di Chiara pur
+sapendolo. Quindi il cambio della parte italiana per il 2027 è **già annunciato e accettato in
+principio**: la richiesta di aggiornare l'accordo di cooperazione con l'impresa di Gianluca non sarà
+una sorpresa, va solo formalizzata.
+
 ## Cosa dice il testo
 
 | Elemento | Nel testo |
