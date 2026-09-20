@@ -5,6 +5,19 @@ Manuel De Andrés (SCHOOL TRAVEL), creato il 29/04/2026. Testo estratto su Googl
 <https://docs.google.com/document/d/1yz-ydyoRFkxW57R3WoTNCuIALyQMbeREYNMaLyd9mK4/edit>
 (cartella Drive "02 · Contratti"). L'originale va conservato nella stessa cartella.
 
+## Il contesto (email del 29/04/2026)
+
+Il documento arriva con un'email di Manuel De Andrés (School Travel) a garganoeuropemobility@gmail.com,
+in copia Carmen Miró Vázquez: School Travel **ha vinto un bando** ("tender") per gestire **fino a 42
+tirocini Erasmus in Italia nel 2026 e 2027**, con studenti di **Jaén**, "lo stesso gruppo che abbiamo
+attualmente a Manfredonia". Per il bando devono presentare un *cooperation agreement* con
+l'**organizzazione ospitante in destinazione**, che sarà Gargano Europe Mobility; chiedono a Luigi di
+aggiungere il nome, convertire in PDF e rimandarlo firmato.
+
+Quindi: il documento è un **adempimento formale del bando**, non il contratto commerciale. Serve a
+School Travel per dimostrare al finanziatore chi è l'organizzazione ospitante. I soldi del progetto
+sono, con ogni probabilità, **fondi Erasmus+** che passano da School Travel.
+
 ## Cosa dice il testo
 
 | Elemento | Nel testo |
@@ -46,14 +59,17 @@ documento, o sono stati concordati a voce.
    scritto per un altro verso della collaborazione ("Lote 1 Italia" fa pensare a un lotto di un
    bando). Così com'è, non descrive il servizio che vendiamo.
 
-2. **La parte italiana non è l'impresa di Gianluca.** Firma **Gargano Europe Mobility, P.IVA
+2. **La parte italiana non è l'impresa di Gianluca, e non può esserlo per il bando.** Firma **Gargano Europe Mobility, P.IVA
    04566340719**: è l'agenzia Erasmus+ già attiva a Manfredonia, con sito
    garganoeuropemobility.com, di cui **Luigi Zerulo è "Project Manager and Director"**, e che ha
    già ospitato gruppi spagnoli, croati, lituani e rumeni tra il 2023 e il 2025. Quindi "GEM" non
    è il nome di un progetto nuovo: è un soggetto che esiste, con una sua partita IVA. Da chiarire
    **chi ne è titolare e con quale forma giuridica** (ditta individuale di chi? associazione? società?),
    perché da questo dipendono: chi fattura, il ruolo di Luigi come dipendente pubblico, e il senso
-   della scrittura privata tra i soci.
+   della scrittura privata tra i soci. Nel bando l'organizzazione ospitante dichiarata è GEM: la
+   struttura più lineare potrebbe essere **GEM fattura a Inversión y Educación** e **l'impresa di
+   Gianluca fattura a GEM** alloggio e servizi. Se GEM è un'associazione, non può distribuire utili
+   ai soci: il 50/50 andrebbe ripensato come prezzo dei servizi, non come divisione di margine.
 
 3. **La controparte si chiama Inversión y Educación S.L.**, non School Travel. School Travel è
    il nome che compare nei metadati del file (Manuel De Andrés) ed è probabilmente il nome

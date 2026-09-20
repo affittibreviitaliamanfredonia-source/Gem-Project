@@ -15,6 +15,10 @@
 3. Gargano Europe Mobility è un soggetto esistente, con sito e progetti dal 2023, di cui Luigi
    Zerulo è direttore. Il titolare della sua partita IVA e la forma giuridica sono da chiarire.
 4. Il VAT spagnolo è valido su VIES (20/09/2026).
+5. Dall'email di accompagnamento (29/04/2026): School Travel ha **vinto un bando** per fino a 42
+   tirocini Erasmus in Italia nel 2026–2027 con studenti di Jaén, e il documento è il *cooperation
+   agreement* con l'organizzazione ospitante richiesto dal bando. L'organizzazione ospitante
+   dichiarata è **Gargano Europe Mobility**, non l'impresa di Gianluca.
 
 ## Conseguenze
 
