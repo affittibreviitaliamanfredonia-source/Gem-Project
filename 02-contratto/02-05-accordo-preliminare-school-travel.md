@@ -28,10 +28,12 @@ trasporto pubblico casa–azienda. **Il tetto è 2.000 € per studente per un s
 **Da dove vengono i 2.000 €.** Non da GEM. Sono il **massimo rimborsabile dal bando** per il formato
 lungo. Il 19/05/2025 Sandra ha chiesto a GEM un prezzo in linea con i concorrenti (Sicilia 1.600 €,
 Martina Franca 1.700 €, entrambi in camera doppia) e Luigi ha risposto **"€1700 is a good price"** per
-92 notti in doppia. A luglio 2025 School Travel è tornata sul budget ("we previously received a quote of
-€1,700 per student for double room…", seguito da acquisire) chiedendo quanti studenti in **singola** GEM
-potesse accogliere: è lì, con ogni probabilità, che il prezzo in singola è salito al tetto di 2.000 €,
-quello che Carmen il 25/06/2026 chiama "the price you quoted us". Il 28/07/2025 School Travel lo
+92 notti in doppia. Il 24/07/2025 School Travel è tornata sul budget: la singola diventa obbligatoria e
+**"others offer to us a price of 2.000€ per student in single rooms. Could you offer to us a similar
+price?"**. È School Travel a proporre la cifra, pari al prezzo dei concorrenti e al tetto del bando, e
+GEM si allinea: ecco i 2.000 € che Carmen il 25/06/2026 chiama "the price you quoted us". Nella stessa
+email il pacchetto è definito in quattro voci: camera singola, transfer da e per l'aeroporto,
+**organizzazione del tirocinio**, trasporto per il tirocinio se necessario. Il 28/07/2025 School Travel lo
 ripete in chiaro: "the **maximum** budget per participant is €2000, for single-room accommodation, meals
 not included", e chiede a GEM il "revised budget for a 92-day stay in single rooms".
 
