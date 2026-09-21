@@ -15,6 +15,7 @@ Non riguardano la capofila: sono interni.
 
 | PDF | Generato da |
 |---|---|
+| [`pdf/GEM-nota-prezzo-62-giorni.pdf`](pdf/GEM-nota-prezzo-62-giorni.pdf) | `nota-per-luigi-prezzo-62-giorni.md` — nota del 21/09 per Luigi: origine dei 2.000 €, stima del prezzo per 62 giorni, cosa serve da lui |
 | [`pdf/GEM-documento-di-progetto-v0.7.pdf`](pdf/GEM-documento-di-progetto-v0.7.pdf) | `documento-di-progetto.md` |
 | [`pdf/GEM-scrittura-privata-soci-v0.7.pdf`](pdf/GEM-scrittura-privata-soci-v0.7.pdf) | `scrittura-privata.md`, **senza** commentario — la versione da firmare |
 | [`pdf/GEM-scrittura-privata-soci-v0.7-con-commentario.pdf`](pdf/GEM-scrittura-privata-soci-v0.7-con-commentario.pdf) | `scrittura-privata.md`, **con** commentario — la versione da leggere |
