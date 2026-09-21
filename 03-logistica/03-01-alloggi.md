@@ -17,12 +17,28 @@
 
 ## Costo — da quantificare ⚠️
 
+**Ipotesi di lavoro di Gianluca (21/09/2026), da sostituire con preventivi veri.** Gli appartamenti
+reali hanno 2, 3 o 4 stanze; un bilocale con due camere costa **600–700 € al mese**. Regola decisa
+il 16/09: all'arrivo si pagano **tutti e tre i mesi** di calendario (febbraio, marzo, aprile), senza
+caparre. L'obiettivo resta una stanza per ciascuno.
+
+| Scenario | Affitto / mese / appartamento | Per ospite / mese | Per ospite, 2 mesi | Per ospite, **3 mesi** (regola 16/09) | Totale 36, 3 mesi |
+|---|---|---|---|---|---|
+| Bilocali a 2 camere (18 appartamenti) | 600–700 € | 300–350 € | 600–700 € | **900–1.050 €** | 32.400–37.800 € |
+| Appartamenti a 3–4 camere (9–12 appartamenti), *ipotesi* | 800–1.100 € | 250–300 € | 500–600 € | **750–900 €** | 27.000–32.400 € |
+
 | Voce | Valore |
 |---|---|
-| Costo per camera / notte | `DA STIMARE` |
-| Costo per ospite / 61 notti | `DA STIMARE` |
-| **Costo alloggio totale** | `DA STIMARE` |
-| Incidenza sul prezzo per ospite (2.000 € è un'ipotesi, vedi STORIA.md §3) | `DA CALCOLARE` |
+| Costo per ospite / 61 notti | **750–1.050 €** secondo il taglio degli appartamenti e i mesi pagati |
+| Utenze, se non comprese | +100–150 € per ospite (stima) |
+| **Costo alloggio totale** | **27.000–38.000 €** per 36 ospiti |
+| Incidenza sul prezzo per ospite | a 1.350 € di prezzo: 55–80 %; a 1.550 €: 50–70 % |
+
+> **Conseguenza:** con bilocali a 650 € e tre mesi pagati, l'alloggio da solo vale ~1.000 € a ospite.
+> Aggiunti bus (~70 €), transfer (~40 €), utenze e imposta di soggiorno, il costo variabile arriva a
+> **1.150–1.300 €**: a un prezzo di 1.350 € il margine è quasi nullo. Il pavimento del prezzo sale a
+> **~1.500 €**, oppure servono appartamenti da 3–4 camere o la trattativa sui mesi pagati (due mesi
+> più i giorni, invece di tre interi).
 
 **Soglia di attenzione:** l'alloggio è la voce di costo dominante. Sui 2.000 € per ospite,
 è il valore che determina se il margine esiste. Va quantificato **prima** di firmare,

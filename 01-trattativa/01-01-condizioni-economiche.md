@@ -58,7 +58,7 @@ Checklist documentale in lavorazione: [`../02-contratto/02-03-checklist-document
 
 | Categoria | Descrizione | Importo stimato |
 |---|---|---|
-| Alloggio | Camera singola × 36 × 61 notti | `DA STIMARE` ⚠️ |
+| Alloggio | Camera singola × 36 × 61 notti | **750–1.050 € per ospite** (ipotesi 21/09: bilocali 600–700 €/mese, 3 mesi pagati; vedi [`../03-logistica/03-01-alloggi.md`](../03-logistica/03-01-alloggi.md)) ⚠️ |
 | Transfert | Arrivi e partenze | `DA STIMARE` ⚠️ |
 | Mobility | Spostamenti locali durante il soggiorno | `DA STIMARE` ⚠️ |
 

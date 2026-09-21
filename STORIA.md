@@ -132,7 +132,7 @@ Aggiornato al 20/09/2026. Ordine: prima le cose che bloccano il prezzo e il cont
 | L7 | Il file firmato del 27/05/2026 (*Collaboration Agreement*) è mai arrivato a School Travel? Aprire l'email inviata dalla casella GEM da computer | L'allegato era un'icona di 518 byte |
 | L8 | Se esiste un **thread per i gruppi di gennaio e marzo 2026** (conferme, numeri finali, date, prezzo, fatture): indice come per il thread 2025 | Chiude la ricostruzione |
 | L9 | I testi completi delle sue tre risposte del 01/08, 06/08 e 07/08/2025 | Completezza dello storico |
-| L10 | Esito dell'incontro con HR/Comando del 21/09 sull'autorizzazione (art. 53 D.Lgs. 165/2001) e dati anagrafici per la scrittura | Blocca la firma tra soci |
+| L10 | Esito dell'incontro con HR/Comando sull'autorizzazione (art. 53 D.Lgs. 165/2001) e dati anagrafici per la scrittura. Il 21/09 il responsabile non era presente: **da riprogrammare** | Blocca la firma tra soci |
 
 ### Da School Travel (una sola email, dopo L1)
 
@@ -168,10 +168,11 @@ Aggiornato al 20/09/2026. Ordine: prima le cose che bloccano il prezzo e il cont
 | N4 | Rifare **piano di cassa e foglio scenari** con il prezzo vero, una volta sola | ⏳ dopo N1 |
 | N5 | Inoltro automatico della casella di progetto, calendario GEM, spostare "File ricevuti" in "05 · Ospiti", togliere l'accesso di progettogem | 🟡 lato Gianluca |
 | N6 | Iniziare la **mappa delle aziende** per settori ricorrenti: RSA e strutture per anziani, ambulatori, agenzie viaggi ed eventi, studi informatici e web, uffici, bar e ristorazione, farmacie, aziende agricole e olearie | 🔴 non iniziata |
-| N7 | Iniziare la ricerca **immobili**: 8–9 appartamenti da 4–5 singole, senza caparre, 3 mesi pagati all'arrivo | 🔴 non iniziata |
+| N7 | Iniziare la ricerca **immobili**: appartamenti reali da 2, 3 o 4 camere (bilocale 600–700 €/mese), senza caparre, 3 mesi pagati all'arrivo, una stanza a testa. Ipotesi di costo in `03-logistica/03-01-alloggi.md`: **750–1.050 € a ospite**, che alza il pavimento del prezzo a ~1.500 € | 🔴 non iniziata |
 
 ## 8. Aggiornamenti
 
 | Data | Cosa si è chiuso o cambiato |
 |---|---|
 | 20/09/2026 | Prima stesura: ricostruito il thread 2025 (26 messaggi) e il carteggio 2026; capito che i 2.000 € sono il tetto del formato da 92 giorni e che il 2027 è nel formato da 62 |
+| 21/09/2026 | Nota PDF per Luigi con stima del prezzo per 62 giorni (1.350–1.600 €); attesa la sua risposta entro il 22/09 ore 10; HR di Luigi assente, incontro da rifare; prima ipotesi di costo alloggi (bilocali 600–700 €/mese, 3 mesi) che porta il costo variabile a 1.150–1.300 € a ospite |
