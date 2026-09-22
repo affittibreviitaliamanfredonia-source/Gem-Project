@@ -176,3 +176,4 @@ Aggiornato al 20/09/2026. Ordine: prima le cose che bloccano il prezzo e il cont
 |---|---|
 | 20/09/2026 | Prima stesura: ricostruito il thread 2025 (26 messaggi) e il carteggio 2026; capito che i 2.000 € sono il tetto del formato da 92 giorni e che il 2027 è nel formato da 62 |
 | 21/09/2026 | Nota PDF per Luigi con stima del prezzo per 62 giorni (1.350–1.600 €); attesa la sua risposta entro il 22/09 ore 10; HR di Luigi assente, incontro da rifare; prima ipotesi di costo alloggi (bilocali 600–700 €/mese, 3 mesi) che porta il costo variabile a 1.150–1.300 € a ospite |
+| 22/09/2026 ore 10 | Scaduto il termine per la risposta di Luigi (L1–L4): nessuna risposta nella casella dell'agenzia né in chat. Sollecito preparato per Gianluca; email a Carmen ferma in attesa della cifra 2026 |
