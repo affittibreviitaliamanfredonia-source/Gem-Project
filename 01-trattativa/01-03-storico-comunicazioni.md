@@ -66,6 +66,8 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 
 | 24/09/2026 | Gianluca → Luigi | WhatsApp | Sollecito completo: i 2.000 € sono il tetto del formato da 92 giorni, il 2027 è nel formato da 62, stima 1.350–1.600 € a ragazzo (≈50.000 € e non 72.000). Sei richieste in ordine: (1) fattura del gruppo marzo–maggio 2026 con modalità e tempi di incasso 80/20, (2) accordi WhatsApp con Sandra sui prezzi 2025, (3) due o tre affitti reali del 2026, (4) chi è Libero Dachille, (5) il gruppo "more than 20 students" del 07/08/2025, (6) esito del gruppo di gennaio 2026. Più: quando rifissa l'incontro con il superiore del Comando per l'autorizzazione. Chiude con il quadro dei tempi (aziende e alloggi entro il 10/01, contratto 30/11, immobili 15/11) e il richiamo ai due silenzi di agosto 2025 e luglio 2026 | Testo integrale in [`../06-accordo-soci/sollecito-whatsapp-luigi.md`](../06-accordo-soci/sollecito-whatsapp-luigi.md). Chiede almeno i primi due punti, in alternativa una call |
 
+| 24/09/2026 | Luigi → Gianluca | WhatsApp (vocale) | "Io adesso sono [in missione fuori sede], appena posso che riesco a capire un attimo quando mi libero ti mando un messaggio e ci mettiamo d'accordo anche per una chiamata così parliamo direttamente a voce e magari si spiega meglio" | Risposta al sollecito. **Nessuna delle sei informazioni fornita, nessuna data**: rimanda tutto a una chiamata da fissare. L1 (la cifra del 2026) resta il blocco su N1, N4 e l'email a Carmen |
+
 ## Come registrare
 
 - **Direzione:** `→ capofila` (in uscita) · `← capofila` (in entrata)
