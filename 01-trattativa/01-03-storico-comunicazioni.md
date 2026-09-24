@@ -68,6 +68,8 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 
 | 24/09/2026 | Luigi → Gianluca | WhatsApp (vocale) | "Io adesso sono [in missione fuori sede], appena posso che riesco a capire un attimo quando mi libero ti mando un messaggio e ci mettiamo d'accordo anche per una chiamata così parliamo direttamente a voce e magari si spiega meglio" | Risposta al sollecito. **Nessuna delle sei informazioni fornita, nessuna data**: rimanda tutto a una chiamata da fissare. L1 (la cifra del 2026) resta il blocco su N1, N4 e l'email a Carmen |
 
+| 24/09/2026 sera | Luigi → Gianluca | WhatsApp | "1700 a ragazzo a marzo" + fattura allegata. La fattura è la **GEM 2026-004 del 24/06/2026 verso STEPV Valencia** (non School Travel): 6 tirocinanti, 19/03–20/06/2026, 20 % di 16.800 €, cioè 2.800 € a testa per 93 notti | Prima informazione concreta da Luigi, ma **risponde a una domanda diversa da L1**. Il "1.700" non compare nel documento: probabile ricordo del preventivo del 19/05/2025 in camera doppia. Analisi in [`01-05-precedente-stepv-valencia.md`](01-05-precedente-stepv-valencia.md) |
+
 ## Come registrare
 
 - **Direzione:** `→ capofila` (in uscita) · `← capofila` (in entrata)

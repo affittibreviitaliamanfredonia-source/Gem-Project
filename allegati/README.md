@@ -28,4 +28,4 @@ nominativi, copie di documenti d'identità o dati sanitari.
 
 | Data | File | Tipo | Nota |
 |---|---|---|---|
-| — | — | — | Nessun allegato archiviato |
+| 24/06/2026 | `privati/2026-06-24-fattura-gem-2026-004-stepv-valencia.pdf` | Fattura emessa | GEM → STEPV Valencia, 6 tirocinanti, 20 % di 16.800 €. **In `privati/`, fuori da git**: contiene i nomi dei tirocinanti. Letta in [`../01-trattativa/01-05-precedente-stepv-valencia.md`](../01-trattativa/01-05-precedente-stepv-valencia.md) |
