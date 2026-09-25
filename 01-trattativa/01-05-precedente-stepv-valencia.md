@@ -127,3 +127,58 @@ pagato 2.000 € a testa o meno?**
 Nota: se vale A, il formato da 62 giorni rende **32,8 € a notte** — più di Valencia. Sarebbe il
 contrario di quello che abbiamo assunto finora, e renderebbe il gruppo dei 36 molto più ricco del
 previsto.
+
+---
+
+## 7. La risposta di Luigi del 25/09 — lettura A, ma da verificare
+
+> *"È sempre 2000 daranno, loro hanno detto 2000. Cioè, se mi hanno chiesto, mi hanno chiesto 61
+> giorni e io ho chiuso per 2000 sarà così."*
+
+Luigi sostiene la **lettura A**: i 2.000 € a studente in camera singola valgono anche per il formato
+da 62 giorni, perché è a quelle condizioni che ha chiuso nel 2026.
+
+**Va preso come ipotesi di lavoro, non come dato accertato.** Il "sarà così" è una deduzione, non un
+ricordo di una cifra fatturata; e nelle ventiquattro ore precedenti Luigi si era sbagliato due volte
+(il "1.700 a marzo", e l'aver indicato la fattura STEPV come quella di School Travel). Sulla
+differenza fra le due letture ballano 23.000 €: prima di scriverlo in un contratto serve una prova.
+
+### La verifica, in due minuti e senza cercare nessun PDF
+
+Se il prezzo era davvero 2.000 € a testa, l'incassato dal gruppo di marzo–maggio 2026 deve essere un
+**multiplo esatto di 2.000**:
+
+| Ragazzi nel gruppo | Totale atteso | 80 % | 20 % |
+|---|---|---|---|
+| 9 (numero in `../STORIA.md`) | **18.000 €** | 14.400 € | 3.600 € |
+| 3 (numero annunciato nell'agosto 2025) | **6.000 €** | 4.800 € | 1.200 € |
+
+Basta guardare gli accrediti da **Inversión y Educación** sul conto di Gargano Europe Mobility fra
+marzo e luglio 2026. Se il totale è un multiplo netto di 2.000, la lettura A è confermata. Se esce una
+cifra come 12.150 o 13.500, il prezzo era proporzionato alla durata e vale la lettura B.
+
+### Cosa cambia se è confermata
+
+| | Prezzo | 36 ragazzi | 80 % | 20 % | € a notte (61) |
+|---|---|---|---|---|---|
+| Lettura A | 2.000 | **72.000 €** | 57.600 € | 14.400 € | **32,8** |
+
+Tornano esatti i numeri del `../README.md`. E soprattutto: **32,8 € a notte è più dei 28,5–29,0 netti
+del canale di Valencia**. Il formato da 62 giorni con School Travel sarebbe il rapporto meglio pagato
+che il progetto ha. La stima di 1.350–1.600 € fatta il 21/09 (`../STORIA.md` §3) risulterebbe
+sbagliata per difetto di circa il 30 %.
+
+### L'insidia: le parole di Carmen del 25/06/2026
+
+Contro questa lettura gioca una frase scritta, che School Travel può tirare fuori in qualsiasi momento:
+
+> *"based on the price you quoted us of €2,000 per student **for a 92-day stay**"*
+
+È Carmen stessa ad aver legato i 2.000 € al formato da 92 giorni. Se ci accorgiamo noi per primi che
+il 2027 è da 62 giorni e **glielo chiediamo**, le offriamo su un piatto l'occasione di proporre una
+cifra proporzionata più bassa. Se invece **affermiamo** noi le condizioni — "le stesse del 2026:
+2.000 € a studente in camera singola" — l'onere di aprire la discussione passa a loro.
+
+**Conseguenza operativa:** nell'email a Carmen il prezzo non va chiesto, va confermato. E va scritto
+prima che sia lei a fare i conti sulla durata.
+

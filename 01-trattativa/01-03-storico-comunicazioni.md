@@ -72,6 +72,8 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 
 | 25/09/2026 | Luigi → Gianluca | WhatsApp (vocale) | "Sono due competitor diversi … con School Travel mi ero già messo d'accordo, loro inizialmente pagavano 1.700, adesso pagano 2.000 a ragazzo, però a determinate condizioni, cioè che stiano in camera singola … quando prendo 2.800 al ragazzo con l'altra agenzia devo dare una percentuale, tipo 100-150 € al ragazzo, a uno che me li ha mandati, che si chiama **Sabino**, di un'altra agenzia ancora che sta in Germania, che sta cercando di fare tutti i progetti Erasmus in tutta la Puglia … ci fornisce tutto il supporto, ogni problema che c'è io scrivo a lui e lui parla con l'agenzia senza che mi debba mettere io in prima persona" | Conferma 1.700 doppia → 2.000 singola. Rivela il secondo canale e l'intermediario Sabino (provvigione 3,6-5,4 %). **Non chiarisce se i 2.000 € valgano anche per i 62 giorni**: è la domanda successiva |
 
+| 25/09/2026 | Gianluca → Luigi, poi Luigi → Gianluca | WhatsApp | G: *"quindi zero trattativa con School Travel! … se 2000 erano per 91, con 61 quanto daranno?"* — L: *"È sempre 2000 daranno, loro hanno detto 2000. Cioè, se mi hanno chiesto, mi hanno chiesto 61 giorni e io ho chiuso per 2000 sarà così"* | Luigi sostiene la lettura A. Precisazione fatta a Gianluca: **non è zero trattativa** — il tetto di 2.000 € vale per il formato da 92 giorni; per quello da 62 il prezzo lo propone il fornitore (email di Sandra del 06/08/2025, *"could you confirm the cost"*). Verifica in corso sugli accrediti |
+
 ## Come registrare
 
 - **Direzione:** `→ capofila` (in uscita) · `← capofila` (in entrata)
