@@ -70,6 +70,8 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 
 | 24/09/2026 sera | Luigi → Gianluca | WhatsApp | "1700 a ragazzo a marzo" + fattura allegata. La fattura è la **GEM 2026-004 del 24/06/2026 verso STEPV Valencia** (non School Travel): 6 tirocinanti, 19/03–20/06/2026, 20 % di 16.800 €, cioè 2.800 € a testa per 93 notti | Prima informazione concreta da Luigi, ma **risponde a una domanda diversa da L1**. Il "1.700" non compare nel documento: probabile ricordo del preventivo del 19/05/2025 in camera doppia. Analisi in [`01-05-precedente-stepv-valencia.md`](01-05-precedente-stepv-valencia.md) |
 
+| 25/09/2026 | Luigi → Gianluca | WhatsApp (vocale) | "Sono due competitor diversi … con School Travel mi ero già messo d'accordo, loro inizialmente pagavano 1.700, adesso pagano 2.000 a ragazzo, però a determinate condizioni, cioè che stiano in camera singola … quando prendo 2.800 al ragazzo con l'altra agenzia devo dare una percentuale, tipo 100-150 € al ragazzo, a uno che me li ha mandati, che si chiama **Sabino**, di un'altra agenzia ancora che sta in Germania, che sta cercando di fare tutti i progetti Erasmus in tutta la Puglia … ci fornisce tutto il supporto, ogni problema che c'è io scrivo a lui e lui parla con l'agenzia senza che mi debba mettere io in prima persona" | Conferma 1.700 doppia → 2.000 singola. Rivela il secondo canale e l'intermediario Sabino (provvigione 3,6-5,4 %). **Non chiarisce se i 2.000 € valgano anche per i 62 giorni**: è la domanda successiva |
+
 ## Come registrare
 
 - **Direzione:** `→ capofila` (in uscita) · `← capofila` (in entrata)

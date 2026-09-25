@@ -79,3 +79,51 @@ notti **in camera doppia** nella trattativa con Sandra — una cifra mai fattura
 4. **Singola o doppia** per i sei di Valencia?
 5. Il "1.700" da dove viene: è il preventivo 2025 in doppia, o una fattura vera?
 6. **STEPV è un canale ancora aperto** per il 2027? Con chi si parla?
+
+---
+
+## 6. Aggiornamento del 25/09/2026 — il vocale di Luigi
+
+Due informazioni nuove, entrambe rilevanti.
+
+### I 2.800 € non sono netti: c'è Sabino
+
+Il gruppo di Valencia è arrivato tramite **Sabino**, un intermediario di un'agenzia con sede in
+Germania che sta costruendo una rete per i progetti Erasmus in tutta la Puglia. Gli spetta una
+provvigione di **100 – 150 € a tirocinante**, cioè il 3,6 – 5,4 % del prezzo. In cambio fa da filtro
+e da mediatore con il cliente spagnolo: i problemi si scrivono a lui, tratta lui con l'agenzia.
+
+| | Lordo | Provvigione | **Netto** | Notti | **€ a notte** |
+|---|---|---|---|---|---|
+| STEPV via Sabino | 2.800 | 100 – 150 | **2.650 – 2.700** | 93 | **28,5 – 29,0** |
+| School Travel, tetto 92 giorni | 2.000 | — | 2.000 | 92 | 21,7 |
+
+Anche al netto della provvigione il canale di Valencia paga il **31 – 34 % in più a notte**. La
+provvigione è bassa per quello che dà: cinque punti percentuali per non dover gestire il rapporto con
+il committente sono pochi, soprattutto viste le due volte in cui il silenzio di GEM ha fatto perdere
+gruppi a School Travel.
+
+### La domanda da 23.000 €: i 2.000 € valgono anche per il formato da 62 giorni?
+
+Luigi, nello stesso vocale: *"con School Travel mi ero già messo d'accordo, loro inizialmente pagavano
+1.700, adesso pagano 2.000 a ragazzo, però a determinate condizioni, cioè che stiano in camera
+singola"*.
+
+Questo **conferma** la ricostruzione di [`../STORIA.md`](../STORIA.md) §3: 1.700 in doppia (maggio 2025)
+→ 2.000 in singola (luglio 2025). Il "1.700 a marzo" di ieri era il ricordo della cifra vecchia.
+
+Ma lascia aperta la cosa che conta di più. Luigi dice "adesso pagano 2.000" senza distinguere i
+formati. Le due letture possibili:
+
+| | Prezzo a ragazzo | 36 ragazzi |
+|---|---|---|
+| **A** — i 2.000 € sono il prezzo della singola, qualunque sia la durata | 2.000 | **72.000 €** |
+| **B** — i 2.000 € valgono per i 92 giorni e il formato da 62 è proporzionato | ~1.350 – 1.600 | 48.600 – 57.600 |
+
+Fra le due ci sono oltre **23.000 €**. Si risolve con una domanda sola, che non richiede di trovare
+nessuna fattura: **al gruppo di 9 ragazzi di marzo–maggio 2026, che stava 62 giorni, School Travel ha
+pagato 2.000 € a testa o meno?**
+
+Nota: se vale A, il formato da 62 giorni rende **32,8 € a notte** — più di Valencia. Sarebbe il
+contrario di quello che abbiamo assunto finora, e renderebbe il gruppo dei 36 molto più ricco del
+previsto.

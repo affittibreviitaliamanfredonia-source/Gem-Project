@@ -41,6 +41,22 @@ essere fatturata in reverse charge ex art. 7-ter. Vedi
 `ricavi incassati − costi variabili sostenuti`, non sul fatturato lordo.
 Definizione operativa in [`../04-pagamenti/04-02-ripartizione-soci.md`](../04-pagamenti/04-02-ripartizione-soci.md).
 
+## Il secondo canale — Valencia, tramite Sabino
+
+Emerso il 25/09/2026 da un vocale di Luigi, leggendo la fattura GEM 2026-004.
+Analisi in [`../01-trattativa/01-05-precedente-stepv-valencia.md`](../01-trattativa/01-05-precedente-stepv-valencia.md).
+
+| Campo | Valore |
+|---|---|
+| Cliente fatturato | **Sindicat de Treballadors i treballadores de l'Ensenyament del País Valencià (STEPV)** — C/ Juan de Mena 14 Bajo, 46008 Valencia (Spagna) · CIF **G46221933** |
+| Progetto | Erasmus+ **2025-1-ES01-KA121-VET-000319117** (accreditamento KA121 VET spagnolo, diverso dal bando di Jaén) |
+| Prezzo | **2.800 € a tirocinante** per 93 notti (19/03 – 20/06/2026, 6 ragazzi, 16.800 € in totale) |
+| Intermediario | **Sabino** `COGNOME DA COMPILARE` — agenzia con sede in **Germania** `NOME AGENZIA DA COMPILARE`. Ha portato lui il gruppo; sta costruendo una rete per i progetti Erasmus **in tutta la Puglia** |
+| Sua provvigione | **100 – 150 € a tirocinante**, cioè il **3,6 – 5,4 %** del prezzo. Netto per noi: **2.650 – 2.700 € a tirocinante** |
+| Cosa dà in cambio | Fa da filtro e da mediatore con il cliente spagnolo: i problemi si scrivono a lui, tratta lui con l'agenzia senza che il fornitore debba interloquire in prima persona |
+| Contatti | `DA COMPILARE` ⚠️ — cognome, agenzia, email, telefono |
+| Perché conta | È l'unico canale alternativo a School Travel di cui abbiamo prova documentale, e paga **molto di più**. Da capire se è aperto anche per il 2027 |
+
 ## Beneficiari finali
 
 | Campo | Valore |
