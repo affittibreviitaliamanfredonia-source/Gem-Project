@@ -1,6 +1,10 @@
 # Messaggio a Luigi — sunto e da farsi (25/09/2026)
 
-Chiude la giornata di scambi del 24–25/09. Stato: **bozza, non ancora inviata**.
+Chiude la giornata di scambi del 24–25/09. **Inviato da Gianluca il 25/09/2026**, con sue varianti:
+il prezzo è espresso come requisito ("deve essere", "deve valere") anziché come dato; sul Comando è
+aggiunta la ragione ("capire come inquadrare il nostro rapporto"); sulle aziende è aggiunto il dubbio
+se tutti i 36 avranno un tirocinio; non è chiesta esplicitamente la presentazione a Sabino.
+Di seguito il testo della bozza; il testo effettivamente inviato è nello storico comunicazioni.
 Contesto in [`../05-log-decisioni/2026-09-25-prezzo-62-giorni-e-secondo-canale.md`](../05-log-decisioni/2026-09-25-prezzo-62-giorni-e-secondo-canale.md).
 
 > **Nota:** l'interlocuzione con School Travel resta a Luigi. Gianluca non scrive a Carmen: prepara i

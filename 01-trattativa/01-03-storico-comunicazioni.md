@@ -74,6 +74,8 @@ Registro cronologico di ogni scambio rilevante. **Solo aggiunte in coda: non ris
 
 | 25/09/2026 | Gianluca → Luigi, poi Luigi → Gianluca | WhatsApp | G: *"quindi zero trattativa con School Travel! … se 2000 erano per 91, con 61 quanto daranno?"* — L: *"È sempre 2000 daranno, loro hanno detto 2000. Cioè, se mi hanno chiesto, mi hanno chiesto 61 giorni e io ho chiuso per 2000 sarà così"* | Luigi sostiene la lettura A. Precisazione fatta a Gianluca: **non è zero trattativa** — il tetto di 2.000 € vale per il formato da 92 giorni; per quello da 62 il prezzo lo propone il fornitore (email di Sandra del 06/08/2025, *"could you confirm the cost"*). Verifica in corso sugli accrediti |
 
+| 25/09/2026 | Gianluca → Luigi | WhatsApp | Sunto della giornata e da farsi: (a) il prezzo **deve essere** 2.000 € in singola e **deve valere** anche per il formato da 62 giorni → 72.000 € sui 36; (b) sopra i 2.000 non si va, i 2.100 furono respinti; (c) Valencia rende 2.650 netti, un terzo in più. Il rischio è al ribasso, non al rialzo: Carmen ha legato i 2.000 € ai 92 giorni, la proporzione sui 62 porterebbe a 1.350 € (−23.000 €). **Prima del riscontro bancario non si scrive a Carmen**; il testo lo prepara Gianluca, lo manda Luigi. Chieste: verifica degli accrediti Inversión y Educación marzo–luglio 2026 (multiplo esatto di 2.000) e apertura verso Sabino. Ricordato l'ufficio personale del Comando, che serve per inquadrare il rapporto tra soci | Testo in [`../06-accordo-soci/messaggio-luigi-2026-09-25-sunto.md`](../06-accordo-soci/messaggio-luigi-2026-09-25-sunto.md). Gianluca solleva un punto nuovo: **non è detto che tutti i 36 abbiano un'azienda**, la lista va perfezionata |
+
 ## Come registrare
 
 - **Direzione:** `→ capofila` (in uscita) · `← capofila` (in entrata)
