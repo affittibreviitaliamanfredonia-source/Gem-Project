@@ -22,9 +22,18 @@ analisi in [`../01-trattativa/01-05-precedente-stepv-valencia.md`](../01-trattat
 
 ## Cosa decidiamo
 
-- **Nessuna email a Carmen — né da Gianluca né da Luigi — prima del riscontro bancario.** L'unico
-  messaggio utile afferma "le stesse condizioni del 2026, 2.000 € a studente in singola": affermarlo
-  senza averlo verificato espone a essere smentiti dai registri della capofila.
+- **L'interlocuzione con School Travel resta a Luigi.** Deciso il 25/09: con Carmen non c'è ancora la
+  confidenza perché scriva Gianluca, i rapporti li tiene Luigi. Divisione dei ruoli: **Gianluca
+  prepara i testi, Luigi li manda**. Resta fermo che il **firmatario** e il soggetto fatturante del
+  2027 è Gianluca (vedi [`../00-anagrafica/soggetti-e-ruoli.md`](../00-anagrafica/soggetti-e-ruoli.md)):
+  chi firma e chi tiene il rapporto quotidiano sono due cose distinte, e il passaggio del referente
+  va preparato, non improvvisato.
+  ⚠️ Attenzione: contraddice la lezione 1 di [`../STORIA.md`](../STORIA.md) §5, che chiede un referente
+  unico e riconoscibile per il 2027. Finché i ruoli restano separati, il rischio del silenzio di una
+  settimana — che nel 2025 e nel 2026 è costato due gruppi — resta in capo a Luigi.
+- **Nessun messaggio a Carmen prima del riscontro bancario.** L'unico messaggio utile afferma "le
+  stesse condizioni del 2026, 2.000 € a studente in singola": affermarlo senza averlo verificato
+  espone a essere smentiti dai registri della capofila.
 - **La verifica è sugli accrediti di Inversión y Educación fra marzo e luglio 2026**: se il totale è un
   multiplo esatto di 2.000 € (18.000 per 9 ragazzi, 6.000 per 3) la lettura è confermata.
 - **Verso Carmen il prezzo si afferma, non si chiede.** Chiedere "quanto ci date per 62 giorni" invita
@@ -32,8 +41,8 @@ analisi in [`../01-trattativa/01-05-precedente-stepv-valencia.md`](../01-trattat
 - **I 2.800 € di Valencia non si nominano con School Travel.** Sono un altro bando e un'altra capofila:
   portarli in trattativa espone a una smentita in una riga.
 - **Si apre il canale Valencia per il 2027**, contattando **Sabino** e non STEPV direttamente: è lui che
-  porta i gruppi e fa da mediatore, scavalcarlo chiuderebbe il canale. Primo passo: farsi dare i suoi
-  contatti da Luigi.
+  porta i gruppi e fa da mediatore, scavalcarlo chiuderebbe il canale. Primo passo: **farsi presentare
+  da Luigi**, che il rapporto ce l'ha lui.
 
 ## Cosa NON cambia
 
