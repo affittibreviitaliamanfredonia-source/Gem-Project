@@ -49,24 +49,91 @@ dal Learning Agreement e non dalla disciplina regionale dei tirocini, ma la risp
 **Si può comunque cominciare a contattare**: il primo giro serve a sondare la disponibilità, non a
 far firmare.
 
-## 3. I settori e dove cercarli a Manfredonia e dintorni
+## 3. Chi può ospitare, e dove cercarli
 
-Settori che il 2026 ha già visto, con i bacini locali:
+Non solo imprese: un tirocinio Erasmus+ può essere ospitato da **qualunque organizzazione** con una
+sede operativa e qualcuno che faccia da tutor — enti pubblici, associazioni, cooperative, studi
+professionali. Allargare la platea è il modo più rapido per arrivare a trenta.
+
+### 3.1 · Imprese di servizi e commercio
 
 | Settore | Dove guardare |
 |---|---|
-| **Socio-sanitario e assistenza anziani** | RSA, case di riposo, centri diurni — Manfredonia, Monte Sant'Angelo, San Giovanni Rotondo |
-| **Sanitario e ambulatoriale** | Poliambulatori, studi dentistici, fisioterapia, laboratori analisi |
-| **Farmacie** | Manfredonia centro e frazioni |
-| **Turismo ed eventi** | Agenzie viaggi, strutture ricettive, organizzatori di eventi, pro loco |
-| **Informatica e web** | Studi di sviluppo, assistenza IT, agenzie di comunicazione |
-| **Amministrazione e uffici** | Studi commercialisti, assicurazioni, agenzie immobiliari, CAF e patronati |
-| **Ristorazione e bar** | Attenzione: orari serali e festivi, da verificare con il Learning Agreement |
-| **Agricolo e oleario** | Frantoi, aziende agricole, cooperative — stagione favorevole a febbraio-aprile |
+| **Socio-sanitario e assistenza anziani** | RSA, case di riposo, centri diurni, assistenza domiciliare — Manfredonia, Monte Sant'Angelo, San Giovanni Rotondo |
+| **Sanitario e ambulatoriale** | Poliambulatori, studi dentistici, fisioterapia, laboratori analisi, veterinari |
+| **Farmacie e parafarmacie** | Manfredonia centro, Siponto, frazioni |
+| **Turismo, ricettività ed eventi** | Agenzie viaggi, hotel e strutture ricettive, organizzatori di eventi, guide e servizi turistici, stabilimenti balneari (apertura a marzo) |
+| **Informatica, web e comunicazione** | Studi di sviluppo, assistenza IT, agenzie di comunicazione e social media, tipografie digitali |
+| **Amministrazione e servizi professionali** | Studi commercialisti, consulenti del lavoro, assicurazioni, agenzie immobiliari, CAF e patronati, studi legali |
+| **Ristorazione e bar** | Attenzione a orari serali e festivi, da verificare con il Learning Agreement |
+| **Logistica e trasporti** | Spedizionieri, autotrasporto, magazzini, servizi portuali |
+| **Commercio** | Grande distribuzione, negozi con più addetti, concessionarie |
 
-Fonti per costruire la lista: Registro Imprese per ATECO e comune, Pagine Gialle, Google Maps per
-settore, associazioni di categoria (Confcommercio, Confartigianato, Coldiretti), e il passaparola
-locale, che a Manfredonia vale più di tutto il resto.
+### 3.2 · Imprese di produzione
+
+Spesso trascurate e invece ideali: hanno reparti strutturati, tutor abituati ad affiancare, e a
+febbraio-aprile sono in attività.
+
+| Settore | Dove guardare |
+|---|---|
+| **Agroalimentare e conserviero** | Trasformazione di pomodoro e ortaggi, conserve, pastifici |
+| **Olivicolo e oleario** | Frantoi e aziende olearie — la stagione di potatura e manutenzione cade proprio in quei mesi |
+| **Agricolo e cooperative** | Aziende agricole, cooperative di produttori, vivai |
+| **Pesca e nautica** | Cooperative di pescatori, cantieri navali, rimessaggi, servizi portuali |
+| **Edilizia, impianti, artigianato** | Imprese edili, elettricisti, termoidraulici, falegnamerie, officine meccaniche |
+
+### 3.3 · Enti pubblici
+
+Possono ospitare tirocinanti e spesso hanno già fatto accoglienze Erasmus. **Hanno tempi più lunghi**
+— serve una determina o un protocollo — quindi vanno contattati **per primi**, non per ultimi.
+
+| Ente | Uffici o aree che accolgono volentieri |
+|---|---|
+| **Comune di Manfredonia** | Cultura, turismo e pro loco; servizi sociali; biblioteca; ufficio tecnico; URP; ufficio europa e politiche giovanili |
+| **Comuni limitrofi** | Monte Sant'Angelo (sito UNESCO, forte vocazione turistica), Mattinata, Vieste, Zapponeta |
+| **Parco Nazionale del Gargano** | Educazione ambientale, comunicazione, accoglienza visitatori — ⭐ **contatto già esistente** attraverso l'agenzia |
+| **ASL Foggia e presidi sanitari** | Amministrazione, accoglienza, servizi — tempi lunghi, da sondare presto |
+| **Istituti scolastici e CPIA** | Segreteria, laboratori, supporto linguistico |
+| **Autorità portuale e Capitaneria** | Area amministrativa e servizi |
+| **Musei, biblioteche, siti culturali** | Castello di Manfredonia, Museo nazionale, abbazia di Pulsano |
+
+### 3.4 · Associazioni di categoria e datoriali — soprattutto come moltiplicatori
+
+Qui il valore non è l'ospitalità diretta, che pure è possibile nei loro uffici: è che **una
+telefonata può valerne venti**. Un'associazione che gira la proposta ai propri associati apre
+decine di porte in un colpo solo.
+
+| Organizzazione | Come usarla |
+|---|---|
+| **Camera di Commercio di Foggia** | Elenchi per ATECO e comune; sportelli per l'internazionalizzazione |
+| **Confcommercio** · **Confesercenti** | Commercio, turismo, servizi — bacino più grande della zona |
+| **Confartigianato** · **CNA** | Artigianato, impianti, piccola produzione |
+| **Confindustria Foggia** | Imprese strutturate, quelle che reggono più di un tirocinante |
+| **Coldiretti** · **CIA** · **Confagricoltura** | Agricolo e oleario |
+| **Consorzi e distretti produttivi** | Distretto agroalimentare, consorzi turistici |
+
+**Come si chiede a un'associazione:** non "ospitate un ragazzo", ma *«abbiamo trenta tirocinanti
+europei da collocare a febbraio, a costo zero per le imprese: potete girare la proposta ai vostri
+associati?»* Si offre in cambio visibilità e il merito dell'operazione.
+
+### 3.5 · Terzo settore
+
+| Tipo | Note |
+|---|---|
+| **Cooperative sociali** | Assistenza, disabilità, minori — spesso già dentro progetti europei |
+| **Associazioni di volontariato e APS** | Protezione civile, ambiente, cultura, sport |
+| **Imprese sociali e culturali** | ⭐ **Bottega degli Apocrifi** (Teatro Comunale) è già cliente dell'agenzia: produzione teatrale, organizzazione eventi, comunicazione |
+| **Parrocchie, oratori, Caritas** | Attività sociali ed educative |
+
+### 3.6 · Dove prendere i nomi
+
+Registro Imprese per ATECO e comune · Google Maps per settore · Pagine Gialle · elenchi soci delle
+associazioni di categoria · albo delle cooperative · sito del Comune per uffici e referenti · e il
+passaparola locale, che a Manfredonia vale più di tutto il resto messo insieme.
+
+> ⭐ **Partire dai contatti caldi.** Il Parco Nazionale del Gargano e la Bottega degli Apocrifi sono
+> già in rapporto con l'agenzia: sono le prime due telefonate da fare, perché un sì da chi ti conosce
+> vale come referenza con tutti gli altri.
 
 ## 4. Cosa chiedi e cosa offri
 

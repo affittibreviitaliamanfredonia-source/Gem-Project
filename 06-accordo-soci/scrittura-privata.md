@@ -1,6 +1,13 @@
 # Scrittura privata tra soci — Progetto GEM
 
-**Versione 0.7 — bozza del 20/09/2026 · in revisione tra i soci, non firmata**
+**Versione 0.8 — bozza del 12/10/2026 · in revisione tra i soci, non firmata**
+
+> **Cosa cambia rispetto alla v0.7.** L'ufficio del personale del Socio Operativo ha indicato tempi
+> di circa due mesi e un percorso a due livelli (comandante, poi Roma); per un incarico conferito da
+> un privato il silenzio vale **diniego**. L'art. 7 non sceglie più una modalità di pagamento: stabilisce
+> che la quota **matura ma non è esigibile** finché non esiste un titolo idoneo, e tiene la società a
+> responsabilità limitata come **clausola di salvaguardia** se la posizione con il Comando non si
+> risolve. L'art. 6 chiarisce che il 50 % è al lordo delle imposte personali di ciascuno.
 
 > ⚠️ Bozza redatta per fissare per iscritto quanto concordato a voce. **Non è consulenza
 > legale né fiscale.** Prima della firma va letta dal commercialista, in particolare
@@ -171,6 +178,10 @@ integrante dell'accordo.
    dedicato da ciascun Socio, le spese personali di spostamento salvo diverso accordo scritto,
    costi di altre attività dei Soci.
 4. Il margine è ripartito **50 % a ciascun Socio**.
+4-bis. La quota del 50 % si intende **al lordo delle imposte** dovute da ciascun Socio, che restano
+   a carico di chi le deve sulla propria quota. I Costi di progetto di cui al comma 2 sono dedotti
+   **prima** della ripartizione e gravano perciò su entrambi i Soci **in parti uguali**. Nessun Socio
+   sopporta da solo un costo del progetto né l'imposta dell'altro.
 5. **Tempi di distribuzione:**
    - dopo l'incasso della tranche dell'80 % **non si distribuisce margine**: il conto serve a
      pagare i costi maturati e arretrati e a rimborsare gli anticipi dei Soci (art. 5<!--anticipi-->);
@@ -183,41 +194,50 @@ integrante dell'accordo.
 > 💬 **Commentario.** Definisce la parola "margine", che altrimenti ognuno interpreta a modo suo. L'elenco dei costi al comma 2 è **chiuso**: se una spesa non è in elenco, non riduce il margine. La lettera f) merita attenzione: se il commercialista dice che l'IVA è dovuta (rischio 7-quater) e il prezzo resta "netto" per la capofila, quell'IVA la pagate voi ed è un costo del progetto. Il comma 5 regola *quando* si divide: **mai prima della fine**. Con l'80 % si pagano i costi e si restituiscono gli anticipi ai soci; il margine si divide una volta sola, dopo il 20 % (o quando è certo che non arriverà). È la scelta più prudente: non si distribuiscono soldi che poi potrebbero servire.
 
 
-## Art. 7 — Modalità con cui il Socio Operativo riceve la propria quota <!--#quota-operativo-->
+## Art. 7 — Maturazione e differimento della quota del Socio Operativo <!--#quota-operativo-->
 
-1. Poiché fattura alla Capofila il solo Socio Firmatario, il trasferimento del 50 % del margine
-   al Socio Operativo deve avvenire con un **titolo fiscalmente valido per entrambi**.
-2. La modalità è **[DA DECIDERE col commercialista]** tra, a titolo di esempio:
-   - ☐ fattura emessa dal Socio Operativo al Socio Firmatario per i servizi resi al progetto,
-     di importo pari alla quota di margine (richiede una partita IVA del Socio Operativo);
-   - ☐ **ricevuta per prestazione occasionale** del Socio Operativo, con ritenuta d'acconto
-     del 20 % operata dal Socio Firmatario (senza partita IVA; contributi INPS oltre 5.000 €);
-   - ☐ contratto di **associazione in partecipazione** con apporto di **capitale** (per una
-     persona fisica l'apporto di solo lavoro non è ammesso dal 2015, art. 2549 c.c.);
-   - ☐ altra forma indicata dal commercialista.
-3. Gli **oneri fiscali** che ciascuna modalità comporta per l'uno o per l'altro Socio sono
-   valutati **prima** della scelta; se una modalità sposta un carico fiscale su un solo Socio,
-   i Soci concordano un correttivo per iscritto in modo che il risultato netto resti
-   **sostanzialmente paritario**.
-4. Fino alla definizione di questo articolo **non si effettuano distribuzioni**, salvo il
-   rimborso degli anticipi di cui all'art. 5<!--anticipi-->.
+1. Il Socio Operativo **matura** il diritto al 50 % del margine, come definito all'art. 6<!--margine-->,
+   per effetto della sola esecuzione del progetto. Il diritto sorge via via che le somme sono incassate
+   dalla Capofila ed è accertato nel rendiconto di cui all'art. 4<!--conto-->.
+2. La quota maturata **non è esigibile e non viene corrisposta** finché non esiste un **titolo idoneo**
+   a corrisponderla. Costituiscono titolo idoneo, in via tra loro alternativa:
+   a) l'**autorizzazione espressa** rilasciata dall'Amministrazione di appartenenza del Socio Operativo
+      (art. 53 D.Lgs. 165/2001; artt. 894 e 896 D.Lgs. 66/2010), nei limiti e con le modalità da essa
+      indicati;
+   b) la costituzione della società di cui al comma 5;
+   c) il venir meno, per qualunque causa, del vincolo derivante dal rapporto di servizio del Socio
+      Operativo.
+3. Fino a quel momento **nessuna somma è corrisposta** al Socio Operativo a nessun titolo. Resta fermo
+   il rimborso degli anticipi documentati di cui all'art. 5<!--anticipi-->, che non costituisce
+   compenso ma restituzione di denaro proprio.
+4. La quota maturata e non corrisposta è **accantonata** sul conto dedicato, esposta in ogni rendiconto
+   come posta distinta, non è distribuita al Socio Firmatario e non produce interessi. Il differimento
+   non costituisce rinuncia né novazione: la somma resta del Socio Operativo.
+5. **Clausola di salvaguardia — società.** Se entro il `[DA DECIDERE: 30/06/2027]` non è intervenuta
+   l'autorizzazione di cui al comma 2 lettera a), i Soci si obbligano a valutare in buona fede e, se
+   compatibile con la posizione del Socio Operativo e previo parere del commercialista, a costituire
+   una **società a responsabilità limitata** nella quale il Socio Operativo partecipi **con il solo
+   capitale**: senza cariche sociali, senza poteri di rappresentanza, senza attività gestoria e senza
+   spendita del nome. Alla società sarà imputata la quota accantonata nei modi indicati dal
+   commercialista.
+6. Se entro il `[DA DECIDERE: 31/12/2028]` non si è verificata alcuna delle condizioni del comma 2, i
+   Soci si incontrano per definire per iscritto la sorte della quota accantonata; in difetto di accordo
+   si applica l'art. 14<!--legge-->.
+7. Ciascun Socio si impegna a **non rappresentare a terzi** il rapporto in termini diversi da quelli
+   qui pattuiti, e in particolare a non attribuire al Socio Operativo ruoli operativi, gestori o di
+   rappresentanza che non gli competono.
 
-> 💬 **Commentario.** Alla capofila fattura solo Gianluca: i 72.000 € sono ricavi suoi per il fisco. Girare metà del margine a Luigi con un semplice bonifico crea un problema a entrambi — Gianluca paga le tasse su tutto, Luigi riceve soldi senza un documento che li giustifichi. Serve un **titolo**: una fattura di Luigi (se apre una partita IVA), una ricevuta per prestazione occasionale con ritenuta (senza partita IVA), un contratto di associazione in partecipazione (solo con apporto di denaro: dal 2015 una persona fisica non può "associarsi" apportando solo lavoro), una società tra i due, o altro. Quale, lo dice il commercialista, perché ogni strada costa tasse diverse.
+> 💬 **Commentario.** Questo articolo sostituisce la vecchia versione, che sceglieva *come* pagare Luigi. Oggi quella scelta non si può ancora fare, e fingere di farla sarebbe peggio.
 >
-> **Un "regalo tra privati" non è un titolo.** Una donazione di questa cifra è valida solo per atto notarile con testimoni (art. 782 c.c.); mascherare un compenso da regalo espone entrambi a una riqualificazione; e soprattutto Gianluca pagherebbe l'IRPEF anche sulla metà di Luigi, perché senza documento quella metà non è un costo. Il 50/50 sulla carta diventerebbe 60/40 o peggio nella realtà.
+> **Il punto di partenza è una regola di legge.** Per un incarico conferito da un privato, il silenzio dell'amministrazione dopo 30 giorni vale **diniego**, non assenso (art. 53, c. 10, D.Lgs. 165/2001). E un compenso percepito **senza** autorizzazione va **versato all'amministrazione** (art. 53, c. 7). Quindi pagare Luigi prima che arrivi un sì scritto non è una scorciatoia: è il modo di far perdere a lui tutto quello che ha guadagnato, e di esporlo in sede disciplinare.
 >
-> Il comma 3 protegge il 50/50 *reale*. Esempio con numeri ipotetici, margine 30.000 €, 15.000 € a testa sulla carta:
+> **Da qui la struttura.** Il comma 1 dice che Luigi il diritto se lo guadagna lavorando, a prescindere dalla carta. Il comma 2 dice che quel diritto si può *incassare* solo quando esiste un modo lecito di incassarlo. Il comma 4 dice che nel frattempo i soldi restano fermi sul conto, scritti nel rendiconto col nome di Luigi: non entrano nelle tasche di Gianluca e nessuno può dire fra due anni "non ti spettava".
 >
-> | | Socio Firmatario | Socio Operativo |
-> |---|---|---|
-> | Quota lorda | 15.000 € | 15.000 € |
-> | Tasse sulla propria quota (ipotesi 26,7 %) | −4.005 € | −4.005 € |
-> | Oneri *aggiuntivi* dovuti alla modalità scelta | 0 € | −1.800 € |
-> | **Netto senza correttivo** | **10.995 €** | **9.195 €** |
-> | Correttivo: quota lorda spostata | −1.228 € | +1.228 € |
-> | **Netto con correttivo** | **10.095 €** | **10.095 €** |
+> **Il comma 5 è il paracadute.** Se a giugno 2027 il Comando non ha ancora risposto, o ha detto no, si va sulla strada della SRL con Luigi socio di solo capitale: per un dipendente pubblico detenere quote senza cariche né operatività è investimento, non esercizio di attività commerciale. Va confermato dal commercialista per la specificità militare, ma è la via ordinaria.
 >
-> Il correttivo compensa **solo** gli oneri causati dalla modalità (i 1.800 €), non le tasse personali di ciascuno, che restano affare di ciascuno. Il calcolo è nel foglio Google "GEM — Esempio art. 7<!--quota-operativo-->": cambiando i numeri in blu si vede l'effetto. Il comma 4 blocca i prelievi finché la strada non è scelta: sistemare *dopo* un bonifico già fatto è il modo classico per creare il problema.
+> **Il comma 7 protegge entrambi.** L'istanza all'Amministrazione descrive un ruolo limitato: se poi all'esterno Luigi viene presentato come socio operativo, quella descrizione diventa falsa e il danno ricade su di lui.
+>
+> ⚠️ **Da far leggere al commercialista, e per la parte militare a un legale.** Una scrittura che registra un 50/50 può essere letta come prova di società di fatto, che è esattamente la cosa che a un militare in servizio è preclusa. La formulazione qui scelta lega la quota al **risultato** e non alla partecipazione al rischio d'impresa, ma è un equilibrio che va validato, non dato per acquisito.
 
 
 ## Art. 8 — Decisioni <!--#decisioni-->
